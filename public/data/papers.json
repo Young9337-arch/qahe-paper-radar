@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:07:47.037296+00:00",
+  "updated_at": "2026-07-21T11:54:26.939088+00:00",
   "papers": [
     {
       "id": "arxiv:2607.18238",
@@ -14,7 +14,25 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": null
+      "image_url": "https://arxiv.org/icons/licenses/zero-1.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/zero-1.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. The singlet ψ0 lies at Γ, while ψ1 and ψ2 lie at K and K′. The remain- ψ0 ψ1 ψ2 ψ3 ψ4 ψ5 ψ6 ψ7 ψ8",
+        "FIG. 1. Momentum assignment of the nine fields in Eq. (6). The black center is the singlet under the SU(3)v symmetry after the locking U = V , the blue pair is the C6 orbit (ψ1, ψ2), and the orange inner hexagon is the six-field orbit (ψ3, . . . , ψ8). ing six fermions lie at the six momenta G/3. Space-group operations therefore act in the usual way in this basis. The color-antisymmetric interaction gaps all nine pock- ets, with ∆0 = 2∆, ∆12 = ∆36 = ∆47 = ∆58 = −∆. (7) Here ∆0 is the intrapocket pairing of ψ0, and ∆ij is the pairing between the ψi and ψj pockets. The SU(3)v symmetry also permits the singlet to be lowered relative to the octet through, for example, δH = −δψ† 0ψ0 + δ P8 i=1 ψ† i ψi, yielding Nψ = 1. If SU(3)v is reduced to the space group, p + ip pairing within ψ0 and between ψ1, ψ2 gives Nψ = 3 and c−= 3/2, matching the BCS value for an f −if superconductor. Holon..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we develop a unified framework for metallic and superconducting phases obtained by doping a fractional Chern insulator (FCI) with $C=1/3$."
     },
     {
       "id": "doi:10.1103/d766-sns5",
@@ -30,7 +48,10 @@
       "doi": "10.1103/d766-sns5",
       "source": "Crossref",
       "material_system": "Other_New_Materials",
-      "image_url": null
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that we propose a microscopic, weak-coupling mechanism by which generic Chern bands asymptotically relax toward ideal bands. Our proposal provides a concrete dissipative mechanism for driving Chern bands toward ideal quantum geometry, a fundamental building block for the stabilization of fractional Chern insulators."
     },
     {
       "id": "doi:10.1103/c9dr-bpn4",
@@ -47,7 +68,10 @@
       "doi": "10.1103/c9dr-bpn4",
       "source": "Crossref",
       "material_system": "Other_New_Materials",
-      "image_url": null
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata."
     },
     {
       "id": "doi:10.1021/acsanm.6c02324",
@@ -68,7 +92,10 @@
       "doi": "10.1021/acsanm.6c02324",
       "source": "Crossref",
       "material_system": "Other_New_Materials",
-      "image_url": null
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata."
     },
     {
       "id": "arxiv:2607.15274",
@@ -85,7 +112,14 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.15274.png"
+      "image_url": "/data/figures/arxiv-2607.15274-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.15274-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. A possible phase diagram as a function of doping charge density δ and temperature T. Td and Tloc are, respec- tively, the quantum degeneracy and localization scales of the anyons. An alternative possibility, not shown, is that the Z3 orthogonal metal and the Fermi liquid (and correspondingly their zero temperature insulating phases) are separated by a first order transition. Thus, for the same effective mass and scattering time, the longitudinal Drude conductivity is one third of that of a conventional spinless charge-e Fermi liquid at density |δ|. The effects of disorder. Since the low-energy charge dynamics are governed by a Fermi gas of f fermions, arbitrarily weak disorder ultimately localizes the f sector at sufficiently low temperature. Below a characteristic scale Tloc, the f fermions are effectively localized, and the zero-temperature phase is a fraction- alized Anderson..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we propose an unconventional metallic phase emerging on doping the $1/3$ Fractional Chern insulator, which can serve as a parent state to anyon superconductivity with arbitrary chiral central charge. This scenario provides a route to superconducting states beyond anyon-superconductivity constructions based on $2e/3$ anyons."
     },
     {
       "id": "doi:10.1103/bvrb-z4hj",
@@ -117,7 +151,10 @@
       "doi": "10.1103/bvrb-z4hj",
       "source": "Crossref",
       "material_system": "Moire_Superlattice",
-      "image_url": null
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Moire Superlattice, this paper argues that the interplay among electronic correlation, topology, and time-reversal symmetry often leads to exotic quantum states of matter, as highlighted by the discoveries of fractional Chern insulators in twisted bilayer MoTe 2 ( tMoTe 2 ) . Here, employing pump-probe circular dichroism measurement on tMoTe 2 at twist angles θ = 3.9 ° and 3.7°, we show that a correlated state at ν = − 4 3 exhibits an unusual Ising antiferromagnet behavior. The observed magnetic signature is consistent with a theoretically proposed fractional topological insulator (FTI), consisting of two copies of ν ± = − 2 3 FCIs with opposite..."
     },
     {
       "id": "arxiv:2607.13807",
@@ -136,7 +173,32 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "/data/figures/arxiv-2607.13807.png"
+      "image_url": "/data/figures/arxiv-2607.13807-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.13807-fig01.png",
+        "/data/figures/arxiv-2607.13807-fig02.png",
+        "/data/figures/arxiv-2607.13807-fig03.png",
+        "/data/figures/arxiv-2607.13807-fig04.png",
+        "/data/figures/arxiv-2607.13807-fig05.png",
+        "/data/figures/arxiv-2607.13807-fig06.png",
+        "/data/figures/arxiv-2607.13807-fig07.png",
+        "/data/figures/arxiv-2607.13807-fig08.png",
+        "/data/figures/arxiv-2607.13807-fig09.png",
+        "/data/figures/arxiv-2607.13807-fig10.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a,b) Schematics of alternating twisted trilayer and tetrlayer MoTe2 in which the first layers are slid by δ. (c,d) Atomic side views of untwisted trilayer and tetralayer MoTe2 with first layers slid. (e) Schematics of the Brillouin zones of individual layers and the moir´ e Brillouin zone. metric tensor of energy bands can serve as good indica- tors for the appearance of FCIs [22–28]. In more general contexts, quantum geometry has also been investigated extensively [29–31]. In this work, we study alternating twisted multilayer moir´ e systems in which neighboring layers are rotated to opposite directions [32–36]. The physics of twisted bi- layer MoTe2 has been discussed in great details [37–62]. It is natural to ask if more layers can lead to interesting new results. One additional knob in such cases is that the layers can be slide relative to each other. This has no effect in...",
+        "FIG. 2. Typical band structures of alternating twisted mul- tilayer MoTe2. (a) AT3L system with twist angle 2.15◦; (b) AT4L system with twist angle 2.0◦. In single layer transition metal dichalcogenides, spin and valley degrees of freedom are locked together, and each valley is described by a massive Dirac fermion [63]. When multiple layers are stacked to generate moir´ e pat- terns, we follow the standard method to construct a low- energy continuum model [64, 65]. The lattice constant of MoTe2 is a0 = 3.472 ˚ A and the moir´ e lattice constant is aM ≈a0/θ. The layers are labeled as 1, · · · , L. As shown in Fig. 1 (e), the center of the moir´ e Brillouin zone is denoted as γ, the momentum offset for the odd layers is κ+ = 4π 3aM − √ 3 2 , −1 2 ! , (1) and that for the even layers is κ−= 4π 3aM − √ 3 2 , 1 2 ! . (2) The sliding vector of the i-th layer is denoted as δi, and the relative...",
+        "Fig. 2. Next we turn to the many-body problem. For our present study, it is assumed that the electrons are spin- valley polarized so these indices shall be suppressed. The many-body Hamiltonian has two parts: the first one is a many-body kinetic energy term H0 derived from the single-particle Hamiltonian Eq. (3) and the second one is an interaction term Hint = 1 2 Z dr1dr2 : ρ(r1)V (r1 −r2)ρ(r2) : . (13) Here V (r1 −r2) is the interaction potential, ψ†(r) is the creation operator at coordinate r, ρ(r) = ψ†(r)ψ(r) is the density operator, and : : implements normal order- ing. Numerical calculations are performed in finite size systems. The numbers of cells along the two primitive lattice directions are N1 and N2, respectively. The moir´ e unit cell has area AM. The convention of Fourier trans- form is V (r) = 1 A X q V (q) exp (−iq · r) (14) with A = N1N2AM being the total area. As...",
+        "FIG. 3. (a,b) Band structures of AT3L MoTe2 with θ = 3.0◦, D = 10 meV, and (a) δ = 0 (b) δ = 0.5a1. (c) Many-body energy spectra at 1/3 filling of the topmost band in (a). (d) The same plot as in (c) but for the topmost band in (b). The number of electrons is 10 and the numbers of moi´ e cells are 5 and 6. (e) Spectral flow of the three quasi-degenerate ground states in (c) versus the boundary twist angle along the y direction. (f) Static structure factor corresponding to (d). 4",
+        "FIG. 4. (a) Evolution of the trace condition T, band width W, indirect band gap G1, and direct band gap G2 with the sliding distance δ when the electric potential is fixed at D = 10 meV. (b,c) Fubini-Study metric of AT3L MoTe2 with θ = 3.0◦, D = 10 meV, and (b) δ = 0 (c) δ = 0.5a1. III. NUMERICAL RESULTS AND DISCUSSIONS We have studied AT3L and AT4L systems with var- ious sliding distance δ and electric potential energy D. The Chern number of an energy band is denoted as C. In the trilayer system without sliding and electric field, the first hole band has C = 0 and no FCI is found. As the electric field gradually increases, the energy gap below the first hole band closes and reopens. For zero sild- ing and D = 10 meV, the first hole band has C = 1 as shown in Fig. 3 (a). Exact diagonalization in this band unveiled good evidence of FCI. We denote the num- ber of electrons as Ne. The...",
+        "Fig. 5. While the lower left corner hosts a FCI, it is destroyed by an intermediate δ or a sufficiently large D. In some cases, the topmost hole band has C = 0 so the absence of FCI is natural. The fact that a topological band may not support a FCI is more interesting. An inspection of line cuts in the phase diagram unveils quantum geometric effects. Specifically, we focus on the 5",
+        "FIG. 5. Phase diagram of AT4L MoTe2 with θ = 2.5◦at filling factor 1/3. Numerical calculations were performed at many different combinations of electric potential D and slid- ing distance δ. The number of electrons is 8 and the numbers of moir´ e cells are 4 and 6. FCIs are identified based on ground state degeneracy and spectral flow under flux insertion. cases with δ = 0.3a1 and varying D. The single-particle band structures at D = 2 meV and 7 meV are displayed in Fig. 6 (a,b). We project the many-body Hamiltonian to the topmost band and obtain the energy spectra at 1/3 filling in Fig. 6 (c,d). The case with D = 7 meV realizes a FCI whereas the case with D = 2 meV does not, as manifested by the ground state quasi-degeneracies. As shown in Fig. 6 (e), when twist boundary condition is applied along one direction, the three quasi-degenerate ground states flow to each other and return to...",
+        "FIG. 6. (a,b) Band structures of AT4L MoTe2 at θ = 2.5◦, δ = 0.3a1, and (a) D = 2 meV (b) D = 7 meV. (c,d) Many- body energy spectra at 1/3 filling of the topmost band in (a,b). The number of electrons is 10 and the numbers of moir´ e cells are 5 and 6. (e) Spectral flow of the three quasi- degenerate ground states in (d) versus the boundary twist angle along the y direction. (f) Particle entanglement spec- trum of the three quasi-degenerate ground states in (d). its fundamental role in many-body physics. There are plenty other questions that could be inves- tigated. Besides the 1/3 state that we focused on, Jain FCI states and gapless CFL states may also emerge un- der suitable conditions [73, 74]. On top of the ground states, elementary excitations such as anyons, rotons, and fractional excitons can be created [75–77]. In higher hole bands, special combinations of form fac- tor and...",
+        "FIG. 7. (a) Evolution of the trace condition T, band width W, indirect band gap G1, and direct band gap G2 with the electric potential D when the sliding distance is fixed at δ = 0.3a1. (b,c) Fubini-Study metric of AT4L MoTe2 with θ = 2.5◦, δ = 0.3a1, and (b) D = 2 meV (c) D = 7 meV. Note added — During the preparation of this manuscript, we became aware of two preprints about al- ternating twisted moir´ e systems [78, 79].",
+        "FIG. 8. The first row is band structures for AT4L MoTe2 and the second row is the many-body energy spectra at 1/3 filling of the topmost band. (a,f) θ = 2.5◦, δ = 0, and D = 0 meV. (b,g) θ = 3.0◦, δ = 0, and D = 0 meV. (c,h) θ = 2.5◦, δ = 0, and D = 7 meV. (d,i) θ = 2.5◦, δ = 0.5a1, and D = 0 meV. (e,j) θ = 2.5◦, δ = 0.3a1, and D = 7 meV. The number of electrons is 10 and the numbers of moi´ e cells are 5 and 6. 7"
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that we study strongly correlated many-body states in alternating twisted trilayer and tetralayer MoTe$_{2}$. Our results demonstrate that sliding can serve as a useful knob for probing many-body states in moiré systems. Exact diagonalizations suggest that fractional Chern insulators are stabilized in certain parameter regimes but not in some regimes even when the band is topological."
     },
     {
       "id": "doi:10.1038/s41586-026-10762-7",
@@ -162,7 +224,23 @@
       "doi": "10.1038/s41586-026-10762-7",
       "source": "Crossref",
       "material_system": "Other_New_Materials",
-      "image_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10762-7/MediaObjects/41586_2026_10762_Fig1_HTML.png"
+      "image_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10762-7/MediaObjects/41586_2026_10762_Fig1_HTML.png",
+      "figure_urls": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10762-7/MediaObjects/41586_2026_10762_Fig1_HTML.png",
+        "https://pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=728x90&c=-688465532&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41586-026-10762-7%26doi%3D10.1038/s41586-026-10762-7%26techmeta%3D120%26subjmeta%3D119,2792,301,357,639,766,918%26kwrd%3DGraphene,Topological+matter",
+        "https://media.springernature.com/full/nature-cms/uploads/product/nature/header-86f1267ea01eccd46b530284be10585e.svg",
+        "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-026-10762-7/MediaObjects/41586_2026_10762_Fig1_HTML.png",
+        "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-026-10762-7/MediaObjects/41586_2026_10762_Fig2_HTML.png",
+        "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-026-10762-7/MediaObjects/41586_2026_10762_Fig3_HTML.png",
+        "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-026-10762-7/MediaObjects/41586_2026_10762_Fig4_HTML.png",
+        "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41563-025-02225-7/MediaObjects/41563_2025_2225_Fig1_HTML.png",
+        "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41567-025-03072-8/MediaObjects/41567_2025_3072_Fig1_HTML.png",
+        "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41563-026-02649-9/MediaObjects/41563_2026_2649_Fig1_HTML.png",
+        "data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjgxIiB3aWR0aD0iNTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJtMTcuMzUgMzUuNDUgMjEuMy0xNC4ydi0xNy4wM2gtMjEuMyIgZmlsbD0iIzk4OTg5OCIvPjxwYXRoIGQ9Im0zOC42NSAzNS40NS0yMS4zLTE0LjJ2LTE3LjAzaDIxLjMiIGZpbGw9IiM3NDc0NzQiLz48cGF0aCBkPSJtMjggLjVjLTEyLjk4IDAtMjMuNSAxMC41Mi0yMy41IDIzLjVzMTAuNTIgMjMuNSAyMy41IDIzLjUgMjMuNS0xMC41MiAyMy41LTIzLjVjMC02LjIzLTIuNDgtMTIuMjEtNi44OC0xNi42Mi00LjQxLTQuNC0xMC4zOS02Ljg4LTE2LjYyLTYuODh6bTAgNDEuMjVjLTkuOCAwLTE3Ljc1LTcuOTUtMTcuNzUtMTcuNzVzNy45NS0xNy43NSAxNy43NS0xNy43NSAxNy43NSA3Ljk1IDE3Ljc1IDE3Ljc1YzAgNC43MS0xLjg3IDkuMjItNS4yIDEyLjU1cy03Ljg0IDUuMi0xMi41NSA1LjJ6IiBmaWxsPSIjNTM1MzUzIi8+PHBhdGggZD0ibTQxIDM2Yy01LjgxIDYuMjMtMTUuMjMgNy40NS0yMi40MyAyLjktNy4yMS00LjU1LTEwLjE2LTEzLjU3LTcuMDMtMjEuNWwtNC45Mi0zLjExYy00Ljk1IDEwLjctMS4xOSAyMy40MiA4Ljc4IDI5LjcxIDkuOTcgNi4zIDIzLjA3IDQuMjIgMzAuNi00Ljg2eiIgZmlsbD0iIzljOWM5YyIvPjxwYXRoIGQ9Im0uMiA1OC40NWMwLS43NS4xMS0xLjQyLjMzLTIuMDFzLjUyLTEuMDkuOTEtMS41Yy4zOC0uNDEuODMtLjczIDEuMzQtLjk0LjUxLS4yMiAxLjA2LS4zMiAxLjY1LS4zMi41NiAwIDEuMDYuMTEgMS41MS4zNS40NC4yMy44MS41IDEuMS44MWwtLjkxIDEuMDFjLS4yNC0uMjQtLjQ5LS40Mi0uNzUtLjU2LS4yNy0uMTMtLjU4LS4yLS45My0uMi0uMzkgMC0uNzMuMDgtMS4wNS4yMy0uMzEuMTYtLjU4LjM3LS44MS42Ni0uMjMuMjgtLjQxLjYzLS41MyAxLjA0LS4xMy40MS0uMTkuODgtLjE5IDEuMzkgMCAxLjA0LjIzIDEuODYuNjggMi40Ni40NS41OSAxLjA2Ljg4IDEuODQuODguNDEgMCAuNzctLjA3IDEuMDctLjIzcy41OS0uMzkuODUtLjY4bC45MSAxYy0uMzguNDMtLjguNzYtMS4yOC45OS0uNDcuMjItMSAuMzQtMS41OC4zNC0uNTkgMC0xLjEzLS4xLTEuNjQtLjMxLS41LS4yLS45NC0uNTEtMS4zMS0uOTEtLjM4LS40LS42Ny0uOS0uODgtMS40OC0uMjItLjU5LS4zMy0xLjI2LS4zMy0yLjAyem04LjQtNS4zM2gxLjYxdjIuNTRsLS4wNSAxLjMzYy4yOS0uMjcuNjEtLjUxLjk2LS43MnMuNzYtLjMxIDEuMjQtLjMxYy43MyAwIDEuMjcuMjMgMS42MS43MS4zMy40Ny41IDEuMTQuNSAyLjAydjQuMzFoLTEuNjF2LTQuMWMwLS41Ny0uMDgtLjk3LS4yNS0xLjIxLS4xNy0uMjMtLjQ1LS4zNS0uODMtLjM1LS4zIDAtLjU2LjA4LS43OS4yMi0uMjMuMTUtLjQ5LjM2LS43OC42NHY0LjhoLTEuNjF6bTcuMzcgNi40NWMwLS41Ni4wOS0xLjA2LjI2LTEuNTEuMTgtLjQ1LjQyLS44My43MS0xLjE0LjI5LS4zLjYzLS41NCAxLjAxLS43MS4zOS0uMTcuNzgtLjI1IDEuMTgtLjI1LjQ3IDAgLjg4LjA4IDEuMjMuMjQuMzYuMTYuNjUuMzguODkuNjdzLjQyLjYzLjU0IDEuMDNjLjEyLjQxLjE4Ljg0LjE4IDEuMzIgMCAuMzItLjAyLjU3LS4wNy43NmgtNC4zNmMuMDcuNjIuMjkgMS4xLjY1IDEuNDQuMzYuMzMuODIuNSAxLjM4LjUuMjkgMCAuNTctLjA0LjgzLS4xM3MuNTEtLjIxLjc2LS4zN2wuNTUgMS4wMWMtLjMzLjIxLS42OS4zOS0xLjA5LjUzLS40MS4xNC0uODMuMjEtMS4yNi4yMS0uNDggMC0uOTItLjA4LTEuMzQtLjI1LS40MS0uMTYtLjc2LS40LTEuMDctLjctLjMxLS4zMS0uNTUtLjY5LS43Mi0xLjEzLS4xOC0uNDQtLjI2LS45NS0uMjYtMS41MnptNC42LS42MmMwLS41NS0uMTEtLjk4LS4zNC0xLjI4LS4yMy0uMzEtLjU4LS40Ny0xLjA2LS40Ny0uNDEgMC0uNzcuMTUtMS4wNy40NS0uMzEuMjktLjUuNzMtLjU4IDEuM3ptMi41LjYyYzAtLjU3LjA5LTEuMDguMjgtMS41My4xOC0uNDQuNDMtLjgyLjc1LTEuMTNzLjY5LS41NCAxLjEtLjcxYy40Mi0uMTYuODUtLjI0IDEuMzEtLjI0LjQ1IDAgLjg0LjA4IDEuMTcuMjNzLjYxLjM0Ljg1LjU3bC0uNzcgMS4wMmMtLjE5LS4xNi0uMzgtLjI4LS41Ni0uMzctLjE5LS4wOS0uMzktLjE0LS42MS0uMTQtLjU2IDAtMS4wMS4yMS0xLjM1LjYzLS4zNS40MS0uNTIuOTctLjUyIDEuNjcgMCAuNjkuMTcgMS4yNC41MSAxLjY2LjM0LjQxLjc4LjYyIDEuMzIuNjIuMjggMCAuNTQtLjA2Ljc4LS4xNy4yNC0uMTIuNDUtLjI2LjY0LS40MmwuNjcgMS4wM2MtLjMzLjI5LS42OS41MS0xLjA4LjY1LS4zOS4xNS0uNzguMjMtMS4xOC4yMy0uNDYgMC0uOS0uMDgtMS4zMS0uMjQtLjQtLjE2LS43NS0uMzktMS4wNS0uN3MtLjUzLS42OS0uNy0xLjEzYy0uMTctLjQ1LS4yNS0uOTYtLjI1LTEuNTN6bTYuOTEtNi40NWgxLjU4djYuMTdoLjA1bDIuNTQtMy4xNmgxLjc3bC0yLjM1IDIuOCAyLjU5IDQuMDdoLTEuNzVsLTEuNzctMi45OC0xLjA4IDEuMjN2MS43NWgtMS41OHptMTMuNjkgMS4yN2MtLjI1LS4xMS0uNS0uMTctLjc1LS4xNy0uNTggMC0uODcuMzktLjg3IDEuMTZ2Ljc1aDEuMzR2MS4yN2gtMS4zNHY1LjZoLTEuNjF2LTUuNmgtLjkydi0xLjJsLjkyLS4wN3YtLjcyYzAtLjM1LjA0LS42OC4xMy0uOTguMDgtLjMxLjIxLS41Ny40LS43OXMuNDItLjM5LjcxLS41MWMuMjgtLjEyLjYzLS4xOCAxLjA0LS4xOC4yNCAwIC40OC4wMi42OS4wNy4yMi4wNS40MS4xLjU3LjE3em0uNDggNS4xOGMwLS41Ny4wOS0xLjA4LjI3LTEuNTMuMTctLjQ0LjQxLS44Mi43Mi0xLjEzLjMtLjMxLjY1LS41NCAxLjA0LS43MS4zOS0uMTYuOC0uMjQgMS4yMy0uMjRzLjg0LjA4IDEuMjQuMjRjLjQuMTcuNzQuNCAxLjA0Ljcxcy41NC42OS43MiAxLjEzYy4xOS40NS4yOC45Ni4yOCAxLjUzcy0uMDkgMS4wOC0uMjggMS41M2MtLjE4LjQ0LS40Mi44Mi0uNzIgMS4xM3MtLjY0LjU0LTEuMDQuNy0uODEuMjQtMS4yNC4yNC0uODQtLjA4LTEuMjMtLjI0LS43NC0uMzktMS4wNC0uN2MtLjMxLS4zMS0uNTUtLjY5LS43Mi0xLjEzLS4xOC0uNDUtLjI3LS45Ni0uMjctMS41M3ptMS42NSAwYzAgLjY5LjE0IDEuMjQuNDMgMS42Ni4yOC40MS42OC42MiAxLjE4LjYyLjUxIDAgLjktLjIxIDEuMTktLjYyLjI5LS40Mi40NC0uOTcuNDQtMS42NiAwLS43LS4xNS0xLjI2LS40NC0xLjY3LS4yOS0uNDItLjY4LS42My0xLjE5LS42My0uNSAwLS45LjIxLTEuMTguNjMtLjI5LjQxLS40My45Ny0uNDMgMS42N3ptNi40OC0zLjQ0aDEuMzNsLjEyIDEuMjFoLjA1Yy4yNC0uNDQuNTQtLjc5Ljg4LTEuMDIuMzUtLjI0LjctLjM2IDEuMDctLjM2LjMyIDAgLjU5LjA1Ljc4LjE0bC0uMjggMS40LS4zMy0uMDljLS4xMS0uMDEtLjIzLS4wMi0uMzgtLjAyLS4yNyAwLS41Ni4xLS44Ni4zMXMtLjU1LjU4LS43NyAxLjF2NC4yaC0xLjYxem0tNDcuODcgMTVoMS42MXY0LjFjMCAuNTcuMDguOTcuMjUgMS4yLjE3LjI0LjQ0LjM1LjgxLjM1LjMgMCAuNTctLjA3LjgtLjIyLjIyLS4xNS40Ny0uMzkuNzMtLjczdi00LjdoMS42MXY2Ljg3aC0xLjMybC0uMTItMS4wMWgtLjA0Yy0uMy4zNi0uNjMuNjQtLjk4Ljg2LS4zNS4yMS0uNzYuMzItMS4yNC4zMi0uNzMgMC0xLjI3LS4yNC0xLjYxLS43MS0uMzMtLjQ3LS41LTEuMTQtLjUtMi4wMnptOS40NiA3LjQzdjIuMTZoLTEuNjF2LTkuNTloMS4zM2wuMTIuNzJoLjA1Yy4yOS0uMjQuNjEtLjQ1Ljk3LS42My4zNS0uMTcuNzItLjI2IDEuMS0uMjYuNDMgMCAuODEuMDggMS4xNS4yNC4zMy4xNy42MS40Ljg0LjcxLjI0LjMxLjQxLjY4LjUzIDEuMTEuMTMuNDIuMTkuOTEuMTkgMS40NCAwIC41OS0uMDkgMS4xMS0uMjUgMS41Ny0uMTYuNDctLjM4Ljg1LS42NSAxLjE2LS4yNy4zMi0uNTguNTYtLjk0LjczLS4zNS4xNi0uNzIuMjUtMS4xLjI1LS4zIDAtLjYtLjA3LS45LS4ycy0uNTktLjMxLS44Ny0uNTZ6bTAtMi4zYy4yNi4yMi41LjM3LjczLjQ1LjI0LjA5LjQ2LjEzLjY2LjEzLjQ2IDAgLjg0LS4yIDEuMTUtLjYuMzEtLjM5LjQ2LS45OC40Ni0xLjc3IDAtLjY5LS4xMi0xLjIyLS4zNS0xLjYxLS4yMy0uMzgtLjYxLS41Ny0xLjEzLS41Ny0uNDkgMC0uOTkuMjYtMS41Mi43N3ptNS44Ny0xLjY5YzAtLjU2LjA4LTEuMDYuMjUtMS41MS4xNi0uNDUuMzctLjgzLjY1LTEuMTQuMjctLjMuNTgtLjU0LjkzLS43MXMuNzEtLjI1IDEuMDgtLjI1Yy4zOSAwIC43My4wNyAxIC4yLjI3LjE0LjU0LjMyLjgxLjU1bC0uMDYtMS4xdi0yLjQ5aDEuNjF2OS44OGgtMS4zM2wtLjExLS43NGgtLjA2Yy0uMjUuMjUtLjU0LjQ2LS44OC42NC0uMzMuMTgtLjY5LjI3LTEuMDYuMjctLjg3IDAtMS41Ni0uMzItMi4wNy0uOTVzLS43Ni0xLjUxLS43Ni0yLjY1em0xLjY3LS4wMWMwIC43NC4xMyAxLjMxLjQgMS43LjI2LjM4LjY1LjU4IDEuMTUuNTguNTEgMCAuOTktLjI2IDEuNDQtLjc3di0zLjIxYy0uMjQtLjIxLS40OC0uMzYtLjctLjQ1LS4yMy0uMDgtLjQ2LS4xMi0uNy0uMTItLjQ1IDAtLjgyLjE5LTEuMTMuNTktLjMxLjM5LS40Ni45NS0uNDYgMS42OHptNi4zNSAxLjU5YzAtLjczLjMyLTEuMy45Ny0xLjcxLjY0LS40IDEuNjctLjY4IDMuMDgtLjg0IDAtLjE3LS4wMi0uMzQtLjA3LS41MS0uMDUtLjE2LS4xMi0uMy0uMjItLjQzcy0uMjItLjIyLS4zOC0uM2MtLjE1LS4wNi0uMzQtLjEtLjU4LS4xLS4zNCAwLS42OC4wNy0xIC4ycy0uNjMuMjktLjkzLjQ3bC0uNTktMS4wOGMuMzktLjI0LjgxLS40NSAxLjI4LS42My40Ny0uMTcuOTktLjI2IDEuNTQtLjI2Ljg2IDAgMS41MS4yNSAxLjkzLjc2cy42MyAxLjI1LjYzIDIuMjF2NC4wN2gtMS4zMmwtLjEyLS43NmgtLjA1Yy0uMy4yNy0uNjMuNDgtLjk4LjY2cy0uNzMuMjctMS4xNC4yN2MtLjYxIDAtMS4xLS4xOS0xLjQ4LS41Ni0uMzgtLjM2LS41Ny0uODUtLjU3LTEuNDZ6bTEuNTctLjEyYzAgLjMuMDkuNTMuMjcuNjcuMTkuMTQuNDIuMjEuNzEuMjEuMjggMCAuNTQtLjA3Ljc3LS4ycy40OC0uMzEuNzMtLjU2di0xLjU0Yy0uNDcuMDYtLjg2LjEzLTEuMTguMjMtLjMxLjA5LS41Ny4xOS0uNzYuMzFzLS4zMy4yNS0uNDEuNGMtLjA5LjE1LS4xMy4zMS0uMTMuNDh6bTYuMjktMy42M2gtLjk4di0xLjJsMS4wNi0uMDcuMi0xLjg4aDEuMzR2MS44OGgxLjc1djEuMjdoLTEuNzV2My4yOGMwIC44LjMyIDEuMi45NyAxLjIuMTIgMCAuMjQtLjAxLjM3LS4wNC4xMi0uMDMuMjQtLjA3LjM0LS4xMWwuMjggMS4xOWMtLjE5LjA2LS40LjEyLS42NC4xNy0uMjMuMDUtLjQ5LjA4LS43Ni4wOC0uNCAwLS43NC0uMDYtMS4wMi0uMTgtLjI3LS4xMy0uNDktLjMtLjY3LS41Mi0uMTctLjIxLS4zLS40OC0uMzctLjc4LS4wOC0uMy0uMTItLjY0LS4xMi0xLjAxem00LjM2IDIuMTdjMC0uNTYuMDktMS4wNi4yNy0xLjUxcy40MS0uODMuNzEtMS4xNGMuMjktLjMuNjMtLjU0IDEuMDEtLjcxLjM5LS4xNy43OC0uMjUgMS4xOC0uMjUuNDcgMCAuODguMDggMS4yMy4yNC4zNi4xNi42NS4zOC44OS42N3MuNDIuNjMuNTQgMS4wM2MuMTIuNDEuMTguODQuMTggMS4zMiAwIC4zMi0uMDIuNTctLjA3Ljc2aC00LjM3Yy4wOC42Mi4yOSAxLjEuNjUgMS40NC4zNi4zMy44Mi41IDEuMzguNS4zIDAgLjU4LS4wNC44NC0uMTMuMjUtLjA5LjUxLS4yMS43Ni0uMzdsLjU0IDEuMDFjLS4zMi4yMS0uNjkuMzktMS4wOS41M3MtLjgyLjIxLTEuMjYuMjFjLS40NyAwLS45Mi0uMDgtMS4zMy0uMjUtLjQxLS4xNi0uNzctLjQtMS4wOC0uNy0uMy0uMzEtLjU0LS42OS0uNzItMS4xMy0uMTctLjQ0LS4yNi0uOTUtLjI2LTEuNTJ6bTQuNjEtLjYyYzAtLjU1LS4xMS0uOTgtLjM0LTEuMjgtLjIzLS4zMS0uNTgtLjQ3LTEuMDYtLjQ3LS40MSAwLS43Ny4xNS0xLjA4LjQ1LS4zMS4yOS0uNS43My0uNTcgMS4zem0zLjAxIDIuMjNjLjMxLjI0LjYxLjQzLjkyLjU3LjMuMTMuNjMuMi45OC4yLjM4IDAgLjY1LS4wOC44My0uMjNzLjI3LS4zNS4yNy0uNmMwLS4xNC0uMDUtLjI2LS4xMy0uMzctLjA4LS4xLS4yLS4yLS4zNC0uMjgtLjE0LS4wOS0uMjktLjE2LS40Ny0uMjNsLS41My0uMjJjLS4yMy0uMDktLjQ2LS4xOC0uNjktLjMtLjIzLS4xMS0uNDQtLjI0LS42Mi0uNHMtLjMzLS4zNS0uNDUtLjU1Yy0uMTItLjIxLS4xOC0uNDYtLjE4LS43NSAwLS42MS4yMy0xLjEuNjgtMS40OS40NC0uMzggMS4wNi0uNTcgMS44My0uNTcuNDggMCAuOTEuMDggMS4yOS4yNXMuNzEuMzYuOTkuNTdsLS43NC45OGMtLjI0LS4xNy0uNDktLjMyLS43My0uNDItLjI1LS4xMS0uNTEtLjE2LS43OC0uMTYtLjM1IDAtLjYuMDctLjc2LjIxLS4xNy4xNS0uMjUuMzMtLjI1LjU0IDAgLjE0LjA0LjI2LjEyLjM2cy4xOC4xOC4zMS4yNmMuMTQuMDcuMjkuMTQuNDYuMjFsLjU0LjE5Yy4yMy4wOS40Ny4xOC43LjI5cy40NC4yNC42NC40Yy4xOS4xNi4zNC4zNS40Ni41OC4xMS4yMy4xNy41LjE3LjgyIDAgLjMtLjA2LjU4LS4xNy44My0uMTIuMjYtLjI5LjQ4LS41MS42OC0uMjMuMTktLjUxLjM0LS44NC40NS0uMzQuMTEtLjcyLjE3LTEuMTUuMTctLjQ4IDAtLjk1LS4wOS0xLjQxLS4yNy0uNDYtLjE5LS44Ni0uNDEtMS4yLS42OHoiIGZpbGw9IiM1MzUzNTMiLz48L2c+PC9zdmc+",
+        "https://pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=300x250&c=240938047&t=pos%3Dright%26type%3Darticle%26artid%3Ds41586-026-10762-7%26doi%3D10.1038/s41586-026-10762-7%26techmeta%3D120%26subjmeta%3D119,2792,301,357,639,766,918%26kwrd%3DGraphene,Topological+matter"
+      ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata."
     },
     {
       "id": "arxiv:2607.12320",
@@ -178,7 +256,14 @@
       "doi": "10.1088/1674-1056/ae42bb",
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.12320.png"
+      "image_url": "/data/figures/arxiv-2607.12320-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.12320-fig01.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. Schematic diagram of the square lattice model consisting of two sublattices, A (red) and B (blue). The green arrows indicate the diagonal hopping paths that include both nearest-neighbor hopping and spin-orbit coupling contributions. The d-wave staggered altermagnetism adds +J(cos kx −cos ky)sx on sublattice A and −J(cos kx −cos ky)sx on sublattice B. 2. Model and Hamiltonian We start from a spinful two-sublattice model defined on a square lattice. In momentum space, the Bloch Hamiltonian can be written as [32] H(k) =   ΓA k ΓAB k ( ΓAB k )† ΓB k  , (1) where the intra sublattice contributions are given by ΓA k = −2(tx cos kx + ty cos ky) s0 + µ s0, ΓB k = 2(tx cos kx + ty cos ky) s0 −µ s0. (2) The hoppings (tx, ty) enter with opposite signs on sublattices A and B, which favors an insulating spectrum once the inter-sublattice coupling is included. The parameter µ is a..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we construct a minimal spinful tight-binding model on a square lattice, where a $d$-wave sublattice-staggered altermagnetism drives the quantum anomalous Hall effect. Our work provides a simple route to realizing the quantum anomalous Hall effect in compensated magnets via a $d$-wave sublattice-staggered altermagnetism."
     },
     {
       "id": "arxiv:2607.12314",
@@ -195,7 +280,18 @@
       "doi": "10.1103/ggh1-tpdk",
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.12314.png"
+      "image_url": "/data/figures/arxiv-2607.12314-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.12314-fig01.png",
+        "/data/figures/arxiv-2607.12314-fig02.png",
+        "/data/figures/arxiv-2607.12314-fig03.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic illustration of the interlayer-coupling mechanism. Left: three stacked Qi-Wu-Zhang layers with Chern numbers C1 = +1, C2 = −1, and C3 = +1. Right: interlayer coupling hybridizes and gaps out two chiral edge channels, leaving a single blue chiral edge mode, red dots in- dicate the corner states. and universal signature of localized corner physics. This motivates seeking a strict 2D hybrid-order phase, where an extended edge channel and corner states reside in the same bulk gap and can more directly intertwine. In this Letter, we realize such a strict 2D hybrid-order topological insulator in a coupled trilayer Chern system and uncover its defining boundary phenomenology. We start from three quantum anomalous Hall layers labeled by Chern numbers C1/2/3 = +1/−1/+1 in the decoupled limit, for which each boundary hosts three chiral chan- nels, two co-propagating and one...",
+        "Fig. 1. The interlayer tunneling hybridizes the boundary channels and gaps out two edge states, while a single chiral edge mode mandated by the total Chern number remains protected. The resulting gapped boundary sector carries a nonzero mirror-graded winding number and binds corner states within the same energy window. We map out the topological phase diagram, identify the phase boundaries, and show that the hybrid- order phase is robust against mass-type disorder. Finally, using a two-terminal transport setup, we provide trans- port evidence that the corner states are coupled to the arXiv:2607.12314v1 [cond-mat.mes-hall] 14 Jul 2026 2 1 10 20 30 40 0.0 0.2 0.4 0.0 0.2 0.4 0.0 0.2 0.4 4780 4800 4820 \u0006 \u0002 \u0001\u0005 \u0006 \u0002 \u0001\u0004 0.0 0.2 0.4 |φ|2 0 1 2 \u0006 \u0003 0 1 Middle layer: 0 E kx(π) (c) A B Bottom layer: 1/2 Top layer: 1/2 |φ|2 (a) (b1) (b2) (b3) |φ|2 E Number of states x y (d)",
+        "FIG. 2. (a) Energy spectrum as a function of kx for a nanorib- bon geometry. The labeled points A and B denote the two edge eigenstates. (b1) – (b3) Layer resolved probability dis- tributions for the eigenstates at A (red dashed) and B (blue solid), shown for the top, middle, and bottom layers, respec- tively. (c) Energy levels of a finite-size sample, where gapped edge states are shown in gray, gapless chiral edge states in blue, and the two near-zero corner states in red. (d) Real- space probability density for the gapless edge states (blue) and the corner states (red) in (c). Parameters: t⊥= 0.3 and m1 = m2 = 1. edge channel. System Hamiltonian— We study a 2D trilayer Chern- insulator model formed by stacking three Qi-Wu-Zhang (QWZ) layers [41] on a square lattice, as shown in"
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we propose an interlayer-engineering scheme to realize a two-dimensional hybrid-order topological insulator, characterized by the coexistence of first-order and second-order topological phases, in a coupled trilayer Chern system. Starting from three quantum anomalous Hall layers with Chern numbers $\\mathcal{C}_{1/2/3}=+1/-1/+1$ in the decoupled limit, interlayer tunneling hybridizes their edge states into a single chiral edge mode, while simultaneously opening a gap that supports corner states."
     },
     {
       "id": "arxiv:2607.11484",
@@ -210,7 +306,23 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": null
+      "image_url": "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Moire Superlattice, this paper argues that a fluid of mobile anyons may arise naturally when a Fractional Quantum Anomalous Hall (FQAH) state is doped. We propose that the high-resistivity metal observed adjacent to this FQAH state is a $Z_3$ Orthogonal Metal: a non-Fermi liquid with sharp charge $1/3$ fermionic quasiparticles coupled to a discrete $Z_3$ gauge field but with no sharp electronic quasiparticle."
     },
     {
       "id": "arxiv:2607.11380",
@@ -230,7 +342,18 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": null
+      "image_url": "/data/figures/arxiv-2607.11380-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.11380-fig01.png",
+        "/data/figures/arxiv-2607.11380-fig02.png",
+        "/data/figures/arxiv-2607.11380-fig03.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. The sphere displays a unique zero-energy ground state, with ⟨ˆ L2⟩= 0, as expected for the Laughlin state at ν = 1/3. In contrast, the torus spectrum exhibits the characteris- tic threefold zero-energy ground-state manifold, with the states distributed across magnetic-momentum sectors la- belled by K = 1, 3, 5. These two spectra summarize the different symmetry structures of the geometries: rota- tional symmetry and angular momentum on the sphere, and magnetic translations and topological degeneracy on the torus. III. QUANTUM ALGORITHM In this section we summarize the variational quantum computing workflow used to approximate the low-energy states of the FQHE Hamiltonians defined above. The 6",
+        "Fig. 1. Exact-diagonalization spectra of the V1 parent Hamiltonian for NL = 6, Ne = 2 and NL = 7 and Ne = 3 for the torus and sphere cases respectively. The torus spectrum is colored according to the magnetic-translation momentum sector K, while the sphere spectrum is colored according to ⟨ˆ L2⟩. The torus displays the expected threefold zero-energy K = 1, 3, 5 ground-state degeneracy of the ν = 1/3 Laughlin phase, whereas the sphere exhibits a unique zero-energy L = 0 ground state. goal is not to introduce a new quantum algorithm, but to adapt standard hybrid variational methods to the sym- metry structure of the V1 parent Hamiltonian in the torus and the sphere geometries. Concretely, we use VQE, where a parametrized circuit prepares a trial state, |ψ(θ)⟩, which is initialized in a reference state |ψ0⟩. The cost function calculates the expectation value of the en- ergy, ⟨ψ(θ)| ˆ...",
+        "Fig. 2. VQE optimization for the first torus ground-state candidate. The blue curve shows the energy estimated on the quantum processor, while the cyan curve shows the noiseless statevector energy obtained by evaluating the same variational parameters. The exact zero-energy ground state is also plotted as a dashed red line. statevector curve is therefore not only a comparison with an ideal calculation, but also an a posteriori diagnostic of the quality of the parameters learned during the noisy optimization. In the Supplemental Material, we further analyze this point by computing the overlap between the states obtained from the optimized QPU parameters and the corresponding exact low-energy states. In order to evaluate the intrinsic error of the real quantum processor, we have recomputed the energies of the last ten variational parameter vectors using noiseless statevector simulation,..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we investigate the use of variational quantum algorithms to prepare and characterize fractional quantum Hall states on near-term quantum processors. Our results show that hybrid quantum algorithms can approximately reconstruct the low-energy structure of small fractional quantum Hall systems, including the topological ground-state manifold on the torus. Beyond serving as a benchmark for quantum hardware, this geometry-resolved approach provides a route toward quantum simulations of fractional Chern insulators and strongly correlated topological phases in realistic two-dimensional materials."
     },
     {
       "id": "arxiv:2607.10320",
@@ -248,7 +371,24 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.10320.png"
+      "image_url": "/data/figures/arxiv-2607.10320-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.10320-fig01.png",
+        "/data/figures/arxiv-2607.10320-fig02.png",
+        "/data/figures/arxiv-2607.10320-fig03.png",
+        "/data/figures/arxiv-2607.10320-fig04.png",
+        "/data/figures/arxiv-2607.10320-fig05.png",
+        "/data/figures/arxiv-2607.10320-fig06.png"
+      ],
+      "figure_captions": [
+        "Figure 1. Hartree-Fock phase diagram of rhombohedral pentalayer graphene (R5G) as a function of carrier density (n) and displacement field (D or U). The translation-symmetry-broken phases include the Wigner crystal (WC), halo anomalous Hall crystal (hAHC), and anomalous Hall crystal (AHC). All crystalline and metallic phases are fully polarized into a single spin-valley flavor, thereby break- ing time-reversal symmetry. Phase stability is evaluated using the time-dependent Hartree-Fock (TDHF) approximation, with unstable regimes denoted by dashed lines. As discussed in the main text, the softest instability likely corresponds to a stripe phase. perlattices and magnetic topological insulators, because their low-lying collective modes are symmetry-decoupled from the charge excitation at the boundary. This distinction represents a unique feature of AHCs and provides a concrete, experimen-...",
+        "Figure 2. TDHF collective-mode spectrum as a function of carrier density at fixed displacement field. The orange branch denotes the plasmon mode, which has the expected √q dispersion near the Γ point. The blue branch denotes the transverse phonon mode. Negative values indicate modes with purely imaginary frequency, signaling an instability of the Hartree–Fock state. The instability is strongest near the M point, where the imaginary frequency is largest. As the density is lowered toward the continuous transition, the transverse phonon mode softens near the Γ point, producing the low-energy bulk continuum responsible for bulk–edge hybridization. We fix U = 50 meV in these calculations. (a)-(d) The pinning potential is fixed to be ∆= 0 meV and n is taken as a variable. (e)-(f) n is fixed to be n = 1.1 × 1012 cm−2 and the pinning potential ∆is set to be a variable. All calculations are done...",
+        "Fig. 1. At low density, the system spontaneously polarizes into a single spin-valley flavor. Within this flavor-polarized sector, we find a competition between a quarter metal (QM), a topologically trivial Wigner crystal (WC), an anomalous Hall crystal (AHC), and a halo anomalous Hall crystal (hAHC). The phase boundaries are first order as they arise from level crossings between distinct mean-field solutions. For interlayer potential U ≃30–50 meV, increasing den- sity produces the sequence: WC →AHC →QM. Thus the AHC appears as an intermediate quantum crystalline phase between the classical Wigner crystal and the flavor-polarized metal. It retains charge crystalline order, but its reconstructed bands acquire a nonzero Chern number through band inver- sion at the mini-Brillouin-zone K and K′ points [20, 48]. At still larger displacement fields, the low-density WC regime is replaced by...",
+        "Figure 3. (a) Hartree–Fock energies of AHC projected along the Γ–M direction. The red line schematically indicates the estimated chiral edge-mode dispersion connecting the occupied (green dots) and unoccupied states (gray dots). (b) Boundary-projected TDHF collective-mode spectrum along the same direction, shown near the continuous transition. The transverse phonon continuum overlaps with the chiral edge mode, enabling bulk–edge hybridization. (c),(d) Same as (b), but for varying electron densities n and pinning potentials ∆. in the hAHC, whereas it occurs near the mini-Brillouin-zone K and K′ points in the AHC. This difference in the Bloch band structure is closely related to recent discussion on the self doped metallic Wigner crystal [35, 50–53]. Softened phonons and instability. The AHC breaks trans- lational symmetry and supports low-energy collective modes associated with...",
+        "Fig. 1. It occurs mainly inside the AHC phase at large displacement field D. As shown in the SM [47], this is mainly due to the decrease of the den- sity of states with increasing D, after a van-Hove singularity [55]. We also find that an instability appears when the AHC approaches the (quarter) metal phase, suggesting the transition could be a continuous phase transition. A representative density-driven instability at fixed displace- ment field is shown in",
+        "Fig. 2. As the AHC–WC boundary is approached, the phonon mode at the M point of the reduced Brillouin zone softens and becomes imaginary, with the un- stable branch extending over a sizable portion of the Γ–M line. TDHF study cannot determine the nature of the new ground state, but provides hints about which ground state is most likely to appear. Since the mode with the largest imagi- nary frequency appears at the M point, the new ground state likely has the corresponding charge modulation. As shown in the SM [47], the charge density has a stripe-like feature. Such a stripe state could be related to a spin-valley polarized metal- lic state in rhombohedral hexalayer graphene which exhibits highly anisotropic transport behavior [56]. Upon further in- creasing the carrier density, this imaginary mode hardens and becomes real, signaling the restoration of dynamical stability. The softened..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that an anomalous Hall crystal combines spontaneous electronic crystallization with a Chern insulating gap, supporting both chiral edge modes and low-energy electronic phonons. We show that this coexistence produces a distinct dynamical effect from ordinary Chern insulators: transverse bulk phonons can mediate a retarded interaction between counterpropagating chiral edge modes on opposite sides of the sample, realizing a Luttinger-liquid variant with delayed inter-edge coupling."
     },
     {
       "id": "arxiv:2607.10153",
@@ -264,7 +404,14 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.10153.png"
+      "image_url": "/data/figures/arxiv-2607.10153-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.10153-fig01.png"
+      ],
+      "figure_captions": [
+        "Figure 1: Schematic of the α-T3 lattice on an h-BN substrate driven by an off-resonant elliptically polarized laser. Rim sites A and C acquire staggered energies ±M while the hub site B remains at zero. A fundamental experimental challenge in the imple- mentation of Floquet theory [28] is the unavoidable influence of the substrate on the 2D material [29]. The standard approach to improving carrier mobil- ity in 2D materials is to place them on a hexag- onal boron nitride (h-BN) substrate [29–31]. The substrate interaction and twistronics-induced Moiré patterns [32, 33] create a static crystal potential that breaks sublattice symmetry, opening a trivial (C = 0) band gap [34]. This static mass M induced by the substrate then interacts with the dynamic Floquet mass ∆F generated by the applied polar- ized laser field [35]. While the effects of circular polarization on the massless α-T3..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we theoretically investigate the influence of hexagonal boron nitride (h-BN) on the electronic properties of an $α$-$\\mathcal{T}_{3}$ lattice driven by an off-resonant elliptically polarized light field. We identify a fundamental geometric singularity at $α=1/\\sqrt{2}$, independent of $M$, below which no finite drive can close the lower band gap, creating a stable topological window where conduction--flat band inversion yields a Chern insulator with $C=1$. A highly asymmetric thermoelectric Seebeck response further serves as an experimental fingerprint of each phase, providing a realistic framework for realizing..."
     },
     {
       "id": "arxiv:2607.08822",
@@ -280,7 +427,24 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.08822.png"
+      "image_url": "/data/figures/arxiv-2607.08822-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.08822-fig01.png",
+        "/data/figures/arxiv-2607.08822-fig02.png",
+        "/data/figures/arxiv-2607.08822-fig03.png",
+        "/data/figures/arxiv-2607.08822-fig04.png",
+        "/data/figures/arxiv-2607.08822-fig05.png",
+        "/data/figures/arxiv-2607.08822-fig06.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic phase diagram and commensu- ration mechanism of QAHE stabilization. (a) Moiré- less R5G, where superconductivity (SC) and metallic Wigner- crystal behavior have been reported [1, 2]. (b) R5G aligned with an hBN substrate at a twist angle of 0.77◦in the strong- displacement-field regime, where integer and fractional quan- tum anomalous Hall effects (QAHE) have been observed [3, 4]. (c) The mechanism proposed in this work. In the continuum (U0 = 0), a fractional anomalous Hall crystal (FAHC) at fill- ing neAu.c. = ν < 1 can be energetically competitive with nearby candidates such as the Fermi liquid, superconductor, or other ordered states. A weak periodic potential, U0 ̸= 0, acts as a commensuration field: when its unit cell matches that of the FAHC, the crystal gains a pinning energy that can lower it below the competing states, making it the ground state. Red loop:...",
+        "FIG. 2. Illustration of the ideal limit of RNG and many-body constraint in the presence of contact in- teractions. (a) Dispersion of R5G in the presence of a finite displacement field, where the inset presents the orbital oc- cupation in the γ|q| ≲1 regime (top) and in the ideal limit (bottom). (b) Contact interaction constraint. For a chiral zero between a pair of particles (left), the zero remains for any layer component. For an achiral zero of low order, wavefunc- tions with higher-layer components can have a non-vanishing amplitude for configurations with electrons at the same loca- tion. the IAHC and FAHC wavefunctions. We note that re- lated ideal continuum models have also been considered in Refs. [60, 76, 77]. A. Ideal parent band Rhombohedral multilayer graphene consists of multi- ple graphene sheets that are stacked in a regular stair- case pattern. The different orbitals in...",
+        "FIG. 3. Momentum-space geometry of the emergent ideal AHC mini-band in the first Brillouin zone. (a) Normalization factor Nk relative to its Brillouin zone average N. (b) Berry curvature distribution Ω(k)/l2 B. Both panels use Nℓ= 5 and γ/lB = 0.3. with Pq(p) =F(p + q, p)N −1 p N −1 p+q exp \u0012 −l2 B 2 \u0000|p|2 + p¯ q \u0001\u0013 (24) where F(p, p′) is the parent band form factor (5) and g = n1b1 + n2b2 are reciprocal lattice vectors (i.e., ai · bj = 2πδij). From these definitions, we note that R0(k) = N−2 k . Rq(k) is a periodic function of k that can thus be rewritten as a sum over lattice harmonics using Pois- son resummation. The resulting nonzero lattice harmon- ics are exponentially suppressed by the real-space lattice scale (see Supplemental Material for details [78]). Keep- ing only the lowest-order harmonic, which we refer to as the zeroth-harmonic approximation, gives Rq(k) ≈R, FAHC(k + q,...",
+        "FIG. 4. Monte Carlo benchmarks for the energet- ics of AHC variational states. Panels (a,b) show the kinetic-energy moment ⟨|q|2⟩/ne. Panels (c,d) show the in- teraction energy per particle, in units of V0√ne, for a dual- gated screened interaction with gate distance ds = 1/√ne. Results are for a triangular crystal in the Nℓ= 4 ideal par- ent band, including the IAHC at ν = 1 and Laughlin FAHCs at ν = 1/3, 1/5, 1/7, 1/9. Markers are direct MC estimates, solid curves are the semi-analytic AHC–QH estimate, and dashed curves in the interaction-energy panels are the zeroth- harmonic QH approximation. Panels (b,d) show zoomed-in views of the ν = 1/3 data from panels (a,c) respectively. a variational state |Ψ⟩in the ideal parent band we eval- uate E[Ψ] Ne = 1 Ne *X i E(−i∇i) + 1 2 X i̸=j V (|ri −rj|) + Ψ , (26) where E(q) is a single-particle dispersion. In this section, we first benchmark...",
+        "FIG. 5. Pair correlations of the AHC variational state for Nℓ= 2 and γ√ne = 0.5, evaluated by Monte Carlo. Panels (a,c) show the two-dimensional pair- correlation function gAHC(r) for ν = 1/3 and ν = 1/7, re- spectively, with distances measured in units of 1/√ne. Panels (b,d) show the corresponding radial averages gAHC(r), com- pared with the Laughlin quantum Hall result gQH(r) at the same filling. E(q) = |q|2. The dominant trend is an approximate lin- ear growth of ⟨|q|2⟩with 1/ν. This has a simple geomet- ric origin. At fixed electron density, the crystal unit-cell area is Au.c. = ν/ne. Lowering ν decreases the real-space unit cell and increases the reciprocal-lattice scale by a factor of order 1/√ν. The unfolded parent-band momen- tum distribution then samples momenta on the order of p ne/ν. The kinetic energy also exhibits a pronounced dependence on γ. For all fillings,...",
+        "FIG. 6. Ground state phase diagram of candidate anomalous Hall crystal states and their competition with Fermi liquids. Calculations use the band geometry of the ideal rhombohedral pentalayer graphene model with γ = 1.73 nm, the dispersion of the physical model with intralayer Dirac velocity vD = 0.66 eV nm and interlayer hopping t1 = 0.38 eV (see inset of panel (a)), and a dual-gated screened interaction with ϵ = 4 and gate distance ds = 30 nm. (a) Lowest- energy AHC candidate as a function of electron density ne and interlayer potential uD, restricted to the variational set ν = 1, 2/3, 3/5, 2/5, 1/3, 1/5, 1/7, 1/9. (b) Energy difference between the optimized spin- and valley-polarized Hartree-Fock Fermi liquid and the lowest AHC candidate, EFL −EAHC. The solid black line marks the FL–AHC crossing, dashed black lines mark transitions between distinct AHCs, and the dotted black line..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that fractional anomalous Hall crystals (FAHCs) replicate the topological order of the fractional quantum Hall effect in the continuum without requiring any external magnetic field. We find FAHCs to be energetically competitive with integer anomalous Hall crystals and Fermi liquids, and their stability follows a simple principle. These results support a continuum-and-interactions-first route to fractional anomalous Hall states in rhombohedral graphene."
     },
     {
       "id": "arxiv:2607.08710",
@@ -310,7 +474,34 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": null
+      "image_url": "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "Fig. 1c. We then transferred an additional control gate (made of hBN and graphite) on top of the prepatterned graphite top gate. 3 In our experiment, the top and bottom gates combined can set the mRG sample to a Chern insulating state in the overlapped regions of the gates; the control gate can define, through the etched regions of the top gate, an antidot and two electrodes forming tunnel contacts to the antidot (red regions in Fig. 1a). The electron number in the antidot is controlled by fine-tuning the voltage, 𝑉𝑉 𝐶𝐶𝐶𝐶, applied to the control gate; coarse-tuning of 𝑉𝑉 𝐶𝐶𝐶𝐶 pinches the quantum point contact (QPC) between the antidot and the tunneling electrode and thus modifies the tunneling barrier height to the antidot (See Methods and Extended Data Fig. 3 for details). We finished the device in a Hall bar geometry (Fig. 1d and optical image in Extended Data Fig. 1) for both regular...",
+        "Fig. 5.) Moreover, a non-topological insulating state with large 𝑅𝑅𝑥𝑥𝑥𝑥 appears at low displacement fields and filling factors (i.e. the top left corner of the phase diagram). The results are consistent with Ref. 6. Upon lowering the (lattice) temperature to 𝑇𝑇= 12mK, the FCI features largely disappear in the 𝑅𝑅𝑥𝑥𝑥𝑥 and 𝑅𝑅𝑥𝑥𝑥𝑥 maps (Fig. 1g,h); the 𝑅𝑅𝑥𝑥𝑥𝑥 dips and 𝑅𝑅𝑥𝑥𝑥𝑥 peaks are replaced by an extended region of small 𝑅𝑅𝑥𝑥𝑥𝑥 and nearly quantized 𝑅𝑅𝑥𝑥𝑥𝑥= ℎ 𝑒𝑒2. The temperature evolution for 𝑅𝑅𝑥𝑥𝑥𝑥 and 𝑅𝑅𝑥𝑥𝑥𝑥 at a constant displacement field line cut (𝐷𝐷≈−0.93V/nm) are shown in Fig. 1i and 1j, respectively. For 𝜈𝜈≳ 0.5, 𝑅𝑅𝑥𝑥𝑥𝑥 decreases with decreasing temperature and the 𝑅𝑅𝑥𝑥𝑥𝑥 dip at 𝜈𝜈= 2/3 evolves into a small 𝑅𝑅𝑥𝑥𝑥𝑥 peak at low temperatures. Meanwhile, the 𝑅𝑅𝑥𝑥𝑥𝑥 peaks corresponding to the partially developed FCIs now converge to a nearly quantized 𝑅𝑅𝑥𝑥𝑥𝑥= ℎ 𝑒𝑒2 plateau spanning...",
+        "Fig. 1g. To this end, we Fourier transformed 𝑅𝑅𝐷𝐷 (at 𝑉𝑉 𝐷𝐷𝐷𝐷= 0V) with respect to 𝑉𝑉 𝐶𝐶𝐶𝐶 at each 𝜈𝜈 and 𝐷𝐷 and show the dependence of the Fourier transformed spectrum on 𝐷𝐷 and 𝜈𝜈 in Fig. 2c and 2d, respectively. A Fourier peak with frequency 𝑓𝑓 𝐶𝐶𝐶𝐶≈100 V-1 (corresponding to the Coulomb oscillations shown in Fig. 2a) is observed near 𝜈𝜈= 1 and over the entire range of the displacement field for the 𝜈𝜈= 1 Chern insulator. The results confirm quasiparticle charging to an antidot embedded in the bulk of a Chern insulator, rather than charging to parasitic quantum dots unintentionally formed in the device. This point is further illustrated by the observation of Laughlin charge pumping in Fig. 2e, which shows 𝑅𝑅𝐷𝐷 as a function of 𝑉𝑉 𝐶𝐶𝐶𝐶 and 𝐵𝐵 (at 𝜈𝜈= 0.98 and 𝐷𝐷= −0.95V/nm). Periodic stripes in the diagonal direction with a positive slope are observed. The 𝑉𝑉 𝐶𝐶𝐶𝐶 period (∆𝑉𝑉...",
+        "Fig. 2e. In the “Coulomb-dominated” regime40,45,46 as in our experiment, the field period is ∆𝐵𝐵= ℎ 𝑒𝑒𝑒𝑒 for a 𝐶𝐶= 1 Chern insulator (𝐴𝐴 is the antidot area); the 𝑉𝑉 𝐶𝐶𝐶𝐶 period ∆𝑉𝑉 𝐶𝐶𝐶𝐶= 𝑒𝑒∗ 𝐶𝐶𝐶𝐶𝐶𝐶 is proportional to the quasiparticle charge 𝑒𝑒∗ and inversely proportional to the effective control gate capacitance 𝐶𝐶𝐶𝐶𝐶𝐶 for the antidot. For the 𝜈𝜈= 1 Chern insulator, we have 𝑒𝑒∗= 𝑒𝑒, which can also be confirmed by 5 electrostatics simulations using the actual device geometry and a voltage period ∆𝑉𝑉 𝐶𝐶𝐶𝐶≈9.5mV (Methods and Extended Data Fig. 7). The field period ∆𝐵𝐵≈55mT determines an effective antidot diameter of about 310nm. Comparison with the diameter (≈210nm) of the etched hole in the top graphite gate electrode gives a depletion length about 50nm for the antidot. The finite depletion length is likely caused by electric field leakage near the antidot edge and/or by wavefunction...",
+        "Fig. 1g. A local 𝑅𝑅𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 minimum centered at 𝜈𝜈= 2/3 is also observed. We focus on the behavior near 𝜈𝜈= 2/3. Figures 4c and 4d show the temperature dependence of 𝑅𝑅𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 versus 𝜈𝜈 along the dashed line in",
+        "Fig. 4b. As temperature decreases, a sharp resistance peak 6 centered at 𝜈𝜈= 2/3 evolves into a dip at 𝑇𝑇≲200 mK; a highly insulating background surrounding 𝜈𝜈= 2/3 appears at 𝑇𝑇≲100mK. A non-monotonic temperature dependence of 𝑅𝑅𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 at 𝜈𝜈= 2/3 is also observed (Fig. 4e); 𝑅𝑅𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 reaches the lowest value near 𝑇𝑇= 150mK. The results suggest the presence of a thermodynamic phase transition at 𝜈𝜈= 2/3 with a critical temperature around 𝑇𝑇= 150mK. A schematic phase diagram is shown in",
+        "Fig. 4f. The high- temperature state is an FCI, as supported by 𝑅𝑅𝑥𝑥𝑥𝑥 and 𝑅𝑅𝑥𝑥𝑥𝑥 measurements in Fig. 1 and by the dispersion of the insulating state under a magnetic field in Extended Data Fig. 5 and 6. The low- temperature state is a 𝐶𝐶= 1 integer Chern insulator, as shown by quasiparticle charging in Fig. 3 and also by the magnetic field dispersion. The appearance of a highly insulating background in the immediate vicinity of 𝜈𝜈= 2/3 below 𝑇𝑇≈100mK shows sensitivity to lattice commensurability; it suggests that charge localization in the moiré lattice driven by the extended-range Coulomb interaction is the driving force for the phase transition52-55. (The same interaction is also responsible for the emergence of Wigner-Mott insulators at commensurate fractional fillings in other moiré materials.) A reasonable ground state candidate is thus a generalized anomalous Hall crystal56-59...",
+        "Fig. 4b. The diagonal stripes, a feature of Laughlin charge pumping as discussed in the main text, come from the edge dot. In contrast to Fig. 2e and 3d, however, a weaker set of vertical stripes originated from the center dot is also observed (they are vertical because a magnetic field cannot pump charges into the center dot). These vertical stripes introduce regular shifts in the diagonal stripes whenever the two cross each other. The center dot features are weaker in tunneling measurements because tunneling occurs only between the edge dot and the tunneling electrodes; the center dot features are manifested only through its capacitive coupling to the edge dot. The two sets of stripes are schematically illustrated in Extended Data",
+        "Fig. 4c. The charging periods are Δ𝑉𝑉 𝐶𝐶𝐶𝐶,𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒≈22mV and Δ𝑉𝑉 𝐶𝐶𝐶𝐶,𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐≈21mV for the edge and center dot, respectively. They have similar magnitude; the value is about twice of Δ𝑉𝑉 𝐶𝐶𝐶𝐶≈9.5mV for the n-n dot investigated in the main text. The result shows that the edge and center dots in the p-i-n regime as well as the dot in the n-n regime all have similar gate capacitances. Electrostatics simulation for the antidot 9 Due to the finite size of the antidot (about 210nm diameter) and the non-negligible vertical separation between the control gate and the mRG (about 41nm), a simple parallel-plate capacitor model is insufficient to accurately describe the electrostatics of the system. To this end, we performed quantitative electrostatics simulations using COMSOL with realistic device parameters. We considered a four-layer structure consisting of the control gate (CG), top gate...",
+        "Fig. 1a. We used a relative dielectric constant of 𝜖𝜖ℎ𝐵𝐵𝐵𝐵= 3 for hBN. In the simulation, we varied 𝑉𝑉 𝐶𝐶𝐶𝐶 while keeping 𝑉𝑉𝑇𝑇𝑇𝑇= 𝑉𝑉 𝐵𝐵𝐵𝐵= 0V. The simulated potential profile near the antidot is shown in Extended Data Fig. 7a, where the different metallic layers are indicated by yellow lines. Extended Data Fig. 7b shows the corresponding charge distribution in the mRG layer. The lithographically defined antidot boundary is marked by vertical dashed lines. Near the antidot edges, the induced charge density is substantially reduced compared to the center region due to screening from the top gate. Using the simulated charge distribution, we extracted a control-gate voltage Δ𝑉𝑉 𝐶𝐶𝐶𝐶≈9.0𝑚𝑚𝑚𝑚 required to add one electron to the antidot. This value is in good agreement with the experimentally measured oscillation periods of 9.5mV for 𝜈𝜈= 1 and 9.7mV for 𝜈𝜈= 2/3. In contrast, an ideal..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that moiré materials realize a versatile platform for exploring the physics of fractional Chern insulators (FCIs). Tunneling to the mRG antidot reveals quasiparticles carrying one electron charge for both Chern states at filling factors ν=1 and 2/3 at low temperatures."
     },
     {
       "id": "arxiv:2607.08702",
@@ -326,7 +517,28 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": null
+      "image_url": "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Band structures (left panels) and hopping amplitudes (right panels) for the N = 2, 3, and 4 models. Left panels: Colors encode the sublattice weights. Right panels: The cor- responding hopping amplitudes as a function of distance d, measured in unit of the lattice constant a, are shown in (b), (d), and (f). Insets display the lattice structures, with dashed lines indicating the unit cells. where R1 and R2 are the basis vectors of a unit cell. The unit cell for the Bloch state Θ0,k(r) coincides with the magnetic unit cell of the LL state Ψ0,k(r), which has an area of A0 = 2πℓ2. Θ0,k(r) has been further extended to generalized nth LL wave function Θn,k(r) by applying Gram–Schmidt orthogonalization to a set of density-modulated basis functions en,k(r) [21], defined as en,k(r) = B(r)Ψn,k(r). (3) The quantum geometry of Θn,k(r) becomes momentum dependent, but satisfies the integrated...",
+        "FIG. 2. (a,b) ED spectra at ν = 1/2 for the generalized 1LL band in the N = 4 model on clusters with Ns = 26 and 28, respectively. Energy is measured relative to the ground state. nLL state. To this end, we first construct the density- modulated basis |en,k⟩by sampling the functions en,k(r) on lattice, |en,k⟩= 1 √Nd X R N X i=1 en,k(R + τ i) |R + τ i⟩, (4) where Nd is the number of unit cells, R is the lattice vec- tor, τ i is the position of the ith sublattice within the unit cell, and |R + τ i⟩is the corresponding orbital. |en,k⟩is determined, via translational properties given in Eq. (2), by the values of B(τ i) for i = 1, ..., N. Assuming the states |en,k⟩are linearly independent for 0 ≤n ≤N −2 (see Supplemental Metarial (SM) [34] for more discus- sion), |Φn,k⟩are obtained by applying Gram–Schmidt orthogonalization to |en,k⟩, |Φn,k⟩=    N0,k|e0,k⟩ n = 0, Nn,k h |en,k⟩− n−1 P m=0...",
+        "FIG. 3. (a) ED spectrum at ν = 1/2 for the C = −2 band in the N = 3 model, calculated on a cluster with Ns = 28. (b) Mean-field energy of Slater determinant states for the same system, parameterized on the Bloch sphere. Arrows indicate the range of the data. (c) Density variations of the Slater de- terminant states (represented by marker size) along the [100], [111], and [¯ 1¯ 1¯ 1] directions of the Bloch sphere. Dashed lines denote the charge-density-wave supercell. quasihole counting expected for the MR state [41]. Multicomponent states.— We now focus on the C = −2 ideal band in the N = 3 model and study ˆ H2 with the nearest-neighbour interaction. At ν = 1/2, we perform ED calculation in the Ns = 28 cluster. As shown in Fig. 3(a), the ED spectrum reveals a 15-fold quasi-degenerate ground state with a clear energy gap and a quantized many-body Chern number Cavg = −1. This...",
+        "FIG. 4. (a,b) ED spectra at ν = 1/5 and 1/6 in the C = −2 band of the N = 3 model on clusters with Ns = 30 and 36, respectively. Energy is measured relative to the ground state. inal unit cell. χ(α,β)† k is defined as χ(α,β)† k = hk[α(φ† k + eiℓ2M 1×kφ† k+M 1) + βeiℓ2M 2×k(φ† k+M 2 −ieiℓ2M 1×kφ† k+M 1+M 2)], (10) where φ† k = N −1 0,kN −1 1,kΦ† 2,k, Φ† 2,k is the creation operator for the Bloch state |Φ2,k⟩and hk is the normalization factor. Each term in Eq. (10) corresponds to a wave function that is an anti-holomorphic function of k mul- tiplied by hk exp \u0002 −ℓ2k2/2 \u0003 , and therefore, the combina- tion always corresponds to an ideal Chern band. We can parametrize α = cos(θ/2) and β = sin(θ/2)eiϕ, where θ and ϕ define, respectively, polar and azimuthal angles of a Bloch sphere. Figure 3(b) presents the mean-field (MF) energy EMF = Ξ(α,β) ˆ H2 Ξ(α,β) on the Bloch sphere for 14 particles...."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that we design lattice models with tailored quantum geometry, including generalized Landau levels (LLs) satisfying the integrated trace condition and higher-Chern bands with ideal quantum geometry. Exact diagonalization reveals fractional Chern insulators in the generalized zeroth LL bands of all three models, a Moore-Read state in the generalized first LL band of the $N=4$ model, and various interaction-driven topological phases$\\unicode{x2013}$including integer and fractional anomalous Hall crystals and a multicomponent Halperin state$\\unicode{x2013}$in the ideal higher-Chern band of the $N=3$ model. Informed by..."
     },
     {
       "id": "arxiv:2607.06492",
@@ -350,7 +562,24 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "/data/figures/arxiv-2607.06492.png"
+      "image_url": "/data/figures/arxiv-2607.06492-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.06492-fig01.png",
+        "/data/figures/arxiv-2607.06492-fig02.png",
+        "/data/figures/arxiv-2607.06492-fig03.png",
+        "/data/figures/arxiv-2607.06492-fig04.png",
+        "/data/figures/arxiv-2607.06492-fig05.png",
+        "/data/figures/arxiv-2607.06492-fig06.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Electrical measurement of TDBG-COC heterostruc- ture under the charge-transfer effect. (a) Illustration of the structure of TDBG-COC sample. (b) Optical image of the device measured in the main text, which has been etched into Hall bar geometry by using O2 and SF6 plasma. The inset scale bar is 10 µm. (c) Longitudinal resistance as a function of dual gates measured at 10 mK and 1 T. The boundary of the region influenced by charge-transfer effect is indicated by red dashed line. Resistance peaks of filling factor(ff) = 1/2 and -1/2 are illustrated as the two black dashed lines. (d) Landau fan diagram measured at 10 mK, with D fixed at 0.26 V/nm. Half-filling states at zero field are indicated by the black ar- rows. The Chern insulator which stems from half-filling state is marked as the red dashed line. (e) Longitudinal and Hall resistance of the Chern insulator versus magnetic...",
+        "FIG. 2. Charge transfer-enhanced correlated states at half filling factor under high magnetic field. (a) and (b) The Lan- dau fan diagrams of longitudinal resistance at D = 0.5 V/nm and 0.26 V/nm, corresponding to the regions without or with charge-transfer effect, respectively. The insulating states at ultrahigh magnetic field are shown in the black boxes. The insulating states in the ”charge-transfer” region is enchanced, compared with the one in Fig. 2(a). of the charge-transfer boundary, all the resistance strips are bent, indicating that the electrons are injected into COC, which makes TDBG in the bottom right part of the map hole-doped. Then we fix the displacement field at 0.26 V/nm, plotting the Landau fan diagram measured from 0 to 13 T, as shown in Fig.1(d). Brown-Zak os- cillations and Landau levels emanating from half-filling states and CNP are observed. On the electron side...",
+        "FIG. 3. Valley polarized correlated insulating state at half- filling factor under high magnetic field. (a) Temperature de- pendence of the correlated states at different carrier densities under 20 T. The resistance of the half-filling state with charge- transfer effect decreases with elevated temperature from 3.2 K to 20 K. (b) Estimation of the thermal activation gap of the insulating state at half-filling with or without the effect of charge transfer, respectively. The g factors of half-filling state with (18.1) or without (11.8) charge-transfer(CT) effect, re- spectively, are extracted from the slope of the relationship ∆ versus out-of-plane magnetic field. ter (18.1) is much larger than the former one, which may indicate that the charge transfer effect has a strong im- pact on the enhancement of valley polarization of TDBG, together with the out-of-plane magnetic field. Besides, we...",
+        "FIG. 4. In-plane field dependence of insulating states under high magnetic field. (a) Dual gate map measured at 4.2 K and 20 T of perpendicular field. (b) Same dual gate map as (a) measured at 4.2 K, but under 20 T and 11 T of in-plane field. Half and quarter-filling states are indicated by the black dashed lines in (a) and (b).(c) The evolution of resistance of half-filling state in the black dahsed box in (a), with increasing in-plane field from 0 to 11 T. Gate voltages are scanning along the red dashed line indicated in fig.4 (a). order to prove the reproducibility of the appearance of the enhanced insulating state, we performed the mea- surements with different sweeping rates and also provide the results measured in a different coolingdown cycle af- ter four months, giving evidence of the robustness of the insulating state and excluding the influence of the gate- sweeping related...",
+        "FIG. 5. Zoom-in Landau fan diagram measured at 0.6 K, with a gate-sweeping step of 0.02 V. Compared with the fea- tures in Fig.2(b), the enchanced insulating state occurred at the same carrier density and magnetic field. Besides, the re- sistance of the enhanced insulating state in both figures are comparable. It proves the enhanced insulating state is repro- ducible under different scanning rates of gate.",
+        "FIG. 6. Zoom-in Landau fan diagram measured at 4.2 K, with a gate-sweeping step of 0.04 V. This Landau fan diagram was measured after four months since we observed first time the enhanced insulating states, to prove the robustness of the device. The insulating state is visible in the same position compared with Fig.2(b) and Fig.5. The resistance at 20 T is of the same value as the one given in Fig.3(a), which indicates the reproducibility. transfer effects. Appendix B: Definition of n and D in the region with charge-transfer effect Since it is hard to measure the contribution of car- rier density in the substrate experimentally, the n and 5 D in charge-transfer region are the total carrier density and effective displacement field considering contributions from both graphene and CrOCl. The n and D are de- fined by n=(CtgVtg + CbgVbg)/e −n0 and D=(CtgVtg − CbgVbg)/(2ϵ0) −D0, respectively...."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that interaction between different two dimensional materials can give rise to many exotic physical phenomena which are rarely observed in intrinsic materials. Our results demonstrate the influence of charge-related effect at the interface, and shed a light on a new route for manipulating the correlated states in graphene-based moiré systems using interfacial engineering."
     },
     {
       "id": "arxiv:2607.05631",
@@ -367,7 +596,24 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.05631.png"
+      "image_url": "/data/figures/arxiv-2607.05631-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.05631-fig01.png",
+        "/data/figures/arxiv-2607.05631-fig02.png",
+        "/data/figures/arxiv-2607.05631-fig03.png",
+        "/data/figures/arxiv-2607.05631-fig04.png",
+        "/data/figures/arxiv-2607.05631-fig05.png",
+        "/data/figures/arxiv-2607.05631-fig06.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Side view of the MBTSe crystal structure and constituent atomic species. (b) Top view of the MBTSe lattice structure with unit cell labeled. (c), (e) Spin-projected band structure and the corresponding AHC for the out-of-plane FM configuration (spins aligned along the z axis), respectively. (d), (f) Spin-projected band structure and the corresponding AHC for the in-plane FM configuration (spins aligned along the x axis), respectively. solving the Landau-Lifshitz-Gilbert (LLG) equation as implemented in the Spirit code [53]. A 120 × 120 super- cell is used, and the Gilbert damping parameter is set to 0.2. The time step for each LLG step is 4 × 10−4 ps. Convergence is reached when the residual effective torque falls below 10−7 eV/˚ A. All presented magnetic configu- rations successfully reach the final convergence criterion. The stability of isolated skyrmions (ISK) is then...",
+        "FIG. 2. (a) Evolution of the local bandgap as a function of the perpendicular external electric field for the out-of-plane spin configuration, revealing two critical gap-narrowing regimes. (b), (c) Enlarged orbital-projected band structures near the Fermi level for the out-of-plane spin configuration under applied electric fields of (b) −0.3 V/˚ A and (c) 0.6 V/˚ A. These panels explicitly illustrate the field-induced band anti-crossings at the Q point and the Γ point, respectively. of-plane MAE of Azz = 0.098 meV. Crucially, the result- ing DMI-to-exchange ratio (d///|J1| ≈0.19) lies within the commonly reported range of 0.1–0.2 that is favor- able for stabilizing skyrmionic phases in two-dimensional magnetic systems [25, 56, 57]. When MBTSe is in the out-of-plane FM configura- tion, its element-projected band structure is shown in Fig. 1(c), with the corresponding AHC presented in...",
+        "FIG. 3. Calculated chiral edge states for semi-infinite MBTSe at perpendicular electric fields of (a) E = 0 V/˚ A, (b) E = −0.5 V/˚ A, and (c) E = 0.6 V/˚ A. Arrows in the panels indicate the positions of the chiral edge states. (d)-(f) Corresponding AHC as a function of Fermi energy, explicitly demonstrating topological phases with Chern numbers C = −1, C = 2, and C = 0, respectively. (g)-(h) Berry curvature Ωz(k) plotted along high-symmetry lines at (g) E = 0 V/˚ A and (h) E = −0.5 V/˚ A, highlighting the pronounced response at the Q point associated with the phase transitions. tion shown in the SM [44]. To reveal the topological nature of these crossovers, Wannier-function models are established to calculate the AHC and chiral edge states before and after the critical fields. As shown in Fig. 3(a)-(c), the system transitions through three distinct topological phases. For the pris-...",
+        "FIG. 4. (a) Evolution of the nearest-neighbor exchange interaction J1 and the MAE Azz as a function of the external electric field E. (b) Electric-field dependence of the in-plane DMI d// and the empirical skyrmion-stabilization parameter α. (c) Atomistic LLG simulations of real-space magnetic configurations under varying electric fields, illustrating the transition from a uniform FM state to ISK, and ultimately to a skyrmion-spiral domain (SK-SD) coexistence phase. logically non-trivial phases, as shown in Fig. 3(d); the detailed Berry curvature distributions in the first Bril- louin zone are provided in the SM [44]. Compared with the C = −1 phase, the C = 2 phase induced by the negative electric field exhibits pronounced sign reversal and intensification of the local Berry curvature around the three symmetry-equivalent Q points, where the band anti-crossings occur. This...",
+        "Fig. 4. Consequently, the collapse energy barrier of a single skyrmion attains a distinct global maximum of approximately 6.5 meV at exactly 0.45 V/˚ A. Given that an energy barrier in the range of 1 to 10 meV roughly corresponds to a thermal energy scale (kBT) of 10 to 100 K, these values demonstrate that the skyrmion configura- tion can be robustly stabilized at cryogenic temperatures. Meanwhile, when the electric field reaches −0.35 V/˚ A, the collapse energy barrier drops to nearly zero due to the influence of the strong out-of-plane MAE, returning the system to a stable FM state. To elucidate the microscopic mechanism by which the electric field controls the energy barrier, the total barrier is decomposed into distinct contributions from different magnetic interaction terms. Taking the zero electric field case as an example, compared to the highest energy mag- netic state along the...",
+        "FIG. 5. (a) Collapse energy barrier of an isolated skyrmion versus external electric field, calculated via the GNEB method. (b) Minimum-energy paths connecting the skyrmion configuration to the uniform FM ground state. (c) Decom- position of the total energy barrier into Heisenberg exchange, MAE, and DMI contributions at zero electric field, revealing the microscopic physical origin of skyrmion stabilization. 8"
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that manipulating coexisting multi-space topological states within a single material is a critical frontier for low-power spintronic applications, for which perpendicular electric-field gating offers a highly precise tuning mechanism. These findings establish a powerful material platform and efficient route for the synergistic control of coexisting topological orders, making it highly promising for next generation multi-functional spintronic devices."
     },
     {
       "id": "arxiv:2607.04771",
@@ -383,7 +629,32 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.04771.png"
+      "image_url": "/data/figures/arxiv-2607.04771-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.04771-fig01.png",
+        "/data/figures/arxiv-2607.04771-fig02.png",
+        "/data/figures/arxiv-2607.04771-fig03.png",
+        "/data/figures/arxiv-2607.04771-fig04.png",
+        "/data/figures/arxiv-2607.04771-fig05.png",
+        "/data/figures/arxiv-2607.04771-fig06.png",
+        "/data/figures/arxiv-2607.04771-fig07.png",
+        "/data/figures/arxiv-2607.04771-fig08.png",
+        "/data/figures/arxiv-2607.04771-fig09.png",
+        "/data/figures/arxiv-2607.04771-fig10.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. Performing a Fourier transform, the Hamiltonian be- comes H0 = R BZ dk ψ† kH0(k)ψk, with the 2 × 2 Bloch Hamiltonian H0(k) = \u0012 t2g(k, ϕ) t1f(k) t1f ∗(k) t2g(k, −ϕ) \u0013 , (6) where ψk = (ψa,k, ψb,k)T , and f(k) ≡− \u0000eik·δ1 + eik·δ2 + eik·δ3\u0001 , (7) g(k, ϕ) ≡−2 \u0010 cos(k · β1 + ϕ) + cos(k · β2 + ϕ) + cos(k · β3 + ϕ) \u0011 . (8) The corresponding energy spectrum is given by, ϵ(k) = ± q t2 1|f|2 + t2 2 4 (g(k, ϕ) −g(k, −ϕ))2, (9) which exhibits a finite band gap for ϕ ̸= 0, ±π. The low- energy Dirac points lie at K = −K′ = ( 4π 3 √ 3a, 0). The Chern number of the lower band is C = sign(sin ϕ), so C = +1 for ϕ = π/2. By the bulk-boundary correspondence, the nontriv- ial Chern number implies the existence of gapless chi- ral edge states. This is confirmed numerically in",
+        "Fig. 2: edge states appear inside the bulk gap (blue), while bulk modes lie outside (red), and the edge-state wavefunction is localized along the boundary. All numerical results be- low use parameters t1 = 1, t2 = 0.1, and ϕ = π/2 unless stated otherwise.",
+        "FIG. 1. Lattice vectors of the honeycomb lattice. Left: prim- itive lattice vectors a1,2. Center: nearest-neighbor vectors δ1,2,3. Right: next-nearest-neighbor vectors β1,2,3.",
+        "FIG. 2. Clean Haldane model (t1 = 1, t2 = 0.1, ϕ = π/2). Left: energy spectrum showing edge states (blue) inside the bulk gap and bulk modes (red) outside. Right: spatial prob- ability density |ψ|2 of a representative edge state (highlighted blue in the spectrum), confirming localization along the sys- tem boundary. III. POINT DEFECTS AND TOPOLOGICAL CLASSIFICATION We consider two types of point defects. A vacancy is modeled by removing a single atom together with all hopping bonds connected to it. An adatom is modeled by adding an on-site energy ϵ0 →∞at one lattice site, ef- fectively decoupling it without removing hopping bonds. Figure 3 illustrates both cases. A. Vacancy potential and Weyl symbol For a vacancy on the A-sublattice at R0, the pertur- bation to the Hamiltonian is V(1) vac(R0) = t1 X i \u0010 a† R0 bR0+δi + h.c. \u0011 , (10a) V(2) vac(R0) = t2 X i \u0010 eiϕ a† R0 aR0+βi + e−iϕ a† R0...",
+        "FIG. 3. Point defects in the Haldane model. Left: a vacancy is created by removing a lattice site along with all its hopping bonds (dotted lines). Right: an adatom is introduced as an on-site potential at a lattice site (green). 3 so that Vvac = V(1) vac + V(2) vac, where (10a) collects the nearest-neighbor bonds removed by the vacancy and (10b) collects the next-nearest-neighbor bonds. In mo- mentum space this becomes V (R0) = t1 N X k,k′ ei(k′−k)·R0f(k′) a† kbk′ + t2 N X k,k′ ei(k′−k)·R0g(k′, ϕ) a† kak′ + h.c., (11) where N is the number of unit cells. The phase factor ei(k′−k)·R0 mixes different momenta and, in particular, induces intervalley scattering between K and K′. Decomposing the momentum sums into valley contri- butions, P k = PK k + PK′ k , yields eight distinct terms corresponding to intra- and intervalley scattering. Fol- lowing the continuum formulation derived in [23],...",
+        "FIG. 4. Haldane model with a single vacancy (ν = 1). Left: energy spectrum showing a zero-energy defect mode (green), chiral edge states (blue), and bulk modes (red). Right: spatial probability density |ψ|2 of the zero mode, demonstrating lo- calization at the vacancy site. The presence of bulk-topology edge states confirms that the bulk gap and Chern number are unaffected by the vacancy. 4",
+        "FIG. 5. Haldane model with two vacancies on the same sub- lattice (NA = 2, NB = 0, ν = 0). Left: energy spectrum showing two defect-induced modes (green) that hybridize and split symmetrically about zero energy, with edge states (blue) and bulk modes (red) also visible. The two modes are lifted from zero energy because the Z2 invariant ν = 0 provides no topological protection. Right: spatial probability density of one of the hybridized modes, showing localization around the two vacancy sites. localized at the vacancy site, whereas the edge states re- tain their boundary-localized character. The coexistence of both types of states confirms that the vacancy does not destroy the underlying bulk topology but instead in- troduces an additional in-gap mode. Figure 5 shows the two-vacancy case with both vacan- cies on the same sublattice (NA = 2, NB = 0, m = 2, ν = 0). The spectrum now...",
+        "FIG. 6. Filtered wavefronts for six defect configurations, il- lustrating the Z2 pattern. (a) Edge state, no defect: smooth wavefronts, no dislocation. (b) Single A-sublattice vacancy (ν = 1): a single dislocation is present. (c) Single B-sublattice vacancy (ν = 1): a single dislocation is present. (d) Two A- sublattice vacancies (ν = 0): two dislocations are visible. (e) One A- and one B-sublattice vacancy (ν = 0): two dislo- cations are visible. (f) Adatom (trivial defect): no disloca- tion. Since the topological classification is Z2, dislocations are counted modulo two; thus configurations with an even number of dislocations belong to the trivial sector (ν = 0), whereas configurations with an odd number of dislocations belong to the nontrivial sector (ν = 1). The observed wave- front patterns therefore agree with Eq. (16). intervalley interference pattern. Figure 6 shows the results...",
+        "FIG. 7. Induced charge Q as a function of the radius of the integration disk D, in units of the lattice constant a. Left: single vacancy (ν = 1). The accumulated charge saturates to −e/2 at large radii, confirming the topological prediction of Eq. (17). Right: adatom (ν = 0). No net charge accumulates, consistent with the topologically trivial nature of the adatom defect. VI. FRACTIONAL CHARGE A complementary signature of the topological zero mode is the accumulation of a fractional charge at the vacancy site [30–35]. The induced charge is defined as the difference between the accumulated charge densities of the systems with and without the defect [36], Q = X En≤0 Z D d2r \u0010 |ψn(R)|2 −|ψ(0) n (R)|2\u0011 = −e 2 ν, (17) where the sum runs over all occupied states (En ≤0), D is a disk centered at the defect, and ν is the Z2 invari- ant. For topological defects (ν = 1), the induced charge is...",
+        "FIG. 8. Probability current patterns computed from Eq. (18) for three representative states. (a) Edge state of the clean Haldane model (C = +1): counterclockwise (positive) cir- culation consistent with the chiral edge transport. (b) Zero mode of a single-vacancy system (ν = 1): clockwise (nega- tive) circulation, opposite to the edge current. (c) One of the hybridized modes of a two-vacancy system (ν = 0): current circulation also opposite to the edge, even though the mode is no longer at zero energy. The current reversal in panels (b) and (c) directly reflects the topological charge of the vacancy and is the tight-binding analogue of the current reversal pro- duced by a vortex in a p-wave superconductor. In the clean Haldane model at ϕ = π/2 (C = +1), the chiral edge state circulates counterclockwise [Fig. 8(a)], consistent with the bulk-boundary correspon- dence. Changing to ϕ = −π/2..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we investigate the interplay between local defects and topology in the Haldane model within the framework of the tenfold classification. We identify three independent experimental signatures that distinguish these topological defect states from trivial (adatom) defects. The Haldane model realizes a Chern-insulating phase characterized by an integer topological invariant ($C=\\pm 1$) and supports chiral edge states."
     },
     {
       "id": "arxiv:2607.03707",
@@ -404,7 +675,14 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.03707.png"
+      "image_url": "/data/figures/arxiv-2607.03707-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.03707-fig01.png"
+      ],
+      "figure_captions": [
+        "Figure 1. Representative DHSKX configuration. (a) Full spin texture. (b,c) Sublattice-resolved spin textures. (d) Corresponding spin structure factors in the ab plane (upper) and along the c axis (lower). is not an ad hoc imposed texture but emerges as a distinct noncoplanar phase of a frustrated honey- comb JΓ′ spin model with easy-plane anisotropy. It consists of two sublattice-resolved skyrmion textures with opposite helicities locked into a composite crystal with total topological charge −2, making it distinct from both conventional biskyrmions [25] and antiferromagnetic skyrmions [26]. Under double exchange, this architecture generates isolated flat Chern bands over extended in- tervals of t/JH, with the same phase-clustered organization persisting in a reduced-period ana- logue. The central result is therefore a discrete double-helix organizing principle for the recurring |C| = 1..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that a central challenge in flat-band engineering is suppressing kinetic energy without sacrificing Berry curvature. We show that a double-helix skyrmion crystal (DHSKX)--two sublattice-resolved skyrmion textures locked at opposite helicities, obtained here as the classical ground state of a frustrated honeycomb spin model--provides such a route under double exchange."
     },
     {
       "id": "arxiv:2607.03511",
@@ -423,7 +701,23 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": null
+      "image_url": "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that recent experiments have shown that strong light-matter coupling in electromagnetic cavities can modify transport properties of quantum Hall systems through the formation of Landau polaritons, prompting questions about the robustness of topological protection. Our phenomenological model reveals an asymmetry between conductivity and resistivity in quantum Hall systems under strong light-matter interaction, showing that at zero temperature the Hall resistivity remains completely immune to cavity-induced modifications arising from polariton broadening, independent of the light-matter coupling strength. These results..."
     },
     {
       "id": "arxiv:2607.03401",
@@ -440,7 +734,18 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.03401.png"
+      "image_url": "/data/figures/arxiv-2607.03401-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.03401-fig01.png",
+        "/data/figures/arxiv-2607.03401-fig02.png",
+        "/data/figures/arxiv-2607.03401-fig03.png"
+      ],
+      "figure_captions": [
+        "Figure 1. A 5-chain-wide parallel rectangular QWZ nanoribbon with ∆= 0.22t. (a) The 2D topological phase diagram. (b) The 2D lattice with the different hoppings t (green) and couplings ∆(blue). (c) The spectrum of a 25- and 5-chain wide ribbon, with t⊥= t∥= 1 and ∆⊥= ∆∥= 0.22t for a mass M = 0.2t. (d) The wavefunction amplitude of a topological end mode at the left end of the ribbon for M = 0.03t, together with the top view of a shorter ribbon. (e) The OBC spectra of a 250-site-long nanoribbon, as a function of M. The topological gaps are marked orange according to a non-trivial Zak phase. viewed as coupled Kitaev chains. These Kitaev chains are coupled to each other by h⊥= t⊥σz + i∆⊥σx. In Figs. 1(b)-(c), the bulk and a wide ribbon described by the QWZ model are investigated. The 2D bulk phase diagram of the conventional QWZ model is given in Fig. 1(a). Fig. 1(c) shows the band spectra...",
+        "Fig. 2. Figs. 2(a) and (b) depict a 5-chain-wide sharp cut nanoribbon with a sharp cut end termination in which the long direction is parallel to the lattice, and (c) and (d) depict a 6-chain-wide diagonal rectangular nanoribbon with a rectangular end termina- tion, in which the long direction forms a 45 degree angle with respect to the lattice. Both ribbons can host topo- logical end modes as shown in Figs. 2(a) and (c), respec- tively. Here, the wavefunction amplitude at the end of a long nanoribbon is plotted, together with the top view of a short nanoribbon to illustrate the termination of both ends. In Figs. 2(b) and (d), the low-energy OBC spec- tra are shown as a function of M. Again, multiple gap closing conditions are found with alternating topological and trivial character, as corroborated by the existence of pinned zero-energy modes. Once again, satellite states are found,...",
+        "Figure 2. Two additional terminations of nanoribbons made from a 2D QWZ model. (a) and (b) A nanoribbon which long direction is parallel to the lattice and has a pointed sharp termination. (c) and (d) A nanoribbon which long direction is angled 45 degrees with respect to the lattice and has a rectangular termination. (a) and (c) The wavefunction amplitude of a topological mode at the ends of their respective nanoribbon, together with a top view of a shorter version of the lattice. (b) and (d) The OBC spectra of these nanoribbons as a function of M. Here, the topological hybridization gap are marked in orange according to a non-trivial Zak phase. deed, the Bloch Hamiltonian of these nanoribbons hosts two distinct symmetries; particle-hole symmetry (PHS) [22] and an emergent chiral symmetry [15, 16]. a. Particle hole symmetry PHS is inherited from the original 2D bulk Hamiltonian...."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we investigate the emergence of zero-dimensional topological end states in nanoribbons described by the Qi-Wu-Zhang (QWZ) model and its extensions with longer-range couplings. We demonstrate that the existence of such a symmetry depends both on the long and end termination of the ribbon and exhibits an even-odd effect with respect to ribbon width, revealing that the commonly studied rectangular ribbons constitute a special high-symmetry case. We further show that extended QWZ models with longer-range couplings support phases with multiple topological end states and higher winding numbers."
     },
     {
       "id": "arxiv:2606.31604",
@@ -458,7 +763,28 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.31604.png"
+      "image_url": "/data/figures/arxiv-2606.31604-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2606.31604-fig01.png",
+        "/data/figures/arxiv-2606.31604-fig02.png",
+        "/data/figures/arxiv-2606.31604-fig03.png",
+        "/data/figures/arxiv-2606.31604-fig04.png",
+        "/data/figures/arxiv-2606.31604-fig05.png",
+        "/data/figures/arxiv-2606.31604-fig06.png",
+        "/data/figures/arxiv-2606.31604-fig07.png",
+        "/data/figures/arxiv-2606.31604-fig08.png",
+        "/data/figures/arxiv-2606.31604-fig09.png",
+        "/data/figures/arxiv-2606.31604-fig10.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. When |m+2| > ty, increasing tx yields the con- ventional extended-critical-localized sequence, with the critical line at tx = ty. In contrast, when |m + 2| ⩽ty, the system undergoes an extended-to-critical transition at tx = |m+2| and then remains critical even for stronger quasiperiodic modulation. Thus, in this regime, stronger modulation does not produce exponential localization. We characterize the transition by finite-size scaling of the average inverse participation ratio, explain the phase boundaries using a duality that exchanges tx and ty, and confirm the transport consequences through wave-packet dynamics. This result is also motivated by recent work showing that Chern-band topology can enrich Hofstadter spec- tra and produce anomalous open-orbital subbands be- yond the conventional Diophantine window [22, 23]. The present work addresses the complementary eigenstate...",
+        "FIG. 1. Phase diagram and diagnostics of the magnetic QWZ model in the reduced quasiperiodic representation. Extended, localized, and critical regimes are denoted by E, L, and C. The conventional regime |m + 2| > ty contains the extended- critical-localized sequence across tx = ty, whereas the regime |m + 2| ⩽ty contains a persistent critical phase for tx ⩾|m + 2|. The average inverse participation ratio scales as IPR ∝q−1, q0, and q−α with 0 < α < 1 in the extended, localized, and critical regimes, respectively. Wave-packet dynamics distinguish the same regimes through ballistic spreading, localization, and anomalous diffusion. II. QWZ MODEL UNDER A MAGNETIC FIELD In this section, we present the treatment of the QWZ model under a magnetic field. Considering the nearest- neighbor hopping, the tight-binding Hamiltonian of the QWZ model under a perpendicular magnetic field Bˆ z is given...",
+        "Fig. 2. For m = −1.5, the transition occurs at tx = m + 2 = 0.5, and the post-transition wave functions remain spatially sparse and multifractal rather than exponentially local- ized. For m = −0.5, the system follows the conventional sequence with a critical point at tx = 1 and localized states for larger tx. The visual distinction in Fig. 2 is quantified below by finite-size scaling of the average in- verse participation ratio. B. Finite-size scaling of IPR To quantify the eigenstate character, we compute the average inverse participation ratio (IPR). For the j-th normalized two-component eigenstate, the IPR is defined as [24] IPRj = q X ny=1 \u0010 |ψ(j) A (ny)|2 + |ψ(j) B (ny)|2\u00112 , (6) and the spectrum-averaged value is IPR = 1 2q 2q X j=1 IPRj. (7) For m > −1, IPR exhibits a sharp increase at tx = 1 [Fig. 3(a)]. For tx < 1, the eigenstates have low IPR and are extended; for tx > 1, the...",
+        "FIG. 2. Representative probability densities |ψ(ny)|2 = |ψA(ny)|2 + |ψB(ny)|2 for the magnetic QWZ model with q = 4181 and ty = 1. Panels (a)–(e) show m = −1.5: the state is extended for tx < 0.5, becomes critical at tx = 0.5, and remains critical for larger tx. Panels (f)–(j) show m = −0.5: the state is extended for tx < 1, critical at tx = 1, and localized for tx > 1. The critical states display multifractal spatial structure distinct from both the extended and localized limits.",
+        "FIG. 3. [(a),(b)] IPR vs tx for different m with system size q = 144 and ty = 1. (a) For m > −1, IPR exhibits a sharp increase at tx = 1, marking the transition from extended (tx < 1) to localized (tx > 1) states via critical states at tx = 1. (b) Enlarged view for −2 ⩽m ⩽−1, showing that the transition point is given by tx = m + 2, and the eigenstates remain critical after the transition without localization. (c) The scaling index α vs tx for different m. Three distinct scaling behaviors of IPR are observed for the conventional Anderson transition with m = −0.5, whereas only two types are observed for the novel transition with m = −1.5, with the transition point tx = m + 2, featuring a more general anomalous power-law decay. Eq. (8) can be merged, and the average IPR converges directly to a finite thermodynamic limit value IPR∞. For the conventional case m = −0.5, the fitted expo- nent...",
+        "FIG. 4. Time evolution of wave packets and power-law indices for the QWZ model. We set q = 4181 and ty = 1. [(a),(b)] Wave packet width p ⟨(∆y)2⟩vs time t for (a) m = −0.5 and (b) m = −1.5 with different tx. (c) Power-law index η vs tx for different m. For m = −0.5, η ≈1 (ballistic transport) for tx < 1, drops to 0.47 (anomalous diffusion) at tx = 1, and then to 0 (localized) for tx > 1. For m = −1.5, η ≈1 (ballistic transport) for tx < m + 2, drops to ≈0.3 at tx = m + 2, and remains around 0.3 (anomalous diffusion) for tx > m + 2. Schr¨ odinger equation (with ℏ= 1) i ∂ ∂tΨ(ny, t) = U(ny)Ψ(ny, t) −TyΨ(ny + 1, t) −T † y Ψ(ny −1, t). (13) where Ψ(ny, t) = \u0012 ΨA(ny, t) ΨB(ny, t) \u0013 is a superposition of eigenstates multiplied by their dynamical phase factors: Ψ(ny, t) = 2q X j=1 djψ(j)(ny)e−iEjt, (14) where the coefficients dj = P ny[ψ(j)(ny)]†Ψ(ny, 0), ob- tained by projecting the initial..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that quasiperiodic systems usually interpolate between extended, critical, and localized states as the quasiperiodic modulation is increased. Here we show that the magnetic Qi-Wu-Zhang Chern-insulator model realizes a distinct full-spectrum transition in which localization is avoided. These results identify magnetic Chern-insulator systems as a natural platform for robust criticality and anomalous quantum transport."
     },
     {
       "id": "arxiv:2606.31267",
@@ -484,7 +810,25 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": null
+      "image_url": "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "https://arxiv.org/icons/licenses/by-nc-sa-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "Fig. 4c. From CNP, Landau fans with standard integer quantum Hall sequences emerge (black lines). Crucially, a Landau fan with slope corresponding to C = +1 (red lines) originates from the ν = −1 correlated insulating state and becomes well developed above approximately 0.3 T, indicating that this state exhibits a nontrivial Chern response. Additional Landau fans with C = +1 and C = +2 (purple line) emanate from ν = −2, consistent with sequential filling of Chern bands in the correlated regime. The Hall resistance provides further characterization of the ν = −1 state. Fig. 4d displays line cuts of Rxx and Rxy along the C = +1 trajectory emanating from ν = −1. The Hall resistance approaches the quantized value −h/e2, reaching 97.6% of quantization at B ≈ 3.0 T, while the longitudinal resistance exhibits a pronounced minimum. This 10 near-quantized Hall response, combined with the..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that moire flat bands in graphene systems proximitized by transition-metal dichalcogenides (TMDCs) provide a setting where spin-orbit coupling (SOC) can reshape band topology. Here we show that in chiral-stacked twisted double bilayer graphene in proximity to WSe2, twist angle between graphene and WSe2 determines the topological character of correlated Chern insulators."
     },
     {
       "id": "arxiv:2606.30917",
@@ -501,7 +845,26 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.30917.png"
+      "image_url": "/data/figures/arxiv-2606.30917-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2606.30917-fig01.png",
+        "/data/figures/arxiv-2606.30917-fig02.png",
+        "/data/figures/arxiv-2606.30917-fig03.png",
+        "/data/figures/arxiv-2606.30917-fig04.png",
+        "/data/figures/arxiv-2606.30917-fig05.png",
+        "/data/figures/arxiv-2606.30917-fig06.png",
+        "/data/figures/arxiv-2606.30917-fig07.png",
+        "/data/figures/arxiv-2606.30917-fig08.png",
+        "/data/figures/arxiv-2606.30917-fig09.png",
+        "/data/figures/arxiv-2606.30917-fig10.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Topological alloy: (a) Doping in a pristine “host” insulator (H1D0) by substituting the host unit cells (H) with topological “dopants” (D) forms a topological alloy H1−ρDρ. (b) In doped semiconductors, either a donor level near the conduction band or an acceptor level near the valence band appears for n-type and p-type doping, respectively. (c) Topo- logical doping creates impurity levels both above and below the Fermi energy EF . These in-gap states can carry current loops around the impurity. H1−ρDρ, as schematically illustrated in Fig. 1(a). In con- ventional semiconductors, doping yields either donor lev- els (n-type) typically near the conduction band or accep- tor levels (p-type) near the valence band (see Fig. 1(b)). On the contrary, a topological dopant nucleates a pair of in-gap states, giving rise to impurity levels on both sides of the Fermi energy (see Fig. 1(c)). We...",
+        "FIG. 2. Phase diagram: (a) Configuration averaged σxx phase diagram of the topological random alloy on a 60 × 60 lattice, computed over 420 disorder realizations. Dashed lines are critical boundaries considering the virtual crystal approx- imation. The critical points marked with error bars are esti- mated via finite-size scaling. (b) Along Mh = −1, σxy transi- tion from the trivial and QAH phase, with a peak in σxx near ρ ≈0.31. (c) For Mh = 3, σxy = ∓e2/h phases are separated by a metallic region 0.41 ⪅ρ ⪅0.59 with large σxx. The data in (b) and (c) are averaged over 2000 configurations. While the host H1D0 supports both trivial (σxy = 0) and topological (σxy = ±e2/h) phases tuned by Mh, we al- ways stick to topological dopants with Md = 1 such that H0D1 has only σxy = e2/h phase. The intermediate ρ gives rise to a random binary alloy H1−ρDρ via topolog- ical doping—a topological...",
+        "FIG. 3. Domain percolation landscape: (a) Energy lev- els of an L = 20 host with a single dopant and Mh = −1. The inset shows the chiral current of in-gap states around the cross-marked doped site. (b) LCM in a configuration of the alloy with L = 100, Mh = −1, and ρ = 0.28 shows posi- tively chiral domains. (c) While DOS at ρ = 0.5 with PBC shows gapped impurity states within the host bulk, (inset) zero-modes appear under open boundary conditions (OBC). (d) The wavefunction amplitude |ψ|2 of these zero-modes lives on the global edge of the alloy. Meff ≈(2 −0.68) = 1.32, they eventually become topo- logical domains even at a very small doping density. The domain formation can be visualized via the “local Chern marker” defined at each site by, LCM(x, y) = −2πIm \u0000Trsite [PxP, PyP] \u0001 , where P = PN/2 n=1 |ψn⟩⟨ψn| is the many body ground state Projector at half-filling [58]. In Fig. 3(b), we...",
+        "FIG. 4. Edge mediated metal: (a) LCM in a snapshot of the L = 100 alloy with topological host Mh = 3 and ρ = 0.5. (b) In a L = 41 lattice, correlated patches of Mi = 1 and 3, both positive and negative LCM domains arise with co- propagating currents at their boundaries. (c) For Mh = 3, increasing ρ enhances the low-energy DOS; the inset illus- trates that these states (parameters the same as (a)) are ex- tended in the lattice. (d) With Anderson disorder U = 1 and particle-hole symmetry breaking term γ = 0.1, σxx (averaged over 1400 configurations) vs Mh at ρ = 0.5 exhibits a metallic phase in a class A alloy with scale-invariant conductivity. dering domain formation. Thus, as Mh →−∞, a global edge state can only form after the dopants go through a classical percolation transition, and the critical density for TPT in the alloy flows towards ρ →0.6. Emergence of a metal.—Domain formation..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that topological phases of matter are often realized in crystalline materials. To extend their understanding beyond perfect stoichiometry, we introduce a minimal model of a topological random binary alloy and show that the system realizes an exotic form of impurity-band engineering."
     },
     {
       "id": "arxiv:2606.29827",
@@ -519,7 +882,14 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.29827.png"
+      "image_url": "/data/figures/arxiv-2606.29827-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2606.29827-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic of (a) graphene and (b) the generation-1- Graphene-based fractal. The two different shades of circles de- note the two sublattices, A and B. The shaded rhombus indi- cates the unit cell of the fractal lattice, and the arrows repre- sent the primitive lattice vectors. (c) Schematic of the Haldane model showing next-nearest-neighbor hoppings on the two sub- lattices with opposite circulation, as shown by the dashed arrows in one of the hexagonal plaquates. on two Sierpi´ nski gaskets connected along one edge [37, 38]. We study the Haldane model on this gen-1-G-fractal system and explore the topological phase diagrams for different fill- ing fractions. In addition to such topological properties, flat bands provide another powerful route towards strongly cor- related and topologically nontrivial phases. Over the past decade, flat bands in translationally invariant lattices..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that graphene-based Sierpiński fractals host a zero-energy chiral mode and spin-1 Dirac dispersions within the nearest-neighbor tight-binding model."
     },
     {
       "id": "arxiv:2606.28686",
@@ -541,7 +911,18 @@
       "doi": "10.1021/acs.nanolett.6c01241",
       "source": "arXiv",
       "material_system": "Oxide_Heterostructure",
-      "image_url": "/data/figures/arxiv-2606.28686.png"
+      "image_url": "/data/figures/arxiv-2606.28686-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2606.28686-fig01.png",
+        "/data/figures/arxiv-2606.28686-fig02.png",
+        "/data/figures/arxiv-2606.28686-fig03.png"
+      ],
+      "figure_captions": [
+        "Figure 1. Sketches of the magnetic structure of Cr (001) surface and its SP-STM characterization. (a) The spin structure and surface state of Cr (001) with an out-of-plane C-SDW state. The spin-minority surface state band near EF is detected by Fe-tip. The black arrows indicate the net magnetic moment of each Cr layer. Red/blue arrows indicate the spin direction of surface state. (b) The lattice structure of bulk Cr. (c, d) Topographic image of Cr (001) surface and a 𝑆𝑆𝑍𝑍 map taken at the same region (Vb = -120mV, I = 100 pA). (e) Typical dI/dV spectrum taken on a defect-free region with a normal W tip (Vb = -1V, I = 200 pA). (f) A dI/dV map taken at the dashed square in (c), which shows the QPI modulation (Vb = -30mV, I = 100 pA). Inset: the corresponding FFT image. (g) Color plot of FFT linecuts taken at various energies, showing a surface state dispersion. A parabolic fit yields a...",
+        "Figure 1a. Figure 1c shows a topographic image of such Cr (001) surface with atomically flat terraces. A pure spin map with spin sensitivity along Z (SZ map) is shown in Figure 1d, which is obtained from the relative 4 difference of dI/dV maps measured by a Fe-tip magnetized along +Z and -Z: 𝑆𝑆𝑍𝑍= ቀ 𝒅𝒅𝒅𝒅 𝒅𝒅𝒅𝒅ቚ +𝒁𝒁− 𝒅𝒅𝒅𝒅 𝒅𝒅𝒅𝒅ቚ −𝒁𝒁ቁ/ ቀ 𝒅𝒅𝒅𝒅 𝒅𝒅𝒅𝒅ቚ +𝒁𝒁+ 𝒅𝒅𝒅𝒅 𝒅𝒅𝒅𝒅ቚ −𝒁𝒁ቁ (2) The SZ map clearly displays reversed spin signal between adjacent terraces, indicating a C-SDW state. As shown below, this spin contrast is mainly contributed by a spin-polarized surface state near EF. By contrast, if the tip is magnetized along in-plane direction (X or Y), no spin contrast can be observed (Figure S1 of SM), indicating the magnetization of surface Cr layer is along out-of-plane with negligible in-plane component. Figure 1e shows a representative dI/dV spectrum of the Cr (001) surface measured by a normal...",
+        "Figure 1e. This dispersion well matches the surface state band observed in previous ARPES studies of Cr(001) 52,53 (see Figure S2), and DFT calculations indicate that this state is the spin-minority branch of a Shockley-type surface state, which has significant pz orbital character49,53. It originates from the exchange splitting (~1.5 eV) induced by uncompensated ferromagnetism in Cr (001) surface layer, as sketched in"
+      ],
+      "ai_summary": "In Oxide Heterostructure, this paper argues that interfacial exchange coupling plays a critical role in enabling novel phenomena in magnetic heterostructures, such as spin triplet superconductivity, quantum anomalous Hall effect (QAHE), and advanced spintronic functionalities. Our results demonstrate that extended 2D surface states can mediate strong exchange coupling across a heterojunction, enabling local control of interfacial exchange interaction induced phenomena."
     },
     {
       "id": "arxiv:2606.28549",
@@ -556,7 +937,30 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.28549.png"
+      "image_url": "/data/figures/arxiv-2606.28549-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2606.28549-fig01.png",
+        "/data/figures/arxiv-2606.28549-fig02.png",
+        "/data/figures/arxiv-2606.28549-fig03.png",
+        "/data/figures/arxiv-2606.28549-fig04.png",
+        "/data/figures/arxiv-2606.28549-fig05.png",
+        "/data/figures/arxiv-2606.28549-fig06.png",
+        "/data/figures/arxiv-2606.28549-fig07.png",
+        "/data/figures/arxiv-2606.28549-fig08.png",
+        "/data/figures/arxiv-2606.28549-fig09.png",
+        "/data/figures/arxiv-2606.28549-fig10.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Position Space Chern Number: (a) Evolution of CR as a function of ηR for a system b H = b HT + b HR with tR = 6t and L = 30a at half filling and T = 0. Topological phase transitions occur around ηR = 0, ±2 where the system becomes gapless. (b) Energy gap as a function of ηR and the ratio of the coupling tR/t. Topologically distinct phases are separated by gapless regions. Dashed white line represents the phase space cut shown in (a). follows. In the limit t →0 the system becomes trans- lationally invariant in momentum space such that eigen- states of the Hamiltonian take the form of |wn(ri)⟩with ξ↑ +(r) = cos(θi/2), ξ↓ +(ri) = eiϕi sin(θi/2), ξ↑ −(ri) = e−iϕi sin(θi/2), and ξ↓ −(r) = −cos(θi/2). Here (ϕi, θi) are the spherical and polar angles parameterizing ˆ m(ri). Substitution into (8) and taking the thermodynamic limit leads to CR = −Nsk (see equation (1)) [55]. For the cho-...",
+        "FIG. 2. 1D Momentum Space Edge Potential: Coupling strengths tB(xi, 0) for a site in the middle of the chain of size N = 21. Effect of boundary is to induce coupling between sites that oscillate at wavelengths ∼2a, 2L. The edge states have energies within the bulk energy gap and are thus centered near where E+ (E−) takes its min- imum (maximum) values. For this particular magnetic texture, ηR = −1, minima of E+ occur near the center of the ribbon and the edge states closest to E = 0 are localized here (see Fig. 3(b)). A. Other Perturbations For Observing Edge States The conventional edge structure in momentum space leads to long range couplings between sites on the posi- tion space lattice that may be challenging to implement in an experimental setting. The edge states associated with the bulk-boundary correspondence endowed by the position space Chern number will exist as long as there...",
+        "FIG. 3. Bulk-edge Correspondence for Position Space Chern Insulators: Here we consider a system, b HRG, with N = 212 = 441 sites and ηR = −1. (a) Energy spectrum with t = 0.1tR consisting of bulk states (orange) and edge states (purple). (b)-(c) Local probability density in the position (b), |Ψ(r)|2, and momentum (c), |Ψ(k)|2, basis for edge state highlighted (red) in (a). (d)-(e) Local probability density in the position (d), |Ψ(r)|2, and momentum (e), |Ψ(k)|2, basis for typical bulk state highlighted (blue) in (a). (f) Local potential E+(r) = tR|m(r)| showing minima at center of ribbon where low energy edge states traverse the ribbon. <latexit sha1_base64=\"7/zlpitJCNnFifsmNg1TCB2zA=\"> ADrXicnVJNb9QwEHU3fJTlq4Ujl4hVJU5LgqrCsYILxyKxbaXdZTVxJokVx7bsCWKJ8he49ND+tf4bknQPTXYvMJKl5zcznjfjiYwU...",
+        "FIG. 4. Coupling Strengths for 1D Gaussian Poten- tial: In order to make the position space couplings induced by a momentum space wall b H1D w local, we may consider a wide gaussian distribution V 1D k (k) in momentum space. (a) Coupling coefficients in momentum space for gaussian wall of various widths for a 1D chain of N = 31 sites with lat- tice constant a. (b) Corresponding position space couplings V 1D r (xi, 0). As the momentum space wall width increases V 1D r (xi, 0) becomes more local. a pathway to measuring the topology of these systems through the observation of its topological edge states when the system is perturbed by a momentum space wall-like potential. Like for momentum space Chern in- sulators, position space topology also indicates properties that manifest in the bulk of the sample. In the case of momentum space Chern insulators, CK ̸= 0 leads to a bulk Hall...",
+        "FIG. 5. Edge states for Gaussian Potential Wall: En- ergy spectrum and representative edge state for a system with b H = b HT + b HR in a ribbon geometry with periodic boundary conditions in the x-direction, but of finite extent in the y- direction with t = 0.1tR and ηR = −1. Ribbon contains N = 212 sites with lattice constant a subjected to a gaussian potential with A = 4.5tR and aσ = 0.25 ((a)-(b)) and aσ = 1 ((c)-(d)). Edgestates are localized near ∂2 kyV (ky) = 0. <latexit sha1_base64=\"Q YmzNQ3GrpZ5EP0y48oVP2KUlpw=\">ADvHicnVJLb9NA EN7GPEp4JXDkYhFVKpfIRqhwQhUIiWNBpK2URNF6PXZW3 pd2x4Vg+Vdw5gq/iX/D2s2hdnKBkSx9/mZm5tHYgR3GE V/DgbBrdt37h7eG95/8PDR49H4ybnTpWUwY1poe5lQB4I rmCFHAZfGApWJgIukeN/4L67AOq7VF9wYWEqaK5xRtFT q9F4kWaWsurDsXpRV7j6XK9Gk2gatRbugngLJmRrZ6vx4M ci1ayUoJAJ6tw8jgwuK2qRMwH1cFE6MJQVNIe5h4pKcMu q1V6HR5Jw0xb/ykMW/ZmRkWlcxuZ+EhJce36vobc5uX...",
+        "FIG. 6. Trivial Insulators: Energy spectra for systems shown in Fig. 3(a), 5(a), and 5(b) (shown in Fig. 6 (a), (b), and (c) respectively), with the same system parameters, but ηR = −3. response of a system to a constant V = −∂tAK(t) is described through the relation jp i = P j=x,y χijVj with χH = (χxy −χyx)/2 and χH = CR/2πℏ. Similiarly to the Hall conductivity, nonzero χH, manifests in a term in the effective action of the form S ∼χH 2 2 X µ,ν,ρ=0 Z d2kdt εµνρAK µ ∂νAK ρ (33) with AK µ = (−cΓ, AK x , AK y ) whose equations of motion, for Γ = 0, reproduce jp i = P j χHϵijVj and the relation ∂tnp = χH∂t(∇p × AK) · ˆ z. The exploration of pertur- bations with non-zero time component, AK 0 = −cΓ is left for future work. The field AK couples to the system via the substi- tution ˆ r →ˆ r + AK. A time dependent field AK(t) describes a flow of electrons in the system. This is most readily...",
+        "FIG. 7. Phase Space Chern Invariants: Position and momentum space Chern invariants as a function of the ratio of coupling strengths tK/tR for a system of size L = 30a and ηK = ηR = 1. For |tK| ≪|tR| the system is in a Chern insulating phase with CK = 0 and CR = 1. As the coupling strengths become comparable |tK| ∼|tR| (dashed blue lines) the system becomes gapless. At large |tK| ≫|tR| system is in a Chern insulating phase with CK = sgn(tK/tR). eigenvalues E±(r, k) = ±|tKd(k) + tRd(k)|. To make connection with the fully quantum theory we can define average semiclassical Chern numbers ¯ Csc K = 1 2πV Z d2r Z d2k ΩK,sc − (r, k) · ˆ z (39) ¯ Csc R = 1 2πVBZ Z d2k Z d2r ΩR,sc − (r, k) · ˆ z (40) where VBZ is the volume of the Brillouin zone. Figure 8(c)-(d) shows the values of the semiclassical Chern num- bers ¯ Csc K and ¯ Csc R as a function of ηK and the ratio tK/tR for ηR = 1. The...",
+        "FIG. 8. Topological Phase Spaces and Semiclassical Results: Position and momentum space Chern invariants as a function of the ratio of coupling strengths tK/tR and ηK with ηR = 1 for L = 20a. (a)-(b) Full quantum mechani- cal calculation showing transition between topological phases. Dashed lines show boundary where tR ∼tK around which the dominant coupling strength (tK or tR) changes. Note that there is no region for which CK and CR are non-zero at the same time, indicating evidence for a topological obstruction preventing this type of state. (c)-(d) Semiclassical calculation of average Chern numbers across the system reproducing the diagram of the full quantum calculation in (a)-(b) with tran- sitions between different topological sectors smoothed. Here Ls ∼L ≫a such that gradient corrections to the curvatures Ωn K(ξ) and Ωn R(ξ) are small. For the position space Chern number, systems..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that this paper introduces an index that categorizes the topology of insulating chiral magnetic systems. The Chern-Simons effective field theory describing position space Chern insulators reveals a topologically quantized correlation between transverse force operators that describe the flow of quanta in momentum space."
     },
     {
       "id": "arxiv:2606.26632",
@@ -571,7 +975,28 @@
       "doi": "10.1103/mslj-zz6t",
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.26632.png"
+      "image_url": "/data/figures/arxiv-2606.26632-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2606.26632-fig01.png",
+        "/data/figures/arxiv-2606.26632-fig02.png",
+        "/data/figures/arxiv-2606.26632-fig03.png",
+        "/data/figures/arxiv-2606.26632-fig04.png",
+        "/data/figures/arxiv-2606.26632-fig05.png",
+        "/data/figures/arxiv-2606.26632-fig06.png",
+        "/data/figures/arxiv-2606.26632-fig07.png",
+        "/data/figures/arxiv-2606.26632-fig08.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic illustration of a two-dimensional dx2−y2- wave altermagnet irradiated by circularly polarized light. Structural inversion asymmetry, introduced by the substrate or interfacial proximity effects, generates a perpendicular elec- tric field that induces Rashba spin-orbit coupling (RSOC). The interplay between RSOC, the dx2−y2-wave altermagnetic exchange texture, and an out-of-plane magnetization leads to a quantum anomalous Hall insulating state with a high Chern number (C = ±3) under circularly polarized light irradiation. The out-of-plane magnetization is achievable by extrinsic ex- change couplings induced by the proximity of a ferromagnet. momentum locking and alternating spin-splitting in re- ciprocal space. These spin-splitting patterns are gov- erned by the magnetic symmetries such as dx2−y2, g, or i-wave types. Consequently, even with the collinear mag- netic...",
+        "Fig. 1. The Rashba spin–orbit coupling (RSOC) can be induced either by interfacial proximity effects or by structural inversion asymmetry. In addition, an out-of-plane magnetization may be introduced on the altermagnetic plate. Such a Zeeman-like spin splitting can originate from several mechanisms. In altermagnets, which possess zero net intrinsic magnetization, an effec- tive out-of-plane magnetization may be induced by an external magnetic field, by proximity-induced exchange coupling from an adjacent ferromagnet, or via the Edel- stein effect in the presence of an in-plane electric field. The effective two-band Hamiltonian for a dx2−y2-wave altermagnet on a square lattice can be expressed in the compact form Hstatic(k) = dstatic(k) · σ, where σ = (σx, σy, σz) are the Pauli matrices and σ0 denotes the identity matrix. The components of the vector dstatic(k) are given by dstatic 0 =...",
+        "FIG. 2. The band structure of dx2−y2- wave altermagnet in presence of Rashba spin-orbit coupling for the case of Mz = 0 along a path including high symmetry points in the first Bril- louin zone which is displayed in the right panel. Light illu- mination is turned off at this stage. Right panel: Four new gapless G-points are indicated in the first Brillouin zone ap- pearing in dx2−y2-wave altermagnets irradiated by cirucularly polarized light. We set Rashba spin-orbit coupling, λ = 0.3 eV and the altermagnetic spin splitting, J = 0.7 eV. number becomes +1 for 0 < Mz < 4J and −1 for −4J < Mz < 0, corresponding to a quantum anomalous Hall insulator (QAHI). The band structure of the static Hamiltonian in Eq. 1 for Mz = 0 is shown in",
+        "Fig. 2. The chosen path spans the high-symmetry points of the first Brillouin zone. In the absence of a uniform out-of-plane magnetization, the spectrum remains gapless at the Γ and M points. Since the altermagnetic exchange term is momentum depen- dent, it does not open a global band gap. A finite and uniform out-of-plane magnetization is therefore required to open a topological gap. One can reconstruct the Hamiltonian represented in Eq. 1 as the following Hstatic(k) = T0+Txeikxa+T † xe−ikxa+Tyeikya+T † y e−ikya, (3) where the onsite matrix T0 and the hopping matrices along the x, y directions Tx , Ty are defined as T0 =4tσ0 + Mzσz Tx = −tσ0 −Jσz + λ 2iσy Ty = −tσ0 + Jσz −λ 2iσx. (4) Now, the real-space tight-binding form of Hamiltonian 1 reads Hstatic = X r [c† rT0cr + (c† r+aˆ xTxcr + c† r+aˆ yTycr + h.c.)] (5) where c† r and cr are the creation and annihilation oper- ators of...",
+        "FIG. 3. a) The band spectrum of dx2−y2- wave altermagnet irradiated by a light with the amplitude A0 = 0.4(1/nm) and application of the external magnetization Mz = −0.37 eV. In this spectrum, the four gapless G-points are observed which are responsible for emerging of high Chern number in irradiated d-wave altermagnets. b) the feature of the Berry curvature close to the gapless condition of the G-points (A0 = 0.385(1/nm)) shown in the phase diagram,",
+        "Fig. 4. An integral over the BZ results in high Chern number C = +3 for this distribution of the Berry curvature. Here, system param- eters are set as λ = 0.5 eV, J = 1.0 eV and the light frequency Ω= 5 eV. an effective magnetic field through the Floquet commu- tator [H−1, H+1]. This induced magnetization is oriented along the propagation direction of the incident light [36]. Finally, the off-diagonal components of the effective Hamiltonian in Eq. (14) reveal a renormalization of the Rashba SOC generated by the periodic drive [34]. Indeed, CPL renormalizes the linear Rashba spin–orbit coupling, leading to anisotropic SOC strength along the kx and ky directions. This anisotropy, quantified by the parameter λ′, is comparable in magnitude to the bare RSOC λ and vanishes identically when J = 0, highlighting its intrinsic connection to altermagnetism. In addition, a higher-order SOC term...",
+        "FIG. 4. (a) Phase diagram of a dx2−y2-wave altermagnet un- der the right-handed circularly polarized light (sgn(Ω) > 0) in the high-frequency regime, plotted as a function of the out- of-plane magnetization (Mz) and the light amplitude (A0). Red numbers denote the Chern number of the lower band of the effective off-resonant Hamiltonian [Eq. 13]. Gap-closing boundaries at the high-symmetry points (Γ), (M), (X), and (Y) separate phases with distinct topological invariants. At strong driving, additional gap closings at four momenta (Gi) (i = 1, . . . , 4) occur in the regime |B| < |C|. (b) Corre- sponding phase diagram for the left-handed circularly polar- ized light (sgn(Ω) < 0). (c) Enlarged view of the |B| < |C| region for the right-handed polarization, revealing multiple quantum anomalous Hall phases generated by the rearrange- ment of gap-closing boundaries. Parameters: λ = 0.5 eV, J...",
+        "FIG. 5. (a) Phase diagram of the dx2−y2-wave altermag- net irradiated by the right-handed circularly polarized light, sgn(Ω) > 0, for the off-resonant regime shown as a function of the altermagnetc spin-splitting J and the light amplitude A0. Panels correspond to (a) Mz = +0.2 eV (b) Mz = −0.2 eV. Red numbers indicate the chern number for the lower band. Gap-closing boundaries at the X, Y and G-points separates regions with distinct topological phases. Throughout the phase diagram, the mass term satisfies sgn(dz) > 0(< 0) at the Γ and M points for Mz = +0.2 eV(−0.2 eV). Parameters: λ = 0.5 eV and the light frequency Ω= 5 eV. A. Gap-closing points and their classification The gap is closed at the points where the condition deff x = deff y = 0 is satisfied. Looking at Eq. 13 leads simply us to the following conditions which must be simultane- ously satisfied, \u001a sin(kya)[B + C cos(kxa)] =..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we investigate Floquet-engineered topological phases in two-dimensional $d_{x^2-y^2}$-wave altermagnets irradiated by circularly polarized light in the off-resonant regime. Using a lattice model combined with Floquet theory, we demonstrate that irradiation induces the light-tunable quantum anomalous Hall phases with the Chern numbers up to $\\pm 3$."
     },
     {
       "id": "arxiv:2606.26548",
@@ -591,7 +1016,20 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "MnBi2Te4_MTI",
-      "image_url": "/data/figures/arxiv-2606.26548.png"
+      "image_url": "/data/figures/arxiv-2606.26548-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2606.26548-fig01.png",
+        "/data/figures/arxiv-2606.26548-fig02.png",
+        "/data/figures/arxiv-2606.26548-fig03.png",
+        "/data/figures/arxiv-2606.26548-fig04.png"
+      ],
+      "figure_captions": [
+        "Figure 1a. Specifi- cally, (I) Retaining the TC2z operation enforces Ωz(k) ≡0. (II) Retaining TMz yields an odd- parity distribution, Ωz(k) = −Ωz(−k), strictly enforcing C = 0. (III) The C2x and Mx op- erators, occurring when magnetization aligns with an in-plane twofold axis or perpendicular to a vertical mirror plane, cause the symmetry- related momentum points to exhibit opposite Berry curvatures, Ωz(k) = −Ωz(k′). (IV) Con- versely, operators such as P, TC2x, and TMx enforce even-parity or symmetric distribution, 2",
+        "Figure 1: (a) Constraints of magnetic symmetry operations on the distribution of Berry curvature Ω(k) in 2D momentum space. (b) Phase diagram mapping the Chern number C as a function of the in-plane spin orientation in a centrosymmetric ¯ 3m system, with the twofold axis aligned along the x axis. Ωz(k) = Ωz(k′), thereby permitting a non-zero Chern number. Consequently, to host a non- trivial topological phase in an in-plane ferro- magnet, the crystal structure must break both C2z and Mz operations, restricting the opera- tors along the out-of-plane principal axes to C3z or PC3z. Crucially, to drive a topological phase transition via in-plane magnetization rotation, the crystal structure must inherently include ei- ther C2x or Mx operations, as summarized in Table 1. Among the point groups satisfying this prerequisite, hexagonal systems (specifically 32, 3m, and ¯ 3m) are highly...",
+        "Figure 1b. Consequently, chang- ing the in-plane spin direction provides a ro- bust mechanism to trigger sign reversals of the Chern number and drive topological phase tran- sitions from a Chern insulator to a trivial insu- lator state. To elucidate the microscopic mechanism of topological phase transition driven by in-plane spin rotation, we construct a tight-binding model on a kagome lattice, with the Hamilto- nian formulated as: H = −t X ⟨iα,jβ⟩ c† iαcjβ + iλI X ⟨iα,jβ⟩ µijc† iασz αβcjβ + iλR X ⟨iα,jβ⟩ νijc† iα(⃗ σ · ⃗ ηij)αβcjβ + B X i,α,β c† iα( ˆ m(θ, φ) · ⃗ σ)αβciβ (2) 3 Table 1: Classification of symmetry constraints for 2D point groups hosting in-plane ferromagnetic Chern insulators. Here, c† iα (cjβ) denotes the creation (annihila- tion) operator for an electron with spin α(β) at site i (j). ⃗ σ represents the Pauli matrices, and the direction coefficients µij and νij take...",
+        "Figure 2: Spin-orientation-dependent topological properties derived from the tight-binding model. (a) Band structures along the high-symmetry Γ-M paths and (b) corresponding Berry curvature distributions for selected in-plane azimuthal angles (φ = 0◦, 30◦, 90◦). The spin azimuthal angle is denoted as φ (relative to the x axis). The insets in (a) show the magnetic symmetry operations retained under the corresponding spin orientation. The dashed and solid lines represent the retained mirror planes and twofold axes, respectively. The tight-binding parameters are set as t = 0.5, λI = 0.1, λR = 0.05, and B = 0.65. (c) Topological phase diagrams illustrating the angular dependence of the Chern number for spin rotation within the xz and yz planes. and first-principles molecular dynamics simula- tions, respectively (see Figure S2). To determine the magnetic ground state, we calculated the..."
+      ],
+      "ai_summary": "In MnBi2Te4 MTI, this paper argues that the intrinsic coupling between magnetism and nontrivial band topology in magnetic topological insulators makes external magnetic fields a powerful tool for manipulating topological states. Using a two-dimensional kagome ferromagnetic Chern insulator as a prototype, we demonstrate that a 60°in-plane magnetization rotation reverses the sign of the Chern number, transitioning through a topologically trivial state. This work provides a highly efficient, low-energy paradigm for the manipulation of topological states."
     },
     {
       "id": "arxiv:2606.26096",
@@ -607,7 +1045,14 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": null
+      "image_url": "/data/figures/arxiv-2606.26096-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2606.26096-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic of the one-dimensional model with two orbitals c (blue) and d (red) per unit cell labeled by ℓ. The λ- dependent onsite SOC is indicated by σ and the black arrows indicate the phases of the intersite hopping terms. Not shown in this schematic is the mass term which depends on both λ and m (see Eq. 6). Reproduced from Ref. [27]. II. FOUR-DIMENSIONAL CHERN INSULATOR We begin from the (4 + 1)-dimensional Dirac Hamiltonian[28, 29] H = Z d4x \u0002 ψ†(x)Γµ(−i∂µ)ψ(x) + mψ†Γ0ψ \u0003 , (1) where µ runs over four spatial dimensions. Γ0 and Γµ are the five anti-commuting Dirac matrices. The lattice version of this model is given by[25] Hk = ψ† k \"X µ sin kµΓµ + m + c X µ cos kµ ! Γ0 # ψk, (2) with momenta on the four-torus k ∈T 4. From now on, we set c = 1. The spectrum of this model is E±(k) = ± v u u t m + X µ cos kµ !2 + X µ sin2 kµ. (3) We can characterize the four-dimensional Dirac..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we rewrite a lattice model of the four-dimensional Chern insulator as a family of translationally-invariant infinite chains over the three-dimensional Brillouin zone and compute its higher three-form Berry curvature using infinite matrix product states (iMPS). We calculate the topological phase diagram of the associated Dixmier--Douady--Kapustin--Spodyneiko (DDKS) number as a function of the model's mass term, and show that it is exactly congruent to the phase diagram in terms of the second Chern number, the analytic expression of which is known for this particular model."
     },
     {
       "id": "arxiv:2606.24670",
@@ -625,7 +1070,29 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Oxide_Heterostructure",
-      "image_url": "/data/figures/arxiv-2606.24670.png"
+      "image_url": "/data/figures/arxiv-2606.24670-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2606.24670-fig01.png",
+        "/data/figures/arxiv-2606.24670-fig02.png",
+        "/data/figures/arxiv-2606.24670-fig03.png",
+        "/data/figures/arxiv-2606.24670-fig04.png",
+        "/data/figures/arxiv-2606.24670-fig05.png",
+        "/data/figures/arxiv-2606.24670-fig06.png",
+        "/data/figures/arxiv-2606.24670-fig07.png",
+        "/data/figures/arxiv-2606.24670-fig08.png",
+        "/data/figures/arxiv-2606.24670-fig09.png",
+        "/data/figures/arxiv-2606.24670-fig10.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Panel (a) Crystal field V (r) as obtained from Eq. (3). Panel (b) PMF Bz(r) as obtained from Eq. (4). Panel (c) PMF shifted by a vector r0 with respect to the crystal field, i.e. Bz(r −r0). Parameters are fixed to be a0 = 80 nm, W = 1.57 meV, and βΦ0/2π = 330 mT. In all panels, the black dot in the center of the figure refers to the origin of the axis and is added as a guide for the eye. GaAs/AlGaAs heterostructures. When combined with an engineered honeycomb electrostatic potential, such periodic magnetic architectures could provide a physi- cally direct route to break time-reversal symmetry and target flux textures with vanishing flux over a UC. We stress that any unintended uniform magnetic-field com- ponent generated by a periodic array of micromagnets can be fully compensated by an external magnetic field of matching strength applied in the opposite direction. These...",
+        "FIG. 2. Energy bands, along the high-symmetry path K′ −Γ −K −M −Γ in the BZ, for different magnetic-field patterns. (a) βΦ0/2π = 0 and r0 = 0. (b) βΦ0/2π = 330 mT and r0 = 0. (c) βΦ0/2π = 330 mT and r0 = a0(−0.45, −0.43). Other parameters are chosen as a0 = 80 nm, m∗= 0.062 me, and W = 1.57 meV. spatial structure. In panel (c), the PMF is displaced by a vector r0 relative to the crystal field, i.e. Bz(r −r0), which in general explicitly breaks both rotational and inversion symmetries of the D6h point group. The con- sequences of the rigid relative shift r0 = (x0, y0) between the crystal potential and the magnetic-field pattern are studied in depth in the next section. To produce the data in Fig. 1, we choose a0 = 80 nm, m∗= 0.062 me, and W = 1.57 meV, values compatible with experimentally accessible parameters in GaAs heterostructures [30, 36]. Unless indicated otherwise, we will employ...",
+        "FIG. 3. Topological phase diagram. The Chern number C of the lowest band ϵk,λ=1 as a function of the shift vector r0 = (x0, y0). (a) βΦ0/(2π) = 33 mT. (b) βΦ0/(2π) = 330 mT. All other parameters are fixed as in",
+        "Fig. 2. The light-green cross marks the gap-closing point r⋆ 0. The dashed black lines outline the hexagonal UC of the direct lattice. Band structure and topological phase diagram.— Using a plane-wave expansion (see Sec. S1 of the Supplemental Material (SM) [38]), one can diagonalize ˆ H and obtain the band dispersion ϵk,λ, where λ represents the band in- dex (λ = 1 denoting the lowest band). Fig. 2 shows three representative band structures for different magnetic- field patterns. Fig. 2(a) corresponds to βΦ0/(2π) = 0, where Dirac cones appear at K and K′. This is expected because, for the choice of the crystal field in Eq. (3), the electrons experience attractive potential minima ar- ranged on a honeycomb lattice [see Fig. 1(a)]. As shown in Fig. 2(b), a finite magnetic field, βΦ0/(2π) ≃330 mT (corresponding to β = 1 × 10−3 nm−2), opens gaps at both K and K′. Parity remains preserved...",
+        "Fig. 3. Considering the region in the vicinity of r⋆ 0, we also note that mH and mS remain zero along orthog- onal directions (tangent to the white circle for mH and along the vertical axis for mS). This implies that the two masses can be tuned independently in the neighborhood of r⋆ 0. The same behavior holds for the other gap-closing points, obtained from r⋆ 0 by C6z rotations around the origin. To make this argument quantitative, we use the ap- proximate expressions (15a) and (15b) and expand mH and mS about r⋆ 0. Let δr ≡r0 −r⋆ 0 , (16) and define unit vectors that are parallel and perpendic- ular to r⋆ 0 (see Fig. 4), ˆ e∥≡r⋆ 0 |r⋆ 0|, ˆ e⊥such that ˆ e⊥· ˆ e∥= 0 , (17) so that δr = δ∥ˆ e∥+ δ⊥ˆ e⊥. (18) Expanding the Haldane mass (15a) in δr yields mH(r⋆ 0 + δr) = 2πt1 a0 β δ∥+ O(δ2 ∥, δ2 ⊥) , (19) the leading term being O(δ∥). In particular, notice that there is no linear...",
+        "FIG. 4. (a) Haldane mass mH from Eq. (15a). (b) Semenoff mass mS from Eq. (15b). For comparison, we express both masses in units of the energy t2 1β2/W. The black cross marks the gap-closing point r⋆ 0, and the axes indicate the decoupling directions ˆ e∥and ˆ e⊥. Here we fixed βΦ0/(2π) = 33 mT. All other parameters are fixed as in",
+        "Fig. 2. point r⋆ 0 = 1 3(a1 + a2) in the phase diagram of Fig. 3(b). The resulting profile closely resembles the Haldane phase diagram at φ = π [1], which separates the C = −1 phase from the C = 1 phase. Remarkably, this shows that even for arbitrary values of the PMFs, we find a direct anal- ogy with the Haldane model by focusing on regions of the phase diagram around the gap-closing points. Summary and conclusions.—We studied a minimal model of spinless, non-interacting electrons in two spa- tial dimensions subject to a periodic scalar potential V (r) and a PMF Bz(r) with zero net flux per UC. The vanishing-flux condition allows for a periodic gauge and preserves ordinary lattice translations for any rela- tive displacement r0 between the two patterns V (r) and Bz(r), providing topological Bloch bands without a uni- form magnetic field. Numerical plane-wave diagonalization shows that..."
+      ],
+      "ai_summary": "In Oxide Heterostructure, this paper argues that the Haldane model represents the minimal lattice-based realization of a Chern insulator, exhibiting a quantized Hall conductance in the absence of Landau levels. The combined electrostatic and magnetic superlattices furnish a viable route to emulate the topological properties of the Haldane model."
     },
     {
       "id": "arxiv:2606.23795",
@@ -646,7 +1113,30 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": null
+      "image_url": "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png"
+      ],
+      "figure_captions": [
+        "Fig. 2A. This is further confirmed in their structure factor 𝑆(𝒒 I I⃑) shown in Fig. 2F [section S9 (30)], with six sharp moiré Bragg peaks (in red hexagons) in C3 symmetry. Notably, a CI with (C, s) = (-4, 1), while preserving moiré translational symmetry, develop an emergent Kagome charge order with intra moiré unit cell structure (Fig. 2B). This feature gives rise to the higher order Bragg peaks (blue circles) in",
+        "Fig. 2G. The rich intra moiré unit cell structure highlight importance of coulomb interaction within a unit cell(32), even in the cases of CIs with integer (C, s). Signature of breaking the moiré translational symmetry appears in the STM images of CIs with fractional s, such as the state (C, s) = (-1, 1/2) shown in",
+        "Fig. 2C. Instead of the original triangular moiré translation symmetry, we measure a stripe-like charge order with reconstructed unit cell (green rectangles). The structure factor 𝑆(𝒒 I I⃑) maps (Fig. 2H) constructed from these images show the absence of C3 symmetric moiré Bragg peaks (red hexagons), and the emergence of new C2 symmetric Bragg peaks (green squares). The dominant Bragg peaks appear at half of the reciprocal vector 𝒃 (denoted in Fig. 2F) of the moiré superlattice, showing that the real-space periodicity of the stripe charge order is twice the moiré lattice constant. Our observation is consistent with a charge density wave (CDW) doubling the moiré unit cell at half filling of the Hofstadter’s subband. Our observation of CDWs with a finite Chern number C is distinct from 5 previous reports of moiré commensurate CDWs, termed generalized Wigner crystals(33), which are...",
+        "Fig. 3G. We image the charge order with broken translation symmetry at eight different VG (fig. S18 and S19) and analyze the locations and types of topological defects as in",
+        "Fig. 3H. The total number of topological defects, summing all three wavevectors 𝒒), are plotted in Fig. 3I as a function of VG. We observe a trend of increasing the total number of (anti-)dislocations as the system is doped away from the center of the incompressible gap near VG = -0.168 V. Our measurements indicate that the quantum phase transition for this SBCI to a compressible phase is mediated by proliferation of topological defects, consistent with a Kosterlitz-Thouless (KT) transition(36, 37). Quantum melting and phase separation Finally, we present an example of a quantum phase transition for a Chern insulator that occurs via phase separation and a possible signature of topological edge modes at the phase boundary. Figure 4 shows a series of images near the (C, s) = (-4, 1) (indicated in Fig. 4A), which has a Kagome lattice structure (Fig. 4B). Upon increasing VG, there is a...",
+        "Fig. 1. Spectroscopic studies of Hofstadter’s spectrum in Bernal-stacked bilayer graphene/hBN heterostructure. (A) A clean topograph of a device with periodic structure of bilayer graphene/hBN moiré. The black scale bar is 50 nm. The inset shows the Fourier transform of the topography map, the Bragg peaks of the moiré are marked by red circles, the corresponding periodicity is 14.28 nm. The white scale bar of the inset is 0.5 nm-1. (B) A density (tuned by gate voltages VG) dependent STS measured at B=13.8 T, 𝜙/𝜙! = 0.588. The vertical axis is the tip bias voltage VB where it probes the electron (hole) excitation at VB >0 (VB <0). On VG >0 (VG <0), the electrons are away from (close to) moiré. The insulating gaps can be identified as gap opening at the Fermi level. Gaps opening at VG >0 are asymmetric to VG <0 with respect to the charge neutrality. The top horizontal axis shows the..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that in the presence of a magnetic field, electronic states of moiré quantum materials develop a Hofstadter spectrum that provides a unique setting for studying the interplay between band topology and strong electron-electron interaction. Our measurements reveal the formation of phases that double, triple or quadruple the moiré unit cell at fractional filling of the Hofstadter bands, as well as states with complex intra-unit-cell wave functions."
     }
   ]
 }
