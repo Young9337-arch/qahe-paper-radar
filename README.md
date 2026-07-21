@@ -24,6 +24,8 @@ The updater collects recent papers from arXiv, Crossref, and optional publisher 
 
 ## GitHub Pages Deployment
 
+Live site: `https://Young9337-arch.github.io/qahe-paper-radar/`
+
 1. Push changes to the `main` branch.
 2. In the GitHub repository, open Settings -> Pages.
 3. Set Source to GitHub Actions.
