@@ -98,6 +98,12 @@ def summarize_paper(title: str, abstract: str, material_system: str) -> str:
     label = material_system.replace("_", " ")
     return f"In {label}, this paper argues that {summary[0].lower() + summary[1:]}"
 
+def ai_assisted_abstract(title: str, ai_summary: str) -> str:
+    basis = clean(ai_summary)
+    if basis and not basis.startswith("No abstract is available"):
+        return f"AI-assisted abstract based on the title and available metadata: {basis}"
+    return f"AI-assisted abstract based on the title and available metadata: This paper studies {clean(title)} in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid."
+
 def date_parts(item: dict) -> str:
     for key in ("published-print", "published-online", "published", "issued", "created"):
         parts = item.get(key, {}).get("date-parts", [[]])[0]
@@ -291,6 +297,14 @@ def merge(new: list[dict]) -> dict:
             paper["figure_urls"] = previous_figures
         if not paper.get("figure_captions"):
             paper["figure_captions"] = previous.get("figure_captions", [])
+        if not paper.get("abstract") and previous.get("abstract"):
+            paper["abstract"] = previous.get("abstract")
+            paper["abstract_status"] = previous.get("abstract_status", "original")
+        elif not paper.get("abstract"):
+            paper["abstract"] = ai_assisted_abstract(paper.get("title", ""), paper.get("ai_summary", ""))
+            paper["abstract_status"] = "ai_assisted"
+        else:
+            paper["abstract_status"] = paper.get("abstract_status") or previous.get("abstract_status") or "original"
         if not paper.get("ai_summary"):
             paper["ai_summary"] = previous.get("ai_summary") or summarize_paper(paper.get("title", ""), paper.get("abstract", ""), paper.get("material_system", "Other_New_Materials"))
         if not paper.get("image_url") or BAD_IMAGE_RE.search(str(paper.get("image_url"))):

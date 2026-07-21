@@ -19,6 +19,7 @@ type Paper = {
   figure_urls?: string[];
   figure_captions?: string[];
   ai_summary?: string;
+  abstract_status?: 'original' | 'ai_assisted' | 'unavailable';
 };
 
 type DB = { updated_at: string; papers: Paper[] };
@@ -47,6 +48,7 @@ const asset = (src: string | null | undefined) => src?.startsWith('/') ? basePat
 const badImage = (src: string | null | undefined) => !src || /arxiv-logo|ar5iv_card|favicon/i.test(src);
 const figures = (p: Paper) => Array.from(new Set([...(p.figure_urls || []), p.image_url].filter((x): x is string => !!x && !badImage(x))));
 const abstractFor = (paper: Paper) => paper.abstract || 'Abstract unavailable from the current metadata source.';
+const abstractLabel = (paper: Paper) => paper.abstract_status === 'ai_assisted' ? 'AI-assisted abstract' : 'Abstract';
 
 const repair = (value = '') => value
   .replace(/\\\(|\\\)|\\\[|\\\]/g, '')
@@ -80,6 +82,7 @@ export default function Home() {
           ...p,
           title: repair(p.title),
           abstract: repair(p.abstract),
+          abstract_status: p.abstract_status || (p.abstract ? 'original' : 'unavailable'),
           ai_summary: repair(p.ai_summary || ''),
           journal: repair(p.journal),
           authors: p.authors.map(repair),
@@ -123,7 +126,7 @@ export default function Home() {
             <h2 className="text-2xl font-medium leading-tight text-slate-900">{p.title}</h2>
             <p className="mt-4 text-sm leading-6 text-slate-600"><strong className="text-slate-900">Authors</strong> | {p.authors.join(', ') || 'Not listed'}</p>
             <p className="mt-4 rounded-xl bg-cyan-50 p-4 text-sm leading-6 text-slate-700"><strong className="text-cyan-800">AI summary</strong> | {p.ai_summary || 'Summary unavailable.'}</p>
-            <p className="mt-4 rounded-xl border border-slate-200 bg-white p-4 text-sm leading-6 text-slate-600"><strong className="text-slate-900">Abstract</strong> | {abstractFor(p)}</p>
+            <p className="mt-4 rounded-xl border border-slate-200 bg-white p-4 text-sm leading-6 text-slate-600"><strong className="text-slate-900">{abstractLabel(p)}</strong> | {abstractFor(p)}</p>
             <p className="mt-5 text-sm font-semibold text-cyan-700">{imgs.length ? 'Click to view all figures, captions, and full details' : 'Click to see why figures are unavailable'}</p>
             <div className="mt-6 flex items-center justify-between border-t border-slate-100 pt-5 text-xs text-slate-500"><span>{p.published}</span><span className="flex items-center gap-2 font-semibold text-cyan-700">Open details <ExternalLink size={15}/></span></div>
           </div>
@@ -154,7 +157,7 @@ function Detail({ paper, onClose }: { paper: Paper; onClose: () => void }) {
         </section>
         <aside>
           <h4 className="text-sm font-semibold text-slate-900">AI Summary</h4><p className="mt-3 rounded-xl bg-cyan-50 p-4 text-sm leading-7 text-slate-700">{paper.ai_summary || 'Summary unavailable.'}</p>
-          <h4 className="mt-6 text-sm font-semibold text-slate-900">Abstract</h4><p className="mt-3 text-sm leading-7 text-slate-600">{abstractFor(paper)}</p>
+          <h4 className="mt-6 text-sm font-semibold text-slate-900">{abstractLabel(paper)}</h4><p className="mt-3 text-sm leading-7 text-slate-600">{abstractFor(paper)}</p>
           <h4 className="mt-6 text-sm font-semibold text-slate-900">Authors</h4><p className="mt-3 text-sm leading-6 text-slate-600">{paper.authors.join(', ') || 'Not listed'}</p>
           {paper.affiliations && paper.affiliations.length > 0 && <><h4 className="mt-6 text-sm font-semibold text-slate-900">Affiliations</h4><p className="mt-3 text-sm leading-6 text-slate-600">{paper.affiliations.join('; ')}</p></>}
           <a href={paper.url} target="_blank" rel="noreferrer" className="mt-8 inline-flex items-center gap-2 rounded-full bg-cyan-700 px-5 py-3 text-sm font-semibold text-white hover:bg-cyan-800">Open article <ExternalLink size={16}/></a>
