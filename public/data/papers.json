@@ -1,652 +1,652 @@
-{
-  "updated_at": "2026-07-21T10:02:45.794322+00:00",
-  "papers": [
-    {
-      "id": "arxiv:2607.18238",
-      "title": "Color superconductors and holon metals from doping a Fractional Chern insulator",
-      "authors": [
-        "Ya-Hui Zhang"
-      ],
-      "abstract": "We develop a unified framework for metallic and superconducting phases obtained by doping a fractional Chern insulator (FCI) with $C=1/3$. Starting from the parton construction $c(\\mathbf r)=f_1(\\mathbf r)f_2(\\mathbf r)f_3(\\mathbf r)$, the low-energy theory has $SU(3)_{\\mathrm{gauge}}\\times SU(3)_{\\mathrm{valley}}$ symmetry and nine Fermi pockets formed by charge-$-e/3$ holons $ψ_{ab}$, where $a$ and $b$ label color and valley. Viewing the holons as quarks connects this problem to color superconductivity in high-energy physics. Color-antisymmetric pairing produces a class of charge-$2e$ superconductors with angular momentum $L=3n$ and chiral central charge $c_-=m/2$, where $m$ is odd. Thus a gas of charge-$e/3$ anyons can enter a superconducting phase directly without binding. Particle--hole color--valley Higgs fields instead produce two $Z_3$ orthogonal metals with one or three pockets, transforming respectively as a singlet or triplet of $SU(3)_{\\mathrm{valley}}$. A $U(1)^2$ holon metal with three identical pockets can preserve the triangular-lattice space group while reducing the emergent valley symmetry down to $S_3$. Its pairing instabilities include a gapped charge $2e$ $f-if$ superconductor and a gapless charge-$2e$ orthogonal superconductor with $\\langle cc\\rangle=0$ and a Bogoliubov Fermi surface at $Γ$. Finally, we discuss the possibility of a chemical-potential-tuned transition from the FCI to superconductivity and argue that all nine fermions may be required if the transition preserves the full emergent $SU(3)_v$ symmetry.",
-      "journal": "arXiv",
-      "published": "2026-07-20",
-      "url": "https://arxiv.org/abs/2607.18238",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "id": "doi:10.1103/d766-sns5",
-      "title": "Relaxation toward an Ideal Chern Band through Coupling to a Markovian Bath",
-      "authors": [
-        "Bruno Mera",
-        "Tomoki Ozawa"
-      ],
-      "abstract": "We propose a microscopic, weak-coupling mechanism by which generic Chern bands asymptotically relax toward ideal bands. We consider coupling interacting electrons to a Caldeira-Leggett-like Ohmic bosonic bath. Using the Born-Markov approximation, we analytically show that, upon taking the leading order contribution in momentum of the form factor, Slater determinant states of a Chern band under Hartree-Fock approximation evolve toward Slater determinant states corresponding to an ideal Chern band. We also numerically validate our proposal by performing simulation of a massive Dirac model with the extended Hubbard interaction, showing that the Berry curvature and quantum metric co-evolve toward saturation of the trace condition. Our proposal provides a concrete dissipative mechanism for driving Chern bands toward ideal quantum geometry, a fundamental building block for the stabilization of fractional Chern insulators.",
-      "journal": "Physical Review Letters",
-      "published": "2026-07-20",
-      "url": "https://doi.org/10.1103/d766-sns5",
-      "doi": "10.1103/d766-sns5",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null
-    },
-    {
-      "id": "doi:10.1103/c9dr-bpn4",
-      "title": "Simulating Fermionic Fractional Chern Insulators with Infinite Projected Entangled-Pair States",
-      "authors": [
-        "Hao Chen",
-        "Titus Neupert",
-        "Juraj Hasik"
-      ],
-      "abstract": "",
-      "journal": "Physical Review Letters",
-      "published": "2026-07-20",
-      "url": "https://doi.org/10.1103/c9dr-bpn4",
-      "doi": "10.1103/c9dr-bpn4",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null
-    },
-    {
-      "id": "doi:10.1021/acsanm.6c02324",
-      "title": "Robust Quantum Anomalous Hall Effect in Ferromagnetic Janus Cr 3 X 2 Y 2 (X, Y = S, Se, Te) Monolayers: Implications for Dissipationless Quantum Computing Devices",
-      "authors": [
-        "Xiufeng Zhang",
-        "Yuqing Mao",
-        "Jinlian Lu",
-        "Ying Han",
-        "Lu Qi",
-        "Ailei He",
-        "Xiuyun Zhang"
-      ],
-      "abstract": "",
-      "journal": "ACS Applied Nano Materials",
-      "published": "2026-07-20",
-      "url": "https://doi.org/10.1021/acsanm.6c02324",
-      "doi": "10.1021/acsanm.6c02324",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null
-    },
-    {
-      "id": "arxiv:2607.15274",
-      "title": "Single-component twisted $\\mathbb{Z}_3$ orthogonal metal in an $e/3$-anyon fluid",
-      "authors": [
-        "Zhaoyu Han",
-        "Ashvin Vishwanath",
-        "Eslam Khalaf"
-      ],
-      "abstract": "We propose an unconventional metallic phase emerging on doping the $1/3$ Fractional Chern insulator, which can serve as a parent state to anyon superconductivity with arbitrary chiral central charge. It is a twisted $\\mathbb{Z}_3$ orthogonal metal: a state with vanishing electron quasiparticle weight but a single well-defined Fermi surface of emergent charge-$e/3$ fermions coupled to a Dijkgraaf-Witten twisted $\\mathbb{Z}_3$ gauge field. It is manifestly valley-symmetric and valley-gapped. Pairing this fractionalized Fermi surface then removes the topological order and produces a family of superconductors whose chiral central charge is directly set by the BdG band topology of the paired $e/3$ fermions, while the angular momentum of the physical order parameter is constrained to be a multiple of three. This scenario provides a route to superconducting states beyond anyon-superconductivity constructions based on $2e/3$ anyons. The metallic phase itself carries distinctive ``fractional Fermiology'' signatures: $e/3$ shot noise, anomalous quantum oscillations, and a $6π$ ac Josephson effect when it mediates the Josephson coupling between superconductors. We construct explicit wavefunction ansatz realizing the phase, and argue that inter-valley repulsion between anyons stabilizes this phase compared to competing states. We show that the construction extends to higher Laughlin states but not to Jain states.",
-      "journal": "arXiv",
-      "published": "2026-07-16",
-      "url": "https://arxiv.org/abs/2607.15274",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.15274.png"
-    },
-    {
-      "id": "doi:10.1103/bvrb-z4hj",
-      "title": "Candidate for a Fractional Topological Insulator in Twisted MoTe 2",
-      "authors": [
-        "Yiping Wang",
-        "Gillian E. Minarik",
-        "Weijie Li",
-        "Yves Kwan",
-        "Shuai Yuan",
-        "Eric Anderson",
-        "Chaowei Hu",
-        "Julian Ingham",
-        "Jeongheon Choe",
-        "Takashi Taniguchi",
-        "Kenji Watanabe",
-        "Xavier Roy",
-        "Jiun-Haw Chu",
-        "Raquel Queiroz",
-        "James C. Hone",
-        "N. Regnault",
-        "Xiaodong Xu",
-        "Xiaoyang Zhu"
-      ],
-      "abstract": "The interplay among electronic correlation, topology, and time-reversal symmetry often leads to exotic quantum states of matter, as highlighted by the discoveries of fractional Chern insulators in twisted bilayer MoTe 2 ( tMoTe 2 ) . Among the fractional Chern insulators (FCIs) in tMoTe 2 , the most robust is at a hole filling factor of ν = − 2 3 per moiré unit cell. Here, employing pump-probe circular dichroism measurement on tMoTe 2 at twist angles θ = 3.9 ° and 3.7°, we show that a correlated state at ν = − 4 3 exhibits an unusual Ising antiferromagnet behavior. The ν = − 4 3 state with no net magnetization undergoes first order phase transitions at extremely low magnetic fields of | μ 0 H | ∼ 2 – 6 mT to partially valley polarized states. This behavior is notably absent for all other correlated states in tMoTe 2 and also disappears for ν = − 4 3 at higher or lower twist angles ( θ = 4.0 ° or 3.3°). The observed magnetic signature is consistent with a theoretically proposed fractional topological insulator (FTI), consisting of two copies of ν ± = − 2 3 FCIs with opposite chirality in the K ± valleys. The experimental results are supported by interacting continuum model calculations that reveal the extreme closeness in energy ( Δ E < 1 meV ) between the putative FTI ( ν ± = − 2 3 and ν ∓ = − 2 3 ) and partially valley polarized states ( ν ± = − 1 and ν ∓ = − 1 3 ). Our findings present a candidate FTI with time-reversal symmetry and call for advanced transport and imaging measurements to establish the quantized helical edge modes.",
-      "journal": "Physical Review X",
-      "published": "2026-07-16",
-      "url": "https://doi.org/10.1103/bvrb-z4hj",
-      "doi": "10.1103/bvrb-z4hj",
-      "source": "Crossref",
-      "material_system": "Moire_Superlattice",
-      "image_url": null
-    },
-    {
-      "id": "arxiv:2607.13807",
-      "title": "Fractional Chern insulators in alternating twisted multilayer MoTe$_{2}$",
-      "authors": [
-        "Xi-Hang Feng",
-        "Shi-Ping Ding",
-        "Xiang-Jian Hou",
-        "Ying-Hai Wu",
-        "Jin-Hua Gao"
-      ],
-      "abstract": "We study strongly correlated many-body states in alternating twisted trilayer and tetralayer MoTe$_{2}$. By sliding the top layer with respect to others and applying a perpendicular electric field, a variety of band structures can be realized. In many cases, the topmost hole band has unity Chern number and its quantum geometric properties can be tuned to some extent. Exact diagonalizations suggest that fractional Chern insulators are stabilized in certain parameter regimes but not in some regimes even when the band is topological. This contrast is attributed primarily to different quantum geometries as quantified by the trace condition. Our results demonstrate that sliding can serve as a useful knob for probing many-body states in moiré systems.",
-      "journal": "arXiv",
-      "published": "2026-07-15",
-      "url": "https://arxiv.org/abs/2607.13807",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Moire_Superlattice",
-      "image_url": "/data/figures/arxiv-2607.13807.png"
-    },
-    {
-      "id": "doi:10.1038/s41586-026-10762-7",
-      "title": "Fractional high-Chern insulator in twisted rhombohedral graphene",
-      "authors": [
-        "Zexu Li",
-        "Wenxuan Wang",
-        "Fajie Wang",
-        "Zaizhe Zhang",
-        "Qiu Yang",
-        "Kenji Watanabe",
-        "Takashi Taniguchi",
-        "X. C. Xie",
-        "Jie Wang",
-        "Kaihui Liu",
-        "Zhida Song",
-        "Xiaobo Lu"
-      ],
-      "abstract": "",
-      "journal": "Nature",
-      "published": "2026-07-15",
-      "url": "https://doi.org/10.1038/s41586-026-10762-7",
-      "doi": "10.1038/s41586-026-10762-7",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10762-7/MediaObjects/41586_2026_10762_Fig1_HTML.png"
-    },
-    {
-      "id": "arxiv:2607.12320",
-      "title": "Quantum anomalous Hall effect with tunable Chern numbers induced by d-wave sublattice-staggered altermagnetism",
-      "authors": [
-        "Lizhou Liu",
-        "Qing-Feng Sun"
-      ],
-      "abstract": "We construct a minimal spinful tight-binding model on a square lattice, where a $d$-wave sublattice-staggered altermagnetism drives the quantum anomalous Hall effect. Here the exchange field is staggered between the two sublattices, where it takes opposite signs on $A$ and $B$ described by the Pauli matrix $τ_z$. The resulting insulating phases host tunable Chern numbers $\\mathcal{C}=\\pm1$ and $\\mathcal{C}=\\pm2$, controlled by the staggered exchange strength and the sublattice-staggered potential. We determine the complete phase diagram, identify valley-resolved band inversions at the $X$ and $Y$ points in the Brillouin zone, and demonstrate chiral edge states together with quantized two-terminal conductance plateaus. Our work provides a simple route to realizing the quantum anomalous Hall effect in compensated magnets via a $d$-wave sublattice-staggered altermagnetism.",
-      "journal": "arXiv",
-      "published": "2026-07-14",
-      "url": "https://arxiv.org/abs/2607.12320",
-      "doi": "10.1088/1674-1056/ae42bb",
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.12320.png"
-    },
-    {
-      "id": "arxiv:2607.12314",
-      "title": "Engineering Two-Dimensional Hybrid-Order Topological Insulators via Trilayer Coupling",
-      "authors": [
-        "Lizhou Liu",
-        "Cheng-Ming Miao",
-        "Qing-Feng Sun"
-      ],
-      "abstract": "We propose an interlayer-engineering scheme to realize a two-dimensional hybrid-order topological insulator, characterized by the coexistence of first-order and second-order topological phases, in a coupled trilayer Chern system. Starting from three quantum anomalous Hall layers with Chern numbers $\\mathcal{C}_{1/2/3}=+1/-1/+1$ in the decoupled limit, interlayer tunneling hybridizes their edge states into a single chiral edge mode, while simultaneously opening a gap that supports corner states. Consequently, the system exhibits the coexistence of one-dimensional chiral edge states and zero-dimensional corner states within the same bulk gap, a hallmark of the hybrid-order topology. Furthermore, we map out the topological phase diagram, and show that the hybrid-order phase is robust against mass-type disorder. Our results identify interlayer hybridization as a minimal and broadly applicable strategy for engineering coexisting edge and corner states within a topological platform.",
-      "journal": "arXiv",
-      "published": "2026-07-14",
-      "url": "https://arxiv.org/abs/2607.12314",
-      "doi": "10.1103/ggh1-tpdk",
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.12314.png"
-    },
-    {
-      "id": "arxiv:2607.11484",
-      "title": "Fractionalized metals from doped anyons: Application to tMoTe2",
-      "authors": [
-        "T. Senthil"
-      ],
-      "abstract": "A fluid of mobile anyons may arise naturally when a Fractional Quantum Anomalous Hall (FQAH) state is doped. Motivated by recent experiments on twisted $MoTe_2$, we study metallic phases obtained by doping the $σ_{xy} = 2e^2/3h$ state. We propose that the high-resistivity metal observed adjacent to this FQAH state is a $Z_3$ Orthogonal Metal: a non-Fermi liquid with sharp charge $1/3$ fermionic quasiparticles coupled to a discrete $Z_3$ gauge field but with no sharp electronic quasiparticle. For a dilute gas of three species of charge-$1/3$ anyons with $π/3$ statistics, we construct two $U(3)$ symmetric $Z_3$ Orthogonal Metals, distinguished by whether the gapless fermions transform as $SU(3)$ triplets or singlets. We show that these states naturally yield large electrical resistivities even when the fractionalized quasiparticles are in a good metallic regime. Pairing of the charge-$1/3$ fermions produces an ordinary charge-$2e$ superconductor, smoothly connected to a BCS state but obtained through an intrinsically fractionalized normal state. We discuss experimental signatures of the idea that the normal metallic state in the lightly doped $2/3$ state may have fractionalized charge carriers.",
-      "journal": "arXiv",
-      "published": "2026-07-13",
-      "url": "https://arxiv.org/abs/2607.11484",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Moire_Superlattice",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "id": "arxiv:2607.11380",
-      "title": "Toward Quantum Utility in Correlated Topological Matter: Variational Preparation of Fractional Quantum Hall Manifolds",
-      "authors": [
-        "Sergio F. Expósito",
-        "Unai Aseginolaza",
-        "Raúl Guerrero-Avilés",
-        "Joaquim Jornet-Somoza",
-        "Francisco Guinea",
-        "Juan Borge"
-      ],
-      "abstract": "We investigate the use of variational quantum algorithms to prepare and characterize fractional quantum Hall states on near-term quantum processors. Focusing on the $ν=1/3$ Laughlin phase described by the $V_1$ Haldane pseudopotential, we formulate the lowest-Landau-level problem in second quantization, and implement particle-number-preserving variational circuits combined with the variational quantum eigensolver (VQE) and variational quantum deflation (VQD). We benchmark the approach in two complementary geometries: Haldane sphere and torus shape. On the Haldane sphere, the target state is a unique zero-energy Laughlin ground state, providing a controlled test of the variational workflow and of excited-state reconstruction. On the torus, the problem retains the genuinely two-dimensional periodic character of the quantum Hall liquid and exhibits the threefold topological ground-state degeneracy expected for the $ν=1/3$ fractional filling factor. This feature makes the torus a more demanding benchmark than the quasi-one-dimensional cylinder or thin-torus limits commonly exploited in state-preparation quantum protocols. We benchmark the hardware-optimized variational states against exact diagonalization using energy estimates, error-mitigated observables, and subspace-containment diagnostics. Our results show that hybrid quantum algorithms can approximately reconstruct the low-energy structure of small fractional quantum Hall systems, including the topological ground-state manifold on the torus. Beyond serving as a benchmark for quantum hardware, this geometry-resolved approach provides a route toward quantum simulations of fractional Chern insulators and strongly correlated topological phases in realistic two-dimensional materials.",
-      "journal": "arXiv",
-      "published": "2026-07-13",
-      "url": "https://arxiv.org/abs/2607.11380",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "id": "arxiv:2607.10320",
-      "title": "Retarded interaction between opposite chiral edges in anomalous Hall crystals",
-      "authors": [
-        "Wangqian Miao",
-        "Mu-Yang Chen",
-        "Binghai Yan",
-        "Chunli Huang"
-      ],
-      "abstract": "An anomalous Hall crystal combines spontaneous electronic crystallization with a Chern insulating gap, supporting both chiral edge modes and low-energy electronic phonons. We show that this coexistence produces a distinct dynamical effect from ordinary Chern insulators: transverse bulk phonons can mediate a retarded interaction between counterpropagating chiral edge modes on opposite sides of the sample, realizing a Luttinger-liquid variant with delayed inter-edge coupling. Using microscopic time-dependent Hartree--Fock calculations for rhombohedral pentalayer graphene, we find that lowering the carrier density softens the long-wavelength transverse phonon mode. Near this instability regime, the resulting boundary-projected phonon continuum inevitably overlaps with the edge dispersion, thereby enabling their coupling. A smoking-gun probe is a nonlocal measurement: a drive applied to one edge can induce a response on the other edge, delayed by the transverse phonon time of flight across the sample.",
-      "journal": "arXiv",
-      "published": "2026-07-11",
-      "url": "https://arxiv.org/abs/2607.10320",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.10320.png"
-    },
-    {
-      "id": "arxiv:2607.10153",
-      "title": "Staggered Potential and Elliptical Light Driven Topological Phase Transitions in $α$-$\\mathcal{T}_{3}$ Lattice",
-      "authors": [
-        "Muhammad Faisal",
-        "Muhammad Irfan Sarwar"
-      ],
-      "abstract": "We theoretically investigate the influence of hexagonal boron nitride (h-BN) on the electronic properties of an $α$-$\\mathcal{T}_{3}$ lattice driven by an off-resonant elliptically polarized light field. The staggered potential $M$ breaks the sublattice inversion symmetry, transforming the initial semimetal into a trivial insulator with Chern number $C=0$. We identify a fundamental geometric singularity at $α=1/\\sqrt{2}$, independent of $M$, below which no finite drive can close the lower band gap, creating a stable topological window where conduction--flat band inversion yields a Chern insulator with $C=1$. Above this critical value the lower gap closes with finite intensity, allowing a transition from $C=1$ to $C=2$ as the dice limit ($α=1$) is approached. The topological phases are characterized by quantized anomalous Hall plateaus at $σ_{xy}=e^2/h$ ($C=1$) and $σ_{xy}=2e^2/h$ ($C=2$), with each valley contributing exactly $\\frac{1}{2}e^2/h$. The $C=1$ plateau remains robust from $0$ K to $300$ K, while $C=2$ requires $T<100$ K due to its narrower gap. A highly asymmetric thermoelectric Seebeck response further serves as an experimental fingerprint of each phase, providing a realistic framework for realizing stable high-Chern-number phases in substrate-supported $α$-$\\mathcal{T}_{3}$ materials.",
-      "journal": "arXiv",
-      "published": "2026-07-11",
-      "url": "https://arxiv.org/abs/2607.10153",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.10153.png"
-    },
-    {
-      "id": "arxiv:2607.08822",
-      "title": "Energetics of fractional anomalous Hall crystals in rhombohedral graphene",
-      "authors": [
-        "Félix Desrochers",
-        "Ashvin Vishwanath"
-      ],
-      "abstract": "Fractional anomalous Hall crystals (FAHCs) replicate the topological order of the fractional quantum Hall effect in the continuum without requiring any external magnetic field. They spontaneously break continuous translation symmetry like a Wigner crystal, but are distinguished by each unit cell holding a fixed fractional number of electrons. Until now, these states have been confined to theoretical speculation or engineered models, leaving open the question of whether they can plausibly emerge in actual physical systems. Here, we establish them as energetically competitive candidate states in a realistic material setting. We study rhombohedral pentalayer graphene (R5G) with variational wavefunctions that are exact zero modes of a recently proposed ideal model of R5G. We evaluate their energies using Monte Carlo, after reinstating realistic dispersion and screened Coulomb interactions. We find FAHCs to be energetically competitive with integer anomalous Hall crystals and Fermi liquids, and their stability follows a simple principle. Each crystal maps onto a parent quantum Hall liquid that fixes its interaction energy, while the kinetic energy favors crystal periods that match the finite-momentum minimum of R5G's Mexican-hat dispersion. A weak periodic potential can then selectively lower and pin the commensurate fractional crystals. This picture predicts how the integer and fractional quantum anomalous Hall stability windows evolve with twist angle and displacement field, which we compare to recent experiments. These results support a continuum-and-interactions-first route to fractional anomalous Hall states in rhombohedral graphene.",
-      "journal": "arXiv",
-      "published": "2026-07-09",
-      "url": "https://arxiv.org/abs/2607.08822",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.08822.png"
-    },
-    {
-      "id": "arxiv:2607.08710",
-      "title": "Competing Chern states revealed by quasiparticle charging in moiré rhombohedral graphene",
-      "authors": [
-        "Hongyuan Li",
-        "Zuhan Geng",
-        "Junseok Seo",
-        "Chenxi Xu",
-        "Yifan Jiang",
-        "Shenyong Ye",
-        "Zhenqi Hua",
-        "Jiabin Xie",
-        "Lujin Min",
-        "Kenji Watanabe",
-        "Takashi Taniguchi",
-        "Kenji Yasuda",
-        "Xiaomeng Liu",
-        "Long Ju",
-        "Jie Shan",
-        "Kin Fai Mak"
-      ],
-      "abstract": "Moiré materials realize a versatile platform for exploring the physics of fractional Chern insulators (FCIs). The recently observed evolution from FCIs to an extended quantum anomalous Hall background upon lowering the electronic temperature in moiré rhombohedral graphene (mRG)8 raises a fundamental question: Is it caused by a failure to equilibrate the edge states of an FCI or by a genuine phase transition in the bulk from an FCI to a generalized anomalous Hall crystal? Here we address this question by probing quasiparticle charging in a mesoscopic mRG antidot device and by bulk resistance measurements, both of which are bulk-sensitive and free from complications from edge states. Tunneling to the mRG antidot reveals quasiparticles carrying one electron charge for both Chern states at filling factors ν=1 and 2/3 at low temperatures. Temperature dependence measurements of the bulk resistance near ν=2/3 further suggest a thermodynamic phase transition from an FCI to a generalized anomalous Hall crystal at temperatures below about 150mK. The results clearly exclude the edge state equilibration scenario and favor the phase transition scenario. Our work establishes mesoscopic probes as a powerful approach to uncover competing ground states in moiré materials and provides a basis for probing fractionalized excitations in FCIs.",
-      "journal": "arXiv",
-      "published": "2026-07-09",
-      "url": "https://arxiv.org/abs/2607.08710",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Moire_Superlattice",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "id": "arxiv:2607.08702",
-      "title": "Quantum-Geometric Design of Lattice Generalized Landau Levels",
-      "authors": [
-        "Bohao Li",
-        "Fengcheng Wu"
-      ],
-      "abstract": "We design lattice models with tailored quantum geometry, including generalized Landau levels (LLs) satisfying the integrated trace condition and higher-Chern bands with ideal quantum geometry. Our models with $N=2$, $3$, and $4$ sublattices include a generalized Haldane model ($N=2$ honeycomb lattice model) with Gaussian-decaying hoppings realizable in twisted bilayer MoTe$_2$, and $N \\geq 3$ models with exponentially decaying hoppings. Exact diagonalization reveals fractional Chern insulators in the generalized zeroth LL bands of all three models, a Moore-Read state in the generalized first LL band of the $N=4$ model, and various interaction-driven topological phases$\\unicode{x2013}$including integer and fractional anomalous Hall crystals and a multicomponent Halperin state$\\unicode{x2013}$in the ideal higher-Chern band of the $N=3$ model. Informed by quantum geometry, our work provides a pathway for lattice realizations of Landau-level and beyond-Landau-level physics.",
-      "journal": "arXiv",
-      "published": "2026-07-09",
-      "url": "https://arxiv.org/abs/2607.08702",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Moire_Superlattice",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "id": "arxiv:2607.06492",
-      "title": "Correlated Insulating States in Twisted Double Bilayer Graphene Enhanced by Interfacial Effect on CrOCl",
-      "authors": [
-        "Ning Ma",
-        "Zekang Zhou",
-        "Chiara Cocchi",
-        "Maurice Bal",
-        "Maarten van Delft",
-        "Kenji Watanabe",
-        "Takashi Taniguchi",
-        "Steffen Wiedmann",
-        "Jian-Hao Chen",
-        "Mitali Banerjee"
-      ],
-      "abstract": "Interaction between different two dimensional materials can give rise to many exotic physical phenomena which are rarely observed in intrinsic materials. Recently, several theoretical and experimental works have revealed that magnetic proximity effect between pristine graphene and magnetic substrates can lead to the emergence of quantum anomalous Hall states and quantum spin Hall states. However, interplay between correlated states in graphene-based systems and magnetic materials has seldom been studied. Here we perform the transport measurement at ultrahigh magnetic field of twisted double bilayer graphene (TDBG) on CrOCl (COC) substrate, which is an antiferromagnetic material. Instead of a magnetic-exchange effect on graphene, we observe an enhanced correlated insulating state at half-filling factor of TDBG as a result of the charge-transfer process between TDBG and COC. The temperature and magnetic field dependence of this enhanced state are further studied. Our results demonstrate the influence of charge-related effect at the interface, and shed a light on a new route for manipulating the correlated states in graphene-based moiré systems using interfacial engineering.",
-      "journal": "arXiv",
-      "published": "2026-07-07",
-      "url": "https://arxiv.org/abs/2607.06492",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Moire_Superlattice",
-      "image_url": "/data/figures/arxiv-2607.06492.png"
-    },
-    {
-      "id": "arxiv:2607.05631",
-      "title": "Electric Field Induced Multi-Space Topological Phase Transitions in Janus Monolayer MnBi2Se2Te2",
-      "authors": [
-        "Kefan Zhang",
-        "Jian Wu",
-        "Weiyi Pan"
-      ],
-      "abstract": "Manipulating coexisting multi-space topological states within a single material is a critical frontier for low-power spintronic applications, for which perpendicular electric-field gating offers a highly precise tuning mechanism. Using first-principles calculations and atomistic spin simulations, it is demonstrated that Janus monolayer MnBi2Se2Te2 can exhibit simultaneous momentum-space and real-space topological phase transitions under an external electric field. Specifically, the electric field drives momentum-space transitions across a topologically trivial state (C = 0), a low-Chern-number quantum anomalous Hall state (C = -1), and a high-Chern-number state (C = 2). Concurrently, by actively tuning the competition between the Dzyaloshinskii-Moriya interaction and magnetic anisotropy, the electric field induces real-space magnetic transitions from a uniform ferromagnetic state to an isolated skyrmion state, and ultimately to a skyrmion-spiral domain coexistence phase. Electric-field-induced variations in both the QAHE and magnetic textures may give rise to multiple topological phase transitions, involving distinct topological regimes: a purely k-space topology, RK-joint skyrmions, and pure real-space skyrmions. These findings establish a powerful material platform and efficient route for the synergistic control of coexisting topological orders, making it highly promising for next generation multi-functional spintronic devices.",
-      "journal": "arXiv",
-      "published": "2026-07-06",
-      "url": "https://arxiv.org/abs/2607.05631",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.05631.png"
-    },
-    {
-      "id": "arxiv:2607.04771",
-      "title": "Local Defects and the Topology of the Haldane Model",
-      "authors": [
-        "Vishesh Makwana",
-        "Eric Akkermans"
-      ],
-      "abstract": "We investigate the interplay between local defects and topology in the Haldane model within the framework of the tenfold classification. The Haldane model realizes a Chern-insulating phase characterized by an integer topological invariant ($C=\\pm 1$) and supports chiral edge states. Introducing vacancies gives rise to localized states at the defect sites, classified by a $\\mathbb{Z}_2$ invariant $ν= C\\cdot m,\\mathrm{mod},2$, where $m=N_A-N_B$ is the net sublattice imbalance of the vacancy configuration: an odd imbalance hosts a protected zero-energy mode, whereas an even imbalance does not. We identify three independent experimental signatures that distinguish these topological defect states from trivial (adatom) defects. First, vacancy-induced states exhibit characteristic dislocations in their wavefunction profiles that track the phase winding associated with the defect. Second, a fractional charge of $e/2$ accumulates at vacancy sites, while no such charge appears at adatoms. Third, the probability current circulating around a vacancy-induced state flows in the opposite direction to that of chiral edge states, in direct analogy with the current reversal produced by a vortex in a $p$-wave superconductor. All three signatures are in quantitative agreement with the $\\mathbb{Z}_2$ prediction.",
-      "journal": "arXiv",
-      "published": "2026-07-06",
-      "url": "https://arxiv.org/abs/2607.04771",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.04771.png"
-    },
-    {
-      "id": "arxiv:2607.03707",
-      "title": "Beyond-adiabatic flat Chern bands from a double-helix skyrmion crystal",
-      "authors": [
-        "Bin Xi",
-        "Ken Chen",
-        "Qiang Luo",
-        "Jie Lu",
-        "Jia-Wei Mei",
-        "Hong-Gang Luo",
-        "Jize Zhao"
-      ],
-      "abstract": "A central challenge in flat-band engineering is suppressing kinetic energy without sacrificing Berry curvature. We show that a double-helix skyrmion crystal (DHSKX)--two sublattice-resolved skyrmion textures locked at opposite helicities, obtained here as the classical ground state of a frustrated honeycomb spin model--provides such a route under double exchange. The key mechanism is a single real-space organization, phase clustering: the $π$-locked helicities expel the wave function's phase winding from the skyrmion cores, and the magnetic $C_3$ symmetry pins it into three phase-locked clusters whose distributed destructive interference cancels net transport while preserving the Berry curvature. Ordinary skyrmion crystals, even with the same symmetry, do not develop this organization. Phase clustering yields isolated flat $|C| = 1$ Chern bands over broad coupling windows, one of which surpasses the adiabatic reference in quantum geometry at intermediate coupling. In this beyond-adiabatic window, band-projected exact diagonalization gives finite-size evidence consistent with $ν= 1/3$ Laughlin-type fractional-Chern-insulator physics; the same texture also hosts a higher-Chern ($C = -2$) flat band. Built from site-resolved complex hoppings alone, the DHSKX architecture is directly programmable in topolectric, acoustic, and photonic platforms.",
-      "journal": "arXiv",
-      "published": "2026-07-04",
-      "url": "https://arxiv.org/abs/2607.03707",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.03707.png"
-    },
-    {
-      "id": "arxiv:2607.03511",
-      "title": "Robustness of quantized Hall resistivity under cavity coupling at zero temperature",
-      "authors": [
-        "Juan Román-Roche",
-        "Jie Wang",
-        "Michael Ruggenthaler",
-        "Angel Rubio",
-        "Vasil Rokaj"
-      ],
-      "abstract": "Recent experiments have shown that strong light-matter coupling in electromagnetic cavities can modify transport properties of quantum Hall systems through the formation of Landau polaritons, prompting questions about the robustness of topological protection. While earlier theory demonstrated that the Hall conductivity can be modified at finite temperature and finite polariton lifetime (or finite broadening), experiments primarily probe the resistivity tensor. Our phenomenological model reveals an asymmetry between conductivity and resistivity in quantum Hall systems under strong light-matter interaction, showing that at zero temperature the Hall resistivity remains completely immune to cavity-induced modifications arising from polariton broadening, independent of the light-matter coupling strength. These results provide a deeper explanation for the absence of renormalization in the von Klitzing constant in experiments probing the even QH plateaus through the Hall resistivity at low temperature, and clarify the distinct roles of dissipation and strong light-matter coupling in hybrid light-matter systems.",
-      "journal": "arXiv",
-      "published": "2026-07-03",
-      "url": "https://arxiv.org/abs/2607.03511",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "id": "arxiv:2607.03401",
-      "title": "Emergent $\\mathbb{Z}$-type topology in a quasi-one-dimensional extended QWZ model",
-      "authors": [
-        "Zebedeus F. Osseweijer",
-        "Lumen Eek",
-        "Cristiane Morais Smith"
-      ],
-      "abstract": "We investigate the emergence of zero-dimensional topological end states in nanoribbons described by the Qi-Wu-Zhang (QWZ) model and its extensions with longer-range couplings. While dimensional reduction from two to one dimension is often assumed to preserve the symmetry classification of the parent system, here an additional symmetry can emerge originating from the real-space geometry of the ribbon. This symmetry acts as a chiral symmetry, combining orbital and spatial transformations, and promotes the effective one-dimensional system from symmetry class D to class BDI. We demonstrate that the existence of such a symmetry depends both on the long and end termination of the ribbon and exhibits an even-odd effect with respect to ribbon width, revealing that the commonly studied rectangular ribbons constitute a special high-symmetry case. For the conventional QWZ model, we derive analytic expressions for the topological phase boundaries of finite-width nanoribbons and characterize the resulting hybridization-gap phases through ($\\mathbb{Z}_2 $) and winding-number invariants. We further show that extended QWZ models with longer-range couplings support phases with multiple topological end states and higher winding numbers. These phases arise through distinct mechanisms, including the hybridization of multiple edge modes inherited from higher-Chern-number bulk phases. Our results demonstrate that both long and end termination can fundamentally alter the topological classification of confined Chern insulators, highlighting the interplay between crystalline geometry, emergent symmetries, and dimensional reduction.",
-      "journal": "arXiv",
-      "published": "2026-07-03",
-      "url": "https://arxiv.org/abs/2607.03401",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2607.03401.png"
-    },
-    {
-      "id": "arxiv:2606.31604",
-      "title": "Eigenstate Transitions, Duality, and Anomalous Diffusion in a Quasiperiodic Qi-Wu-Zhang Chern Insulator",
-      "authors": [
-        "Tengming Lou",
-        "Haiyang Wang",
-        "Haijiao Ji",
-        "Haiwen Liu"
-      ],
-      "abstract": "Quasiperiodic systems usually interpolate between extended, critical, and localized states as the quasiperiodic modulation is increased. Here we show that the magnetic Qi-Wu-Zhang Chern-insulator model realizes a distinct full-spectrum transition in which localization is avoided. For an irrational magnetic flux, the two-dimensional model reduces to a spinor quasiperiodic chain with a matrix onsite modulation controlled by the hopping amplitude $t_x$. When $|m+2|>t_y$, increasing $t_x$ produces the conventional extended-critical-localized sequence with a critical line at $t_x=t_y$. In contrast, when $|m+2|\\le t_y$, the system changes from an extended phase to a critical phase at $t_x=|m+2|$ and remains critical even for stronger quasiperiodic modulation. Finite-size scaling of the average inverse participation ratio gives $\\overline{\\mathrm{IPR}}\\sim q^{-α}$ with $0<α<1$ throughout this persistent critical regime. A dual transformation exchanging $t_x$ and $t_y$, together with a Lyapunov-exponent analysis, explains the phase diagram. Wave-packet dynamics further distinguish ballistic, anomalous-diffusive, and localized regimes. These results identify magnetic Chern-insulator systems as a natural platform for robust criticality and anomalous quantum transport.",
-      "journal": "arXiv",
-      "published": "2026-06-30",
-      "url": "https://arxiv.org/abs/2606.31604",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.31604.png"
-    },
-    {
-      "id": "arxiv:2606.31267",
-      "title": "Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2",
-      "authors": [
-        "Jiao Xie",
-        "Yongqin Xie",
-        "Fanqiang Chen",
-        "Jiliang Yang",
-        "Sicheng Chen",
-        "Moyu Chen",
-        "Kenji Watanabe",
-        "Takashi Taniguchi",
-        "Shi-Jun Liang",
-        "Kemi Xu",
-        "Bin Cheng",
-        "Feng Miao"
-      ],
-      "abstract": "Moire flat bands in graphene systems proximitized by transition-metal dichalcogenides (TMDCs) provide a setting where spin-orbit coupling (SOC) can reshape band topology. The crystallographic alignment angle twist angle between TMDC and graphene layers is predicted to tune the balance of Ising and Rashba SOC, but a combined theoretical and experimental understanding of how twist angle governs the topological character of correlated states has not been systematically established. Here we show that in chiral-stacked twisted double bilayer graphene in proximity to WSe2, twist angle between graphene and WSe2 determines the topological character of correlated Chern insulators. Continuum model calculations reveal that Ising spin-orbit coupling dominates at zero twist angle, giving rise to flat bands with finite valley Chern numbers, whereas Rashba coupling dominates at larger twist angle, resulting in topologically trivial bands. Transport measurements at quarter filling confirm this picture: twist angle = 0 deg devices exhibit C = +1 Chern insulators, consistent with spontaneous isospin polarization, whereas twist angle = 15 degree devices show C = 0 despite exhibiting similar correlated insulating behavior. The sharp contrast establishes crystallographic alignment as a new tuning knob, complementary to twist angle, displacement field, and carrier density, for engineering correlated topological states in van der Waals heterostructures.",
-      "journal": "arXiv",
-      "published": "2026-06-30",
-      "url": "https://arxiv.org/abs/2606.31267",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Moire_Superlattice",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "id": "arxiv:2606.30917",
-      "title": "Topological random alloy",
-      "authors": [
-        "Subrata Pachhal",
-        "Aziz Hasan",
-        "Adhip Agarwala"
-      ],
-      "abstract": "Topological phases of matter are often realized in crystalline materials. To extend their understanding beyond perfect stoichiometry, we introduce a minimal model of a topological random binary alloy and show that the system realizes an exotic form of impurity-band engineering. We reveal that, in contrast to Wannier charge centers pinned by impurities in conventional semiconductors, doping a proximate quantum anomalous Hall insulator results in dopant-centric chiral current loops. The nature of such current loops is intrinsically tied to the properties of both the host and the dopant. We demonstrate that, even at dilute dopant density, these current loops can form topological domains in an otherwise trivial host and trigger a topological phase transition. On the other hand, doping a topological host having chirality opposite to that of the dopants can unexpectedly stabilize a metallic phase in which bulk transport is mediated by inter-domain edge modes.",
-      "journal": "arXiv",
-      "published": "2026-06-29",
-      "url": "https://arxiv.org/abs/2606.30917",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.30917.png"
-    },
-    {
-      "id": "arxiv:2606.29827",
-      "title": "Spin-1 Dirac dispersion and Chern insulating phases in 2D honeycomb Sierpiński fractal",
-      "authors": [
-        "Shneha Biswas",
-        "Shouya Yoshida",
-        "Katsunori Wakabayashi",
-        "Sudipta Dutta"
-      ],
-      "abstract": "Graphene-based Sierpiński fractals host a zero-energy chiral mode and spin-1 Dirac dispersions within the nearest-neighbor tight-binding model. However, the presence of complex next-nearest neighbor hopping arising from the local flux and the staggered Semenoff mass terms, modeled within the Haldane Hamiltonian, breaks the time-reversal and spatial inversion symmetries, respectively, and makes these flat bands dispersive. Moreover, they introduce rich topological phases in this class of systems that can be characterized by Chern numbers up to $\\pm 3$, i.e., beyond the conventional honeycomb lattice. These observations pave the way for the exploration of 2D periodic fractals beyond graphene, where topological phase transitions can be realized through externally applied fields.",
-      "journal": "arXiv",
-      "published": "2026-06-29",
-      "url": "https://arxiv.org/abs/2606.29827",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.29827.png"
-    },
-    {
-      "id": "arxiv:2606.28686",
-      "title": "Direct observation of interfacial exchange coupling in a magnetic tunnel junction through spin-polarized quasiparticle interference",
-      "authors": [
-        "Xu Wang",
-        "Chenxi Wang",
-        "Ying Yang",
-        "Yining Hu",
-        "Qingle Zhang",
-        "Chen Chen",
-        "Donglai Feng",
-        "Tong Zhang"
-      ],
-      "abstract": "Interfacial exchange coupling plays a critical role in enabling novel phenomena in magnetic heterostructures, such as spin triplet superconductivity, quantum anomalous Hall effect (QAHE), and advanced spintronic functionalities. While microscopic characterization of this coupling is essential for elucidating the underlying mechanism, it remains technically challenging. Here, using spin-polarized scanning tunneling microscopy (SP-STM) and quasiparticle interference, we directly observed interfacial exchange coupling in a magnetic tunnel junction formed by an Fe coated tip and a Cr(001) surface. We found the ferromagnetic tip induces significant energy shift (up to 10 meV) in the spin-polarized surface state of Cr(001). This shift is highly sensitive to the tip-surface distance and the spin-alignment between Fe tip and Cr surface, which can be switched by external magnetic field. Our results demonstrate that extended 2D surface states can mediate strong exchange coupling across a heterojunction, enabling local control of interfacial exchange interaction induced phenomena.",
-      "journal": "arXiv",
-      "published": "2026-06-27",
-      "url": "https://arxiv.org/abs/2606.28686",
-      "doi": "10.1021/acs.nanolett.6c01241",
-      "source": "arXiv",
-      "material_system": "Oxide_Heterostructure",
-      "image_url": "/data/figures/arxiv-2606.28686.png"
-    },
-    {
-      "id": "arxiv:2606.28549",
-      "title": "The Position Space Chern Number: A Topological Index for Chiral Magnetic Systems",
-      "authors": [
-        "Zachariah Addison"
-      ],
-      "abstract": "This paper introduces an index that categorizes the topology of insulating chiral magnetic systems. The position space Chern number, $C_R$ is distinct from its momentum space counterpart, $C_K$. A nonzero index guarantees the existence of topologically protected in-gap states that localize on the edge of local potential barriers in momentum space. The Chern-Simons effective field theory describing position space Chern insulators reveals a topologically quantized correlation between transverse force operators that describe the flow of quanta in momentum space. We demonstrate the existence of nonzero $C_R$ in systems hosting skyrmion magnetic phases and show how the index generalizes the classical concept of a skyrmion winding number. Lastly we investigate the competition between momentum space and position space topologies, and highlight an apparent obstruction to having systems with both $C_R \\neq 0$ and $C_K \\neq 0$.",
-      "journal": "arXiv",
-      "published": "2026-06-26",
-      "url": "https://arxiv.org/abs/2606.28549",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.28549.png"
-    },
-    {
-      "id": "arxiv:2606.26632",
-      "title": "Floquet-Engineered Chern Insulator in two-dimensional $d_{x^2-y^2}$-Wave Altermagnets",
-      "authors": [
-        "Hosein Cheraghchi"
-      ],
-      "abstract": "We investigate Floquet-engineered topological phases in two-dimensional $d_{x^2-y^2}$-wave altermagnets irradiated by circularly polarized light in the off-resonant regime. These materials exhibit large momentum-dependent spin-splitting governed by distinctive magnetic symmetries. Using a lattice model combined with Floquet theory, we demonstrate that irradiation induces the light-tunable quantum anomalous Hall phases with the Chern numbers up to $\\pm 3$. The resultant phase diagram is verified by calculating the anomalous Hall conductivity and also the edge modes inside the band gap of a nanoribbon version of the altermagnet. Our findings establish d-wave altermagnets as promising platforms for realizing nonequilibrium topological states of matter. The low-energy continuum limit of the lattice-based Floquet Hamiltonian results in a linear and higher-order-in-momentum spin-orbit couplings, and also a Zeeman-like magnetization, all arising from light-induced virtual photon processes. The resulting higher-order spin-orbit coupling generates the additional gapless Dirac points which, together with the high-symmetry gap-closings, yield enhanced Berry curvature and high Chern numbers. The light irradiation effectively breaks the static $d_{x^2-y^2}$-wave magnetic symmetry mixing in an isotropic photo-induced $s$-wave correction.",
-      "journal": "arXiv",
-      "published": "2026-06-25",
-      "url": "https://arxiv.org/abs/2606.26632",
-      "doi": "10.1103/mslj-zz6t",
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "/data/figures/arxiv-2606.26632.png"
-    },
-    {
-      "id": "arxiv:2606.26548",
-      "title": "Topological phase transition driven by in-plane spin rotation",
-      "authors": [
-        "Xinyue Zhu",
-        "Yu Xie",
-        "Yifei Hao",
-        "Fei Gao",
-        "Yue Li",
-        "Junting Zhang"
-      ],
-      "abstract": "The intrinsic coupling between magnetism and nontrivial band topology in magnetic topological insulators makes external magnetic fields a powerful tool for manipulating topological states. However, conventional magnetic control mechanisms, such as driving magnetic phase transitions or fully reversing magnetization, typically demand large magnetic fields and lack continuous tunability. Here, we establish a symmetry framework for the reversible switching of topological states via continuous in-plane spin rotation, governed by magnetic point group constraints on the Berry curvature distribution. Using a two-dimensional kagome ferromagnetic Chern insulator as a prototype, we demonstrate that a 60°in-plane magnetization rotation reverses the sign of the Chern number, transitioning through a topologically trivial state. Crucially, micromagnetic simulations confirm that this spin-reorientation-driven switching operates under exceptionally small magnetic fields and on ultrafast timescales. This work provides a highly efficient, low-energy paradigm for the manipulation of topological states.",
-      "journal": "arXiv",
-      "published": "2026-06-25",
-      "url": "https://arxiv.org/abs/2606.26548",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "MnBi2Te4_MTI",
-      "image_url": "/data/figures/arxiv-2606.26548.png"
-    },
-    {
-      "id": "arxiv:2606.26096",
-      "title": "Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators",
-      "authors": [
-        "Niclas Heinsdorf",
-        "Ken Shiozaki"
-      ],
-      "abstract": "We rewrite a lattice model of the four-dimensional Chern insulator as a family of translationally-invariant infinite chains over the three-dimensional Brillouin zone and compute its higher three-form Berry curvature using infinite matrix product states (iMPS). We calculate the topological phase diagram of the associated Dixmier--Douady--Kapustin--Spodyneiko (DDKS) number as a function of the model's mass term, and show that it is exactly congruent to the phase diagram in terms of the second Chern number, the analytic expression of which is known for this particular model. This agreement demonstrates that higher Berry curvature can be used to compute second Chern numbers in a manifestly quantized manner. Motivated by the connection between the second Chern form and the Chern--Simons axion coupling, we study magnetoelectric coupling in three dimensions and its relation to higher Berry phases.",
-      "journal": "arXiv",
-      "published": "2026-06-24",
-      "url": "https://arxiv.org/abs/2606.26096",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv_card.png"
-    },
-    {
-      "id": "arxiv:2606.24670",
-      "title": "Simulating the Haldane model in ultra-clean GaAs heterostructures",
-      "authors": [
-        "Francesco Cioni",
-        "Lorenzo Cavicchi",
-        "Fabio Taddei",
-        "Marco Polini"
-      ],
-      "abstract": "The Haldane model represents the minimal lattice-based realization of a Chern insulator, exhibiting a quantized Hall conductance in the absence of Landau levels. Despite its conceptual elegance, the implementation in crystalline solids of the requisite pattern of Peierls phases breaking time-reversal symmetry remains experimentally demanding. In this work, we theoretically investigate the possibility to simulate the Haldane model in ultra-clean GaAs/AlGaAs heterostructures. Our proposal relies on recent experiments in which a high-mobility two-dimensional electron gas is subject to a gate-defined honeycomb electrostatic potential and a laterally periodic magnetic field generated by patterned ferromagnetic structures. The combined electrostatic and magnetic superlattices furnish a viable route to emulate the topological properties of the Haldane model.",
-      "journal": "arXiv",
-      "published": "2026-06-23",
-      "url": "https://arxiv.org/abs/2606.24670",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Oxide_Heterostructure",
-      "image_url": "/data/figures/arxiv-2606.24670.png"
-    },
-    {
-      "id": "arxiv:2606.23795",
-      "title": "Visualizing Symmetry Broken Chern Insulators and their Quantum Melting",
-      "authors": [
-        "Minhao He",
-        "Yen-Chen Tsui",
-        "Ran Peng",
-        "Kenji Watanabe",
-        "Takashi Taniguchi",
-        "Oskar Vafek",
-        "Ali Yazdani"
-      ],
-      "abstract": "In the presence of a magnetic field, electronic states of moiré quantum materials develop a Hofstadter spectrum that provides a unique setting for studying the interplay between band topology and strong electron-electron interaction. Using scanning tunneling microscopy, we study Hofstadter's states in bilayer graphene aligned with hexagonal BN and directly visualize the formation of interaction-driven symmetry breaking Chern insulators. Our measurements reveal the formation of phases that double, triple or quadruple the moiré unit cell at fractional filling of the Hofstadter bands, as well as states with complex intra-unit-cell wave functions. We visualize two distinct quantum phenomena in different Chern states, including quantum melting driven by the appearance and proliferation of topological defects, and a quantum transition co-occurring with phase competition and separation.",
-      "journal": "arXiv",
-      "published": "2026-06-22",
-      "url": "https://arxiv.org/abs/2606.23795",
-      "doi": null,
-      "source": "arXiv",
-      "material_system": "Moire_Superlattice",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    }
-  ]
+﻿{
+    "updated_at":  "2026-07-21T10:01:43.625661+00:00",
+    "papers":  [
+                   {
+                       "id":  "arxiv:2607.18238",
+                       "title":  "Color superconductors and holon metals from doping a Fractional Chern insulator",
+                       "authors":  [
+                                       "Ya-Hui Zhang"
+                                   ],
+                       "abstract":  "We develop a unified framework for metallic and superconducting phases obtained by doping a fractional Chern insulator (FCI) with $C=1/3$. Starting from the parton construction $c(\\mathbf r)=f_1(\\mathbf r)f_2(\\mathbf r)f_3(\\mathbf r)$, the low-energy theory has $SU(3)_{\\mathrm{gauge}}\\times SU(3)_{\\mathrm{valley}}$ symmetry and nine Fermi pockets formed by charge-$-e/3$ holons $蠄_{ab}$, where $a$ and $b$ label color and valley. Viewing the holons as quarks connects this problem to color superconductivity in high-energy physics. Color-antisymmetric pairing produces a class of charge-$2e$ superconductors with angular momentum $L=3n$ and chiral central charge $c_-=m/2$, where $m$ is odd. Thus a gas of charge-$e/3$ anyons can enter a superconducting phase directly without binding. Particle--hole color--valley Higgs fields instead produce two $Z_3$ orthogonal metals with one or three pockets, transforming respectively as a singlet or triplet of $SU(3)_{\\mathrm{valley}}$. A $U(1)^2$ holon metal with three identical pockets can preserve the triangular-lattice space group while reducing the emergent valley symmetry down to $S_3$. Its pairing instabilities include a gapped charge $2e$ $f-if$ superconductor and a gapless charge-$2e$ orthogonal superconductor with $\\langle cc\\rangle=0$ and a Bogoliubov Fermi surface at $螕$. Finally, we discuss the possibility of a chemical-potential-tuned transition from the FCI to superconductivity and argue that all nine fermions may be required if the transition preserves the full emergent $SU(3)_v$ symmetry.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-20",
+                       "url":  "https://arxiv.org/abs/2607.18238",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+                   },
+                   {
+                       "id":  "doi:10.1103/d766-sns5",
+                       "title":  "Relaxation toward an Ideal Chern Band through Coupling to a Markovian Bath",
+                       "authors":  [
+                                       "Bruno Mera",
+                                       "Tomoki Ozawa"
+                                   ],
+                       "abstract":  "We propose a microscopic, weak-coupling mechanism by which generic Chern bands asymptotically relax toward ideal bands. We consider coupling interacting electrons to a Caldeira-Leggett-like Ohmic bosonic bath. Using the Born-Markov approximation, we analytically show that, upon taking the leading order contribution in momentum of the form factor, Slater determinant states of a Chern band under Hartree-Fock approximation evolve toward Slater determinant states corresponding to an ideal Chern band. We also numerically validate our proposal by performing simulation of a massive Dirac model with the extended Hubbard interaction, showing that the Berry curvature and quantum metric co-evolve toward saturation of the trace condition. Our proposal provides a concrete dissipative mechanism for driving Chern bands toward ideal quantum geometry, a fundamental building block for the stabilization of fractional Chern insulators.",
+                       "journal":  "Physical Review Letters",
+                       "published":  "2026-07-20",
+                       "url":  "https://doi.org/10.1103/d766-sns5",
+                       "doi":  "10.1103/d766-sns5",
+                       "source":  "Crossref",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  null
+                   },
+                   {
+                       "id":  "doi:10.1103/c9dr-bpn4",
+                       "title":  "Simulating Fermionic Fractional Chern Insulators with Infinite Projected Entangled-Pair States",
+                       "authors":  [
+                                       "Hao Chen",
+                                       "Titus Neupert",
+                                       "Juraj Hasik"
+                                   ],
+                       "abstract":  "",
+                       "journal":  "Physical Review Letters",
+                       "published":  "2026-07-20",
+                       "url":  "https://doi.org/10.1103/c9dr-bpn4",
+                       "doi":  "10.1103/c9dr-bpn4",
+                       "source":  "Crossref",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  null
+                   },
+                   {
+                       "id":  "doi:10.1021/acsanm.6c02324",
+                       "title":  "Robust Quantum Anomalous Hall Effect in Ferromagnetic Janus Cr 3 X 2 Y 2 (X, Y = S, Se, Te) Monolayers: Implications for Dissipationless Quantum Computing Devices",
+                       "authors":  [
+                                       "Xiufeng Zhang",
+                                       "Yuqing Mao",
+                                       "Jinlian Lu",
+                                       "Ying Han",
+                                       "Lu Qi",
+                                       "Ailei He",
+                                       "Xiuyun Zhang"
+                                   ],
+                       "abstract":  "",
+                       "journal":  "ACS Applied Nano Materials",
+                       "published":  "2026-07-20",
+                       "url":  "https://doi.org/10.1021/acsanm.6c02324",
+                       "doi":  "10.1021/acsanm.6c02324",
+                       "source":  "Crossref",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  null
+                   },
+                   {
+                       "id":  "arxiv:2607.15274",
+                       "title":  "Single-component twisted $\\mathbb{Z}_3$ orthogonal metal in an $e/3$-anyon fluid",
+                       "authors":  [
+                                       "Zhaoyu Han",
+                                       "Ashvin Vishwanath",
+                                       "Eslam Khalaf"
+                                   ],
+                       "abstract":  "We propose an unconventional metallic phase emerging on doping the $1/3$ Fractional Chern insulator, which can serve as a parent state to anyon superconductivity with arbitrary chiral central charge. It is a twisted $\\mathbb{Z}_3$ orthogonal metal: a state with vanishing electron quasiparticle weight but a single well-defined Fermi surface of emergent charge-$e/3$ fermions coupled to a Dijkgraaf-Witten twisted $\\mathbb{Z}_3$ gauge field. It is manifestly valley-symmetric and valley-gapped. Pairing this fractionalized Fermi surface then removes the topological order and produces a family of superconductors whose chiral central charge is directly set by the BdG band topology of the paired $e/3$ fermions, while the angular momentum of the physical order parameter is constrained to be a multiple of three. This scenario provides a route to superconducting states beyond anyon-superconductivity constructions based on $2e/3$ anyons. The metallic phase itself carries distinctive ``fractional Fermiology\u0027\u0027 signatures: $e/3$ shot noise, anomalous quantum oscillations, and a $6蟺$ ac Josephson effect when it mediates the Josephson coupling between superconductors. We construct explicit wavefunction ansatz realizing the phase, and argue that inter-valley repulsion between anyons stabilizes this phase compared to competing states. We show that the construction extends to higher Laughlin states but not to Jain states.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-16",
+                       "url":  "https://arxiv.org/abs/2607.15274",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.15274.png"
+                   },
+                   {
+                       "id":  "doi:10.1103/bvrb-z4hj",
+                       "title":  "Candidate for a Fractional Topological Insulator in Twisted MoTe 2",
+                       "authors":  [
+                                       "Yiping Wang",
+                                       "Gillian E. Minarik",
+                                       "Weijie Li",
+                                       "Yves Kwan",
+                                       "Shuai Yuan",
+                                       "Eric Anderson",
+                                       "Chaowei Hu",
+                                       "Julian Ingham",
+                                       "Jeongheon Choe",
+                                       "Takashi Taniguchi",
+                                       "Kenji Watanabe",
+                                       "Xavier Roy",
+                                       "Jiun-Haw Chu",
+                                       "Raquel Queiroz",
+                                       "James C. Hone",
+                                       "N. Regnault",
+                                       "Xiaodong Xu",
+                                       "Xiaoyang Zhu"
+                                   ],
+                       "abstract":  "The interplay among electronic correlation, topology, and time-reversal symmetry often leads to exotic quantum states of matter, as highlighted by the discoveries of fractional Chern insulators in twisted bilayer MoTe 2 ( tMoTe 2 ) . Among the fractional Chern insulators (FCIs) in tMoTe 2 , the most robust is at a hole filling factor of 谓 = 鈭?2 3 per moir茅 unit cell. Here, employing pump-probe circular dichroism measurement on tMoTe 2 at twist angles 胃 = 3.9 掳 and 3.7掳, we show that a correlated state at 谓 = 鈭?4 3 exhibits an unusual Ising antiferromagnet behavior. The 谓 = 鈭?4 3 state with no net magnetization undergoes first order phase transitions at extremely low magnetic fields of | 渭 0 H | 鈭?2 鈥?6 mT to partially valley polarized states. This behavior is notably absent for all other correlated states in tMoTe 2 and also disappears for 谓 = 鈭?4 3 at higher or lower twist angles ( 胃 = 4.0 掳 or 3.3掳). The observed magnetic signature is consistent with a theoretically proposed fractional topological insulator (FTI), consisting of two copies of 谓 卤 = 鈭?2 3 FCIs with opposite chirality in the K 卤 valleys. The experimental results are supported by interacting continuum model calculations that reveal the extreme closeness in energy ( 螖 E \u003c 1 meV ) between the putative FTI ( 谓 卤 = 鈭?2 3 and 谓 鈭?= 鈭?2 3 ) and partially valley polarized states ( 谓 卤 = 鈭?1 and 谓 鈭?= 鈭?1 3 ). Our findings present a candidate FTI with time-reversal symmetry and call for advanced transport and imaging measurements to establish the quantized helical edge modes.",
+                       "journal":  "Physical Review X",
+                       "published":  "2026-07-16",
+                       "url":  "https://doi.org/10.1103/bvrb-z4hj",
+                       "doi":  "10.1103/bvrb-z4hj",
+                       "source":  "Crossref",
+                       "material_system":  "Moire_Superlattice",
+                       "image_url":  null
+                   },
+                   {
+                       "id":  "arxiv:2607.13807",
+                       "title":  "Fractional Chern insulators in alternating twisted multilayer MoTe$_{2}$",
+                       "authors":  [
+                                       "Xi-Hang Feng",
+                                       "Shi-Ping Ding",
+                                       "Xiang-Jian Hou",
+                                       "Ying-Hai Wu",
+                                       "Jin-Hua Gao"
+                                   ],
+                       "abstract":  "We study strongly correlated many-body states in alternating twisted trilayer and tetralayer MoTe$_{2}$. By sliding the top layer with respect to others and applying a perpendicular electric field, a variety of band structures can be realized. In many cases, the topmost hole band has unity Chern number and its quantum geometric properties can be tuned to some extent. Exact diagonalizations suggest that fractional Chern insulators are stabilized in certain parameter regimes but not in some regimes even when the band is topological. This contrast is attributed primarily to different quantum geometries as quantified by the trace condition. Our results demonstrate that sliding can serve as a useful knob for probing many-body states in moir茅 systems.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-15",
+                       "url":  "https://arxiv.org/abs/2607.13807",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Moire_Superlattice",
+                       "image_url":  "/data/figures/arxiv-2607.13807.png"
+                   },
+                   {
+                       "id":  "doi:10.1038/s41586-026-10762-7",
+                       "title":  "Fractional high-Chern insulator in twisted rhombohedral graphene",
+                       "authors":  [
+                                       "Zexu Li",
+                                       "Wenxuan Wang",
+                                       "Fajie Wang",
+                                       "Zaizhe Zhang",
+                                       "Qiu Yang",
+                                       "Kenji Watanabe",
+                                       "Takashi Taniguchi",
+                                       "X. C. Xie",
+                                       "Jie Wang",
+                                       "Kaihui Liu",
+                                       "Zhida Song",
+                                       "Xiaobo Lu"
+                                   ],
+                       "abstract":  "",
+                       "journal":  "Nature",
+                       "published":  "2026-07-15",
+                       "url":  "https://doi.org/10.1038/s41586-026-10762-7",
+                       "doi":  "10.1038/s41586-026-10762-7",
+                       "source":  "Crossref",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10762-7/MediaObjects/41586_2026_10762_Fig1_HTML.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.12320",
+                       "title":  "Quantum anomalous Hall effect with tunable Chern numbers induced by d-wave sublattice-staggered altermagnetism",
+                       "authors":  [
+                                       "Lizhou Liu",
+                                       "Qing-Feng Sun"
+                                   ],
+                       "abstract":  "We construct a minimal spinful tight-binding model on a square lattice, where a $d$-wave sublattice-staggered altermagnetism drives the quantum anomalous Hall effect. Here the exchange field is staggered between the two sublattices, where it takes opposite signs on $A$ and $B$ described by the Pauli matrix $蟿_z$. The resulting insulating phases host tunable Chern numbers $\\mathcal{C}=\\pm1$ and $\\mathcal{C}=\\pm2$, controlled by the staggered exchange strength and the sublattice-staggered potential. We determine the complete phase diagram, identify valley-resolved band inversions at the $X$ and $Y$ points in the Brillouin zone, and demonstrate chiral edge states together with quantized two-terminal conductance plateaus. Our work provides a simple route to realizing the quantum anomalous Hall effect in compensated magnets via a $d$-wave sublattice-staggered altermagnetism.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-14",
+                       "url":  "https://arxiv.org/abs/2607.12320",
+                       "doi":  "10.1088/1674-1056/ae42bb",
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.12320.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.12314",
+                       "title":  "Engineering Two-Dimensional Hybrid-Order Topological Insulators via Trilayer Coupling",
+                       "authors":  [
+                                       "Lizhou Liu",
+                                       "Cheng-Ming Miao",
+                                       "Qing-Feng Sun"
+                                   ],
+                       "abstract":  "We propose an interlayer-engineering scheme to realize a two-dimensional hybrid-order topological insulator, characterized by the coexistence of first-order and second-order topological phases, in a coupled trilayer Chern system. Starting from three quantum anomalous Hall layers with Chern numbers $\\mathcal{C}_{1/2/3}=+1/-1/+1$ in the decoupled limit, interlayer tunneling hybridizes their edge states into a single chiral edge mode, while simultaneously opening a gap that supports corner states. Consequently, the system exhibits the coexistence of one-dimensional chiral edge states and zero-dimensional corner states within the same bulk gap, a hallmark of the hybrid-order topology. Furthermore, we map out the topological phase diagram, and show that the hybrid-order phase is robust against mass-type disorder. Our results identify interlayer hybridization as a minimal and broadly applicable strategy for engineering coexisting edge and corner states within a topological platform.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-14",
+                       "url":  "https://arxiv.org/abs/2607.12314",
+                       "doi":  "10.1103/ggh1-tpdk",
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.12314.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.11484",
+                       "title":  "Fractionalized metals from doped anyons: Application to tMoTe2",
+                       "authors":  [
+                                       "T. Senthil"
+                                   ],
+                       "abstract":  "A fluid of mobile anyons may arise naturally when a Fractional Quantum Anomalous Hall (FQAH) state is doped. Motivated by recent experiments on twisted $MoTe_2$, we study metallic phases obtained by doping the $蟽_{xy} = 2e^2/3h$ state. We propose that the high-resistivity metal observed adjacent to this FQAH state is a $Z_3$ Orthogonal Metal: a non-Fermi liquid with sharp charge $1/3$ fermionic quasiparticles coupled to a discrete $Z_3$ gauge field but with no sharp electronic quasiparticle. For a dilute gas of three species of charge-$1/3$ anyons with $蟺/3$ statistics, we construct two $U(3)$ symmetric $Z_3$ Orthogonal Metals, distinguished by whether the gapless fermions transform as $SU(3)$ triplets or singlets. We show that these states naturally yield large electrical resistivities even when the fractionalized quasiparticles are in a good metallic regime. Pairing of the charge-$1/3$ fermions produces an ordinary charge-$2e$ superconductor, smoothly connected to a BCS state but obtained through an intrinsically fractionalized normal state. We discuss experimental signatures of the idea that the normal metallic state in the lightly doped $2/3$ state may have fractionalized charge carriers.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-13",
+                       "url":  "https://arxiv.org/abs/2607.11484",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Moire_Superlattice",
+                       "image_url":  "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.11380",
+                       "title":  "Toward Quantum Utility in Correlated Topological Matter: Variational Preparation of Fractional Quantum Hall Manifolds",
+                       "authors":  [
+                                       "Sergio F. Exp贸sito",
+                                       "Unai Aseginolaza",
+                                       "Ra煤l Guerrero-Avil茅s",
+                                       "Joaquim Jornet-Somoza",
+                                       "Francisco Guinea",
+                                       "Juan Borge"
+                                   ],
+                       "abstract":  "We investigate the use of variational quantum algorithms to prepare and characterize fractional quantum Hall states on near-term quantum processors. Focusing on the $谓=1/3$ Laughlin phase described by the $V_1$ Haldane pseudopotential, we formulate the lowest-Landau-level problem in second quantization, and implement particle-number-preserving variational circuits combined with the variational quantum eigensolver (VQE) and variational quantum deflation (VQD). We benchmark the approach in two complementary geometries: Haldane sphere and torus shape. On the Haldane sphere, the target state is a unique zero-energy Laughlin ground state, providing a controlled test of the variational workflow and of excited-state reconstruction. On the torus, the problem retains the genuinely two-dimensional periodic character of the quantum Hall liquid and exhibits the threefold topological ground-state degeneracy expected for the $谓=1/3$ fractional filling factor. This feature makes the torus a more demanding benchmark than the quasi-one-dimensional cylinder or thin-torus limits commonly exploited in state-preparation quantum protocols. We benchmark the hardware-optimized variational states against exact diagonalization using energy estimates, error-mitigated observables, and subspace-containment diagnostics. Our results show that hybrid quantum algorithms can approximately reconstruct the low-energy structure of small fractional quantum Hall systems, including the topological ground-state manifold on the torus. Beyond serving as a benchmark for quantum hardware, this geometry-resolved approach provides a route toward quantum simulations of fractional Chern insulators and strongly correlated topological phases in realistic two-dimensional materials.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-13",
+                       "url":  "https://arxiv.org/abs/2607.11380",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.10320",
+                       "title":  "Retarded interaction between opposite chiral edges in anomalous Hall crystals",
+                       "authors":  [
+                                       "Wangqian Miao",
+                                       "Mu-Yang Chen",
+                                       "Binghai Yan",
+                                       "Chunli Huang"
+                                   ],
+                       "abstract":  "An anomalous Hall crystal combines spontaneous electronic crystallization with a Chern insulating gap, supporting both chiral edge modes and low-energy electronic phonons. We show that this coexistence produces a distinct dynamical effect from ordinary Chern insulators: transverse bulk phonons can mediate a retarded interaction between counterpropagating chiral edge modes on opposite sides of the sample, realizing a Luttinger-liquid variant with delayed inter-edge coupling. Using microscopic time-dependent Hartree--Fock calculations for rhombohedral pentalayer graphene, we find that lowering the carrier density softens the long-wavelength transverse phonon mode. Near this instability regime, the resulting boundary-projected phonon continuum inevitably overlaps with the edge dispersion, thereby enabling their coupling. A smoking-gun probe is a nonlocal measurement: a drive applied to one edge can induce a response on the other edge, delayed by the transverse phonon time of flight across the sample.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-11",
+                       "url":  "https://arxiv.org/abs/2607.10320",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.10320.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.10153",
+                       "title":  "Staggered Potential and Elliptical Light Driven Topological Phase Transitions in $伪$-$\\mathcal{T}_{3}$ Lattice",
+                       "authors":  [
+                                       "Muhammad Faisal",
+                                       "Muhammad Irfan Sarwar"
+                                   ],
+                       "abstract":  "We theoretically investigate the influence of hexagonal boron nitride (h-BN) on the electronic properties of an $伪$-$\\mathcal{T}_{3}$ lattice driven by an off-resonant elliptically polarized light field. The staggered potential $M$ breaks the sublattice inversion symmetry, transforming the initial semimetal into a trivial insulator with Chern number $C=0$. We identify a fundamental geometric singularity at $伪=1/\\sqrt{2}$, independent of $M$, below which no finite drive can close the lower band gap, creating a stable topological window where conduction--flat band inversion yields a Chern insulator with $C=1$. Above this critical value the lower gap closes with finite intensity, allowing a transition from $C=1$ to $C=2$ as the dice limit ($伪=1$) is approached. The topological phases are characterized by quantized anomalous Hall plateaus at $蟽_{xy}=e^2/h$ ($C=1$) and $蟽_{xy}=2e^2/h$ ($C=2$), with each valley contributing exactly $\\frac{1}{2}e^2/h$. The $C=1$ plateau remains robust from $0$ K to $300$ K, while $C=2$ requires $T\u003c100$ K due to its narrower gap. A highly asymmetric thermoelectric Seebeck response further serves as an experimental fingerprint of each phase, providing a realistic framework for realizing stable high-Chern-number phases in substrate-supported $伪$-$\\mathcal{T}_{3}$ materials.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-11",
+                       "url":  "https://arxiv.org/abs/2607.10153",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.10153.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.08822",
+                       "title":  "Energetics of fractional anomalous Hall crystals in rhombohedral graphene",
+                       "authors":  [
+                                       "F茅lix Desrochers",
+                                       "Ashvin Vishwanath"
+                                   ],
+                       "abstract":  "Fractional anomalous Hall crystals (FAHCs) replicate the topological order of the fractional quantum Hall effect in the continuum without requiring any external magnetic field. They spontaneously break continuous translation symmetry like a Wigner crystal, but are distinguished by each unit cell holding a fixed fractional number of electrons. Until now, these states have been confined to theoretical speculation or engineered models, leaving open the question of whether they can plausibly emerge in actual physical systems. Here, we establish them as energetically competitive candidate states in a realistic material setting. We study rhombohedral pentalayer graphene (R5G) with variational wavefunctions that are exact zero modes of a recently proposed ideal model of R5G. We evaluate their energies using Monte Carlo, after reinstating realistic dispersion and screened Coulomb interactions. We find FAHCs to be energetically competitive with integer anomalous Hall crystals and Fermi liquids, and their stability follows a simple principle. Each crystal maps onto a parent quantum Hall liquid that fixes its interaction energy, while the kinetic energy favors crystal periods that match the finite-momentum minimum of R5G\u0027s Mexican-hat dispersion. A weak periodic potential can then selectively lower and pin the commensurate fractional crystals. This picture predicts how the integer and fractional quantum anomalous Hall stability windows evolve with twist angle and displacement field, which we compare to recent experiments. These results support a continuum-and-interactions-first route to fractional anomalous Hall states in rhombohedral graphene.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-09",
+                       "url":  "https://arxiv.org/abs/2607.08822",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.08822.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.08710",
+                       "title":  "Competing Chern states revealed by quasiparticle charging in moir茅 rhombohedral graphene",
+                       "authors":  [
+                                       "Hongyuan Li",
+                                       "Zuhan Geng",
+                                       "Junseok Seo",
+                                       "Chenxi Xu",
+                                       "Yifan Jiang",
+                                       "Shenyong Ye",
+                                       "Zhenqi Hua",
+                                       "Jiabin Xie",
+                                       "Lujin Min",
+                                       "Kenji Watanabe",
+                                       "Takashi Taniguchi",
+                                       "Kenji Yasuda",
+                                       "Xiaomeng Liu",
+                                       "Long Ju",
+                                       "Jie Shan",
+                                       "Kin Fai Mak"
+                                   ],
+                       "abstract":  "Moir茅 materials realize a versatile platform for exploring the physics of fractional Chern insulators (FCIs). The recently observed evolution from FCIs to an extended quantum anomalous Hall background upon lowering the electronic temperature in moir茅 rhombohedral graphene (mRG)8 raises a fundamental question: Is it caused by a failure to equilibrate the edge states of an FCI or by a genuine phase transition in the bulk from an FCI to a generalized anomalous Hall crystal? Here we address this question by probing quasiparticle charging in a mesoscopic mRG antidot device and by bulk resistance measurements, both of which are bulk-sensitive and free from complications from edge states. Tunneling to the mRG antidot reveals quasiparticles carrying one electron charge for both Chern states at filling factors 谓=1 and 2/3 at low temperatures. Temperature dependence measurements of the bulk resistance near 谓=2/3 further suggest a thermodynamic phase transition from an FCI to a generalized anomalous Hall crystal at temperatures below about 150mK. The results clearly exclude the edge state equilibration scenario and favor the phase transition scenario. Our work establishes mesoscopic probes as a powerful approach to uncover competing ground states in moir茅 materials and provides a basis for probing fractionalized excitations in FCIs.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-09",
+                       "url":  "https://arxiv.org/abs/2607.08710",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Moire_Superlattice",
+                       "image_url":  "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.08702",
+                       "title":  "Quantum-Geometric Design of Lattice Generalized Landau Levels",
+                       "authors":  [
+                                       "Bohao Li",
+                                       "Fengcheng Wu"
+                                   ],
+                       "abstract":  "We design lattice models with tailored quantum geometry, including generalized Landau levels (LLs) satisfying the integrated trace condition and higher-Chern bands with ideal quantum geometry. Our models with $N=2$, $3$, and $4$ sublattices include a generalized Haldane model ($N=2$ honeycomb lattice model) with Gaussian-decaying hoppings realizable in twisted bilayer MoTe$_2$, and $N \\geq 3$ models with exponentially decaying hoppings. Exact diagonalization reveals fractional Chern insulators in the generalized zeroth LL bands of all three models, a Moore-Read state in the generalized first LL band of the $N=4$ model, and various interaction-driven topological phases$\\unicode{x2013}$including integer and fractional anomalous Hall crystals and a multicomponent Halperin state$\\unicode{x2013}$in the ideal higher-Chern band of the $N=3$ model. Informed by quantum geometry, our work provides a pathway for lattice realizations of Landau-level and beyond-Landau-level physics.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-09",
+                       "url":  "https://arxiv.org/abs/2607.08702",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Moire_Superlattice",
+                       "image_url":  "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.06492",
+                       "title":  "Correlated Insulating States in Twisted Double Bilayer Graphene Enhanced by Interfacial Effect on CrOCl",
+                       "authors":  [
+                                       "Ning Ma",
+                                       "Zekang Zhou",
+                                       "Chiara Cocchi",
+                                       "Maurice Bal",
+                                       "Maarten van Delft",
+                                       "Kenji Watanabe",
+                                       "Takashi Taniguchi",
+                                       "Steffen Wiedmann",
+                                       "Jian-Hao Chen",
+                                       "Mitali Banerjee"
+                                   ],
+                       "abstract":  "Interaction between different two dimensional materials can give rise to many exotic physical phenomena which are rarely observed in intrinsic materials. Recently, several theoretical and experimental works have revealed that magnetic proximity effect between pristine graphene and magnetic substrates can lead to the emergence of quantum anomalous Hall states and quantum spin Hall states. However, interplay between correlated states in graphene-based systems and magnetic materials has seldom been studied. Here we perform the transport measurement at ultrahigh magnetic field of twisted double bilayer graphene (TDBG) on CrOCl (COC) substrate, which is an antiferromagnetic material. Instead of a magnetic-exchange effect on graphene, we observe an enhanced correlated insulating state at half-filling factor of TDBG as a result of the charge-transfer process between TDBG and COC. The temperature and magnetic field dependence of this enhanced state are further studied. Our results demonstrate the influence of charge-related effect at the interface, and shed a light on a new route for manipulating the correlated states in graphene-based moir茅 systems using interfacial engineering.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-07",
+                       "url":  "https://arxiv.org/abs/2607.06492",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Moire_Superlattice",
+                       "image_url":  "/data/figures/arxiv-2607.06492.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.05631",
+                       "title":  "Electric Field Induced Multi-Space Topological Phase Transitions in Janus Monolayer MnBi2Se2Te2",
+                       "authors":  [
+                                       "Kefan Zhang",
+                                       "Jian Wu",
+                                       "Weiyi Pan"
+                                   ],
+                       "abstract":  "Manipulating coexisting multi-space topological states within a single material is a critical frontier for low-power spintronic applications, for which perpendicular electric-field gating offers a highly precise tuning mechanism. Using first-principles calculations and atomistic spin simulations, it is demonstrated that Janus monolayer MnBi2Se2Te2 can exhibit simultaneous momentum-space and real-space topological phase transitions under an external electric field. Specifically, the electric field drives momentum-space transitions across a topologically trivial state (C = 0), a low-Chern-number quantum anomalous Hall state (C = -1), and a high-Chern-number state (C = 2). Concurrently, by actively tuning the competition between the Dzyaloshinskii-Moriya interaction and magnetic anisotropy, the electric field induces real-space magnetic transitions from a uniform ferromagnetic state to an isolated skyrmion state, and ultimately to a skyrmion-spiral domain coexistence phase. Electric-field-induced variations in both the QAHE and magnetic textures may give rise to multiple topological phase transitions, involving distinct topological regimes: a purely k-space topology, RK-joint skyrmions, and pure real-space skyrmions. These findings establish a powerful material platform and efficient route for the synergistic control of coexisting topological orders, making it highly promising for next generation multi-functional spintronic devices.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-06",
+                       "url":  "https://arxiv.org/abs/2607.05631",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.05631.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.04771",
+                       "title":  "Local Defects and the Topology of the Haldane Model",
+                       "authors":  [
+                                       "Vishesh Makwana",
+                                       "Eric Akkermans"
+                                   ],
+                       "abstract":  "We investigate the interplay between local defects and topology in the Haldane model within the framework of the tenfold classification. The Haldane model realizes a Chern-insulating phase characterized by an integer topological invariant ($C=\\pm 1$) and supports chiral edge states. Introducing vacancies gives rise to localized states at the defect sites, classified by a $\\mathbb{Z}_2$ invariant $谓= C\\cdot m,\\mathrm{mod},2$, where $m=N_A-N_B$ is the net sublattice imbalance of the vacancy configuration: an odd imbalance hosts a protected zero-energy mode, whereas an even imbalance does not. We identify three independent experimental signatures that distinguish these topological defect states from trivial (adatom) defects. First, vacancy-induced states exhibit characteristic dislocations in their wavefunction profiles that track the phase winding associated with the defect. Second, a fractional charge of $e/2$ accumulates at vacancy sites, while no such charge appears at adatoms. Third, the probability current circulating around a vacancy-induced state flows in the opposite direction to that of chiral edge states, in direct analogy with the current reversal produced by a vortex in a $p$-wave superconductor. All three signatures are in quantitative agreement with the $\\mathbb{Z}_2$ prediction.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-06",
+                       "url":  "https://arxiv.org/abs/2607.04771",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.04771.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.03707",
+                       "title":  "Beyond-adiabatic flat Chern bands from a double-helix skyrmion crystal",
+                       "authors":  [
+                                       "Bin Xi",
+                                       "Ken Chen",
+                                       "Qiang Luo",
+                                       "Jie Lu",
+                                       "Jia-Wei Mei",
+                                       "Hong-Gang Luo",
+                                       "Jize Zhao"
+                                   ],
+                       "abstract":  "A central challenge in flat-band engineering is suppressing kinetic energy without sacrificing Berry curvature. We show that a double-helix skyrmion crystal (DHSKX)--two sublattice-resolved skyrmion textures locked at opposite helicities, obtained here as the classical ground state of a frustrated honeycomb spin model--provides such a route under double exchange. The key mechanism is a single real-space organization, phase clustering: the $蟺$-locked helicities expel the wave function\u0027s phase winding from the skyrmion cores, and the magnetic $C_3$ symmetry pins it into three phase-locked clusters whose distributed destructive interference cancels net transport while preserving the Berry curvature. Ordinary skyrmion crystals, even with the same symmetry, do not develop this organization. Phase clustering yields isolated flat $|C| = 1$ Chern bands over broad coupling windows, one of which surpasses the adiabatic reference in quantum geometry at intermediate coupling. In this beyond-adiabatic window, band-projected exact diagonalization gives finite-size evidence consistent with $谓= 1/3$ Laughlin-type fractional-Chern-insulator physics; the same texture also hosts a higher-Chern ($C = -2$) flat band. Built from site-resolved complex hoppings alone, the DHSKX architecture is directly programmable in topolectric, acoustic, and photonic platforms.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-04",
+                       "url":  "https://arxiv.org/abs/2607.03707",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.03707.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.03511",
+                       "title":  "Robustness of quantized Hall resistivity under cavity coupling at zero temperature",
+                       "authors":  [
+                                       "Juan Rom谩n-Roche",
+                                       "Jie Wang",
+                                       "Michael Ruggenthaler",
+                                       "Angel Rubio",
+                                       "Vasil Rokaj"
+                                   ],
+                       "abstract":  "Recent experiments have shown that strong light-matter coupling in electromagnetic cavities can modify transport properties of quantum Hall systems through the formation of Landau polaritons, prompting questions about the robustness of topological protection. While earlier theory demonstrated that the Hall conductivity can be modified at finite temperature and finite polariton lifetime (or finite broadening), experiments primarily probe the resistivity tensor. Our phenomenological model reveals an asymmetry between conductivity and resistivity in quantum Hall systems under strong light-matter interaction, showing that at zero temperature the Hall resistivity remains completely immune to cavity-induced modifications arising from polariton broadening, independent of the light-matter coupling strength. These results provide a deeper explanation for the absence of renormalization in the von Klitzing constant in experiments probing the even QH plateaus through the Hall resistivity at low temperature, and clarify the distinct roles of dissipation and strong light-matter coupling in hybrid light-matter systems.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-03",
+                       "url":  "https://arxiv.org/abs/2607.03511",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+                   },
+                   {
+                       "id":  "arxiv:2607.03401",
+                       "title":  "Emergent $\\mathbb{Z}$-type topology in a quasi-one-dimensional extended QWZ model",
+                       "authors":  [
+                                       "Zebedeus F. Osseweijer",
+                                       "Lumen Eek",
+                                       "Cristiane Morais Smith"
+                                   ],
+                       "abstract":  "We investigate the emergence of zero-dimensional topological end states in nanoribbons described by the Qi-Wu-Zhang (QWZ) model and its extensions with longer-range couplings. While dimensional reduction from two to one dimension is often assumed to preserve the symmetry classification of the parent system, here an additional symmetry can emerge originating from the real-space geometry of the ribbon. This symmetry acts as a chiral symmetry, combining orbital and spatial transformations, and promotes the effective one-dimensional system from symmetry class D to class BDI. We demonstrate that the existence of such a symmetry depends both on the long and end termination of the ribbon and exhibits an even-odd effect with respect to ribbon width, revealing that the commonly studied rectangular ribbons constitute a special high-symmetry case. For the conventional QWZ model, we derive analytic expressions for the topological phase boundaries of finite-width nanoribbons and characterize the resulting hybridization-gap phases through ($\\mathbb{Z}_2 $) and winding-number invariants. We further show that extended QWZ models with longer-range couplings support phases with multiple topological end states and higher winding numbers. These phases arise through distinct mechanisms, including the hybridization of multiple edge modes inherited from higher-Chern-number bulk phases. Our results demonstrate that both long and end termination can fundamentally alter the topological classification of confined Chern insulators, highlighting the interplay between crystalline geometry, emergent symmetries, and dimensional reduction.",
+                       "journal":  "arXiv",
+                       "published":  "2026-07-03",
+                       "url":  "https://arxiv.org/abs/2607.03401",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2607.03401.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.31604",
+                       "title":  "Eigenstate Transitions, Duality, and Anomalous Diffusion in a Quasiperiodic Qi-Wu-Zhang Chern Insulator",
+                       "authors":  [
+                                       "Tengming Lou",
+                                       "Haiyang Wang",
+                                       "Haijiao Ji",
+                                       "Haiwen Liu"
+                                   ],
+                       "abstract":  "Quasiperiodic systems usually interpolate between extended, critical, and localized states as the quasiperiodic modulation is increased. Here we show that the magnetic Qi-Wu-Zhang Chern-insulator model realizes a distinct full-spectrum transition in which localization is avoided. For an irrational magnetic flux, the two-dimensional model reduces to a spinor quasiperiodic chain with a matrix onsite modulation controlled by the hopping amplitude $t_x$. When $|m+2|\u003et_y$, increasing $t_x$ produces the conventional extended-critical-localized sequence with a critical line at $t_x=t_y$. In contrast, when $|m+2|\\le t_y$, the system changes from an extended phase to a critical phase at $t_x=|m+2|$ and remains critical even for stronger quasiperiodic modulation. Finite-size scaling of the average inverse participation ratio gives $\\overline{\\mathrm{IPR}}\\sim q^{-伪}$ with $0\u003c伪\u003c1$ throughout this persistent critical regime. A dual transformation exchanging $t_x$ and $t_y$, together with a Lyapunov-exponent analysis, explains the phase diagram. Wave-packet dynamics further distinguish ballistic, anomalous-diffusive, and localized regimes. These results identify magnetic Chern-insulator systems as a natural platform for robust criticality and anomalous quantum transport.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-30",
+                       "url":  "https://arxiv.org/abs/2606.31604",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2606.31604.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.31267",
+                       "title":  "Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2",
+                       "authors":  [
+                                       "Jiao Xie",
+                                       "Yongqin Xie",
+                                       "Fanqiang Chen",
+                                       "Jiliang Yang",
+                                       "Sicheng Chen",
+                                       "Moyu Chen",
+                                       "Kenji Watanabe",
+                                       "Takashi Taniguchi",
+                                       "Shi-Jun Liang",
+                                       "Kemi Xu",
+                                       "Bin Cheng",
+                                       "Feng Miao"
+                                   ],
+                       "abstract":  "Moire flat bands in graphene systems proximitized by transition-metal dichalcogenides (TMDCs) provide a setting where spin-orbit coupling (SOC) can reshape band topology. The crystallographic alignment angle twist angle between TMDC and graphene layers is predicted to tune the balance of Ising and Rashba SOC, but a combined theoretical and experimental understanding of how twist angle governs the topological character of correlated states has not been systematically established. Here we show that in chiral-stacked twisted double bilayer graphene in proximity to WSe2, twist angle between graphene and WSe2 determines the topological character of correlated Chern insulators. Continuum model calculations reveal that Ising spin-orbit coupling dominates at zero twist angle, giving rise to flat bands with finite valley Chern numbers, whereas Rashba coupling dominates at larger twist angle, resulting in topologically trivial bands. Transport measurements at quarter filling confirm this picture: twist angle = 0 deg devices exhibit C = +1 Chern insulators, consistent with spontaneous isospin polarization, whereas twist angle = 15 degree devices show C = 0 despite exhibiting similar correlated insulating behavior. The sharp contrast establishes crystallographic alignment as a new tuning knob, complementary to twist angle, displacement field, and carrier density, for engineering correlated topological states in van der Waals heterostructures.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-30",
+                       "url":  "https://arxiv.org/abs/2606.31267",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Moire_Superlattice",
+                       "image_url":  "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.30917",
+                       "title":  "Topological random alloy",
+                       "authors":  [
+                                       "Subrata Pachhal",
+                                       "Aziz Hasan",
+                                       "Adhip Agarwala"
+                                   ],
+                       "abstract":  "Topological phases of matter are often realized in crystalline materials. To extend their understanding beyond perfect stoichiometry, we introduce a minimal model of a topological random binary alloy and show that the system realizes an exotic form of impurity-band engineering. We reveal that, in contrast to Wannier charge centers pinned by impurities in conventional semiconductors, doping a proximate quantum anomalous Hall insulator results in dopant-centric chiral current loops. The nature of such current loops is intrinsically tied to the properties of both the host and the dopant. We demonstrate that, even at dilute dopant density, these current loops can form topological domains in an otherwise trivial host and trigger a topological phase transition. On the other hand, doping a topological host having chirality opposite to that of the dopants can unexpectedly stabilize a metallic phase in which bulk transport is mediated by inter-domain edge modes.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-29",
+                       "url":  "https://arxiv.org/abs/2606.30917",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2606.30917.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.29827",
+                       "title":  "Spin-1 Dirac dispersion and Chern insulating phases in 2D honeycomb Sierpi艅ski fractal",
+                       "authors":  [
+                                       "Shneha Biswas",
+                                       "Shouya Yoshida",
+                                       "Katsunori Wakabayashi",
+                                       "Sudipta Dutta"
+                                   ],
+                       "abstract":  "Graphene-based Sierpi艅ski fractals host a zero-energy chiral mode and spin-1 Dirac dispersions within the nearest-neighbor tight-binding model. However, the presence of complex next-nearest neighbor hopping arising from the local flux and the staggered Semenoff mass terms, modeled within the Haldane Hamiltonian, breaks the time-reversal and spatial inversion symmetries, respectively, and makes these flat bands dispersive. Moreover, they introduce rich topological phases in this class of systems that can be characterized by Chern numbers up to $\\pm 3$, i.e., beyond the conventional honeycomb lattice. These observations pave the way for the exploration of 2D periodic fractals beyond graphene, where topological phase transitions can be realized through externally applied fields.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-29",
+                       "url":  "https://arxiv.org/abs/2606.29827",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2606.29827.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.28686",
+                       "title":  "Direct observation of interfacial exchange coupling in a magnetic tunnel junction through spin-polarized quasiparticle interference",
+                       "authors":  [
+                                       "Xu Wang",
+                                       "Chenxi Wang",
+                                       "Ying Yang",
+                                       "Yining Hu",
+                                       "Qingle Zhang",
+                                       "Chen Chen",
+                                       "Donglai Feng",
+                                       "Tong Zhang"
+                                   ],
+                       "abstract":  "Interfacial exchange coupling plays a critical role in enabling novel phenomena in magnetic heterostructures, such as spin triplet superconductivity, quantum anomalous Hall effect (QAHE), and advanced spintronic functionalities. While microscopic characterization of this coupling is essential for elucidating the underlying mechanism, it remains technically challenging. Here, using spin-polarized scanning tunneling microscopy (SP-STM) and quasiparticle interference, we directly observed interfacial exchange coupling in a magnetic tunnel junction formed by an Fe coated tip and a Cr(001) surface. We found the ferromagnetic tip induces significant energy shift (up to 10 meV) in the spin-polarized surface state of Cr(001). This shift is highly sensitive to the tip-surface distance and the spin-alignment between Fe tip and Cr surface, which can be switched by external magnetic field. Our results demonstrate that extended 2D surface states can mediate strong exchange coupling across a heterojunction, enabling local control of interfacial exchange interaction induced phenomena.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-27",
+                       "url":  "https://arxiv.org/abs/2606.28686",
+                       "doi":  "10.1021/acs.nanolett.6c01241",
+                       "source":  "arXiv",
+                       "material_system":  "Oxide_Heterostructure",
+                       "image_url":  "/data/figures/arxiv-2606.28686.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.28549",
+                       "title":  "The Position Space Chern Number: A Topological Index for Chiral Magnetic Systems",
+                       "authors":  [
+                                       "Zachariah Addison"
+                                   ],
+                       "abstract":  "This paper introduces an index that categorizes the topology of insulating chiral magnetic systems. The position space Chern number, $C_R$ is distinct from its momentum space counterpart, $C_K$. A nonzero index guarantees the existence of topologically protected in-gap states that localize on the edge of local potential barriers in momentum space. The Chern-Simons effective field theory describing position space Chern insulators reveals a topologically quantized correlation between transverse force operators that describe the flow of quanta in momentum space. We demonstrate the existence of nonzero $C_R$ in systems hosting skyrmion magnetic phases and show how the index generalizes the classical concept of a skyrmion winding number. Lastly we investigate the competition between momentum space and position space topologies, and highlight an apparent obstruction to having systems with both $C_R \\neq 0$ and $C_K \\neq 0$.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-26",
+                       "url":  "https://arxiv.org/abs/2606.28549",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2606.28549.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.26632",
+                       "title":  "Floquet-Engineered Chern Insulator in two-dimensional $d_{x^2-y^2}$-Wave Altermagnets",
+                       "authors":  [
+                                       "Hosein Cheraghchi"
+                                   ],
+                       "abstract":  "We investigate Floquet-engineered topological phases in two-dimensional $d_{x^2-y^2}$-wave altermagnets irradiated by circularly polarized light in the off-resonant regime. These materials exhibit large momentum-dependent spin-splitting governed by distinctive magnetic symmetries. Using a lattice model combined with Floquet theory, we demonstrate that irradiation induces the light-tunable quantum anomalous Hall phases with the Chern numbers up to $\\pm 3$. The resultant phase diagram is verified by calculating the anomalous Hall conductivity and also the edge modes inside the band gap of a nanoribbon version of the altermagnet. Our findings establish d-wave altermagnets as promising platforms for realizing nonequilibrium topological states of matter. The low-energy continuum limit of the lattice-based Floquet Hamiltonian results in a linear and higher-order-in-momentum spin-orbit couplings, and also a Zeeman-like magnetization, all arising from light-induced virtual photon processes. The resulting higher-order spin-orbit coupling generates the additional gapless Dirac points which, together with the high-symmetry gap-closings, yield enhanced Berry curvature and high Chern numbers. The light irradiation effectively breaks the static $d_{x^2-y^2}$-wave magnetic symmetry mixing in an isotropic photo-induced $s$-wave correction.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-25",
+                       "url":  "https://arxiv.org/abs/2606.26632",
+                       "doi":  "10.1103/mslj-zz6t",
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "/data/figures/arxiv-2606.26632.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.26548",
+                       "title":  "Topological phase transition driven by in-plane spin rotation",
+                       "authors":  [
+                                       "Xinyue Zhu",
+                                       "Yu Xie",
+                                       "Yifei Hao",
+                                       "Fei Gao",
+                                       "Yue Li",
+                                       "Junting Zhang"
+                                   ],
+                       "abstract":  "The intrinsic coupling between magnetism and nontrivial band topology in magnetic topological insulators makes external magnetic fields a powerful tool for manipulating topological states. However, conventional magnetic control mechanisms, such as driving magnetic phase transitions or fully reversing magnetization, typically demand large magnetic fields and lack continuous tunability. Here, we establish a symmetry framework for the reversible switching of topological states via continuous in-plane spin rotation, governed by magnetic point group constraints on the Berry curvature distribution. Using a two-dimensional kagome ferromagnetic Chern insulator as a prototype, we demonstrate that a 60掳in-plane magnetization rotation reverses the sign of the Chern number, transitioning through a topologically trivial state. Crucially, micromagnetic simulations confirm that this spin-reorientation-driven switching operates under exceptionally small magnetic fields and on ultrafast timescales. This work provides a highly efficient, low-energy paradigm for the manipulation of topological states.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-25",
+                       "url":  "https://arxiv.org/abs/2606.26548",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "MnBi2Te4_MTI",
+                       "image_url":  "/data/figures/arxiv-2606.26548.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.26096",
+                       "title":  "Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators",
+                       "authors":  [
+                                       "Niclas Heinsdorf",
+                                       "Ken Shiozaki"
+                                   ],
+                       "abstract":  "We rewrite a lattice model of the four-dimensional Chern insulator as a family of translationally-invariant infinite chains over the three-dimensional Brillouin zone and compute its higher three-form Berry curvature using infinite matrix product states (iMPS). We calculate the topological phase diagram of the associated Dixmier--Douady--Kapustin--Spodyneiko (DDKS) number as a function of the model\u0027s mass term, and show that it is exactly congruent to the phase diagram in terms of the second Chern number, the analytic expression of which is known for this particular model. This agreement demonstrates that higher Berry curvature can be used to compute second Chern numbers in a manifestly quantized manner. Motivated by the connection between the second Chern form and the Chern--Simons axion coupling, we study magnetoelectric coupling in three dimensions and its relation to higher Berry phases.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-24",
+                       "url":  "https://arxiv.org/abs/2606.26096",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Other_New_Materials",
+                       "image_url":  "https://ar5iv.labs.arxiv.org/assets/ar5iv_card.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.24670",
+                       "title":  "Simulating the Haldane model in ultra-clean GaAs heterostructures",
+                       "authors":  [
+                                       "Francesco Cioni",
+                                       "Lorenzo Cavicchi",
+                                       "Fabio Taddei",
+                                       "Marco Polini"
+                                   ],
+                       "abstract":  "The Haldane model represents the minimal lattice-based realization of a Chern insulator, exhibiting a quantized Hall conductance in the absence of Landau levels. Despite its conceptual elegance, the implementation in crystalline solids of the requisite pattern of Peierls phases breaking time-reversal symmetry remains experimentally demanding. In this work, we theoretically investigate the possibility to simulate the Haldane model in ultra-clean GaAs/AlGaAs heterostructures. Our proposal relies on recent experiments in which a high-mobility two-dimensional electron gas is subject to a gate-defined honeycomb electrostatic potential and a laterally periodic magnetic field generated by patterned ferromagnetic structures. The combined electrostatic and magnetic superlattices furnish a viable route to emulate the topological properties of the Haldane model.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-23",
+                       "url":  "https://arxiv.org/abs/2606.24670",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Oxide_Heterostructure",
+                       "image_url":  "/data/figures/arxiv-2606.24670.png"
+                   },
+                   {
+                       "id":  "arxiv:2606.23795",
+                       "title":  "Visualizing Symmetry Broken Chern Insulators and their Quantum Melting",
+                       "authors":  [
+                                       "Minhao He",
+                                       "Yen-Chen Tsui",
+                                       "Ran Peng",
+                                       "Kenji Watanabe",
+                                       "Takashi Taniguchi",
+                                       "Oskar Vafek",
+                                       "Ali Yazdani"
+                                   ],
+                       "abstract":  "In the presence of a magnetic field, electronic states of moir茅 quantum materials develop a Hofstadter spectrum that provides a unique setting for studying the interplay between band topology and strong electron-electron interaction. Using scanning tunneling microscopy, we study Hofstadter\u0027s states in bilayer graphene aligned with hexagonal BN and directly visualize the formation of interaction-driven symmetry breaking Chern insulators. Our measurements reveal the formation of phases that double, triple or quadruple the moir茅 unit cell at fractional filling of the Hofstadter bands, as well as states with complex intra-unit-cell wave functions. We visualize two distinct quantum phenomena in different Chern states, including quantum melting driven by the appearance and proliferation of topological defects, and a quantum transition co-occurring with phase competition and separation.",
+                       "journal":  "arXiv",
+                       "published":  "2026-06-22",
+                       "url":  "https://arxiv.org/abs/2606.23795",
+                       "doi":  null,
+                       "source":  "arXiv",
+                       "material_system":  "Moire_Superlattice",
+                       "image_url":  "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+                   }
+               ]
 }
