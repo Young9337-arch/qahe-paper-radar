@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 html { scroll-behavior: smooth; }
-body { color: #182230; background: #f7f8fa; }
+body { background:#080b16; }
+.hero { background: radial-gradient(circle at 75% 15%,#164e63 0,transparent 35%),linear-gradient(135deg,#0b1020,#111827 60%,#0b1225); }
+.glass { border:1px solid rgba(255,255,255,.12); border-radius:16px; background:rgba(255,255,255,.06); color:#e2e8f0; backdrop-filter:blur(14px); }
+.card { border:1px solid rgba(255,255,255,.1); border-radius:22px; background:linear-gradient(145deg,rgba(20,28,48,.96),rgba(10,15,29,.96)); box-shadow:0 20px 60px rgba(0,0,0,.25); }
 .paper-card { transition: transform .2s ease, box-shadow .2s ease; }
 .paper-card:hover { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(16,24,40,.09); }
