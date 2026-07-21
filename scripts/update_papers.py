@@ -10,9 +10,14 @@ from urllib.parse import quote
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+try:
+    import fitz
+except ImportError:
+    fitz = None
 
 ROOT = Path(__file__).resolve().parents[1]
 DB_PATH = ROOT / "public" / "data" / "papers.json"
+FIGURE_DIR = ROOT / "public" / "data" / "figures"
 UA = os.getenv("CONTACT_EMAIL", "qahe-radar@example.com")
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": f"QAHE-Paper-Radar/1.0 (mailto:{UA})", "Accept": "text/html,application/json,application/atom+xml"})
@@ -57,6 +62,31 @@ def get_image(url: str, arxiv_id: str | None = None) -> str | None:
             pass
     return None
 
+def extract_arxiv_pdf(arxiv_id: str) -> str | None:
+    """Extract the first real embedded raster from an arXiv PDF and cache it locally."""
+    if fitz is None: return None
+    target = FIGURE_DIR / f"arxiv-{arxiv_id.replace('/', '_')}.png"
+    if target.exists(): return f"/data/figures/{target.name}"
+    try:
+        response = SESSION.get(f"https://export.arxiv.org/pdf/{arxiv_id}", timeout=45)
+        response.raise_for_status()
+        doc = fitz.open(stream=response.content, filetype="pdf")
+        for page_index in range(min(5, len(doc))):
+            page = doc[page_index]
+            images = page.get_images(full=True)
+            if not images: continue
+            for img in images:
+                xref = img[0]
+                pix = fitz.Pixmap(doc, xref)
+                if pix.width < 180 or pix.height < 120: continue
+                FIGURE_DIR.mkdir(parents=True, exist_ok=True)
+                if pix.alpha: pix = fitz.Pixmap(fitz.csRGB, pix)
+                pix.save(str(target))
+                return f"/data/figures/{target.name}"
+    except Exception as exc:
+        logging.debug("PDF figure extraction failed for %s: %s", arxiv_id, exc)
+    return None
+
 def fetch_arxiv() -> list[dict]:
     cats = " OR ".join(f"cat:{c}" for c in ["cond-mat.mes-hall", "cond-mat.str-el", "cond-mat.mtrl-sci"])
     words = " OR ".join(f"all:{t}" for t in TERMS)
@@ -69,7 +99,8 @@ def fetch_arxiv() -> list[dict]:
         if published < cutoff: continue
         aid = e.id.rsplit("/", 1)[-1].split("v")[0]
         abstract, title = clean(e.summary), clean(e.title)
-        results.append({"id": f"arxiv:{aid}", "title": title, "authors": [clean(a.name) for a in e.authors], "abstract": abstract, "journal": "arXiv", "published": published.date().isoformat(), "url": f"https://arxiv.org/abs/{aid}", "doi": getattr(e, "arxiv_doi", None), "source": "arXiv", "material_system": classify(title, abstract), "image_url": get_image(e.id, aid)})
+        image = extract_arxiv_pdf(aid) or get_image(e.id, aid)
+        results.append({"id": f"arxiv:{aid}", "title": title, "authors": [clean(a.name) for a in e.authors], "abstract": abstract, "journal": "arXiv", "published": published.date().isoformat(), "url": f"https://arxiv.org/abs/{aid}", "doi": getattr(e, "arxiv_doi", None), "source": "arXiv", "material_system": classify(title, abstract), "image_url": image})
     return results
 
 def fetch_crossref() -> list[dict]:
