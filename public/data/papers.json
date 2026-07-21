@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T09:45:55.524078+00:00",
+  "updated_at": "2026-07-21T09:55:24.731575+00:00",
   "papers": [
     {
       "id": "arxiv:2607.18238",
@@ -85,7 +85,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.15274.png"
     },
     {
       "id": "doi:10.1103/bvrb-z4hj",
@@ -136,7 +136,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.13807.png"
     },
     {
       "id": "doi:10.1038/s41586-026-10762-7",
@@ -178,7 +178,7 @@
       "doi": "10.1088/1674-1056/ae42bb",
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.12320.png"
     },
     {
       "id": "arxiv:2607.12314",
@@ -195,7 +195,7 @@
       "doi": "10.1103/ggh1-tpdk",
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.12314.png"
     },
     {
       "id": "arxiv:2607.11484",
@@ -248,7 +248,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.10320.png"
     },
     {
       "id": "arxiv:2607.10153",
@@ -264,7 +264,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.10153.png"
     },
     {
       "id": "arxiv:2607.08822",
@@ -280,7 +280,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.08822.png"
     },
     {
       "id": "arxiv:2607.08710",
@@ -350,7 +350,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.06492.png"
     },
     {
       "id": "arxiv:2607.05631",
@@ -367,7 +367,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.05631.png"
     },
     {
       "id": "arxiv:2607.04771",
@@ -383,7 +383,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.04771.png"
     },
     {
       "id": "arxiv:2607.03707",
@@ -404,7 +404,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.03707.png"
     },
     {
       "id": "arxiv:2607.03511",
@@ -440,7 +440,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2607.03401.png"
     },
     {
       "id": "arxiv:2606.31604",
@@ -458,7 +458,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv_card.png"
+      "image_url": "/data/figures/arxiv-2606.31604.png"
     },
     {
       "id": "arxiv:2606.31267",
@@ -501,7 +501,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv_card.png"
+      "image_url": "/data/figures/arxiv-2606.30917.png"
     },
     {
       "id": "arxiv:2606.29827",
@@ -519,7 +519,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv_card.png"
+      "image_url": "/data/figures/arxiv-2606.29827.png"
     },
     {
       "id": "arxiv:2606.28686",
@@ -541,7 +541,7 @@
       "doi": "10.1021/acs.nanolett.6c01241",
       "source": "arXiv",
       "material_system": "Oxide_Heterostructure",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image_url": "/data/figures/arxiv-2606.28686.png"
     },
     {
       "id": "arxiv:2606.28549",
@@ -556,7 +556,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv_card.png"
+      "image_url": "/data/figures/arxiv-2606.28549.png"
     },
     {
       "id": "arxiv:2606.26632",
@@ -571,7 +571,7 @@
       "doi": "10.1103/mslj-zz6t",
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv_card.png"
+      "image_url": "/data/figures/arxiv-2606.26632.png"
     },
     {
       "id": "arxiv:2606.26548",
@@ -591,7 +591,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "MnBi2Te4_MTI",
-      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv_card.png"
+      "image_url": "/data/figures/arxiv-2606.26548.png"
     },
     {
       "id": "arxiv:2606.26096",
@@ -625,7 +625,7 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Oxide_Heterostructure",
-      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv_card.png"
+      "image_url": "/data/figures/arxiv-2606.24670.png"
     },
     {
       "id": "arxiv:2606.23795",
