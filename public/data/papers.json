@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T10:47:21.232368+00:00",
+  "updated_at": "2026-07-29T11:05:38.628601+00:00",
   "papers": [
     {
       "id": "doi:10.1088/1361-648x/ae7d73",
@@ -55,6 +55,42 @@
       "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "In Oxide Heterostructure, this paper argues that proximity-induced exchange interactions present a novel avenue for manipulating physical properties in spintronic materials. Both heterostructures demonstrate in-plane magnetic anisotropy. These results establish a versatile platform for proximity coupling engineering and enable practical quantum anomalous Hall devices.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2607.25909",
+      "title": "Charge-6e superconductivity from doping SU(3) spin liquids",
+      "authors": [
+        "Yan-Qi Wang",
+        "Boran Zhou",
+        "Hui Yang",
+        "Zhi-Qiang Gao"
+      ],
+      "abstract": "We propose doping $SU(3)$-symmetric spin liquids as a route toward charge-$6e$ superconductivity. This generalizes the idea of constructing charge-$4e$ superconductivity from doped $SU(4)$-symmetric phases. As a concrete platform, we study a bilayer triangular-lattice Hubbard model with $SU(3)$ spin symmetry and interlayer antiferromagnetic exchange. Using complementary parton constructions, we analyze doped $\\mathbb{Z}_3$ quantum spin liquid and $SU(3)$-related chiral spin liquids. Doping a $\\mathbb{Z}_3$ quantum spin liquid can produce an orthogonal metal with a gauge invariant fermi surface of charge-$3e$ fermionic trions. Pairing these trions gives a time-reversal-symmetric charge-$6e$ superconductor. Doping Abelian $SU(3)_1$ and $SU(6)_1$ chiral spin liquids yields chiral charge-$6e$ superconductors with and without residual Abelian topological order, respectively. Doping a non-Abelian $SU(3)_2$ chiral spin liquid leads to a non-Abelian chiral charge-$6e$ superconductor intertwined with $SO(3)_{-3}$ topological order and supporting non-Abelian $h/(6e)$ superconducting vortices. We also identify several other phases, including $\\mathbb{Z}_3$ orthogonal metal, quantum anomalous Hall (crystal) phases enriched by $\\mathbb{Z}_3$ or $\\mathbb{Z}_2$ topological order, $SU(3)$-breaking charge-$2e$ superconductors, composite fermi liquid coupled to non-Abelian gauge field, and descendant chiral spin liquids. Our results identify doped $SU(3)$ spin liquids as a natural setting where symmetry, fractionalization, and topology cooperate to produce charge-$6e$ superconductivity.",
+      "journal": "arXiv",
+      "published": "2026-07-28",
+      "url": "https://arxiv.org/abs/2607.25909",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://arxiv.org/icons/licenses/by-sa-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-sa-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Mean-field phase diagram of Eq. (B1) in the (φ, K3) plane at temperatures T/J = 0–5 [panels (a)–(f)]. Colors label the lowest energy ansatz: trimer (black), Φ = 0 (green), |Φ△| = π/3 CSL with C = ±1 (blue), |Φ△| = 2π/3 CSL with C = ±2 (orange), and Φ = π (red). White markers in (a) denote the φ = 0 boundaries K3/J = 0.417 and 5.955 of Ref. [52]. Calculations use a 24 × 24 unit-cell lattice. The resulting phase diagrams are shown in Fig. 1 as a function of φ, K3/J, and T/J. Here T is temperature, where finite temperature phase diagrams suggest com- peting phases of CSL. For φ = 0 and T = 0, which is 12 mostly concerned in this work, the ground state evolves with increasing K3 from the trimer state (valence bond solid or VBS) to the Φπ/3 CSL at K3/J ≃0.42 with Chern number C = ±1, and then to the Φ2π/3 CSL at K3/J ≃5.96 with C = ±2, consistent with Ref. [52]. For finite..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we propose doping $SU(3)$-symmetric spin liquids as a route toward charge-$6e$ superconductivity.",
       "abstract_status": "original"
     },
     {
