@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T10:06:14.413473+00:00",
+  "updated_at": "2026-07-31T11:11:35.742304+00:00",
   "papers": [
     {
       "id": "doi:10.1088/1361-648x/ae7d73",
@@ -30,6 +30,110 @@
       ],
       "figure_captions": [],
       "ai_summary": "In Moire Superlattice, this paper argues that abstract The recent observation of robust quantum anomalous Hall (QAH) effects in rhombohedral multilayer graphene (RMG) aligned with hexagonal boron nitride ( h -BN) has established a highly versatile platform for correlated topological matter.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2607.28491",
+      "title": "Drumhead Surface States of Rhombohedral Graphite with Near Ideal Quantum Geometry Condition",
+      "authors": [
+        "Lin-Lin Wang"
+      ],
+      "abstract": "The ideal quantum geometry (IQG) condition of equal magnitude between quantum metric ($G(k)$) and Berry curvature ($Ω(k)$) as in $|Ω|$/Tr$G$=1 has been associated with realizing fractional Chern insulators for the flat band in few layers of rhombohedral graphene (RG). More recently the IQG condition has also been proposed for superconductivity in the flat band for thick RG layers. Using density functional theory and Wannier functions, we study the symmetry-protected topology of bulk RG, drumhead surface state (DSS) of semi-infinite RG surface, and the IQG condition for thick RG slabs. We find that bulk RG is a weak topological insulator with spin-orbit coupling (SOC), besides being effectively a chiral semimetal with chiral nodal line without SOC. We also find that the DSS flat band of semi-infinite and thick RG slabs have a sizable convex curvature with depth agreeing with the recent angular resolved phono-emission spectroscopy experiment. The calculated IQG also shows a convex shape with the K point at the center having a minimum with approximately $|Ω|$/Tr$G$$\\approx$1. But the inner rim of the DSS region shows the strict IQG condition of $|Ω|$/Tr$G$=1. These results on semi-infinite and thick RG slabs from first-principles calculations provide useful information for the pristine DSS at the single particle level for future studies to consider when many-body interactions and strong correlations will be included.",
+      "journal": "arXiv",
+      "published": "2026-07-30",
+      "url": "https://arxiv.org/abs/2607.28491",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "Figure 1. Band structure of rhombohedral graphite (RG) without spin-orbit coupling (SOC). (a) The crystal structure and primitive unit cell of RG with ABC stacking of honeycomb layers. (b) The 3D Brillouin zone (BZ) and (001) surface 2D BZ of RG with the high- symmetry k-points related via projection. (c) Band structure of RG along high-symmetry directions. The highest valence (lowest conduction) band is in blue (red). The K1 point is one of the band crossing points near the K point. (d) The chiral nodal line along the kz direction around the K point. (e) The nodal loop around 𝐾 M on (001) as projected from the chiral nodal line. (f), (g), (h), (i) and (j) RG slab band dispersion around the 𝐾 M point along the 𝛤 N-𝐾 M direction for layer thickness (L) of 3, 4, 5, 6 and 18 as labeled. The outer blue vertical dashed lines show the projected nodal loop boundary. 11",
+        "Figure 2. Topological surface band structure of rhombohedral graphite (RG) with enhanced spin-orbit coupling (SOC). Wilson loop of the Wannier charge center (WCC) on the (a) kz=0.0 and (b) 0.5 planes. Surface spectral function on the (c) side and (d) (001) surface. (e) Surface spectral function zoomed around the (001) 𝐾 M point. (f) Same as (e) with surface-only contribution. The calculations are with a SOC factor of 100 to increase the surface band gap but with no change of band order or connectivity. 12",
+        "Figure 3. Quantum metrics of the drumhead surface state of rhombohedral graphite (RG). (a) Slab band structure of L=60 with the surface contribution shown in red. (b) Ratio between the magnitude of Berry curvature (|Ω|) and quantum geometry (TrG) around the 𝐾 M point along the [110] direction for L=9, 18 and 60. (c-d) Same as (a-b) with r2SCAN+rVV10. (e) TrG and |Ω| plotted separately for L=60 and (f) their values zoomed around the 𝐾 M point at k=0.00."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that the ideal quantum geometry (IQG) condition of equal magnitude between quantum metric ($G(k)$) and Berry curvature ($Ω(k)$) as in $|Ω|$/Tr$G$=1 has been associated with realizing fractional Chern insulators for the flat band in few layers of rhombohedral graphene (RG). We find that bulk RG is a weak topological insulator with spin-orbit coupling (SOC), besides being effectively a chiral semimetal with chiral nodal line without SOC. These results on semi-infinite and thick RG slabs from first-principles calculations provide useful information for the pristine DSS at the single particle level for future studies to...",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2607.27833",
+      "title": "Scalar-spin-chirality-driven fractional Chern insulator on a kagome lattice",
+      "authors": [
+        "Shinnosuke Tsutsumi",
+        "Koji Kudo",
+        "Kentaro Nomura"
+      ],
+      "abstract": "Fractional Chern insulators (FCIs) are the lattice analogs of the fractional quantum Hall states, emerging even without an external magnetic field. In this work, we demonstrate the emergence of the FCI states in a kagome magnet with a noncoplanar magnetic order that induces a finite scalar spin chirality. By incorporating in our model both electron-electron interactions and the effect of band dispersion, we find that stronger interactions relative to the band dispersion stabilize the FCI state over a broader range of scalar spin chirality. We characterize the emergent FCI state by calculating overlap with representative states, identifying the ground-state degeneracy and the finite energy gap in the thermodynamic limit, and tracking the spectral flow under multiple flux-quantum insertions. Our results suggest that kagome magnets with scalar spin chirality can be promising platforms for realizing FCIs.",
+      "journal": "arXiv",
+      "published": "2026-07-30",
+      "url": "https://arxiv.org/abs/2607.27833",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Kagome_Lattice",
+      "image_url": "/data/figures/arxiv-2607.27833-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2607.27833-fig01.png",
+        "/data/figures/arxiv-2607.27833-fig02.png",
+        "/data/figures/arxiv-2607.27833-fig03.png",
+        "/data/figures/arxiv-2607.27833-fig04.png",
+        "/data/figures/arxiv-2607.27833-fig05.png",
+        "/data/figures/arxiv-2607.27833-fig06.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Schematic illustration of a kagome lattice considered here. The red arrows represent localized spins. The blue rhombus represents a unit cell with sublattices A, B, and C, and a1 and a2 are the lattice translation vectors. (b) Spin orientations specified by the common polar angle θ. (c) System parameters appearing in Heff. in kagome magnets. In this work, we demonstrate, using exact diagonaliza- tion, that the FCI state emerges in a wide region of scalar spin chirality. We construct an effective Hamiltonian pro- jected onto a nearly flat topological band, incorporating repulsive electron-electron interactions along with the ef- fect of the band dispersion, to examine the stability of the emergent FCI state. We also confirm the ground-state degeneracy, the finite energy gap in the thermodynamic limit, and the spectral flow with multiple-flux quanta pe- riodicity, which are...",
+        "FIG. 2. (a) Band structures of the non-interacting Hamiltonian h0 for different polar angles θ. For 0 < θ/π < 0.5, all bands are isolated, and the band Chern numbers from bottom are 1, 0, and −1, respectively. (b) Bandwidth of the lowest band εwidth and its direct energy gap εgap as functions of θ. Both εwidth and εgap become finite and are of comparable magnitude as θ increases. momentum index ji = 0, 1, · · · , Ni −1. 3. Numerical results 3.1 Band structure Before discussing the many-body problem, we briefly review the Chern insulating state realized in the kagome magnet [58]. Figure 2(a) shows the energy bands of h0(k) for different polar angles θ. For any θ except θ = 0 and π/2, all three bands are isolated from each other, and their band Chern numbers from the bottom are 1, 0, and −1, respectively. While the lowest band is completely flat at θ = 0, it acquires dispersion as θ...",
+        "FIG. 3. Average of the singular values of the overlap matrix O as a function of the polar angle θ and interaction strength V . The red region, where O is close to unity, indicates the emergence of the FCI state. The hatched gray region indicates that the three lowest energy states in the flat-band limit do not match the counting rule of the total momentum in Eq. (10). The system size is N1 × N2 = 6 × 4 and the band filling factor is ν = 1/3. (e) (c) 3states (f) (b) ! \" ⁄ = 4 0.1 0.2 0.3 0.4 0.5 &/( 2 3 4 5 1 ! \" ⁄ 0 (a) & ( ⁄ = 0.25 3states 0 0.1 0.2 0.3 0.4 (.! −.\")/\" 0.5 (a) (b) (c) (d) Fig. 5",
+        "FIG. 4. Low-lying many-body energy spectra En −E1, where En is the n-th lowest energy, along the two cuts indicated in",
+        "Fig. 3. The lowest energy states in each momentum sector (j1, j2) = (0, 0), (2, 0), (4, 0) [Eq. (10)] are highlighted in red. The three-fold quasidegenerate states appear in the regions with O ≈1 in",
+        "Fig. 3. We plot six lowest energies in each momentum sector. for these FCI states are given by [9] j1 = N1N2(N1 + 2s −3) 6 (mod N1), j2 = N1N2(N2 −1) 6 (mod N2), (10) where s = 0, 1, 2 labels the three-fold (quasi)degeneracy. Here, we assume that N1 is a multiple of three. [If this is not the case, the subscripts 1 and 2 in Eq. (10) are to be interchanged.] Using these flat-band limit states as representative FCI states, we define the overlap matrix 3 (\"! −\"\")/& 0.4 0.3 0.2 0.1 0 0.5 .\" + 0\".# 0 5 10 15 20 ! \" ⁄ , %/' = (0.25, 3) (c) .\" + 0\".# 0 5 10 15 20 (! \" ⁄ , %/') = (0.25, 4) (d) .\" + 0\".# 0 5 10 15 20 (! \" ⁄ , %/') = (0.40, 4) (f) .\" + 0\".# 0 5 10 15 20 (\"! −\"\")/& 0.4 0.3 0.2 0.1 0 0.5 (! \" ⁄ , %/') = (0.10, 4) (e) .\" + 0\".# 0 5 10 15 20 (\"! −\"\")/& 0.4 0.3 0.2 0.1 0 0.5 (! \" ⁄ , % ' ⁄ ) = (0.25,1) (a) .\" + 0\".# 0 5 10 15 20 (b) ! \" ⁄ , %/' = (0.25, 2)"
+      ],
+      "ai_summary": "In Kagome Lattice, this paper argues that fractional Chern insulators (FCIs) are the lattice analogs of the fractional quantum Hall states, emerging even without an external magnetic field. In this work, we demonstrate the emergence of the FCI states in a kagome magnet with a noncoplanar magnetic order that induces a finite scalar spin chirality. Our results suggest that kagome magnets with scalar spin chirality can be promising platforms for realizing FCIs.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2607.27112",
+      "title": "Interaction-induced sign reversal of the orbital magnetic susceptibility in Chern insulators",
+      "authors": [
+        "Ke Huang",
+        "Xiao Li"
+      ],
+      "abstract": "It has been well established that the orbital magnetization of interacting electrons can be simply evaluated by applying the single-particle formula to self-consistent HF bands. However, we show that such procedure fails qualitatively for orbital magnetic susceptibility, especially in topological systems: in a Chern-insulating phase of twisted MoTe$_2$, the interaction-induced correction reverses the sign of the susceptibility. This result follows from an algebraic framework that solves the HF problem at finite magnetic field, where noncommuting canonical momenta obstruct a direct calculation: a \\emph{reverse Peierls substitution} maps every magnetic-translation-invariant operator to a unique bivariate function, converting the finite-field self-consistency into a function equation that can be expanded systematically in $B$. At first order, this yields a linear equation for the field-induced change $δX$ of the Fock potential, leading to an intrinsically interaction-induced susceptibility in addition to a single-particle-like one. The framework reproduces the Středa formula for insulators, and an auxiliary-Hilbert-space construction carries it to periodic and moiré systems. Finite-field HF calculations in a gapped Dirac model and in the twisted-MoTe$_2$ Chern insulator confirm the theory quantitatively.",
+      "journal": "arXiv",
+      "published": "2026-07-29",
+      "url": "https://arxiv.org/abs/2607.27112",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. HF Calculation in the translation-invariant toy model. (a) HF and single-particle band structure at zero field. (b) Total density as a function of magnetic field obtained by finite-field HF calculation. (c) HF grand potential density as a function of magnetic field. (d) HF magnetization as a function of magnetic field. The red dashed lines use the full HF formula, while the black dashed lines use the single-particle formula. Here, we perform the HF calculation at a small but finite temperature T = 0.01 to suppress quantum oscillations. in the first Brillouin zone (BZ) in the physical Hilbert space, while the momentum is defined on the entire plane in the extended Hilbert space. Hence, the extension is equivalent to making an infinite number of copies of the first BZ. As a result, the operator algebra remains unchanged, but the system gains translational symmetry. M(ˆ h) at...",
+        "FIG. 2. HF Calculation in the periodic toy model. (a) HF and single-particle band structure at zero field. (b) Total density as a function of magnetic field obtained by finite-field HF calculation. Here, Am is the area of the moiré unit cell. (c) Symmetrized grand potential density Ωsym as a function of magnetic field: the single-particle formula (black dashed) predicts the wrong curvature, i.e., the wrong sign of χ. (d) Antisymmetrized magnetization: the finite-field HF data fall on the line of the full HF susceptibility χHF (red dashed), while the single-particle slope (black dashed) has the opposite sign. Second, we study a topologically nontrivial periodic system, the continuum model of twisted MoTe2 [22], and perform unprojected HF calculations at both zero and finite fields. We only use it as a toy model and ignore the spin and valley degrees of freedom. The single-particle..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that it has been well established that the orbital magnetization of interacting electrons can be simply evaluated by applying the single-particle formula to self-consistent HF bands. However, we show that such procedure fails qualitatively for orbital magnetic susceptibility, especially in topological systems: in a Chern-insulating phase of twisted MoTe$_2$, the interaction-induced correction reverses the sign of the susceptibility.",
       "abstract_status": "original"
     },
     {
@@ -273,7 +377,7 @@
         "Yuto Nakajima",
         "Hart Goldman"
       ],
-      "abstract": "The recently observed signatures of superconductivity proximate to a fractional quantum anomalous Hall (FQAH) state in a twisted MoTe$_2$ bilayer has revitalized interest in quantum phases of matter induced by anyon dynamics. Here we show how a panoply of anyon-driven phases associated with doping the lattice ${ν=2/3}$ FQAH state can be realized as competing instabilities of a Fermi surface of charge-$e/3$ \"quarks\" coupled to a $\\mathrm{SU}(3)_{-1}$ Chern-Simons gauge field, which is dual to the more conventional $\\mathrm{U}(1)_3$ Chern-Simons-Ginzburg-Landau theory of quasiholes. For example, a range of electronic superconductors emerge from color superconductivity, under which the Fermi surface experiences a pairing instability mediated by gauge fluctuations. These include SC$\\star$ phases -- where superconductivity coexists with topological order -- as well as topological superconductors displaying half-integer chiral central charges when the quarks are weakly paired. One example is a topological superconductor arising from a $p+ip$ \"color-valley-locked\" pairing mechanism with chiral central charge $c_-=-1/2$. On the other hand, both superconducting and non-Fermi liquid phases can emerge when the quarks form an itinerant ferromagnet, polarizing the Fermi surface to a particular combination of colors. Finally, our framework naturally accommodates the possibility of anyonic bound state formation, allowing access to phases induced by doping anyons of charge $2e/3$ as opposed to $e/3$ within the same model. Our work unifies many earlier proposed anyonic phases as instabilities of a single parent quark metal phase, distilling their emergence into a competition between superconductivity and itinerant color ferromagnetism.",
+      "abstract": "The recently observed signatures of superconductivity proximate to a fractional quantum anomalous Hall (FQAH) state in a twisted MoTe$_2$ bilayer has revitalized interest in quantum phases of matter induced by anyon dynamics. Here we show how a panoply of anyon-driven phases associated with doping the lattice ${ν=2/3}$ FQAH state can be realized as competing instabilities of a Fermi surface of charge-$e/3$ ``quarks'' coupled to a $\\mathrm{SU}(3)_{-1}$ Chern-Simons gauge field, which is dual to the more conventional $\\mathrm{U}(1)_3$ Chern-Simons-Ginzburg-Landau theory of quasiholes. For example, a range of electronic superconductors emerge from \\emph{color superconductivity}, under which the Fermi surface experiences a pairing instability mediated by gauge fluctuations. These include SC$\\star$ phases -- where superconductivity coexists with topological order -- as well as topological superconductors displaying half-integer chiral central charges when the quarks are weakly paired. One example is a $p+ip$ ``color-valley-locked'' superconductor, a topological analogue of the color superconductor familiar in quantum chromodynamics. On the other hand, both superconducting and non-Fermi liquid phases can emerge when the quarks form an itinerant ferromagnet, polarizing the Fermi surface to a particular combination of colors. Finally, our framework naturally accommodates the possibility of anyonic bound state formation, allowing access to phases induced by doping anyons of charge $2e/3$ as opposed to $e/3$ within the same model. Our work unifies many earlier proposed anyonic phases as instabilities of a single parent \\emph{quark metal} phase, distilling their emergence into a competition between superconductivity and itinerant color ferromagnetism.",
       "journal": "arXiv",
       "published": "2026-07-21",
       "url": "https://arxiv.org/abs/2607.19470",
@@ -287,7 +391,7 @@
       "figure_captions": [
         "Figure 1: The “black” (an equal mixture of cyan, magenta, and yellow) SU(3)−1 quark Fermi surface as the parent of ν = 2/3+δ anyon-induced phases. The three possibilities we study are (1) color superconductivity: The quarks form pairs on the black Fermi surface; (2) Color ferromagnetism: The quarks are polarized to one or more colors spontaneously; (3) 2e/3 bound state formation – the quarks form charge-2e/3 bound states, which can exhibit dynamics of their own. Each possibility leads to different (but overlapping) families of superconducting phases, some of which have Majorana edge modes (topological SC) or coexist with a background topological order (SC⋆). attractive at tree level, we find it more natural to view the quark metal as the theory of a finite temperature normal state out of which the true zero temperature anyon-driven phases emerge. Nevertheless, signatures of a novel..."
       ],
-      "ai_summary": "In Other New Materials, this paper argues that the recently observed signatures of superconductivity proximate to a fractional quantum anomalous Hall (FQAH) state in a twisted MoTe$_2$ bilayer has revitalized interest in quantum phases of matter induced by anyon dynamics. Here we show how a panoply of anyon-driven phases associated with doping the lattice ${ν=2/3}$ FQAH state can be realized as competing instabilities of a Fermi surface of charge-$e/3$ \"quarks\" coupled to a $\\mathrm{SU}(3)_{-1}$ Chern-Simons gauge field, which is dual to the more conventional $\\mathrm{U}(1)_3$ Chern-Simons-Ginzburg-Landau theory of quasiholes.",
+      "ai_summary": "In Other New Materials, this paper argues that the recently observed signatures of superconductivity proximate to a fractional quantum anomalous Hall (FQAH) state in a twisted MoTe$_2$ bilayer has revitalized interest in quantum phases of matter induced by anyon dynamics. Here we show how a panoply of anyon-driven phases associated with doping the lattice ${ν=2/3}$ FQAH state can be realized as competing instabilities of a Fermi surface of charge-$e/3$ ``quarks'' coupled to a $\\mathrm{SU}(3)_{-1}$ Chern-Simons gauge field, which is dual to the more conventional $\\mathrm{U}(1)_3$ Chern-Simons-Ginzburg-Landau theory of quasiholes.",
       "abstract_status": "original"
     },
     {
@@ -778,15 +882,13 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
       "figure_urls": [
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
-        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -797,10 +899,10 @@
         "Fig. 1c. We then transferred an additional control gate (made of hBN and graphite) on top of the prepatterned graphite top gate. 3 In our experiment, the top and bottom gates combined can set the mRG sample to a Chern insulating state in the overlapped regions of the gates; the control gate can define, through the etched regions of the top gate, an antidot and two electrodes forming tunnel contacts to the antidot (red regions in Fig. 1a). The electron number in the antidot is controlled by fine-tuning the voltage, 𝑉𝑉 𝐶𝐶𝐶𝐶, applied to the control gate; coarse-tuning of 𝑉𝑉 𝐶𝐶𝐶𝐶 pinches the quantum point contact (QPC) between the antidot and the tunneling electrode and thus modifies the tunneling barrier height to the antidot (See Methods and Extended Data Fig. 3 for details). We finished the device in a Hall bar geometry (Fig. 1d and optical image in Extended Data Fig. 1) for both regular...",
         "Fig. 5.) Moreover, a non-topological insulating state with large 𝑅𝑅𝑥𝑥𝑥𝑥 appears at low displacement fields and filling factors (i.e. the top left corner of the phase diagram). The results are consistent with Ref. 6. Upon lowering the (lattice) temperature to 𝑇𝑇= 12mK, the FCI features largely disappear in the 𝑅𝑅𝑥𝑥𝑥𝑥 and 𝑅𝑅𝑥𝑥𝑥𝑥 maps (Fig. 1g,h); the 𝑅𝑅𝑥𝑥𝑥𝑥 dips and 𝑅𝑅𝑥𝑥𝑥𝑥 peaks are replaced by an extended region of small 𝑅𝑅𝑥𝑥𝑥𝑥 and nearly quantized 𝑅𝑅𝑥𝑥𝑥𝑥= ℎ 𝑒𝑒2. The temperature evolution for 𝑅𝑅𝑥𝑥𝑥𝑥 and 𝑅𝑅𝑥𝑥𝑥𝑥 at a constant displacement field line cut (𝐷𝐷≈−0.93V/nm) are shown in Fig. 1i and 1j, respectively. For 𝜈𝜈≳ 0.5, 𝑅𝑅𝑥𝑥𝑥𝑥 decreases with decreasing temperature and the 𝑅𝑅𝑥𝑥𝑥𝑥 dip at 𝜈𝜈= 2/3 evolves into a small 𝑅𝑅𝑥𝑥𝑥𝑥 peak at low temperatures. Meanwhile, the 𝑅𝑅𝑥𝑥𝑥𝑥 peaks corresponding to the partially developed FCIs now converge to a nearly quantized 𝑅𝑅𝑥𝑥𝑥𝑥= ℎ 𝑒𝑒2 plateau spanning...",
         "Fig. 1g. To this end, we Fourier transformed 𝑅𝑅𝐷𝐷 (at 𝑉𝑉 𝐷𝐷𝐷𝐷= 0V) with respect to 𝑉𝑉 𝐶𝐶𝐶𝐶 at each 𝜈𝜈 and 𝐷𝐷 and show the dependence of the Fourier transformed spectrum on 𝐷𝐷 and 𝜈𝜈 in Fig. 2c and 2d, respectively. A Fourier peak with frequency 𝑓𝑓 𝐶𝐶𝐶𝐶≈100 V-1 (corresponding to the Coulomb oscillations shown in Fig. 2a) is observed near 𝜈𝜈= 1 and over the entire range of the displacement field for the 𝜈𝜈= 1 Chern insulator. The results confirm quasiparticle charging to an antidot embedded in the bulk of a Chern insulator, rather than charging to parasitic quantum dots unintentionally formed in the device. This point is further illustrated by the observation of Laughlin charge pumping in Fig. 2e, which shows 𝑅𝑅𝐷𝐷 as a function of 𝑉𝑉 𝐶𝐶𝐶𝐶 and 𝐵𝐵 (at 𝜈𝜈= 0.98 and 𝐷𝐷= −0.95V/nm). Periodic stripes in the diagonal direction with a positive slope are observed. The 𝑉𝑉 𝐶𝐶𝐶𝐶 period (∆𝑉𝑉...",
-        "Fig. 2e. In the “Coulomb-dominated” regime40,45,46 as in our experiment, the field period is ∆𝐵𝐵= ℎ 𝑒𝑒𝑒𝑒 for a 𝐶𝐶= 1 Chern insulator (𝐴𝐴 is the antidot area); the 𝑉𝑉 𝐶𝐶𝐶𝐶 period ∆𝑉𝑉 𝐶𝐶𝐶𝐶= 𝑒𝑒∗ 𝐶𝐶𝐶𝐶𝐶𝐶 is proportional to the quasiparticle charge 𝑒𝑒∗ and inversely proportional to the effective control gate capacitance 𝐶𝐶𝐶𝐶𝐶𝐶 for the antidot. For the 𝜈𝜈= 1 Chern insulator, we have 𝑒𝑒∗= 𝑒𝑒, which can also be confirmed by 5 electrostatics simulations using the actual device geometry and a voltage period ∆𝑉𝑉 𝐶𝐶𝐶𝐶≈9.5mV (Methods and Extended Data Fig. 7). The field period ∆𝐵𝐵≈55mT determines an effective antidot diameter of about 310nm. Comparison with the diameter (≈210nm) of the etched hole in the top graphite gate electrode gives a depletion length about 50nm for the antidot. The finite depletion length is likely caused by electric field leakage near the antidot edge and/or by wavefunction...",
+        "Fig. 2e. In the “Coulomb-dominated” regime41,46,47 as in our experiment, the field period is ∆𝐵𝐵= ℎ 𝑒𝑒𝑒𝑒 for a 𝐶𝐶= 1 Chern insulator (𝐴𝐴 is the antidot area); the 𝑉𝑉 𝐶𝐶𝐶𝐶 period ∆𝑉𝑉 𝐶𝐶𝐶𝐶= 𝑒𝑒∗ 𝐶𝐶𝐶𝐶𝐶𝐶 is proportional to the quasiparticle charge 𝑒𝑒∗ and inversely proportional to the effective control gate capacitance 𝐶𝐶𝐶𝐶𝐶𝐶 for the antidot. For the 𝜈𝜈= 1 Chern insulator, we have 𝑒𝑒∗= 𝑒𝑒, which can also be confirmed by 5 electrostatics simulations using the actual device geometry and a voltage period ∆𝑉𝑉 𝐶𝐶𝐶𝐶≈9.5mV (Methods and Extended Data Fig. 7). The field period ∆𝐵𝐵≈55mT determines an effective antidot diameter of about 310nm. Comparison with the diameter (≈210nm) of the etched hole in the top graphite gate electrode gives a depletion length about 50nm for the antidot. The finite depletion length is likely caused by electric field leakage near the antidot edge and/or by wavefunction...",
         "Fig. 1g. A local 𝑅𝑅𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 minimum centered at 𝜈𝜈= 2/3 is also observed. We focus on the behavior near 𝜈𝜈= 2/3. Figures 4c and 4d show the temperature dependence of 𝑅𝑅𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 versus 𝜈𝜈 along the dashed line in",
         "Fig. 4b. As temperature decreases, a sharp resistance peak 6 centered at 𝜈𝜈= 2/3 evolves into a dip at 𝑇𝑇≲200 mK; a highly insulating background surrounding 𝜈𝜈= 2/3 appears at 𝑇𝑇≲100mK. A non-monotonic temperature dependence of 𝑅𝑅𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 at 𝜈𝜈= 2/3 is also observed (Fig. 4e); 𝑅𝑅𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 reaches the lowest value near 𝑇𝑇= 150mK. The results suggest the presence of a thermodynamic phase transition at 𝜈𝜈= 2/3 with a critical temperature around 𝑇𝑇= 150mK. A schematic phase diagram is shown in",
-        "Fig. 4f. The high- temperature state is an FCI, as supported by 𝑅𝑅𝑥𝑥𝑥𝑥 and 𝑅𝑅𝑥𝑥𝑥𝑥 measurements in Fig. 1 and by the dispersion of the insulating state under a magnetic field in Extended Data Fig. 5 and 6. The low- temperature state is a 𝐶𝐶= 1 integer Chern insulator, as shown by quasiparticle charging in Fig. 3 and also by the magnetic field dispersion. The appearance of a highly insulating background in the immediate vicinity of 𝜈𝜈= 2/3 below 𝑇𝑇≈100mK shows sensitivity to lattice commensurability; it suggests that charge localization in the moiré lattice driven by the extended-range Coulomb interaction is the driving force for the phase transition52-55. (The same interaction is also responsible for the emergence of Wigner-Mott insulators at commensurate fractional fillings in other moiré materials.) A reasonable ground state candidate is thus a generalized anomalous Hall crystal56-59...",
+        "Fig. 4f. The high- temperature state is an FCI, as supported by 𝑅𝑅𝑥𝑥𝑥𝑥 and 𝑅𝑅𝑥𝑥𝑥𝑥 measurements in Fig. 1 and by the dispersion of the insulating state under a magnetic field in Extended Data Fig. 5 and 6. The low- temperature state is a 𝐶𝐶= 1 integer Chern insulator, as shown by quasiparticle charging in Fig. 3 and also by the magnetic field dispersion. The appearance of a highly insulating background in the immediate vicinity of 𝜈𝜈= 2/3 below 𝑇𝑇≈100mK shows sensitivity to lattice commensurability; it suggests that charge localization in the moiré lattice driven by the extended-range Coulomb interaction is the driving force for the phase transition53-56. (The same interaction is also responsible for the emergence of Wigner-Mott insulators at commensurate fractional fillings in other moiré materials.) A reasonable ground state candidate is thus a generalized anomalous Hall crystal57-60...",
         "Fig. 4b. The diagonal stripes, a feature of Laughlin charge pumping as discussed in the main text, come from the edge dot. In contrast to Fig. 2e and 3d, however, a weaker set of vertical stripes originated from the center dot is also observed (they are vertical because a magnetic field cannot pump charges into the center dot). These vertical stripes introduce regular shifts in the diagonal stripes whenever the two cross each other. The center dot features are weaker in tunneling measurements because tunneling occurs only between the edge dot and the tunneling electrodes; the center dot features are manifested only through its capacitive coupling to the edge dot. The two sets of stripes are schematically illustrated in Extended Data",
         "Fig. 4c. The charging periods are Δ𝑉𝑉 𝐶𝐶𝐶𝐶,𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒≈22mV and Δ𝑉𝑉 𝐶𝐶𝐶𝐶,𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐≈21mV for the edge and center dot, respectively. They have similar magnitude; the value is about twice of Δ𝑉𝑉 𝐶𝐶𝐶𝐶≈9.5mV for the n-n dot investigated in the main text. The result shows that the edge and center dots in the p-i-n regime as well as the dot in the n-n regime all have similar gate capacitances. Electrostatics simulation for the antidot 9 Due to the finite size of the antidot (about 210nm diameter) and the non-negligible vertical separation between the control gate and the mRG (about 41nm), a simple parallel-plate capacitor model is insufficient to accurately describe the electrostatics of the system. To this end, we performed quantitative electrostatics simulations using COMSOL with realistic device parameters. We considered a four-layer structure consisting of the control gate (CG), top gate...",
         "Fig. 1a. We used a relative dielectric constant of 𝜖𝜖ℎ𝐵𝐵𝐵𝐵= 3 for hBN. In the simulation, we varied 𝑉𝑉 𝐶𝐶𝐶𝐶 while keeping 𝑉𝑉𝑇𝑇𝑇𝑇= 𝑉𝑉 𝐵𝐵𝐵𝐵= 0V. The simulated potential profile near the antidot is shown in Extended Data Fig. 7a, where the different metallic layers are indicated by yellow lines. Extended Data Fig. 7b shows the corresponding charge distribution in the mRG layer. The lithographically defined antidot boundary is marked by vertical dashed lines. Near the antidot edges, the induced charge density is substantially reduced compared to the center region due to screening from the top gate. Using the simulated charge distribution, we extracted a control-gate voltage Δ𝑉𝑉 𝐶𝐶𝐶𝐶≈9.0𝑚𝑚𝑚𝑚 required to add one electron to the antidot. This value is in good agreement with the experimentally measured oscillation periods of 9.5mV for 𝜈𝜈= 1 and 9.7mV for 𝜈𝜈= 2/3. In contrast, an ideal..."
@@ -1011,9 +1113,8 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
       "figure_urls": [
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
@@ -1024,7 +1125,8 @@
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png"
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that recent experiments have shown that strong light-matter coupling in electromagnetic cavities can modify transport properties of quantum Hall systems through the formation of Landau polaritons, prompting questions about the robustness of topological protection. Our phenomenological model reveals an asymmetry between conductivity and resistivity in quantum Hall systems under strong light-matter interaction, showing that at zero temperature the Hall resistivity remains completely immune to cavity-induced modifications arising from polariton broadening, independent of the light-matter coupling strength. These results...",
