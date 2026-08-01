@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T11:11:35.742304+00:00",
+  "updated_at": "2026-08-01T09:22:08.624881+00:00",
   "papers": [
     {
       "id": "doi:10.1088/1361-648x/ae7d73",
@@ -933,11 +933,11 @@
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
-        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png"
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "FIG. 1. Band structures (left panels) and hopping amplitudes (right panels) for the N = 2, 3, and 4 models. Left panels: Colors encode the sublattice weights. Right panels: The cor- responding hopping amplitudes as a function of distance d, measured in unit of the lattice constant a, are shown in (b), (d), and (f). Insets display the lattice structures, with dashed lines indicating the unit cells. where R1 and R2 are the basis vectors of a unit cell. The unit cell for the Bloch state Θ0,k(r) coincides with the magnetic unit cell of the LL state Ψ0,k(r), which has an area of A0 = 2πℓ2. Θ0,k(r) has been further extended to generalized nth LL wave function Θn,k(r) by applying Gram–Schmidt orthogonalization to a set of density-modulated basis functions en,k(r) [21], defined as en,k(r) = B(r)Ψn,k(r). (3) The quantum geometry of Θn,k(r) becomes momentum dependent, but satisfies the integrated...",
