@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T09:25:18.188093+00:00",
+  "updated_at": "2026-08-03T12:46:57.265465+00:00",
   "papers": [
     {
       "id": "doi:10.1088/1361-648x/ae7d73",
@@ -100,6 +100,30 @@
         "Fig. 3. We plot six lowest energies in each momentum sector. for these FCI states are given by [9] j1 = N1N2(N1 + 2s −3) 6 (mod N1), j2 = N1N2(N2 −1) 6 (mod N2), (10) where s = 0, 1, 2 labels the three-fold (quasi)degeneracy. Here, we assume that N1 is a multiple of three. [If this is not the case, the subscripts 1 and 2 in Eq. (10) are to be interchanged.] Using these flat-band limit states as representative FCI states, we define the overlap matrix 3 (\"! −\"\")/& 0.4 0.3 0.2 0.1 0 0.5 .\" + 0\".# 0 5 10 15 20 ! \" ⁄ , %/' = (0.25, 3) (c) .\" + 0\".# 0 5 10 15 20 (! \" ⁄ , %/') = (0.25, 4) (d) .\" + 0\".# 0 5 10 15 20 (! \" ⁄ , %/') = (0.40, 4) (f) .\" + 0\".# 0 5 10 15 20 (\"! −\"\")/& 0.4 0.3 0.2 0.1 0 0.5 (! \" ⁄ , %/') = (0.10, 4) (e) .\" + 0\".# 0 5 10 15 20 (\"! −\"\")/& 0.4 0.3 0.2 0.1 0 0.5 (! \" ⁄ , % ' ⁄ ) = (0.25,1) (a) .\" + 0\".# 0 5 10 15 20 (b) ! \" ⁄ , %/' = (0.25, 2)"
       ],
       "ai_summary": "In Kagome Lattice, this paper argues that fractional Chern insulators (FCIs) are the lattice analogs of the fractional quantum Hall states, emerging even without an external magnetic field. In this work, we demonstrate the emergence of the FCI states in a kagome magnet with a noncoplanar magnetic order that induces a finite scalar spin chirality. Our results suggest that kagome magnets with scalar spin chirality can be promising platforms for realizing FCIs.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/mg7w-sl7q",
+      "title": "Coexistence of topologically nontrivial and trivial insulating states in topological Anderson Chern insulator",
+      "authors": [
+        "Bo Yin",
+        "Yan Zhang",
+        "Anqi Wang",
+        "Jie Shen",
+        "Zhijun Wang",
+        "Quansheng Wu"
+      ],
+      "abstract": "The interplay between disorder and topology has become a central theme in condensed matter physics. Disorder can not only destroy topological phases but also induce them, as exemplified by the topological Anderson insulator (TAI). Here, we show that, in close analogy, disorder can drive the clean-limit, time-reversal-broken (T-broken) quantum spin Hall state of ferromagnetic monolayer MnBi 4 Te 7 into a quantum anomalous Hall phase, which was called topological Anderson Chern insulator (TACI). Using density functional theory and nonequilibrium Green's function calculations in the presence of disorder, we identify disorder-induced phases, including T-broken TAI, TACI, normal insulator, etc., and then construct a comprehensive phase diagram. To discriminate multiple phases in the strong-disorder regime, we further use the density of states computed within the self-consistent Born approximation, which, in particular, distinguishes gapped and ungapped topological phases. We find that the two effective band inversions of Hamiltonian are suppressed at distinct critical disorder strengths; the survival of a single inversion over a finite disorder window stabilizes the TACI. The region of quantized Hall resistance is not confined to the band gap but extends into a mobility gap, substantially enlarging the parameter space exhibiting quantization. Remarkably, at strong disorder, we further propose a zero Hall plateau insulating state characterized by an insulating bulk and edge channels subject to diffusive scattering that can coexist with the TACI. This behavior is distinct from a conventional band-gap Chern insulator and provides a clear experimental signature. Compared with the clean region, the expansion of the energy window supporting the Chern insulator of the disordered region enhances thermal robustness and enables observation of the quantum anomalous Hall effect at higher, technologically relevant temperatures, advancing both fundamental studies and potential applications.",
+      "journal": "Physical Review Research",
+      "published": "2026-07-30",
+      "url": "https://doi.org/10.1103/mg7w-sl7q",
+      "doi": "10.1103/mg7w-sl7q",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that the interplay between disorder and topology has become a central theme in condensed matter physics. Here, we show that, in close analogy, disorder can drive the clean-limit, time-reversal-broken (T-broken) quantum spin Hall state of ferromagnetic monolayer MnBi 4 Te 7 into a quantum anomalous Hall phase, which was called topological Anderson Chern insulator (TACI). This behavior is distinct from a conventional band-gap Chern insulator and provides a clear experimental signature.",
       "abstract_status": "original"
     },
     {
@@ -718,11 +742,11 @@
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
-        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png"
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [],
       "ai_summary": "In Moire Superlattice, this paper argues that a fluid of mobile anyons may arise naturally when a Fractional Quantum Anomalous Hall (FQAH) state is doped. We propose that the high-resistivity metal observed adjacent to this FQAH state is a $Z_3$ Orthogonal Metal: a non-Fermi liquid with sharp charge $1/3$ fermionic quasiparticles coupled to a discrete $Z_3$ gauge field but with no sharp electronic quasiparticle.",
@@ -803,7 +827,7 @@
         "Muhammad Faisal",
         "Muhammad Irfan Sarwar"
       ],
-      "abstract": "We theoretically investigate the influence of hexagonal boron nitride (h-BN) on the electronic properties of an $α$-$\\mathcal{T}_{3}$ lattice driven by an off-resonant elliptically polarized light field. The staggered potential $M$ breaks the sublattice inversion symmetry, transforming the initial semimetal into a trivial insulator with Chern number $C=0$. We identify a fundamental geometric singularity at $α=1/\\sqrt{2}$, independent of $M$, below which no finite drive can close the lower band gap, creating a stable topological window where conduction--flat band inversion yields a Chern insulator with $C=1$. Above this critical value the lower gap closes with finite intensity, allowing a transition from $C=1$ to $C=2$ as the dice limit ($α=1$) is approached. The topological phases are characterized by quantized anomalous Hall plateaus at $σ_{xy}=e^2/h$ ($C=1$) and $σ_{xy}=2e^2/h$ ($C=2$), with each valley contributing exactly $\\frac{1}{2}e^2/h$. The $C=1$ plateau remains robust from $0$ K to $300$ K, while $C=2$ requires $T<100$ K due to its narrower gap. A highly asymmetric thermoelectric Seebeck response further serves as an experimental fingerprint of each phase, providing a realistic framework for realizing stable high-Chern-number phases in substrate-supported $α$-$\\mathcal{T}_{3}$ materials.",
+      "abstract": "We theoretically investigate the influence of hexagonal boron nitride (h-BN) on the electronic properties of an $α$-$\\text{T}_3$ lattice driven by an off-resonant elliptically polarized light field. The staggered potential $M$ breaks the sublattice inversion symmetry, transforming the initial semimetal into a trivial insulator with Chern number $C = 0$. We identify a fundamental geometric singularity at $α= 1/\\sqrt{2}$, independent of $M$, where the valley-resolved lower-gap threshold diverges, bounding a finite topological window where conduction--flat band inversion yields a Chern insulator with $C = 1$ carried by the flat band. Increasing the drive further closes the lower gap at the $K'$ valley, transferring the index to the valence band so that the flat band becomes trivial while the system remains $C = 1$. For $α> 1/\\sqrt{2}$ the lower gap closes at finite intensity, allowing a transition to $C = 2$ as the dice limit ($α= 1$) is approached. The topological phases are characterized by quantized anomalous Hall plateaus at $σ_{xy} = e^2/h$ ($C = 1$) and $σ_{xy} = 2e^2/h$ ($C = 2$). The $C = 1$ plateau sits in a narrow gap and is the most fragile, while the $C = 2$ plateau is protected by a wider gap and remains robust to room temperature. A highly asymmetric thermoelectric Seebeck response further serves as an experimental fingerprint of each phase, providing a realistic framework for realizing stable high-Chern-number phases in substrate-supported $α$-$\\text{T}_3$ materials.",
       "journal": "arXiv",
       "published": "2026-07-11",
       "url": "https://arxiv.org/abs/2607.10153",
@@ -815,9 +839,9 @@
         "/data/figures/arxiv-2607.10153-fig01.png"
       ],
       "figure_captions": [
-        "Figure 1: Schematic of the α-T3 lattice on an h-BN substrate driven by an off-resonant elliptically polarized laser. Rim sites A and C acquire staggered energies ±M while the hub site B remains at zero. A fundamental experimental challenge in the imple- mentation of Floquet theory [28] is the unavoidable influence of the substrate on the 2D material [29]. The standard approach to improving carrier mobil- ity in 2D materials is to place them on a hexag- onal boron nitride (h-BN) substrate [29–31]. The substrate interaction and twistronics-induced Moiré patterns [32, 33] create a static crystal potential that breaks sublattice symmetry, opening a trivial (C = 0) band gap [34]. This static mass M induced by the substrate then interacts with the dynamic Floquet mass ∆F generated by the applied polar- ized laser field [35]. While the effects of circular polarization on the massless α-T3..."
+        "Figure 1: Schematic of the α-T3 lattice on an h-BN substrate driven by an off-resonant elliptically polarized laser. Rim sites A and C acquire staggered energies ±M while the hub site B remains at zero. (C = 0) band gap [34]. This static mass M induced by the substrate then interacts with the dynamic Floquet mass ∆F generated by the applied polar- ized laser field [35]. While the effects of circular polarization on the massless α-T3 lattice have been studied [36], the rich interplay between a substrate- induced static mass and a Floquet drive, including its thermoelectric signatures, remains largely unex- plored. In this work we address this gap by mapping the complete topological phase diagram of the massive α-T3 lattice under elliptical Floquet driving. We study the realistic case in which the α-T3 lattice is subject to both a staggered static potential [37] and an off-resonant..."
       ],
-      "ai_summary": "In Other New Materials, this paper argues that we theoretically investigate the influence of hexagonal boron nitride (h-BN) on the electronic properties of an $α$-$\\mathcal{T}_{3}$ lattice driven by an off-resonant elliptically polarized light field. We identify a fundamental geometric singularity at $α=1/\\sqrt{2}$, independent of $M$, below which no finite drive can close the lower band gap, creating a stable topological window where conduction--flat band inversion yields a Chern insulator with $C=1$. A highly asymmetric thermoelectric Seebeck response further serves as an experimental fingerprint of each phase, providing a realistic framework for realizing...",
+      "ai_summary": "In Other New Materials, this paper argues that we theoretically investigate the influence of hexagonal boron nitride (h-BN) on the electronic properties of an $α$-$\\text{T}_3$ lattice driven by an off-resonant elliptically polarized light field. We identify a fundamental geometric singularity at $α= 1/\\sqrt{2}$, independent of $M$, where the valley-resolved lower-gap threshold diverges, bounding a finite topological window where conduction--flat band inversion yields a Chern insulator with $C = 1$ carried by the flat band. A highly asymmetric thermoelectric Seebeck response further serves as an experimental fingerprint of each phase, providing a realistic...",
       "abstract_status": "original"
     },
     {
