@@ -1,6 +1,115 @@
 {
-  "updated_at": "2026-08-03T12:46:57.265465+00:00",
+  "updated_at": "2026-08-04T11:07:01.504390+00:00",
   "papers": [
+    {
+      "id": "arxiv:2608.02155",
+      "title": "Band topology and symmetry-driven magneto-optical response in two-dimensional d-wave altermagnets with staggered spin-orbit coupling",
+      "authors": [
+        "Meysam Bagheri Tagani Carmine Autieri",
+        "Wojciech Brzezicki"
+      ],
+      "abstract": "Altermagnets combine compensated collinear magnetic order with momentum-dependent spin splitting, providing a route to transverse electronic and optical responses without a net ferromagnetic moment. We develop a strictly periodic four-band tight-binding model for a two-dimensional d-wave altermagnet and distinguish the roles of three spin orbit coupling (SOC) channels: uniform Rashba SOC, a sublattice-staggered Rashba interaction, and bond-staggered SOC. In the absence of SOC, the d-wave kinetic anisotropy produces spin-polarized Dirac points on orthogonal Brillouin-zone boundaries, related by the altermagnetic fourfold spin-group symmetry. Uniform Rashba SOC mixes the spin sectors and shifts these nodes but preserves the antiunitary symmetry that forbids an integrated Hall response. The sublattice-staggered Rashba term breaks this symmetry and activates transverse optical response, whereas the bond-staggered SOC provides the mass that gaps the boundary nodes. Their combined action generates strong Berry-curvature hot spots and, within a narrow parameter window, an isolated lower two-band manifold with Chern number C=-2. For the representative parameters considered here it is possible to stabilize a Chern insulator phase. Using covariant-velocity Kubo calculations, we show that large optical Hall conductivity and circular dichroism extend well beyond the nonzero-Chern region and are controlled by SOC-induced avoided crossings and symmetry breaking. We further find that carrier doping strongly modifies the resonant and dc Hall responses through Pauli blocking and the occupation of Berry-curvature hot spots, enabling gate-controlled sign reversals. These results identify the complementary roles of distinct interfacial SOC mechanisms in producing topology and tunable magneto-optical activity in compensated two-dimensional magnets.",
+      "journal": "arXiv",
+      "published": "2026-08-03",
+      "url": "https://arxiv.org/abs/2608.02155",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2608.02155-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.02155-fig01.png",
+        "/data/figures/arxiv-2608.02155-fig02.png",
+        "/data/figures/arxiv-2608.02155-fig03.png",
+        "/data/figures/arxiv-2608.02155-fig04.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Schematic of the d-wave altermagnetic lat- tice composed of two basis sites. Nearest-neighbor (NN) and next-nearest-neighbor (NNN) hopping processes are in- dicated. Red (blue) sites indicate spin-up (spin-down) sites. (b) Spin-resolved band structure of the d-wave altermagnet along the high-symmetry path Γ–X–M–Y–Γ for parameters M = 1, a = 1, t = 1, and td = 0.3, without SOC terms. Solid (dashed) curves denote spin-down (spin-up) bands. (c)– (d) Evolution of the Dirac points in the Brillouin zone as a function of td for the spin-up and spin-down channels, respec- tively. The solid lines trace the momentum positions of the Dirac points for each spin sector. with |Γt(k)|2 = 16t2 cos2 \u0012kx 2 \u0013 cos2 \u0012ky 2 \u0013 . (14) When the sublattice-dependent anisotropy vanishes, td = 0, Eq. 13 becomes independent of (s), Eν,+(k) = Eν,−(k) = ε+(k) + ν p |Γt(k)|2 + M 2. (15) The model therefore...",
+        "FIG. 2. (a) Band structure of the altermagnetic lattice for Rashba spin–orbit coupling λR = 0.6t. All other parameters are identical to those used in",
+        "Fig. 1. (b) Out-of-plane spin polarization of the low-energy band near the Fermi level in the presence of Rashba SOC. time reversal. The staggered exchange term is odd under C4z, because the rotation exchanges the two magnetic sublattices, and is also odd under T , because time rever- sal reverses the spin. Their combination therefore leaves the magnetic state invariant. The uniform Rashba and bond-staggered SOC terms are individually time-reversal even and respect the same combined symmetry. The Θ4 symmetry imposes an antisymmetric relation on the occupied-band Berry curvature, Ωocc z (k) = −Ωocc z (−RC4k) . (18) Although SOC may generate finite local Berry-curvature distributions, Eq. (18) enforces their cancellation after integration over the Brillouin zone. Consequently, σxy(ω) = 0 (19) as long as Θ4 remains a symmetry. In particular, the bond-staggered coupling λb may gap the Dirac...",
+        "FIG. 3. Band structure of the altermagnetic lattice for (a) staggered Rashba interaction λs = 0.25t, and (b) bond stag- gered SOC interaction λb = 0.25t. λR = 0.6t, and all other parameters are identical to those used in"
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that altermagnets combine compensated collinear magnetic order with momentum-dependent spin splitting, providing a route to transverse electronic and optical responses without a net ferromagnetic moment. Using covariant-velocity Kubo calculations, we show that large optical Hall conductivity and circular dichroism extend well beyond the nonzero-Chern region and are controlled by SOC-induced avoided crossings and symmetry breaking.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.02152",
+      "title": "Time reversal symmetry broken quantum spin hall effect in pseudospin-1 Dirac-Rashba system",
+      "authors": [
+        "Puspita Parui",
+        "Bheema Lingam Chittari"
+      ],
+      "abstract": "The Quantum spin Hall (QSH) phase is conventionally understood to be protected by time-reversal symmetry (TRS). Here, we theoretically investigated the fate of the QSH phase in a pseudospin-1 fermionic $α-\\mathcal{T}_3$ system in the presence of a TRS-breaking ferromagnetic exchange field and spin-nonconserving Rashba spin-orbit coupling. Despite broken TRS, the QSH phase survives over a finite parameter regime and is characterised by a non-zero projected spin-Chern number $C_σ(σ= \\uparrow, \\downarrow)$, protected by a spin-spectral gap. In the absence of Rashba coupling, the QSH phase remains robust up to an $α$-dependent critical exchange field. Rashba SOC qualitatively reshapes the phase diagram by driving transitions into two distinct quantum anomalous Hall (QAH) phases: a $C=2$ phase, irrespective of $α$-values, and a $C=1$ phase for $α\\neq 0,1$, which is further identified as a valley-polarized QAH phase arising from a single valley. Rotating the magnetization to in-plane gaps out the first-order helical edge states and gives rise to second-order topological insulator (SOTI) phases that host localized corner states in suitable finite geometry. We further identify a topological phase transition between two different SOTI phases, mediated by nanoribbon edge states at an exchange field equal to $α$. These results establish spin-resolved topology in a higher pseudospin system as well as the $α-\\mathcal{T}_3$ lattice as a versatile platform for engineering and controlling multiple topological phases through magnetic exchange and spin-orbit coupling.",
+      "journal": "arXiv",
+      "published": "2026-08-03",
+      "url": "https://arxiv.org/abs/2608.02152",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2608.02152-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.02152-fig01.png",
+        "/data/figures/arxiv-2608.02152-fig02.png",
+        "/data/figures/arxiv-2608.02152-fig03.png",
+        "/data/figures/arxiv-2608.02152-fig04.png",
+        "/data/figures/arxiv-2608.02152-fig05.png",
+        "/data/figures/arxiv-2608.02152-fig06.png",
+        "/data/figures/arxiv-2608.02152-fig07.png",
+        "/data/figures/arxiv-2608.02152-fig08.png",
+        "/data/figures/arxiv-2608.02152-fig09.png",
+        "/data/figures/arxiv-2608.02152-fig10.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic of α −T3 lattice with sublattices A, B and C are denoted by white, black and grey circles, respectively. The model contains nearest-neighbour hopping t (solid lines) and αt (dashe lines); next-nearest-neighbour intrinsic SOC λI and αλI (solid and dashed arrows, respectively); spin-mixing Rashba spin-orbit coupling λR (curved arrow). Magnetization orientation in real space is specified by ˆ n. between B and C sites with coupling strength αt. The third and fourth terms represent intrinsic spin-orbit cou- pling (SOC) that couples the same spins on next-nearest- neighbours (NNN), between A-A via B and B-B via A with hopping strength λI and C-C via B and B-B via C with hopping strength αλI [21]. νi,j (νj,k) = +1(−1), de- notes the anticlockwise (clockwise) direction of the NNN hopping path for spin-up (spin-down) from site j(k) to i(j). The NNN vectors are given by ν1 = (δ2...",
+        "FIG. 2. Phase diagram of the global bulk gap as a function of α and exchange coupling λ⊥ ex for out-of-plane magnetization for (a) λR = 0 and (a) λR = 0.05. The Chern numbers (C, Cσ) are used to index the TI phases. A negative bandgap indicates transition to a metallic phase due to the indirect band gap closing as the band gaps at different k values overlap. picture of the topological phases in a nanoribbon geome- try. We later studied the in-plane magnetization case and showed how 1st-order topological edge bands gap out and a higher-order topology emerges in the same system. We kept t = −1, a = 1 and ℏ= 1 for convenience, and all other Hamiltonian parameters are in terms of t. A. Phase diagram Fig.2(a) and Fig.2(b) show the numerically calculated bulk band gap phase diagram as a function of out-of- plane exchange field λ⊥ ex and the lattice parameter α, in the absence and presence of...",
+        "FIG. 3. Phase diagram of bulk band gap in the λR/λI - λ⊥ ex/λI plane, for different values of α. (C, Cσ) indicates the total and projected spin Chern number of the occupied subspace for different topological phases. The zero band-gap lines indicate a phase transition, whereas the blue region suggests an indirect band-gap closure. to Cs = 2 at α = 0.5 [21]. However, the phase transition happens between the spin-resolved middle band and the valence (conduction) band for the spin-up (spin-down) sector. In contrast, when an out-of-plane exchange field is introduced, the spin-resolved bands shift upward (spin- up) and downward (spin-down) in energy, and the tran- sition between Cs = 1 to Cs = 2 QSH phases occurs at the Fermi level solely at the K-valley. A change in the direction of λ⊥ ex from +ˆ z to −ˆ z alters the valley from K to K′. Upon introducing a finite Rashba SOC, the system is no...",
+        "FIG. 4. Electronic spectrum of zig-zag edged α−τ3 ribbon for α = 1. The parameters are chosen to be λI = 0.2, λ⊥ ex = 0.1 and λR = 0 (a) and λR = 0.02 (b). The inset shows gapped edge bands in the presence of Rashba coupling. The width of the ribbon considered is 30nm, containing 141 zigzag chains along the width. QAH (1, 0) and QSH (0, 2) and QAH (1, 0) to QAH (2, 0) are determined by the conditions E3− + −E4+ + = 0, E2 + −E4− + = 0, and E3− −−E1 − = 0 respectively. It is to note that, although the bulk energy gap remains finite throughout the QAH phase, the spin gap closes, render- ing the C+ and C−, and hence PSCN Cs, ill-defined. Therefore, the QAH phases are characterised solely by the total (charge) Chern number, which is computed us- ing the Fukui-Hatsugai-Suzuki method on the occupied subspace of the energy spectrum[54]. The spin spectrum of all four distinct phases, QSH (0, 1),...",
+        "FIG. 5. (upper panel) Calculated band structure of TRS bro- ken zig-zag α −τ3 nanoribbon in QSH phase for (a1) α = 0.3 and (a2) α = 0.7. The colour scale represents the spin expec- tation value ⟨sz⟩. At a given Fermi energy (Ef = −0.025) in the bulk gap, there exist four edge modes for α = 0.3, labeled as p, q, r and s, and eight edge modes for α = 0.7 labeled p1, q1, r1, s1, p2, q2, r2 and s2. (lower panel) Probability density distribution with the lattice sites along the finite direction (b1) and (b2), corresponding to edge modes shown in (a1) and (a2), respectively. The insets schematically illustrate the edge modes localization and helicity on a rectangular slab, the arrows indicating the spin-polarization. The zigzag nanorib- bon has a width of 16 nm, containing Ny = 225 ABC sites. We use λI = 0.25, λ⊥ ex = 0.12 and λR = 0.02. noted that the phase boundaries for α = 0 do not quan-...",
+        "FIG. 6. (a) Energy spectrum of zigzag α −τ3 nanoribbon in the QAH(1,0) region of the phase space for α = 0.5. The colour represents the sz-expectation value. A, B, C and D in- dicate the edge modes at a given Fermi energy (black dashed line). (b) Probability density distribution with the lattice sites along the finite direction, corresponding to the edge modes. The inset shows schematics of the localization and direction of the edge modes along a rectangular slab. We use λI = 0.2, λ⊥ ex = 0.12 and λR = 0.05. a finite rectangular ribbon. We consider a nanoribbon of width 16 nm, containing 75 zigzag chains (225 ABC sites) for this calculation. In the quantum anomalous Hall phase with Chern number C = 1 [see Fig. 2(b)], the edge spectrum exhibits multiple edge modes as shown in Fig. 6, even though only a single chiral mode is required by the bulk topo- logical invariant. In particular, we...",
+        "FIG. 7. band structure of zigzag α −τ3 nanoribbon with in-plane exchange field for (a) α = 0.15 (< λ∥ ex), (b) α = 0.2 (= λ∥ ex), and (c) α = 0.25 (> λ∥ ex). (d)-(f) Eigen-energies near zero energy of rhombic-supercell geometry corresponding to the same values of α, highlighting in-gap corner modes in red circles. The insets display the spatial probability distributions of the states labelled by red circles. The other parameters are chosen to be λI = 0.3, λ∥ ex = 0.2, λR = 0 and ϕ = 0. these zero-energy corner modes split into two higher- energy modes symmetrically away from the zero-energy. These higher-energy corner modes are localized at an acute corner of the finite nanoflake. The transition oc- curs via an edge band crossing of the zigzag boundary at α = λ∥ ex, with the bulk remaining fully gapped through- out. This behaviour is illustrated in Figs. 7(a)-(c), which shows the edge...",
+        "FIG. 8. The real-space energy spectra of Kane-Mele-Rashba α −T3 Hamiltonian in the presence of in-plane exchange field, projected on a rhombic supercell, plotted as a function of α for (a) λ∥ ex = 0.2, (b) λ∥ ex = 0.3, and (c) λ∥ ex = 0.4. The black dashed lines indicate α = λ∥ ex, and the red lines suggest the SOTI modes. Here λI = 0.3 kept fixed. three occupied bands, this method works well in the QSH regime but fails in the QAH regime, as the spin-gap closes, rendering the positive and negative spin projec- tors ill-defined. For magnetization along the z-direction, we found two distinct QAH phases along with the two QSH phases (which are intrinsic properties of the TRS- preserved Kane-Mele α −T3). We further identified the QAH (1, 0) phase as a valley-polarized QAH phase where the K-valley is topological and the K′-valley remains trivial. This valley-imbalanced behaviour is only ob-..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that the Quantum spin Hall (QSH) phase is conventionally understood to be protected by time-reversal symmetry (TRS). We further identify a topological phase transition between two different SOTI phases, mediated by nanoribbon edge states at an exchange field equal to $α$. These results establish spin-resolved topology in a higher pseudospin system as well as the $α-\\mathcal{T}_3$ lattice as a versatile platform for engineering and controlling multiple topological phases through magnetic exchange and spin-orbit coupling.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/1cw4-pzsd",
+      "title": "Theoretical study of high harmonic generation in an inversion-symmetric Chern insulator",
+      "authors": [
+        "Anonymous"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Theoretical study of high harmonic generation in an inversion-symmetric Chern insulator in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-08-03",
+      "url": "https://doi.org/10.1103/1cw4-pzsd",
+      "doi": "10.1103/1cw4-pzsd",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/pyqb-5rxc",
+      "title": "Dephasing-induced quantum Hall criticality in quantum anomalous Hall systems",
+      "authors": [
+        "Fei Yang",
+        "Dong E. Liu"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Dephasing-induced quantum Hall criticality in quantum anomalous Hall systems in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-08-03",
+      "url": "https://doi.org/10.1103/pyqb-5rxc",
+      "doi": "10.1103/pyqb-5rxc",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
     {
       "id": "doi:10.1088/1361-648x/ae7d73",
       "title": "Quantum anomalous Hall effect in rhombohedral multilayer graphene/ h -BN moiré superlattices",
@@ -413,7 +522,7 @@
         "/data/figures/arxiv-2607.19470-fig01.png"
       ],
       "figure_captions": [
-        "Figure 1: The “black” (an equal mixture of cyan, magenta, and yellow) SU(3)−1 quark Fermi surface as the parent of ν = 2/3+δ anyon-induced phases. The three possibilities we study are (1) color superconductivity: The quarks form pairs on the black Fermi surface; (2) Color ferromagnetism: The quarks are polarized to one or more colors spontaneously; (3) 2e/3 bound state formation – the quarks form charge-2e/3 bound states, which can exhibit dynamics of their own. Each possibility leads to different (but overlapping) families of superconducting phases, some of which have Majorana edge modes (topological SC) or coexist with a background topological order (SC⋆). attractive at tree level, we find it more natural to view the quark metal as the theory of a finite temperature normal state out of which the true zero temperature anyon-driven phases emerge. Nevertheless, signatures of a novel..."
+        "Figure 1: The “black” (an unpolarized mixture of cyan, magenta, and yellow) SU(3)−1 quark Fermi surface as the parent of ν = 2/3 + δ anyon-induced phases. The three possibilities we study are (1) color super- conductivity: The quarks form pairs on the black Fermi surface; (2) Color ferromagnetism: The quarks are polarized to one or more colors spontaneously; (3) 2e/3 bound state formation – the quarks form charge-2e/3 bound states, which can exhibit dynamics of their own. Each possibility leads to different (but overlapping) families of superconducting phases, some of which have Majorana edge modes (topological SC) or coexist with a background topological order (SC⋆). tuations are strong and are attractive at tree level, we find it more natural to view the quark metal as the theory of a finite temperature parent state out of which the breadth of possible zero temperature anyon-driven..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that the recently observed signatures of superconductivity proximate to a fractional quantum anomalous Hall (FQAH) state in a twisted MoTe$_2$ bilayer has revitalized interest in quantum phases of matter induced by anyon dynamics. Here we show how a panoply of anyon-driven phases associated with doping the lattice ${ν=2/3}$ FQAH state can be realized as competing instabilities of a Fermi surface of charge-$e/3$ ``quarks'' coupled to a $\\mathrm{SU}(3)_{-1}$ Chern-Simons gauge field, which is dual to the more conventional $\\mathrm{U}(1)_3$ Chern-Simons-Ginzburg-Landau theory of quasiholes.",
       "abstract_status": "original"
@@ -742,11 +851,11 @@
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png"
       ],
       "figure_captions": [],
       "ai_summary": "In Moire Superlattice, this paper argues that a fluid of mobile anyons may arise naturally when a Fractional Quantum Anomalous Hall (FQAH) state is doped. We propose that the high-resistivity metal observed adjacent to this FQAH state is a $Z_3$ Orthogonal Metal: a non-Fermi liquid with sharp charge $1/3$ fermionic quasiparticles coupled to a discrete $Z_3$ gauge field but with no sharp electronic quasiparticle.",
