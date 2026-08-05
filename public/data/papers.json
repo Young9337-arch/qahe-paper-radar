@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T11:07:01.504390+00:00",
+  "updated_at": "2026-08-05T10:48:50.092012+00:00",
   "papers": [
     {
       "id": "arxiv:2608.02155",
@@ -522,7 +522,7 @@
         "/data/figures/arxiv-2607.19470-fig01.png"
       ],
       "figure_captions": [
-        "Figure 1: The “black” (an unpolarized mixture of cyan, magenta, and yellow) SU(3)−1 quark Fermi surface as the parent of ν = 2/3 + δ anyon-induced phases. The three possibilities we study are (1) color super- conductivity: The quarks form pairs on the black Fermi surface; (2) Color ferromagnetism: The quarks are polarized to one or more colors spontaneously; (3) 2e/3 bound state formation – the quarks form charge-2e/3 bound states, which can exhibit dynamics of their own. Each possibility leads to different (but overlapping) families of superconducting phases, some of which have Majorana edge modes (topological SC) or coexist with a background topological order (SC⋆). tuations are strong and are attractive at tree level, we find it more natural to view the quark metal as the theory of a finite temperature parent state out of which the breadth of possible zero temperature anyon-driven..."
+        "Figure 1: The “black” (an equal mixture of cyan, magenta, and yellow) SU(3)−1 quark Fermi surface as the parent of ν = 2/3+δ anyon-induced phases. The three possibilities we study are (1) color superconductivity: The quarks form pairs on the black Fermi surface; (2) Color ferromagnetism: The quarks are polarized to one or more colors spontaneously; (3) 2e/3 bound state formation – the quarks form charge-2e/3 bound states, which can exhibit dynamics of their own. Each possibility leads to different (but overlapping) families of superconducting phases, some of which have Majorana edge modes (topological SC) or coexist with a background topological order (SC⋆). attractive at tree level, we find it more natural to view the quark metal as the theory of a finite temperature normal state out of which the true zero temperature anyon-driven phases emerge. Nevertheless, signatures of a novel..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that the recently observed signatures of superconductivity proximate to a fractional quantum anomalous Hall (FQAH) state in a twisted MoTe$_2$ bilayer has revitalized interest in quantum phases of matter induced by anyon dynamics. Here we show how a panoply of anyon-driven phases associated with doping the lattice ${ν=2/3}$ FQAH state can be realized as competing instabilities of a Fermi surface of charge-$e/3$ ``quarks'' coupled to a $\\mathrm{SU}(3)_{-1}$ Chern-Simons gauge field, which is dual to the more conventional $\\mathrm{U}(1)_3$ Chern-Simons-Ginzburg-Landau theory of quasiholes.",
       "abstract_status": "original"
@@ -851,11 +851,11 @@
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
-        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png"
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [],
       "ai_summary": "In Moire Superlattice, this paper argues that a fluid of mobile anyons may arise naturally when a Fractional Quantum Anomalous Hall (FQAH) state is doped. We propose that the high-resistivity metal observed adjacent to this FQAH state is a $Z_3$ Orthogonal Metal: a non-Fermi liquid with sharp charge $1/3$ fermionic quasiparticles coupled to a discrete $Z_3$ gauge field but with no sharp electronic quasiparticle.",
