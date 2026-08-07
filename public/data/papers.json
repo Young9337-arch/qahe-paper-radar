@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-06T11:02:47.230800+00:00",
+  "updated_at": "2026-08-07T06:01:08.028606+00:00",
   "papers": [
+    {
+      "id": "arxiv:2608.06233",
+      "title": "Anyon-Impurity Bound States in Quantum-Engineered Fractional Chern Insulators",
+      "authors": [
+        "Botao Wang",
+        "Amit Vashisht",
+        "Felix A. Palm",
+        "Fabian Grusdt",
+        "Laurens Vanderstraeten",
+        "Nathan Goldman"
+      ],
+      "abstract": "Mobile impurities provide a powerful means of probing correlated and topological quantum matter, through their dressing by the surrounding medium and the practical probes granting access to the resulting composite object. Motivated by the recent observation of anyon-impurity composites in the solid state, as well as recent realizations of Laughlin-type states in engineered lattice systems, we investigate the formation of a bound state between a mobile impurity and a single pinned quasihole in the interacting Harper-Hofstadter model deep in the fractional Chern insulator regime. Combining analytical arguments with large-scale numerical simulations, we characterize the structure, energetics, and stability of hybrid anyon-impurity bound states, and show that their binding energy provides direct access to the fractional charge of the quasihole under conditions that we identify. We further demonstrate that the composite object can be coherently transported by externally steering the quasihole pinning potential. Our results establish a realistic pathway for controlled anyon-impurity manipulation in quantum-engineered platforms, enabling experimentally feasible protocols for braiding.",
+      "journal": "arXiv",
+      "published": "2026-08-06",
+      "url": "https://arxiv.org/abs/2608.06233",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2608.06233-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.06233-fig01.png",
+        "/data/figures/arxiv-2608.06233-fig02.png",
+        "/data/figures/arxiv-2608.06233-fig03.png",
+        "/data/figures/arxiv-2608.06233-fig04.png",
+        "/data/figures/arxiv-2608.06233-fig05.png",
+        "/data/figures/arxiv-2608.06233-fig06.png",
+        "/data/figures/arxiv-2608.06233-fig07.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) The spatial density distribution of a single particle (along the center row) in finite system under peri- odic boundary condition with different trapping potentials V0/J = 0.2, 0.5 and 1.0. Inset: the binding energy E2D/J as a function of trap strength V0/J for different impurity hopping strength Jimp/J = 0.6 (squares) and Jimp/J = 1 (triangles). The solid lines represent the analytic results of Eq.(5) after the substitution mimp = ℏ2/2Jimpa2. The numerical results are associated with the Hamiltonian ˆ H′ imp with R1 = 2a and system size 20 × 20 under periodic boundary condition. (b) The spatial density distribution in a Chern insulator with pin- ning potentials Vpin = 2J. (c) The binding energy as a func- tion of U/J in systems of size L = 20a under open boundary conditions. We plot the binding energy for a single particle subject to a pure trap of radius R1/a = 1 (solid...",
+        "FIG. 2. (a) Spatial distribution of the fractional charge Q = −1/2 in the ν = 1/2-FCI. Right: Charge density profiles along the central cut. The dashed line shows the corresponding integer-charge distribution in the CI. (b) Binding energy EB as a function of the impurity-host interaction strength U for the CI (orange dots) and FCI (blue squares). The green and red solid curves denote the corresponding mean-field results obtained from ˆ H′′ imp. (c) The binding energy difference δEB = E′ B −EB as a function of interaction strength U. (d) Ratio of binding energies EB(ν = 1/2)/EB(ν = 1) as a function of U/J. The calculations are performed for N = 10 particles in the ν = 1/2 FCI and N = 21 free fermions in the CI on a 10 × 10 lattices with flux density α = 1/4 per plaquette. Blue crosses denote many-body results obtained using MPS; the green solid line shows mean-field results based on the...",
+        "FIG. 3. Spatial distribution of the fractional charge (a) Q = −1/2 and (b) Q = −1/3 associated with domain wall excitation using infinite MPS with circumference Lx = 19. (c) Charge density profiles along the central cut. (d) Bind- ing energy EB as a function of the impurity-host interac- tion strength U for ν = 1/2 and 1/3 within window size Lw = 3. (e) Ratio of binding energies at weak interaction limit (U/J = 0.01) as a function of the window size. Inset: Ratio of binding energies for window size Lw = 3 as a func- tion of U. (a) (c) (b) (d)",
+        "FIG. 4. Spatial density distributions of (a) the host particles and (b) the impurity at evolution times tJ/ℏ= 0.0, 12.0 and 25.0 (from top to bottom) for U/J = 3.0. (c) Spatial profiles of the host pinning potentials along the row y = 3 at different times. (d) Center-of-mass of the impurity as a function of evolution time for different interaction strengths U. ments of anyonic braiding phases [20, 62]. Motivated by recent advances in manipulating anyons using anti- dots in electronic systems [63, 64], as well as the grow- ing capabilities of combining optical lattices with optical tweezers [32], we investigate the controlled transport of anyon-impurity composites through dynamical tuning of the pinning potential. We begin with an anyon-impurity bound state and transport it by dynamically moving the pinning potential applied to the host particles. As an illustrative example, we consider...",
+        "FIG. 5. Spatial density distributions of (a) the host parti- cles and (b) the impurity along the central row y = 4 within the bulk for U = 3J and time t = 30ℏ/J. The solid lines show the corresponding (inverted) Gaussian fits. The vertical dashed lines indicate the positions of the minimum and max- imum, denoted by x∗. (c) Peak position of the impurity as a function of evolution time for different impurity–host inter- action strengths U. The dashed line denotes the position of the host-particle density minimum, which is independent of U. (d) Positions of the host-particle density minimum (blue dots) and the impurity density maximum (green squares) as a function of total dragging time τ for fixed U = 3J. Dashed lines represent the exponential polynomial fits. The conver- gence of these two occurs around τ = 40 ℏ/J, which is close to the inverse binding energy of ≃34 ℏ/J (orange dotted...",
+        "FIG. 6. Left-hand side (LHS) and right-hand side (RHS) of the transcendental equation for two different values of z0. Since the LHS approaches zero as z →0, while the RHS vanishes at z = z0, an arbitrarily weak confinement strength V0, corresponding to an arbitrarily small z0, guarantees at least one solution. Integer charge in a Chern insulator Consider non-interacting fermions in the Harper- Hofstadter lattice described by Eq. (2) with ˆ HB/F int = 0. For a magnetic flux of α = 1/4 flux quantum per plaque- tte, filling the lowest band realizes a Chern insulator with Chern number C = 1. This state is characterized by a uniform density distribution in the incompressible bulk. A representative spatial density distribution for a lattice with open boundary conditions is shown in Fig. 7(a). The topological nature can be further verified using the Stˇ reda formula [49, 76–79], CStr = ∂nB ∂α...",
+        "FIG. 7. (a) Spatial density distribution of a CI ground state. We consider a 20 × 20 lattice with uniform flux α = 1/4 and N = 96 non-interacting fermions occupying the lowest band with Chern number C = 1. (b) Bulk density, defined within a central disk of radius 3a, as a function of flux α. The slope yields the Stˇ reda marker CStr = 1.0. (c) Spatial distribution of the density difference between the CI ground states with pinning strengths Vh/J = 2.0 and Vh/J = 0.0. (d) Integrated charge within a central disk of radius r = 4a as a function of the pinning strength Vh/J. Inset: integrated charge as a function of disk radius r for Vh/J = 2.0. Fractional charge in an fractional Chern insulator To realize the ν = 1/2 fractional Chern insulating state [41, 43], we consider hard-core bosons described by Eq. (2) with ˆ HB int = Uh 2 P x,y ˆ nx,y(ˆ nx,y −1), where the on- site interaction..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that mobile impurities provide a powerful means of probing correlated and topological quantum matter, through their dressing by the surrounding medium and the practical probes granting access to the resulting composite object. Combining analytical arguments with large-scale numerical simulations, we characterize the structure, energetics, and stability of hybrid anyon-impurity bound states, and show that their binding energy provides direct access to the fractional charge of the quasihole under conditions that we identify.",
+      "abstract_status": "original"
+    },
     {
       "id": "arxiv:2608.02155",
       "title": "Band topology and symmetry-driven magneto-optical response in two-dimensional d-wave altermagnets with staggered spin-orbit coupling",
@@ -839,6 +879,7 @@
       "figure_urls": [
         "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
         "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
+        "http://arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
