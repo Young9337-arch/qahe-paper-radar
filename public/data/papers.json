@@ -1,6 +1,201 @@
 {
-  "updated_at": "2026-08-10T06:02:26.041398+00:00",
+  "updated_at": "2026-08-11T05:33:30.429054+00:00",
   "papers": [
+    {
+      "id": "arxiv:2608.09911",
+      "title": "Tunable Multiband Geometry and Fractional Phases in Higher Vortexable Systems",
+      "authors": [
+        "Xiaohan Wan",
+        "Siddhartha Sarkar",
+        "Ting Cao",
+        "Mark Rudner",
+        "Di Xiao",
+        "Kai Sun"
+      ],
+      "abstract": "Higher vortexability is often viewed as a route to topological flat bands with higher-Landau-level-like quantum geometry. Here we emphasize a complementary perspective: it provides a tunable multiband structure in which wave function geometry can be varied continuously while the band dispersion, degeneracy, and topology remain fixed. We perform systematic exact-diagonalization studies of many-body phases in fractionally filled higher vortexable moiré systems, retaining the full flat-band Hilbert space rather than projecting onto a single band. The multiband treatment reveals a cascade of Abelian and non-Abelian phases at zero magnetic field, including integer and fractional exciton insulators, Abelian fractional Chern insulators, Moore-Read and Read-Rezayi states. At fixed filling, different phases are connected through transitions or crossovers driven solely by changes in wave function geometry, highlighting quantum geometry itself as a direct tuning parameter between competing topological states. At fillings associated with Moore-Read and Read-Rezayi states, our calculations show that interband mixing shifts the optimal quantum geometry regime without suppressing non-Abelian topological order under screened Coulomb interaction. Our results establish higher vortexable moiré bands as a tunable platform for exploring geometry-driven multiband topological phases at zero magnetic field.",
+      "journal": "arXiv",
+      "published": "2026-08-10",
+      "url": "https://arxiv.org/abs/2608.09911",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2608.09911-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.09911-fig01.png",
+        "/data/figures/arxiv-2608.09911-fig02.png",
+        "/data/figures/arxiv-2608.09911-fig03.png",
+        "/data/figures/arxiv-2608.09911-fig04.png",
+        "/data/figures/arxiv-2608.09911-fig05.png",
+        "/data/figures/arxiv-2608.09911-fig06.png",
+        "/data/figures/arxiv-2608.09911-fig07.png",
+        "/data/figures/arxiv-2608.09911-fig08.png",
+        "/data/figures/arxiv-2608.09911-fig09.png",
+        "/data/figures/arxiv-2608.09911-fig10.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Phase diagram of a moiré system with higher vortex- able flat bands. (a) Averaged ratio between the trace of the quantum metric and the Berry curvature as a function of θ, which parameterizes the interlayer tunneling strength. The blue and red curves correspond respectively to the LLL-type vortexable band (band 1, ˜ Ψk,1) and the first vortexable band (band 2, ˜ Ψk,2). (b) Phase diagram as a function of filling fraction ν and interlayer tunneling θ. The filling fraction is defined such that ν = 2 corresponds to completely filling the two bands polarized on one sublattice. The ground states at different θ and ν are labeled as follows: p/q FCI denotes a fractional Chern insulator corresponding to a lowest Lan- dau level fractional quantum Hall state at filling p/q; 1 3 5 FCI denotes a completely filled band 1 together with a 3/5-filled band 2; integer triplet mmn denotes a...",
+        "FIG. 2. Many-body spectra at fillings ν = 1 [(a),(b)] and ν = 1/3 [(c),(d)] for different values of the interlayer tunnel- ing parameter θ, with the ground states marked by red boxes. The average many-body Chern number of each ground state equals the filling fraction ν. (a) At θ = 0.05, there are 13 quasidegenerate ground states, consistent with a Halperin- 111 state (exciton insulator). (b) At θ = π/2, there is a single ground state, adiabatically connected to a Chern insu- lator. (c) At θ = 0.05, there are five quasidegenerate ground states in each of the three center of mass momentum sectors k = 0, 6, 8, giving a total of fifteen states, consistent with a Halperin-333 state (fractional exciton insulator). (d) At θ = π/2, there are three quasidegenerate ground states, iden- tified as a fractional Chern insulator with Cmb = 1/3 from the PES counting (Appendix D). A. Exciton insulator...",
+        "FIG. 3. Normalized eigenvalues of the exciton correlation matrix at ν = 1, 1/3 for the Sz = 0 ground state at k = 0. (a) ν = 1 and θ = 0, with eigenvalues normalized by Ne/2 = 6. (b) ν = 1/3 and θ = 0, normalized by Ne/2 = 2. from the dimension of the SU(2) irreducible representa- tion carried by the ferromagnetic ground state. At θ = 0, the Hamiltonian is SU(2)-symmetric, and the fully po- larized state is obtained from the completely symmet- ric combination of Ne = νNs = 12 spin-1/2 degrees of freedom. This symmetric product forms the total-spin S = Ne/2 representation of SU(2), whose dimension is 2S + 1 = Ne + 1 = 13. When θ is increased slightly from zero, the weak breaking of SU(2) symmetry lifts the degeneracy among the 13 states, but they remain sepa- rated from higher energy states by the many-body gap, as shown in Fig. 2(a). To characterize exciton condensa- tion, we compute...",
+        "Fig. 12. We therefore identify the ground state manifold at θ = 0.05 as the Halperin-332 state. Since the Halperin-332 state is a pseudospin-SU(2) singlet, it contributes a single state to each COM momentum sector. At θ = π/2, we identify the ground state manifold as a ν = 2/5 FCI by demonstrating that it is adiabatically connected to a fully band-1-polarized 2/5 Jain state; see Appendix C for details.",
+        "FIG. 4. Many-body spectra at ν = 2/5 [(a),(b)] and ν = 2/3 [(c),(d)] for θ = 0.05 and θ = π/2. D. Halperin-112 state and 2/3 FCI at ν = 2/3 At filling ν = 2/3, ED of a system with Ns = 12 unit cells reveals one ground state in each of Γ, K, and K′ momentum sectors (k = 0, 6, 8) of the COM Brillouin zone. These states form a threefold ground state mani- fold with average many-body Chern number Cmb = 2/3; see",
+        "Fig. 4. To identify the phase near θ = 0, we compute the par- ticle entanglement spectrum at θ = 0.05. For an NA = 3 particle partition, the PES exhibits gaps above 1520 and 1952 levels [Fig. 18(a)]. These level countings agree with those of the Halperin-112 state in a bilayer quantum Hall system at filling 2/3, shown in Fig. 18(b). We therefore identify the ground state manifold at θ = 0.05 as the Halperin-112 state. At θ = π/2, we identify the ground state manifold as a ν = 2/3 FCI using its hole particle entanglement spectrum. In the hole representation, this state may be viewed as having band 2 completely filled with holes and band 1 at hole filling 1/3. For a cut contain- ing NA = 2 holes on the Ns = 12 cluster, there are NA + 1 = 3 possible distributions of holes between the two bands. When both holes occupy band 2, the ordi- nary Pauli principle gives \u000012 2 \u0001 = 66 states. When...",
+        "Fig. 1. Since in van der Waals materials the interlayer tun- neling term is typically small [35], our results suggest higher vortexable moiré systems such as strained bilayer graphene and double twisted bilayer graphene as promis- ing platforms for realizing Halperin-type states, including exciton insulators at zero magnetic field. V. QUANTUM-GEOMETRY-DRIVEN PHASE TRANSITIONS AND CROSSOVERS Having identified the weak- and strong-tunneling ground states, we now study how these phases are con- nected as θ is varied. A. Phase transition at ν = 2/3 Since the Halperin-112 state and the 2/3 FCI share the same Abelian topological order [63, 64], a smooth crossover is allowed from the perspective of topological field theory. However, our simulations indicate that they are separated by a phase transition. As θ is increased, the ground state undergoes an exact level crossing near θ ≈0.4, as shown...",
+        "FIG. 5. Quantum-geometry-driven phase transition at ν = 2/3 [(a),(b)] and crossover at ν = 2/5 [(c),(d)]. (a) Calibrated energies of the ground state and first excited state at k = 0 as functions of θ; the average of the two energies is subtracted. A many-body level crossing occurs near θ = 0.4, where the C3 eigenvalue of the ground state at k = 0 changes from ω2 to 1. (b) Ground state band occupation numbers at ν = 2/3 in band ˜ Ψk,1 (n1, blue) and the first vortexable band ˜ Ψk,2 (n2, red dotted), exhibiting a discontinuous jump at the band inversion. ni = 1 Ns P k⟨c† k,ick,i⟩. (c) Many-body gap ∆E = E6 −E5 as a function of θ at ν = 2/5; the gap does not close over the full range. (d) Ground state occupation numbers at ν = 2/5. C. From the Halperin-332 state of holes to the Read–Rezayi state at ν = 8/5 At ν = 8/5, the many-body gap closes near θ ≈0.1, as shown in Fig. 19(a) in the...",
+        "Fig. 14. In addition, the band occupation num- bers show that the holes are predominantly polarized into band 2, as shown in Fig. 19(b). These results suggest that the intermediate phase may be a band-2-polarized 2/5 Jain FCI of holes. However, the many-body gap clos- ing near θ ≈0.1 shows that the intermediate state is not smoothly connected, along the path obtained by varying θ, to the small-θ 332 state. This differs from the behavior at ν = 2/5, where the Halperin-332 state and the band- 1-polarized 2/5 Jain FCI are adiabatically connected as θ is varied. Since this phase corresponds, in terms of elec- trons, to a completely filled band 1 and a 3/5-filled band 2, we label it as a 1 3 5 FCI in the phase diagram. In the finite size spectrum, as θ increases from 0.25 toward π/2, the five intermediate-θ ground states re- main among the lowest-energy states. However, in- terestingly,...",
+        "FIG. 6. Phase transitions at ν = 1 and ν = 1/3 for unequal intralayer and interlayer interactions. (a) Energies of the two lowest states at k = 0 versus θ at ν = 1, after subtracting their mean; both energies vanish at a level crossing. (b) Band- i occupation number of the ground state versus θ at ν = 1. (c),(d) Same quantities at ν = 1/3. In (d), the occupation numbers at each θ are averaged over the three ground states. The Ns = 12 cluster is used, with r = 0 for ν = 1 and r = 0.8 for ν = 1/3. 11 a total density interaction, whereas the second term is analogous to the capacitance energy of a quantum Hall bilayer [68]. In the limit Vinter = Vintra, ˜ Hint reduces to Hint of Eq. (17). At θ = 0, the first term is SU(2) in- variant, while the second term is only layer-U(1) × U(1) invariant. For θ ̸= 0, interlayer tunneling breaks the sep- arate charge conservation in each layer, so the..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that higher vortexability is often viewed as a route to topological flat bands with higher-Landau-level-like quantum geometry. The multiband treatment reveals a cascade of Abelian and non-Abelian phases at zero magnetic field, including integer and fractional exciton insulators, Abelian fractional Chern insulators, Moore-Read and Read-Rezayi states.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.09245",
+      "title": "Gradient-based optimization of non-Abelian fractional quantum states in patterned superlattices",
+      "authors": [
+        "Yifei Guan",
+        "Lichen Yu",
+        "Zizhuang Liu",
+        "Xin Lu",
+        "Jianpeng Liu"
+      ],
+      "abstract": "The realization of fractional Chern insulator (FCI) states in moiré heterostructures has attracted intense interest in the study of correlated states emerging from topological flat bands. So far, most experimentally realized FCI states may be interpreted as lattice analogues of fractional quantum Hall (FQH) states hosting Abelian anyonic excitations. Realizing non-Abelian FCI states is an important challenge in the field. Patterned dielectric superlattices provide a versatile platform for engineering topological flat bands. Such systems offer substantial structural flexibility and tunability, because their lattice patterns, periods, and other structural parameters can all be designed and fabricated. Here we propose to realize non-Abelian FCI states in patterned dielectric superlattices coupled to bilayer graphene. Specifically, we provide a realistic workflow based on a gradient-descent algorithm to design non-Abelian fractional states in bilayer graphene superlattices. The experimentally relevant structural parameters of the superlattices are gradient-optimized to favor a flat Chern band with quantum-geometric properties reminiscent of those of the first excited Landau level. Exact diagonalization calculations at 1/2 filling of the optimized flat Chern band naturally yield non-Abelian FCI states. We apply this workflow to triangular, honeycomb, and kagome patterned superlattices and find robust non-Abelian FCI states over a large region of the parameter space spanned by the superlattice constant and vertical potential drop. Our work thus establishes an experimentally feasible framework for exploring non-Abelian FCIs in realistic patterned-superlattice devices. It also demonstrates the potential of device-level inverse design to engineer correlated topological matter beyond the Abelian paradigm.",
+      "journal": "arXiv",
+      "published": "2026-08-10",
+      "url": "https://arxiv.org/abs/2608.09245",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2608.09245-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.09245-fig01.png",
+        "/data/figures/arxiv-2608.09245-fig02.png",
+        "/data/figures/arxiv-2608.09245-fig03.png",
+        "/data/figures/arxiv-2608.09245-fig04.png",
+        "/data/figures/arxiv-2608.09245-fig05.png",
+        "/data/figures/arxiv-2608.09245-fig06.png",
+        "/data/figures/arxiv-2608.09245-fig07.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) The left panel shows the superlattice device: bilayer graphene is encapsulated by thin hBN layers. A periodically etched SiO2 substrate provides a periodic modulation of the vertical electric potential drop between the top and bottom gates. The right panel shows schematic diagrams of the superlattices with triangular, honeycomb, and kagome patterns. (b) Illustration of the optimization workflow: the gradient of the loss function with respect to the structural parameters {pi} is calculated using finite differences. Each iteration involves an FEM simulation of the electrostatic potential and a solution of the electronic structure using a realistic continuum model of BLG to minimize the loss function defined in Eq. (2). (c) An example of the real-space superlattice potential acting on the bottom graphene layer for a triangular-patterned superlattice with gradient-optimized...",
+        "FIG. 2. Single-particle phase diagrams of the gradient-optimized superlattice structures for (a) triangular, (b) honeycomb, and (c) kagome patterned superlattices in the parameter space spanned by the superlattice constant Ls and gate-voltage difference δV . The color coding of the subfigures in the first column indicates the Chern numbers of the highest valence bands in the K valley, while the number at each parameter point gives the numerical value of R k tr g(k). The color maps in the second column show the ratio of the characteristic electron-electron Coulomb interaction energy U = e2/(4πϵsϵ0Ls) to the bandwidth W of the highest valence band, with the value of U/W marked at each parameter point. The color maps in the third column show the Berry-curvature standard deviations σ(Ω). |C| = 1 flat bands with R k tr g(k) close to 3 and relatively small Berry-curvature standard deviations,...",
+        "FIG. 3. The many-body spectrum and PES of the Moore- Read FCI phase, calculated with Nk = 28, Ne = 14. (a)-(c) show the energy spectra for (a) triangular superlattice with Ls = 50nm, δV = 14V; (b) honeycomb superlattice with Ls = 40nm, δV = −14V; and (c) kagome superlattice with Ls = 50nm, δV = −12V. (d)-(f) present the corresponding PES calculated by a partition NA = 4, NB = 10 of the 14 electrons. primitive cell, and Ns is the number of primitive cells in the entire system. Many-body spectra are obtained by exact diagonalization (ED) on two torus clusters with Ns = 28 and Ns = 26 single-particle momentum orbitals, respectively, using geometries specified by tilted reciprocal-lattice vectors (see the Supplemental Material). At half filling, ν = Ne/Ns = 1/2, these clusters contain Ne = 14 and Ne = 13 electrons, respectively. Figures 3(a)–(c) show representative ED energy spectra for...",
+        "FIG. 4. Many-body phase diagrams of the HVB at 1/2 filling in the (Ls, δV ) parameter space for (a) triangular, (b) honeycomb, and (c) kagome patterned superlattices coupled to bilayer graphene. Moore-Read FCI states are colored light blue, the gray blocks denote many-body states that are not Moore-Read FCIs, and the white regions indicate parameter points at which the Chern number of the HVB is not ±1 and the many-body ground state was therefore not calculated. (d)–(f) show the converged values of the loss function defined in Eq. (2) for the triangular, honeycomb, and kagome superlattices, respectively. distributions of quasiholes expected for a Moore-Read- type FCI state. We have also calculated the PES for the Ns = 26, Ne = 13 clusters with a particle cut of NA = 3 and NB = 10. These spectra also exhibit a clear entanglement gap, with 2522 low-lying entanglement levels below the gap,..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that the realization of fractional Chern insulator (FCI) states in moiré heterostructures has attracted intense interest in the study of correlated states emerging from topological flat bands. Here we propose to realize non-Abelian FCI states in patterned dielectric superlattices coupled to bilayer graphene. Patterned dielectric superlattices provide a versatile platform for engineering topological flat bands.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.08937",
+      "title": "Nonequilibrium dynamics of doped Chern ferromagnets: a case study for false vacuum decay",
+      "authors": [
+        "Kilian Kuhlbrodt",
+        "Olivier Huber",
+        "Oliver Breach",
+        "Weijie Li",
+        "Xiaodong Xu",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Martin Kroner",
+        "Siddharth A. Parameswaran",
+        "Atac Imamoglu"
+      ],
+      "abstract": "Even though metastable false vacuum decay is ubiquitous in physics, its underlying dynamics are still not well understood. Dissipative state preparation in moiré quantum materials provides an exceptional setting for exploring this physics since it allows the possibility of generating exotic quantum states that are not the ground state of the system Hamiltonian. Motivated by recent experiments demonstrating steady-state optical orientation of the spin-valley degree of freedom of holes, here we investigate dynamics of itinerant and Chern ferromagnets in the presence of an opposing magnetic field. Optical pumping using a circularly polarized Laguerre-Gauss beam allows us to deterministically prepare a true vacuum bubble embedded inside a metastable state. Depending on its initial size controlled by the pump power, we observe that the bubble collapses or expands due to an interplay between domain wall and bulk dynamics. For external magnetic fields comparable to the coercive field of ferromagnetism, we observe up to two-orders-of-magnitude prolongation of the spin polarization decay time at commensurate fillings corresponding to integer and fractional Chern insulator states. Our experiments reveal that the nonequilibrium dynamics of the ferromagnetic domains is substantially more sensitive to the precise filling factor around Chern insulator states than standard transport or optical measurements.",
+      "journal": "arXiv",
+      "published": "2026-08-09",
+      "url": "https://arxiv.org/abs/2608.08937",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2608.08937-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.08937-fig01.png",
+        "/data/figures/arxiv-2608.08937-fig02.png",
+        "/data/figures/arxiv-2608.08937-fig03.png",
+        "/data/figures/arxiv-2608.08937-fig04.png",
+        "/data/figures/arxiv-2608.08937-fig05.png",
+        "/data/figures/arxiv-2608.08937-fig06.png",
+        "/data/figures/arxiv-2608.08937-fig07.png",
+        "/data/figures/arxiv-2608.08937-fig08.png"
+      ],
+      "figure_captions": [
+        "Fig. 2a. Figure 2c,d describes two complementary experiments carried out at |B| = 7 mT ≪BC: when we set the LG pulse power to PLG = 15 µW, we observe that within 0.2 ms after the LG pulse, the bubble radius decreases due to surface tension, thus increasing the size of the false vacuum region. We conclude that the radius R of the optically generated bubble in the true vacuum state for this PLG is smaller than the critical bubble radius Rc. In stark contrast, for PLG = 0.7µW, we observe that the bubble expands, indicating that R > Rc. In both cases, the fast dynamics depicted in Fig. 2d saturates before the bubble completely collapses or expands. We attribute this observation to disorder: if the surface ten- sion of the domain wall is insufficient to overcome the pinning barrier, further expansion or collapse of the bub- ble will no longer be possible. We therefore interpret this rapid...",
+        "Figure 1. Optical spin orientation in t-MoTe2 bilayers. (a) Schematic of the device and underlying moir´ e superlattice. The heterostructure comprises a 3.5◦-twisted MoTe2 homobilayer encapsulated in hexagonal boron-nitride (hBN) with transparent few-layer graphene gates. (b) Optical micrograph of the device. (c) Differentiated reflectance contrast spectra d(∆R/R0)/dE resolved by circular polarization as a function of ν at fixed D ≈0 (top panel) and a function of D at fixed ν ≈−1 (bottom panel) taken at B = −20 mT. (d) Schematic of the spin-selective attractive interaction between an optically-generated exciton in the K+ valley and a K−valley hole. (e) Circular-polarization-resolved reflectance spectrum at ν = −1 and D = 0. The AP resonance is fully polarized, indicative of full hole spin-valley polarization in the system. (f) Magnetic hysteresis loops with (black) and without...",
+        "Figure 2. Collapse and expansion of an optically-generated true vacuum bubble. (a) Schematic of the pump-probe sequence. The system is initialized into a spin-up true vacuum state via a Gaussian pump pulse (10 ms, 1.5 µW). After a weak Gaussian probe (300 µs, < 2 nW) establishes the baseline reflectivity, an oppositely polarized Laguerre-Gauss (LG) pulse with variable power and duration, drives the surrounding region into false vacuum. A final weak Gaussian (detection area indicated by the white dotted circle) monitors the subsequent evolution. (b) CCD image of the reflected LG beam, alongside x- and y-axis cross-sectional profiles of the LG pump, Gaussian pump, and effective probe spots. (c) Schematic of an optically injected true vacuum bubble collapsing or expanding, depending on whether its initial size is below or above the critical radius. (d) Time-resolved spin polarization...",
+        "Figure 3. Filling and magnetic-field dependence of false vacuum decay above the coercive field. (a-c) Seeded dynamics following GT V →LGF V preparation: a ∼1 µW, 1 ms Gaussian pulse initializes the true vacuum, followed by a 15 µW, 10 µs LG pulse preparing the surrounding false vacuum. Top panels show representative polarization traces. The center bottom panels show the characteristic times t1−1/e and t1/e where 1 −1/e and 1/e, respectively, of the polarization change has occurred. Bottom panels show the polarization immediately after preparation and at the end of the dynamics, respectively. Pronounced lifetime maxima occur near the integer Chern-insulating state at 100 mT (a) and the fractional state near |ν| = 2/3 at 40 mT (b). Far above the coercive field at 250 mT (c), the decay is sub-millisecond and the integer-filling lifetime enhancement disappears. (d) Comparison of preparation..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that even though metastable false vacuum decay is ubiquitous in physics, its underlying dynamics are still not well understood. Our experiments reveal that the nonequilibrium dynamics of the ferromagnetic domains is substantially more sensitive to the precise filling factor around Chern insulator states than standard transport or optical measurements. Dissipative state preparation in moiré quantum materials provides an exceptional setting for exploring this physics since it allows the possibility of generating exotic quantum states that are not the ground state of the system Hamiltonian.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.08917",
+      "title": "Relaxation-driven flat bands and topology in moiré transition metal dichalcogenide heterobilayers",
+      "authors": [
+        "Mitchell Luskin",
+        "Max Geier",
+        "Liang Fu",
+        "Ziyan Zhu"
+      ],
+      "abstract": "Moiré transition metal dichalcogenide (TMD) heterobilayers are commonly modeled by a continuum theory that yields topologically trivial bands, in contrast to their homobilayer counterparts which host topological bands and fractional Chern insulators (FCI). We show this conclusion is an artifact of neglecting the pseudomagnetic field generated by lattice relaxation, an effect intrinsic to every moiré material. We develop a continuum model that resolves relaxation into three channels: a modified moiré potential with higher Fourier harmonics, a pseudoelectric (scalar deformation) potential, and a pseudomagnetic (vector) potential. Using WSe$_2$/WS$_2$ as a prototype, we find that the pseudomagnetic field alone gaps the third and fourth valence bands with Chern numbers $\\pm 1$ over a broad range of twist angle and lattice mismatch, while the moiré potential correction and pseudoelectric potential narrow the bandwidth and enhance the bandgaps, which survive many-body interactions using neural-network variational Monte Carlo calculations. Relaxation also smoothens the Berry curvature and quantum metric relative to the rigid model, moving the band closer to the ideal Chern limit, beneficial for the quantum anomalous Hall effect, FCI states, and flat-band superconductivity when filled to higher bands. Our work establishes a new framework that connects first-principles calculations, through the continuum model, to many-body observables. Using this framework, we show moiré heterobilayers as a new class of topological materials whose topology is driven entirely by intrinsic lattice relaxation.",
+      "journal": "arXiv",
+      "published": "2026-08-09",
+      "url": "https://arxiv.org/abs/2608.08917",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2608.08917-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.08917-fig01.png",
+        "/data/figures/arxiv-2608.08917-fig02.png",
+        "/data/figures/arxiv-2608.08917-fig03.png"
+      ],
+      "figure_captions": [
+        "FIG. 1: Overview of the relaxed continuum model. (a) Moiré patterns formed by pure twisting (θ = 7◦, top) and by pure lattice mismatch (δ = 0.1, bottom). (b) Relaxation pattern for twist only (θ = 2◦, δ = 0, top) and for lattice mismatch only (θ = 0◦, δ = 0.02, bottom). Color indicates the generalized stacking fault energy (GSFE); arrows show the relative relaxation displacement u1 −u2; red parallelograms mark the moiré unit cell. (c) Relaxation-induced pseudomagnetic field Beff (top) and pseudoelectric field Eeff (bottom), both evaluated at θ = 1.2◦, δ = 0.02. Relaxation thereby promotes the rigid Hamiltonian ˆ Hrigid = −ℏ2k2/2m⋆+ Vm(r) to ˆ Hrelax = −ℏ2k2/2m⋆+ Vm,relax(r) + ˆ Hϵ. (d) Relaxed (solid) and rigid (dashed) band structures with the same parameters as (c). (e) Many-body charge gap ∆c = E(N+1) + E(N−1) −2E(N) (symbols connected by solid lines) at filling ν = 2, i.e., N = 18...",
+        "FIG. 2: Decomposition of relaxation effects on the moiré band structure of 3R-stacked WSe2/WS2 at θ = 1.0◦, δ = 0.02. Each panel shows the top valence bands (solid, colored) with the rigid band structure overlaid (gray dashed). From left to right: (a) pseudoelectric field only, Φ ∝ϵ0; (b) pseudomagnetic field only, A ∝(ϵ1, ϵ2); (c) relaxed moiré potential Vm, relax without strain; (d) all three channels combined. The third and fourth valence bands are drawn with increased linewidth, and their Chern numbers C3, C4 are labeled. Defining a real-space moiré-scale envelope function Ψ(r) = 1 √ |Γ∗ m| R q d2q eiq·r cq, where Γ∗ m is the moiré Bril- louin zone area, we can rewrite ˆ Hϵ in the envelope func- tion basis in the pseudo-gauge form: ˆ Hϵ = Z d2r Ψ†(r) h Φ(r) + {ˆ kα, Aα(r)} i Ψ(r), (5) where Φ(r) = Cϵ0(r) is the scalar deformation potential that modifies the moiré potential, A(r) =...",
+        "FIG. 3: Relaxation-induced band structure changes and topology across the (θ, δ) plane for 3R-stacked WSe2/WS2. Top row: changes of the electronic structures from the rigid to the relaxed model. (a) ∆W1 = W relax 1 −W rigid 1 and (b) ∆W2 show bandwidth narrowing of the top valence bands. (c) δ∆12 = ∆relax 12 −∆rigid 12 shows enhancement of the gap between the first and second valence bands. Bottom row: topology of the relaxed model. (d) Chern number C3 of the third valence band, C3 = +1 over the shaded nontrivial region. (e) Chern number C4 of the fourth valence band, predominantly C4 = −1. Gray regions: Chern number ill-defined (∆34 < 0.3 meV). (f) Gap ∆34 between the third and fourth valence bands on a logarithmic scale. |u⟩⟨u|)|∂kβu⟩, whose imaginary part gives the Berry cur- vature Ω= −2 Im Gxy and whose real part gives the quantum metric gαβ = Re Gαβ. In addition to a small..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that moiré transition metal dichalcogenide (TMD) heterobilayers are commonly modeled by a continuum theory that yields topologically trivial bands, in contrast to their homobilayer counterparts which host topological bands and fractional Chern insulators (FCI). We show this conclusion is an artifact of neglecting the pseudomagnetic field generated by lattice relaxation, an effect intrinsic to every moiré material.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.08697",
+      "title": "Thermodynamic evidence for interaction-driven first-order topological quantum phase transitions",
+      "authors": [
+        "Surajit Dutta",
+        "Nadav Auerbach",
+        "Chiho Yoon",
+        "Tonghang Han",
+        "Matan Uzan",
+        "Zhengguang Lu",
+        "Niladri-Sekhar Kander",
+        "Yaozhang Zhou",
+        "Yuri Myasoedov",
+        "Martin E. Huber",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Long Ju",
+        "Fan Zhang",
+        "Eli Zeldov"
+      ],
+      "abstract": "Topological quantum phase transitions in non interacting systems occur through continuous gap closing and reopening. In strongly interacting systems, however, competing ordered states have long been predicted to drive first order transitions, although this possibility has remained experimentally unresolved. Recent transport studies of correlated phases in charge neutral rhombohedral graphene were interpreted as evidence for continuous topological transitions. Here, using nanoSQUID on tip magnetometry, we directly image the local orbital magnetization of a spin orbit proximitized rhombohedral graphene quantum anomalous Hall (QAH) state. We provide the first real space visualization of a QAH phase with a record Chern number, reconstruct its local thermodynamic gap, and track the evolution of its magnetization across competing correlated states. Combined with self consistent Hartree Fock calculations, these measurements show that the sequential transitions between the layer antiferromagnetic, QAH, and layer polarized insulating states are first order, accompanied by discontinuous changes in orbital magnetization. Near the phase boundaries, we observe fluctuating magnetic domains, providing direct microscopic evidence of phase coexistence between nearly degenerate competing ordered states. Together, these observations provide the first direct thermodynamic evidence for first order topological quantum phase transitions and establish a microscopic framework for understanding interaction driven topological quantum phase transitions through phase competition and coexistence.",
+      "journal": "arXiv",
+      "published": "2026-08-09",
+      "url": "https://arxiv.org/abs/2608.08697",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2608.08697-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.08697-fig01.png",
+        "/data/figures/arxiv-2608.08697-fig02.png",
+        "/data/figures/arxiv-2608.08697-fig03.png"
+      ],
+      "figure_captions": [
+        "Fig. 1d. To avoid moiré superlattice eﬀects, the R5G was 3 intentionally misaligned with both the bottom hBN and the top WS₂ layers. The dc voltages applied to the top and bottom gates, 𝑉𝑉 𝑡𝑡𝑡𝑡 𝑑𝑑𝑑𝑑 and 𝑉𝑉 𝑏𝑏𝑏𝑏 𝑑𝑑𝑑𝑑, allow for independent control of the carrier density, 𝑛𝑛= (𝐶𝐶𝑡𝑡𝑡𝑡𝑉𝑉 𝑡𝑡𝑡𝑡 𝑑𝑑𝑑𝑑+ 𝐶𝐶𝑏𝑏𝑏𝑏𝑉𝑉 𝑏𝑏𝑏𝑏 𝑑𝑑𝑑𝑑)/𝑒𝑒, and the transverse displacement ﬁeld, 𝐷𝐷= 1 2𝜀𝜀0 (𝐶𝐶𝑡𝑡𝑡𝑡𝑉𝑉 𝑡𝑡𝑡𝑡 𝑑𝑑𝑑𝑑−𝐶𝐶𝑏𝑏𝑏𝑏𝑉𝑉 𝑏𝑏𝑏𝑏 𝑑𝑑𝑑𝑑), where 𝜀𝜀0 is the vacuum permittivity and 𝐶𝐶𝑡𝑡𝑡𝑡 and 𝐶𝐶𝑏𝑏𝑏𝑏 are the top and bottom capacitances per unit area. Figure 1a shows the longitudinal resistance 𝑅𝑅𝑥𝑥𝑥𝑥(𝑛𝑛, 𝐷𝐷) over a wide range of 𝑛𝑛 and 𝐷𝐷 at zero applied magnetic ﬁeld, 𝐵𝐵𝑎𝑎= 0 T and base temperature 𝑇𝑇= 20 mK. High resolution maps of 𝑅𝑅𝑥𝑥𝑥𝑥(𝑛𝑛, 𝐷𝐷) and 𝑅𝑅𝑦𝑦𝑦𝑦(𝑛𝑛, 𝐷𝐷) near charge neutrality, corresponding to the dashed rectangle in Fig. 1a, are shown in Figs. 1b,c at 𝐵𝐵𝑎𝑎= 12 mT (see Extended Data Figs. 1a-c for additional...",
+        "Fig. 1. Transport measurements of WS2-proximitized rhombohedral pentalayer graphene. a, Longitudinal resistance 𝑅𝑅𝑥𝑥𝑥𝑥(𝑛𝑛, 𝐷𝐷) measured in zero magnetic ﬁeld 𝐵𝐵𝑎𝑎 at 𝑇𝑇= 20 mK. b,c, High-resolution maps of 𝑅𝑅𝑥𝑥𝑥𝑥 (b) and Hall resistance 𝑅𝑅𝑦𝑦𝑦𝑦 (c) in the dashed cyan box in (a). d, Schematics of the R5G proximitized to WS2 device and of the electrical circuit. e, 𝑅𝑅𝑥𝑥𝑥𝑥(𝑛𝑛, 𝐵𝐵𝑎𝑎) at 𝐷𝐷= −0.164 V/nm at 𝑇𝑇= 100 mK. The yellow dotted lines represent the Streda formula ﬁts with 𝐶𝐶= ±5. f, 𝑅𝑅𝑦𝑦𝑦𝑦 as a function of sweeping 𝐵𝐵𝑎𝑎 up (red arrow) and down (black arrow) in the QAH state at 𝐷𝐷= −0.164 V/nm at diﬀerent indicated temperatures. At charge neutrality (𝑛𝑛= 0), the R5G device exhibits a sequence of distinct phases as a function of the displacement ﬁeld. For |𝐷𝐷| ≲ 0.12 V/nm, the system displays an insulating state with 𝑅𝑅𝑥𝑥𝑥𝑥~ 1 MΩ, attributed to a LAF phase [5,19–24,26,27]. This...",
+        "Fig. 2e. The centers of the maps closely follow the Streda formula lines corresponding to 𝐶𝐶= ±5, as determined from transport (dotted lines in Fig. 1e). Notably, for negative 𝐵𝐵𝑎𝑎, the system favors a diﬀerent QAH state with the opposite 𝐶𝐶, resulting in reversed diﬀerential magnetization and colors in the tri-striped patterns. 5"
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that topological quantum phase transitions in non interacting systems occur through continuous gap closing and reopening. Combined with self consistent Hartree Fock calculations, these measurements show that the sequential transitions between the layer antiferromagnetic, QAH, and layer polarized insulating states are first order, accompanied by discontinuous changes in orbital magnetization. We provide the first real space visualization of a QAH phase with a record Chern number, reconstruct its local thermodynamic gap, and track the evolution of its magnetization across competing correlated states.",
+      "abstract_status": "original"
+    },
     {
       "id": "doi:10.1038/s41467-026-76486-4",
       "title": "Atomically resolved wavefunction of integer and fractional quantum anomalous Hall states in twisted bilayer graphene",
@@ -34,6 +229,137 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2608.07684",
+      "title": "Optimally embedded tight binding for reproducing geometry dependent observables",
+      "authors": [
+        "Jonas J Telle",
+        "Gunnar F Lange"
+      ],
+      "abstract": "In tight-binding models, the position operator is reduced to intra-cell orbital positions (embeddings). While accurately reproducing band structures, such models often fail for geometry dependent responses depending on the position operator. To address this, we investigate the role of these embeddings and introduce the general framework of optimally embedded tight binding. Treating the embeddings as geometric tuning parameters to be fixed against a reference response (obtained from ab-initio computation or experiment), we obtain tight-binding models of GaAs and CdS which quantitatively reproduce non-linear optical responses at no cost to band structure accuracy. The optimal embeddings are determined efficiently using position derivatives obtained from decomposing tight-binding observables into a geometry independent and dependent part, and explicit derivatives are provided for key quantities such as the quantum geometric tensor. The decomposition reveals where geometric effects dominate, and we show in both toy models and in the Chern insulator V2O3 how geometry can dramatically alter the local metric trace. Our results highlight that orbital embeddings should be treated as a genuine model parameter which should be explicitly fixed against physical data to get accurate minimal models.",
+      "journal": "arXiv",
+      "published": "2026-08-07",
+      "url": "https://arxiv.org/abs/2608.07684",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic of main results. (a) A tight-binding model can be viewed as a weighted graph, where hoppings and on-site terms are represented by edges and loops. (b) Specifying the orbital positions τα amounts to embedding this graph in real space. (c)–(e) Changing the orbital positions leaves geometry independent quantities such as band struc- tures E(k) unchanged, but can dramatically alter geometry dependent quantities such as optical responses σ(ω). Thus, the orbital positions can be seen as a tuning parameter which can be utilised to fit geometric quantities. II. BACKGROUND A. Tight binding A tight-binding model can be viewed as a weighted graph, as illustrated in Fig. 1(a), where the nodes are electron sites |αR⟩and the edges encode the Hamilto- nian matrix elements Hαβ(R) = ⟨α0| ˆ H|βR⟩. By Fourier transformation, we reduce the infinite set of periodic im- ages of the site...",
+        "FIG. 2. GaAs tight biding optical responses for different embeddings. Legend abbreviations denote: Wannier Charge Centers (WCC), Interspace Berry Connection (IBC), Abelian QGT (ABQ), Shift Current Tensor (SCT) and Wannier interpolation (REF). (a)–(c) The only independent shift current component (xyz). (d) A symmetry-disallowed shift current component (yyx). (e) Orbital embeddings in the irreducible unit cell. (f) The only independent optical conductivity component (xx). DOFs in the orbital embeddings remain even after fitting the independent non-zero shift current component. The ABQ-response is an order of magnitude larger than SCT on the symmetry-disallowed component. The symmetry breaking is seen clearly in panel (e), where we plot the embeddings in the irreducible unit cell. This highlights that symmetry preservation is not guaran- teed in numerical optimisation. Still, the other...",
+        "Fig. 4. In panels (a)–(b) we show the independent com- ponents ςxx and ςzz of the optical conductivity. Note that MLWF WCCs display a reasonable quantitative er- ror, counter to expectations expressed in prior literature that first order responses are accurately captured in the TBA [11]. The optimal embedding does better, though we find again the low-frequency error is only weakly ge- ometry dependent, and therefore cannot be corrected. The independent component of the injection current, ηxzx, is shown in panel (c). Here, the IBC fit captures the peak behaviour better than the MLWF WCCs, but does slightly worse at low frequencies. The tailored ICT fit is excellent. CdS (wurtzite) has three independent shift current components σijk (xxz, zxx and zzz). We find that the 11 ςxx [MS/m] Photon energy ℏω [eV] 0 2 4 6 8 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 REF σ = 1/4 KPC OCT σ = 3/4 σ = 2/4",
+        "FIG. 3. Optical conductivity ςxx for GaAs for different embeddings. Beyond the tailored fit on the Optical Conduc- tivity Tensor (OCT) and Wannier interpolation (REF), we show plots for increasing noise, corresponding to the aver- age of 15 responses computed from orbital embeddings drawn from a normal distribution with standard deviation σ, and the geometry independent contribution (KPC) obtained by placing all orbitals at the origin (i.e. σ = 0). MLWF WCCs do well at low frequencies for all responses, and give a qualitatively correct fit for the zxx- and zzz- components. However, we find a notable qualitative error from around 6 eV for the xxz-component, shown in panel (d). This goes beyond the quantitative errors reported in previous literature [12], and serves to strengthen the point that significant care should be taken in consider- ing embeddings when predicting shift currents...",
+        "FIG. 4. CdS tight-binding optical responses for different embeddings. Legend abbreviations denote: Wannier Charge Centers (WCC), Interspace Berry Connection (IBC), Optical Conducitvity Tensor (OCT), Injection Current Tensor (ICT), Shift Current xxz-Component (SCC) and Wannier interpolation (REF). (a)–(b) The independent optical conductivity components (resp. xx and zz). (c) The independent injection current component (xzx). The scaling is arbitrary, with the relaxation time set to 1 fs. (d) One of three independent shift current components (xxz). (e)–(f) The wurtzite structure, with Cd in grey and S in yellow. In (e), a top view of a single layer above the xy-plane. The lattice extends vertically for each irreducible unit cell as illustrated in (f) for the cell above the red dotted line. (g) The tight-binding model (TBM) band structure, agreeing perfectly with DFT below the energy..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that in tight-binding models, the position operator is reduced to intra-cell orbital positions (embeddings). The decomposition reveals where geometric effects dominate, and we show in both toy models and in the Chern insulator V2O3 how geometry can dramatically alter the local metric trace.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.07374",
+      "title": "Type-II Mirror Chern Insulator in Altermagnets",
+      "authors": [
+        "Amrita Mukherjee",
+        "Pritesh Srivastava",
+        "Rahul Verma",
+        "Bahadur Singh"
+      ],
+      "abstract": "Altermagnets with momentum-dependent spin splitting despite zero net magnetization can support unique topological states under broken time-reversal symmetry. We predict a mirror-symmetry-protected topological crystalline insulator with momentum-separated edge modes in a two-dimensional altermagnet. Using a square-octagon lattice model, we show that altermagnetic order generates symmetry-related valley-polarized Dirac nodes, which are gapped by spin-orbit coupling to yield a mirror Chern insulator with $C_{\\mathcal{M}}=2$. In contrast to conventional mirror Chern insulators, where the two mirror-protected edge modes cross at the same momentum to form a Dirac cone, altermagnetic spin splitting and valley-selective band inversion separate these edge modes in momentum. We refer to this phase as a type-II mirror Chern insulator. We further propose a PbSe/$\\mathrm{V_2Se_2O}$ heterobilayer as a candidate material for realizing this phase through the altermagnetic proximity effect. Our results establish altermagnetism as a route to mirror-protected topological phases with momentum-separated edge modes.",
+      "journal": "arXiv",
+      "published": "2026-08-07",
+      "url": "https://arxiv.org/abs/2608.07374",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2608.07374-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.07374-fig01.png",
+        "/data/figures/arxiv-2608.07374-fig02.png",
+        "/data/figures/arxiv-2608.07374-fig03.png",
+        "/data/figures/arxiv-2608.07374-fig04.png",
+        "/data/figures/arxiv-2608.07374-fig05.png",
+        "/data/figures/arxiv-2608.07374-fig06.png",
+        "/data/figures/arxiv-2608.07374-fig07.png",
+        "/data/figures/arxiv-2608.07374-fig08.png",
+        "/data/figures/arxiv-2608.07374-fig09.png",
+        "/data/figures/arxiv-2608.07374-fig10.png",
+        "/data/figures/arxiv-2608.07374-fig11.png",
+        "/data/figures/arxiv-2608.07374-fig12.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Square-octagon lattice with altermagnetic order. Red (blue) sites denote positive (negative) exchange fields. The blue and red bonds denote the intercell hopping (t2) between the blue and red sites, respectively, while the color gradient within each square plaquette represents the intracell hopping (t1). The black square outlines the unit cell, and the dashed lines indicate the mirror planes M110 and M1¯ 10. (b) Spin-resolved Fermi contours for t2 = 0.8 and δm = 0.2. The high-symmetry points Γ and M are marked by gray circles, while the symmetry-related X and Y valleys are highlighted by blue and red circles, respectively. (c) Corresponding spin- resolved band structure along the high-symmetry path. (d) Evolution of the bulk Dirac nodes without SOC. The symbols ±1 denote the winding number w = γ/π, and the dashed ar- rows indicate the evolution of the Dirac nodes with...",
+        "FIG. 2. (a) Spin-resolved band structure with SOC for t2 = 0.8, λSOC = 0.24, and δm = 0.4. (b) Evolution of the Wannier charge centers in the M001 = ±i mirror sectors. (c) Berry-curvature distribution in the first Brillouin zone pro- jected onto the Mz = ±i mirror sectors. (d),(e) Edge spectra of ribbons along the (010) and (100) directions, respectively. Red and blue denote edge modes with mirror eigenvalues +i and −i, while solid and dashed curves indicate states localized on opposite edges. (f) Edge spectrum for δm = 0, correspond- ing to the conventional mirror Chern insulator with a pair of T-related Dirac cones. their evolution with increasing altermagnetic exchange field δm. As δm increases, the Dirac nodes move toward the X(Y ) valleys. At the critical value δm = 0.8, pairs of Dirac nodes merge at the valleys to form quadratic band-touching points (see SM [31]). Further...",
+        "FIG. 3. (a) Bulk band structure with SOC as a function of the altermagnetic exchange field δm. (b) Topological phase diagram in the t2–δm parameter space for λSOC = 0.24. The color scale denotes the mirror Chern number CM. (c) Schematic illustration of the type-II mirror Chern insulator. Counterpropagating edge modes with opposite mirror eigen- values are separated into symmetry-related valleys of the Bril- louin zone. 4 shifts below the Fermi level and forms an electron-like edge pocket. Along the −¯ X–¯ Γ direction, the edge-mode connectivity is reversed, shifting the crossing above the Fermi level to form a hole-like edge pocket. The two crossings are therefore separated in both energy and mo- mentum, rather than forming Dirac cones pinned at the Fermi level. For the (100) ribbon [Fig. 2(e)], the branch connectivity and spin polarization are interchanged by the underlying C4z...",
+        "FIG. 4. (a) Crystal structure of the PbSe/V2Se2O heterobi- layer. The two magnetic sublattices of V2Se2O are related by the spin-lattice symmetry [C2 ∥C4z]. The right panels show the real-space spin density centered on a Se atom in PbSe (top) and a V atom in V2Se2O (bottom). (b) Spin-resolved band structure of the PbSe/V2Se2O heterobilayer for an in- terlayer separation of d = 3.5 ˚ A with SOC. Red and blue denote spin-up and spin-down Sz polarization, respectively. (c) Enlarged view of the PbSe-derived bands near the X and Y valleys. (d) Orbital-resolved band structure of the PbSe- derived states near the X valley. Orange and green denote the Pb-pz and Se-px orbital contributions, respectively. route is to combine a 2D mirror Chern insulator with an altermagnet through the proximity effect [33]. As a rep- resentative example, we investigate a PbSe/V2Se2O het- erobilayer using..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that altermagnets with momentum-dependent spin splitting despite zero net magnetization can support unique topological states under broken time-reversal symmetry. Using a square-octagon lattice model, we show that altermagnetic order generates symmetry-related valley-polarized Dirac nodes, which are gapped by spin-orbit coupling to yield a mirror Chern insulator with $C_{\\mathcal{M}}=2$.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.07041",
+      "title": "Out-of-equilibrium spin-valley dynamics of ferromagnets in topological Chern bands",
+      "authors": [
+        "J. James",
+        "I. Krastilevskiy",
+        "F. Pichler",
+        "L. Wang",
+        "A. Iafarova",
+        "F. Menzel",
+        "K. Watanabe",
+        "T. Taniguchi",
+        "C. Kuhlenkamp",
+        "M. Knap",
+        "T. Smoleński"
+      ],
+      "abstract": "Understanding quantum matter far from equilibrium is a central goal of modern physics. Twisted MoTe2 bilayers constitute a promising platform for exploring this frontier by combining strong Coulomb interactions, nontrivial band geometry, and optical control. Here, we exploit this setting to investigate the role of topology and many-body correlations in the out-of-equilibrium dynamics of ferromagnets in Chern bands. Using a focused circularly polarized light pulse, we create a local magnetic domain oriented opposite to an external magnetic field and directly image its subsequent spin-valley relaxation in spatially and time-resolved low-temperature experiments. We demonstrate that in the vicinity of both integer and fractional Chern insulating states, the dynamics is governed by qualitatively different mechanisms than in ferromagnetic metals. Whereas metallic domains collapse by shrinking, Chern domains melt via thermal activation, resulting in drastically different temporal spin evolution and orders-of-magnitude longer relaxation times. These findings demonstrate the influence of topology and strong correlations on far-from-equilibrium collective spin phases, opening new opportunities for dynamical control of ferromagnets in the quantum Hall regime.",
+      "journal": "arXiv",
+      "published": "2026-08-07",
+      "url": "https://arxiv.org/abs/2608.07041",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "Figure 1. Optical control of collective magnetic states in t-MoTe2. (a) Optical micrograph and (b) schematic of the dual-gated t-MoTe2 device A used in the main text. (c) Filling-factor evolution of the reflectance-contrast spectra, ∆R/R0, differentiated with respect to photon energy E. The spectra were acquired in the two circular polarizations at a magnetic field of B = 0.2 T. (d) Intensity of the AP transition in σ−polarization, extracted by integrating d(∆R/R0)/dE over a few-meV-wide spectral window around the AP resonance. Local maxima arise from the formation of ICI and FCI phases. (e) Filling-factor- dependent coercive field Bc, extracted from low-power measurements of the magnetic hysteresis loop (see Methods Sec. 6 for details). Inset shows an example hysteresis loop measured at ν = −1.04. (f) Evolution of the hole spin polarization for the ICI (top) and metallic (bottom)...",
+        "Figure 2. Out-of-equilibrium spin-valley dynamics of ferromagnets in t-MoTe2. (a,b) Schematics of the pulse sequence (a) and temporal light-intensity profiles (b) used in time-resolved pump-probe spin relaxation experiments. A local magnetic domain is optically created using a σ−-polarized pump beam, which populates the false-vacuum state oriented against the equilibrium magnetization. Its subsequent relaxation towards the true-vacuum ground state is monitored using a weaker σ+- polarized probe pulse. The temporal evolution of the spin polarization during either pump or probe pulses is retrieved from the reflected light intensity measured with a fast single-photon detector (see Methods Sec. 8 for details). (c) Dynamics of optical spin orientation around ν = −1 measured during the pump pulse for different pump powers, as indicated. Solid lines show exponential fits of the form ⟨Sz⟩(t) =...",
+        "Figure 3. Spin-valley relaxation mechanisms of Chern insulators and ferromagnetic metals. (a,b) Temporal spin relaxation profiles of ICI (ν ≈−1; a) and metal (ν ≈−0.8; b) acquired at a fixed B/Bc = 1.3 for magnetic domains generated with pump beams of different diameters D0, as indicated. In each case, the pump power was adjusted such that the average light intensity falling onto a central diffraction-limited probed area (marked with a dashed circle in panel c) is similar, ensuring complete domain preparation during the pump pulse. (c) Color-scale plots showing spatial intensity profiles of pump beams used for time-resolved measurements in panels a,b. (d,e) Theoretical relaxation profiles of magnetic domains in ICI (d) and metal (e) calculated at B close to the coercive threshold Bc for different initial domain diameters D0 (Γ sets the time scale in our simulations; see Methods Sec. 14...",
+        "Figure 4. Stability of magnetic domains in Chern insulators and metals at B = 0. (a) Theoretical simulation of steady-state spatial magnetization profiles in the ICI (top) and ferromagnetic metal (bottom), initialized with a large number Nbub of small seeds randomly distributed within a ring-shaped area (dashed lines). Similarly as in Fig. 3f,g, the maps were smoothed by a convolution with a Gaussian of width ≈10 nm (see Methods Sec. 17). (b) Experimentally measured steady-state spin-polarization profiles of magnetic domains created by illuminating a spin-up-polarized ICI (ν ≈−1; top) and ferromagnetic metal (ν ≈−0.8; bottom) with a σ−-polarized expanded doughnut-shaped pump beam at different powers. The domains were visualized by mapping the sample area with a diffraction-limited probe beam (see Methods Sec. 12 for details). (c) Schematic of the doughnut-shaped beam obtained using a...",
+        "Fig. 3c. In each case, the pump power is chosen to ensure com- plete domain preparation within the pump-pulse dura- tion. While the traces for the ICI remain nearly inde- pendent of domain size, the relaxation of metallic do- mains varies appreciably: for expanded beams, ⟨Sz⟩(t) initially remains constant rather than decaying imme- diately. This gives rise to a prominent plateau, whose duration increases with pump-beam size and its power (see Extended Data Fig. 9 and Methods Sec. 9 for de- tails as well as Methods Sec. 11 for reproducibility on a different device region), and is therefore proportional to D0. These observations indicate that, unlike in Chern insulators, metallic domains do not decay through the nucleation of smaller internal domains. Instead, they col- lapse by shrinking from their perimeter, leaving the local magnetization in the central region unchanged until the...",
+        "Fig. 1. The sample was excited using two different light sources. For white-light experiments, we em- ployed a single-mode-fiber-coupled superluminescent light-emitting diode (SLED) generating continuous-wave (CW) light centered at ∼1090 nm with a bandwidth of ∼100 nm. The bandwidth was further reduced using a set of suitably rotated razor-edge short- and long-pass filters. Measurements involving resonant AP excitation were performed with a single-frequency CW laser, whose wavelength was tunable between 1080 and 1125 nm. The power of this laser was stabilized using a home-built PID feedback loop consisting of an InGaAs photodiode for monitoring the power and a variable optical attenuator (VOA) for adjusting it. The light, after passing through a wedged VTI window, was focused onto the sample sur- face to a diffraction-limited spot using an achromatic mi- croscope objective with a...",
+        "Fig. 4. The light reflected off the sample, after exiting the VTI, was directed to the detection path with a beam splitter, cou- pled into a single-mode fiber, and sent to one of the two detectors: a 0.5-m spectrometer equipped with a liquid- nitrogen-cooled InGaAs camera for spectrally resolved measurements, or a fiber-coupled SNSPD operated at ∼2 K in a separate cryostat for sensitive time-resolved experiments. The polarization of both the excitation and detected beams was controlled with a combination of linear polar- izers as well as achromatic quarter- and half-waveplates (see Extended Data Fig. 1). In order to expand the exci- tation spot in the spatially resolved experiments from Fig. 3, the pump-beam diameter was controllably re- duced using a retractable manual iris. Furthermore, to obtain a doughnut-shaped excitation spot used in do- main writing experiments (Fig. 4c), such an...",
+        "Fig. 1. 2. Device fabrication The devices were assembled using the flakes that were mechanically exfoliated from the bulk crystals (HQ Graphene 2H-MoTe2, NIMS hBN, and natural graphite) onto SiO2/Si substrates. Exfoliation of hBN and graphite was carried out under ambient conditions, whereas MoTe2 monolayers were obtained inside an N2- filled glovebox to preserve their high quality. All flakes were selected based on their thickness and uniformity, as assessed by optical microscopy. To ensure precise control of the twist angle, t-MoTe2 bilayers were prepared from a single MoTe2 monolayer, which was cut into two nearly equal pieces using a standard atomic-force-microscope (AFM) tip [53, 54]. All flakes were then stacked inside the same glove- box using a standard dry-transfer method [55]. At each step, a target flake was first aligned with submicrometer precision and subsequently picked...",
+        "Fig. 5. These changes are most appreciable in the vicinity of ν = −1, yet even there τorient varies by less than a factor of 2 when |B| is increased to ∼2Bc. In addition to modifying its rate, the external magnetic field also affects the efficiency of optical spin orientation, as shown in",
+        "Fig. 1f. Specifically, although strong σ− (σ+)-polarized light can orient the hole spins against a positive (negative) magnetic field B, the resulting steady- state light-induced spin polarization ⟨Sz⟩∓(B) typically deviates from −1 (+1) once |B| substantially exceeds the coercive field. These changes can be monitored by mea- suring the intensity I∓(B) of σ−(σ+) CW light reflected from the AP resonance. This intensity remains at the background level Iback for B ≲Bc (B ≳−Bc), but in- creases once the field sizably exceeds the coercive thresh- old, indicating a growth of |⟨Sz⟩∓(B) ± 1| ∝∆I∓(B) = I∓(B)−Iback. In order to normalize this intensity change, we perform time-resolved optical spin reorientation mea- surements in which we track the time-dependent count levels following a switch of the excitation helicity. For example, if the light polarization is changed from σ+ to σ−, the...",
+        "Fig. 3. An exactly the same procedure can be applied to obtain ⟨Sz⟩(t) during the pump pulse if the light is collected in σ−polarization instead of σ+, as in Figs. 2c,d. In all cases, the characteristic timescale τ of either re- laxation or light-induced spin orientation was extracted by fitting the f±(t) data with a phenomenological expo- nential function, ∝exp(−t/τ). In certain regimes, these fits are subject to small systematic uncertainties due to deviations of the spin-relaxation traces from purely ex- ponential behavior (e.g., in metallic states at low B/Bc). Nevertheless, this procedure provides a robust measure of the characteristic timescales of the underlying relaxation processes. 9. Dependence of the shape of spin relaxation profiles on the area and power of the pump beam A key signature of spin relaxation via domain shrink- ing is the initial plateau in the temporal..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that understanding quantum matter far from equilibrium is a central goal of modern physics. We demonstrate that in the vicinity of both integer and fractional Chern insulating states, the dynamics is governed by qualitatively different mechanisms than in ferromagnetic metals. Twisted MoTe2 bilayers constitute a promising platform for exploring this frontier by combining strong Coulomb interactions, nontrivial band geometry, and optical control.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2608.06233",
@@ -73,6 +399,56 @@
         "FIG. 7. (a) Spatial density distribution of a CI ground state. We consider a 20 × 20 lattice with uniform flux α = 1/4 and N = 96 non-interacting fermions occupying the lowest band with Chern number C = 1. (b) Bulk density, defined within a central disk of radius 3a, as a function of flux α. The slope yields the Stˇ reda marker CStr = 1.0. (c) Spatial distribution of the density difference between the CI ground states with pinning strengths Vh/J = 2.0 and Vh/J = 0.0. (d) Integrated charge within a central disk of radius r = 4a as a function of the pinning strength Vh/J. Inset: integrated charge as a function of disk radius r for Vh/J = 2.0. Fractional charge in an fractional Chern insulator To realize the ν = 1/2 fractional Chern insulating state [41, 43], we consider hard-core bosons described by Eq. (2) with ˆ HB int = Uh 2 P x,y ˆ nx,y(ˆ nx,y −1), where the on- site interaction..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that mobile impurities provide a powerful means of probing correlated and topological quantum matter, through their dressing by the surrounding medium and the practical probes granting access to the resulting composite object. Combining analytical arguments with large-scale numerical simulations, we characterize the structure, energetics, and stability of hybrid anyon-impurity bound states, and show that their binding energy provides direct access to the fractional charge of the quasihole under conditions that we identify.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.06569",
+      "title": "Observation of metastable chiral domain walls in a topological magnet",
+      "authors": [
+        "Richen Xiong",
+        "Chenxin Qin",
+        "Zhaoyu Han",
+        "Nisarg Chadha",
+        "Qiang Gao",
+        "William Holtzmann",
+        "Weijie Li",
+        "Jiaqi Cai",
+        "Yi Guo",
+        "Weihanzhang Guo",
+        "Qi Chen",
+        "Samuel L. Brantly",
+        "Sam Bonkowsky",
+        "Chen Huang",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Andrea F. Young",
+        "Xiaodong Xu",
+        "Eslam Khalaf",
+        "Chenhao Jin"
+      ],
+      "abstract": "The interplay between topology and correlation can give rise to exotic collective excitations. The integer and fractional quantum anomalous Hall (QAH) magnets recently discovered in two-dimensional (2D) flatband systems are predicted to host spin excitations distinct from those in conventional magnets. Experimentally, nevertheless, these new excitations remain largely unexplored. Here we investigate spin-valley excitations in a twisted MoTe2 moiré superlattice using resonant ultrafast pump-probe spectroscopy. We observe a metastable spin-valley excitation in the QAH magnet below T ~ 3.7 K that survives reverse magnetic field several times larger than the saturation field. The behavior of this excitation is sharply distinct from ordinary domain walls and magnons, indicating a new type of spin-valley textures unique to topological magnets. We propose that these textures are chiral domain walls with an in-plane winding of the pseudospin order parameter along the domain wall. Their metastability arises from the interplay between the topological winding in real space and the quantum geometry of the parent bands in momentum space through a universal mechanism. These chiral domain walls govern the nonequilibrium dynamics of QAH magnets and may play a central role in their stability. Our study highlights intrinsic quantum geometry effects on spin excitations in topological magnets; and provides key insights into the fundamental mechanism limiting stability of topological protection.",
+      "journal": "arXiv",
+      "published": "2026-08-06",
+      "url": "https://arxiv.org/abs/2608.06569",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Moire Superlattice, this paper argues that the interplay between topology and correlation can give rise to exotic collective excitations. We propose that these textures are chiral domain walls with an in-plane winding of the pseudospin order parameter along the domain wall. Our study highlights intrinsic quantum geometry effects on spin excitations in topological magnets; and provides key insights into the fundamental mechanism limiting stability of topological protection.",
       "abstract_status": "original"
     },
     {
