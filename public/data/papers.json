@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-08-11T05:33:30.429054+00:00",
+  "updated_at": "2026-08-12T06:05:54.200701+00:00",
   "papers": [
+    {
+      "id": "doi:10.1103/5378-2fcs",
+      "title": "Magnetization-free quantum anomalous Hall effect in altermagnetic weak topological insulators",
+      "authors": [
+        "Anonymous"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Magnetization-free quantum anomalous Hall effect in altermagnetic weak topological insulators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-08-11",
+      "url": "https://doi.org/10.1103/5378-2fcs",
+      "doi": "10.1103/5378-2fcs",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
     {
       "id": "arxiv:2608.09911",
       "title": "Tunable Multiband Geometry and Fractional Phases in Higher Vortexable Systems",
