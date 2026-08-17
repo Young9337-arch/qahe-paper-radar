@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T03:59:24.892364+00:00",
+  "updated_at": "2026-08-17T04:06:44.454274+00:00",
   "papers": [
     {
       "id": "doi:10.1038/s41563-026-02711-6",
@@ -69,6 +69,44 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2608.14535",
+      "title": "Skyrmion Fractional Chern Insulator: An Intrinsically Multiband Route to Fractionalization in Rhombohedral Graphene",
+      "authors": [
+        "Julian May-Mann",
+        "Tixuan Tan",
+        "Patrick J. Ledwith",
+        "Zhengyan Darius Shi",
+        "Trithep Devakul"
+      ],
+      "abstract": "We propose an unconventional microscopic origin for the fractional quantum anomalous Hall (FQAH) effect in rhombohedral graphene moiré superlattices: skyrmion fractionalization. We view the state at filling $ν<1$ as a metal of skyrmion vacancies, charge $+e$ objects formed by removing layer-pseudospin skyrmions from the interaction-generated skyrmion lattice Chern insulator at $ν=1$. These vacancies are intrinsically multiband degrees of freedom, absent in single Chern band-projected studies. Building on a recently proposed ideal limit, we first develop an effective field theory showing that skyrmion vacancies can themselves fractionalize, thereby inducing charge fractionalization. Focusing on $ν=\\frac{2}{3}$, we then construct explicit variational trial wavefunctions for the resulting skyrmion fractional Chern insulator and provide numerical evidence, together with general arguments, showing that this process is energetically favored. Our results establish a realistic route to the FQAH that does not rely on a partially filled Chern band, but instead arises from fractionalization of collective pseudospin textures.",
+      "journal": "arXiv",
+      "published": "2026-08-14",
+      "url": "https://arxiv.org/abs/2608.14535",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. A. The realistic R5G dispersion. B. (i.) The state at ν = 1 electrons per moir´ e unit cell of R5G/hBN can be understood as a filled interaction-generated C = 1 band in the folded zone, corresponding to a layer-pseudospin skyrmion lattice in real-space. At ν < 1, two possibilities are (ii.) holes in the Chern band, or (iii.) skyrmion vacancies (SkVs), which involves mixing into higher bands when viewed in the ν = 1 band basis. C. Illustration (using R2G) of the real-space texture of a SkV, which carries +e charge. White crosses mark the skyrmion cores, zeros of χ0. D. The band weight, defined as the fraction of the density in the lowest ν = 1 band, is plotted for ν < 1 as holes or SkVs are doped. For SkVs, the weight is computed numerically for the trial SkV wavefunction (Eq 9) on a L × L torus, averaged over SkV positions. IDEAL LIMIT FRAMEWORK Our analysis utilizes the ideal...",
+        "FIG. 2. A. Two routes to realizing the ν = 2 3 FQAH, start- ing from the C = 1 Chern insulator at ν = 1. In the con- ventional route, holes are doped in to the C = 1 band. In the skyrmion route, charged SkVs are instead doped into the layer-pseudospin texture. B. Energy difference between the SkFCI and conventional FCI trial wavefunctions with realis- tic dispersion and interactions, as a function of displacement field uD and density n or, equivalently, hBN twist angle θ. White cross marks the parameter value explored in Fig 3. of σH = 2 3, through flux threading on the torus. We also confirm [77], by looking at the eigenvalues of Pgg′(k) = ⟨c† k+g′ck+g⟩where g are reciprocal lattice vectors, that ΨSkFCI is truly multiband: it cannot be viewed as a state at partial filling of any single band. We next, in the spirit of Ref [70], consider the energy of ΨSkFCI and ΨFCI under realistic...",
+        "FIG. 3. A. Energy of the FCI and SkFCI trial wavefunc- tions (Eq 19) as functions of the variational parameter ξ. Dashed line is the result of single-band HF-ED for the exact same system. Energies are shown relative to the minimum. B. Parent band momentum distribution n(k) for the unop- timized (solid) and ξ-optimized (dashed) trial wavefunctions. The angle-averaged R5G dispersion E(k) is also shown. C. The angle-averaged pair correlation function g(r) is shown for the trial wavefunctions. Inset shows a zoomed-in view of the short-range correlations. D. Solid lines show the in- terlayer pair correlation functions (defined in Eq 20), for the ξ-optimized trial states and HF-ED. Dashed line shows the uncorrelated expectation. Only the SkFCI contains a well- developed correlation hole. the HF-ED FCI gap is most well-formed for this system size. Incredibly, both ξ-optimized trial..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that we propose an unconventional microscopic origin for the fractional quantum anomalous Hall (FQAH) effect in rhombohedral graphene moiré superlattices: skyrmion fractionalization. Focusing on $ν=\\frac{2}{3}$, we then construct explicit variational trial wavefunctions for the resulting skyrmion fractional Chern insulator and provide numerical evidence, together with general arguments, showing that this process is energetically favored.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2608.13065",
