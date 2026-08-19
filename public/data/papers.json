@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-08-18T03:33:08.819995+00:00",
+  "updated_at": "2026-08-19T03:57:58.481495+00:00",
   "papers": [
+    {
+      "id": "arxiv:2608.17424",
+      "title": "Many-Anyon Braiding in Non-Abelian Fractional Quantum Hall Effect with Hybrid Monte Carlo Simulation",
+      "authors": [
+        "Ting-Tung Wang",
+        "Ha Quang Trung",
+        "Qianhui Xu",
+        "Min Long",
+        "Bo Yang",
+        "Zi Yang Meng"
+      ],
+      "abstract": "We employ the hybrid Monte Carlo method to efficiently compute the many-anyon non-Abelian braiding matrices associated with different braiding schemes of the Moore-Read quasiholes. A novel proposal in this work is that anyon braiding schemes based on a global rotation are robust against finite-size effects, as demonstrated by benchmarking their errors in the braiding matrix against those of a simple two-anyon exchange. Moreover, we investigate how electron-electron interactions and local electrostatic trapping potentials influence the energetic preference of different fusion channels. Their effect on the non-Abelian braiding matrices has been verified, a surprising phenomenon that demonstrates long-range entanglement of non-Abelian states. Our results are relevant to the experimental realization of non-Abelian physics in fractional quantum Hall and other analogous systems, including the fast-growing field of fractional quantum anomalous Hall states in moiré materials.",
+      "journal": "arXiv",
+      "published": "2026-08-18",
+      "url": "https://arxiv.org/abs/2608.17424",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2608.17424-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.17424-fig01.png",
+        "/data/figures/arxiv-2608.17424-fig02.png",
+        "/data/figures/arxiv-2608.17424-fig03.png",
+        "/data/figures/arxiv-2608.17424-fig04.png",
+        "/data/figures/arxiv-2608.17424-fig05.png",
+        "/data/figures/arxiv-2608.17424-fig06.png",
+        "/data/figures/arxiv-2608.17424-fig07.png",
+        "/data/figures/arxiv-2608.17424-fig08.png",
+        "/data/figures/arxiv-2608.17424-fig09.png",
+        "/data/figures/arxiv-2608.17424-fig10.png",
+        "/data/figures/arxiv-2608.17424-fig11.png",
+        "/data/figures/arxiv-2608.17424-fig12.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Improved convergence of the rotational braid- ing scheme. Schematics of (a) the classical and (b) the ro- tational braiding schemes. The blue dots mark the quasihole positions, while the red arrows indicate their braiding trajec- tories. (c) Finite-size dependence of the relative eigenvalue phase α for the classical scheme (blue circles) and rotational scheme (orange triangles). The horizontal dashed lines de- note the corresponding theoretical predictions, α = −π/2 and α = −2π/3, respectively. Robustness of rotational braiding scheme.– We first ex- amine finite-size effects in the non-Abelian braiding ma- trix. For Abelian braiding quasiholes, such effects are relatively well understood: non-topological corrections to the Abelian braiding phase generally arise from two sources, finite separation [47, 68] or shape deformation of the individual anyons [48]. The latter is present...",
+        "Fig. 2. When two quasiholes are fused, realistic interactions lift the degeneracy between their fusion channels and en- ergetically select a preferred one. The Coulomb inter- action naturally favours the ψ channel [51, 52, 72]. By contrast, a local electrostatic potential that repels elec- trons favors the 1 channel, since the electron density is relatively lower near the 1 particle [50]. Such an elec- trostatic potential models the effect of using the tip of a scanning tunneling microscope (STM) to trap quasi- holes [73]. The resulting competition of electron-electron interaction and local electrostatic confinement can there- fore have important experimental consequences. To numerically demonstrate these competing effects, we use the toy Hamiltonian ˆ Htotal = h0 ˆ V 3bdy 3 + ˆ VCoulomb + h ˆ Vpins, (2) where ˆ V 3bdy 3 is the three-body pseudopotential and is the model Hamiltonian for...",
+        "FIG. 2. Fusion channel selection. The electron density on the sphere for the MR state with 60 electrons and 4 quasi- holes, 2 at the north pole and the other 2 located at the same latitude. The quasiholes at the north pole fuse and form a (a) 1-anyon or (b) ψ-anyon. tive to the Coulomb interaction. ˆ Vpins in Eq. (2) consists of 2n identical potential pins, each being a Gaussian po- tential profile with a small enough width (σ = 0.05), cen- tered at locations η1, η2,...,η2n [71]. To induce a pair fu- sion, we set η1 = η2 = 0, effectively fusing two quasiholes at the north pole of the sphere (see Fig. 2). Consequently, small h favors fusion into ψ, while sufficiently large h fa- vors fusion into 1. In the limit h0 →∞, the low-lying eigenstates of Eq. (2) are expected to be well-described by the fusion space of 2n quasiholes, each located at one pin. Thus, we use the HMC method to compute...",
+        "FIG. 3. Numerical results for many-anyon braiding in the Moore–Read state. Panels (a) and (b) show the four- quasihole geometry and the resulting statistical Berry phase γstat, respectively. Panels (c) and (d) show the corresponding six-quasihole geometry and the relative eigenvalue phase α of the non-Abelian braiding matrix. The horizontal lines are the theoretical prediction in the two limits shown in Eqs. (3) and (4). In both geometries, two quasiholes are fused at the north pole, while the remaining quasiholes are braided in the presence of pinning potentials of strength h. They share the same legend in panel (b). We next consider the six-quasihole geometry shown in Fig. 3(c), where the four quasiholes away from the north pole are braided according to SM [71]. In this case, the interaction-selected low-energy space is now two-dimensional, so the braid is represented by a 2 × 2..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that we employ the hybrid Monte Carlo method to efficiently compute the many-anyon non-Abelian braiding matrices associated with different braiding schemes of the Moore-Read quasiholes. Their effect on the non-Abelian braiding matrices has been verified, a surprising phenomenon that demonstrates long-range entanglement of non-Abelian states.",
+      "abstract_status": "original"
+    },
     {
       "id": "doi:10.1103/1cw4-pzsd",
       "title": "Theoretical study of high harmonic generation in an inversion-symmetric Chern insulator",
