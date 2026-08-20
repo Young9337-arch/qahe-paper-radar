@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-08-19T03:57:58.481495+00:00",
+  "updated_at": "2026-08-20T03:57:45.090509+00:00",
   "papers": [
+    {
+      "id": "doi:10.1103/z4g8-2kwj",
+      "title": "Topological flat bands and fractional Chern insulators in Rashba systems with tunable superlattice potentials",
+      "authors": [
+        "Anonymous"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Topological flat bands and fractional Chern insulators in Rashba systems with tunable superlattice potentials in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-08-19",
+      "url": "https://doi.org/10.1103/z4g8-2kwj",
+      "doi": "10.1103/z4g8-2kwj",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
     {
       "id": "arxiv:2608.17424",
       "title": "Many-Anyon Braiding in Non-Abelian Fractional Quantum Hall Effect with Hybrid Monte Carlo Simulation",
@@ -41,6 +60,44 @@
         "FIG. 3. Numerical results for many-anyon braiding in the Moore–Read state. Panels (a) and (b) show the four- quasihole geometry and the resulting statistical Berry phase γstat, respectively. Panels (c) and (d) show the corresponding six-quasihole geometry and the relative eigenvalue phase α of the non-Abelian braiding matrix. The horizontal lines are the theoretical prediction in the two limits shown in Eqs. (3) and (4). In both geometries, two quasiholes are fused at the north pole, while the remaining quasiholes are braided in the presence of pinning potentials of strength h. They share the same legend in panel (b). We next consider the six-quasihole geometry shown in Fig. 3(c), where the four quasiholes away from the north pole are braided according to SM [71]. In this case, the interaction-selected low-energy space is now two-dimensional, so the braid is represented by a 2 × 2..."
       ],
       "ai_summary": "In Moire Superlattice, this paper argues that we employ the hybrid Monte Carlo method to efficiently compute the many-anyon non-Abelian braiding matrices associated with different braiding schemes of the Moore-Read quasiholes. Their effect on the non-Abelian braiding matrices has been verified, a surprising phenomenon that demonstrates long-range entanglement of non-Abelian states.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.18199",
+      "title": "Chern insulator boundary criticality",
+      "authors": [
+        "Benjamin Moy",
+        "Eduardo Fradkin"
+      ],
+      "abstract": "We investigate signatures of chirality at Chern insulator transitions in the presence of a boundary. The transition between a trivial insulator and a Chern insulator with Chern number $C=1$ is described by a massless Dirac fermion whose parity anomaly gives a critical Hall conductivity $σ_{xy}=\\frac{1}{2}\\frac{e^2}{h}$. Using a Dirac mass domain wall construction, we show that the chiral edge mode delocalizes into the bulk at criticality, but the boundary fermion correlation function retains a chiral structure and acquires the scaling dimension of the bulk fermion. We compute current correlation functions and demonstrate that the anomaly of the bulk Hall response is matched by delocalized chiral modes near the boundary. Using only the residual conformal symmetry of a (2+1)d conformal field theory (CFT) in a half-space, we identify parity-odd terms in current and energy-momentum tensor correlation functions that encode these modes and determine their electromagnetic and gravitational anomaly coefficients. Our analysis therefore applies to general time-reversal breaking (2+1)d CFTs, beyond the free Dirac transition. We also extend our results to higher Chern number transitions and to the transition between a (3+1)d topological insulator and a trivial insulator.",
+      "journal": "arXiv",
+      "published": "2026-08-18",
+      "url": "https://arxiv.org/abs/2608.18199",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "Figure 1: A plot of the Chern number C for the lattice model Hamiltonian in Eq. (2.1) as the parameter m is varied. In a given gapped phase, the Hall conductivity is σxy = C e2/h. For most of this work, we focus on the transition at m = 0 between a Chern insulator with C = 1 and a trivial insulator. nian [29, 40, 41],1 H = X k c†(k) \u0002 −sin kx σ3 + sin ky σ2 + (m −2 + cos kx + cos ky) σ1\u0003 c(k). (2.1) where c†(k) creates an electron with (crystal) momentum k. At half filling, this model is gapped except at m = 0, m = 2, and m = 4. In the gapped phases, the Chern number as a function of m is C =              0 m < 0, 1 0 < m < 2, −1 2 < m < 4, 0 m > 4, (2.2) as depicted in",
+        "Figure 1. Our focus for most of this work will be the transition at m = 0, where the gap closes and the Chern number changes from C = 0 to C = 1. Near m = 0, the low-energy, long wavelength physics is described by a single massless Dirac fermion with Lagrangian, L = ¯ ψ (i / ∂−m) ψ, (2.3) 1Strictly speaking, this is the Hamiltonian of (2.1) of the Qi-Hughes-Zhang model in two dimensions [40] which has the pattern of Chern numbers shown in Eq. (2.2). In the case of the Haldane model [29] there is only one transition from Chern number C = 1 to a trivial insulator with C = 0. The same holds for a square lattice with π flux per plaquette. Unlike Eq. (2.1), in these other cases there is only one heavy fermion doubler. The more complex pattern of the Chern number shown in Eq. (2.2) for the model of Eq. (2.1) is due to the contributions of additional heavy fermions at the corners of the...",
+        "Figure 2a. In that case, one finds that a chiral fermion is exponentially localized along the interface of the wall. In contrast, if the fermion mass is the same on both sides of the wall, then there is no protected edge mode. We therefore model the Chern insulator transition using the configuration depicted in",
+        "Figure 2b. The region y > 0 is treated as vacuum, with a fixed nonzero Dirac mass. The region y < 0 is the material bulk, whose Dirac mass is tuned through zero across the Chern insulator transition. At the critical point, the fermion is massless for y < 0 and massive for y > 0. 4If the fermion is placed in a curved spacetime, a gravitational Chern-Simons term should be added to the Chern-Simons term for Aµ. 5A similar discussion for a 3D domain wall can be found in Ref. [48]. 7 y = 0 y Vacuum Chern insulator Critical bulk M > 0 M < 0 M = 0 C = −1 2 + 1 2 = 0 C = + 1 2 + 1 2 = 1 C = 0 + 1 2 = 1 2 1 y = 0 y (a) y = 0 y Vacuum Chern insulator Critical bulk M < 0 M = 0 C = −1 2 + 1 2 = 0 C = + 1 2 + C = 0 + 1 2 = 1 2 1 y (b)",
+        "Figure 2: Mass domain wall configurations. The y > 0 region is regarded as vacuum with fixed Dirac mass M < 0 while we tune to criticality in the material bulk, y < 0, by a sign change in the Dirac mass. The heavy fermion doubler has a mass of fixed sign throughout space and contributes 1/2 to the Chern number (depicted in gray) so that the y > 0 region has vanishing Chern number. When the y < 0 region has the same sign as the Dirac mass in the y > 0 region, there is no protected edge mode, modeling a trivial insulator phase. (a) When the Dirac mass changes sign in space across y = 0, there is a localized chiral edge mode, and the bulk is in its Chern insulator phase with Chern number C = 1. (b) If the Dirac mass vanishes for y < 0, then the bulk is at its critical point between the Chern insulator and the trivial insulator phase with an effective Chern number C = 1/2. Meanwhile, the..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we investigate signatures of chirality at Chern insulator transitions in the presence of a boundary. Using a Dirac mass domain wall construction, we show that the chiral edge mode delocalizes into the bulk at criticality, but the boundary fermion correlation function retains a chiral structure and acquires the scaling dimension of the bulk fermion.",
       "abstract_status": "original"
     },
     {
