@@ -1,6 +1,49 @@
 {
-  "updated_at": "2026-08-20T03:57:45.090509+00:00",
+  "updated_at": "2026-08-21T04:03:45.580988+00:00",
   "papers": [
+    {
+      "id": "arxiv:2608.19725",
+      "title": "Mirror Chern insulators in two-dimensional altermagnetic Tc$_2$Cl$_2$O and Tc$_2$Br$_2$O",
+      "authors": [
+        "Rong Wang",
+        "Ruo-Yu Ning",
+        "Zhi-Hua Yan",
+        "Si Li"
+      ],
+      "abstract": "The interplay between altermagnetism and crystalline band topology provides an intriguing avenue for realizing unconventional topological phases with distinctive spin-dependent properties. Here, based on first-principles calculations and theoretical analysis, we identify monolayer $\\mathrm{Tc}_2X_2\\mathrm{O}$ ($X$ = Cl, Br) as a family of two-dimensional altermagnetic mirror Chern insulators. In the absence of spin--orbit coupling (SOC), both monolayers exhibit robust altermagnetism with mirror-spin coupling and host two symmetry-protected Weyl points in each spin channel near the Fermi level. The Weyl points in opposite spin channels carry distinct mirror-symmetry eigenvalues, $m_z=\\pm i$. Upon inclusion of SOC, the Weyl points are gapped, and the two mirror sectors acquire opposite Chern numbers, ${\\cal {C}}_{+}=1$ and ${\\cal {C}}_{-}=-1$, resulting in a nonzero mirror Chern number ${\\cal {C}}_m=1$. A low-energy $k\\cdot p$ model captures the symmetry protection of the Weyl points and elucidates their SOC-induced mass gaps and topological character. Furthermore, the resulting mirror Chern insulating phases host helical edge states within the bulk band gap and exhibit a quantized spin Hall conductivity. Our work establishes a direct connection between altermagnetism and mirror Chern topology and provides a promising platform for exploring unconventional topological and spin-dependent phenomena in two-dimensional altermagnetic materials.",
+      "journal": "arXiv",
+      "published": "2026-08-20",
+      "url": "https://arxiv.org/abs/2608.19725",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2608.19725-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.19725-fig01.png",
+        "/data/figures/arxiv-2608.19725-fig02.png",
+        "/data/figures/arxiv-2608.19725-fig03.png",
+        "/data/figures/arxiv-2608.19725-fig04.png",
+        "/data/figures/arxiv-2608.19725-fig05.png",
+        "/data/figures/arxiv-2608.19725-fig06.png",
+        "/data/figures/arxiv-2608.19725-fig07.png",
+        "/data/figures/arxiv-2608.19725-fig08.png",
+        "/data/figures/arxiv-2608.19725-fig09.png",
+        "/data/figures/arxiv-2608.19725-fig10.png",
+        "/data/figures/arxiv-2608.19725-fig11.png",
+        "/data/figures/arxiv-2608.19725-fig12.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. The two Tc atoms and the O atom in the prim- itive cell are coplanar and are sandwiched between the two outer X atomic layers. The crystal belongs to the tetragonal space group P4/mmm (No. 123). The opti- mized lattice constants are a = b = 4.287 ˚ A for Tc2Cl2O Cl/Br O Tc a b c a b c (b) (a) a b c",
+        "FIG. 1. (a) Side and (b) top views of the crystal structure of monolayer Tc2X2O (X = Cl, Br). and a = b = 4.262 ˚ A for Tc2Br2O, as summarized in Table I. The partially filled Tc 4d orbitals give rise to intrinsic local magnetic moments in monolayer Tc2X2O. To de- termine the magnetic ground state, four representative magnetic configurations were considered [Fig. 2(a)–(d)]: ferromagnetic (FM), altermagnetic (AM), and two anti- ferromagnetic configurations (AFM1 and AFM2). Total- energy calculations reveal that the AM configuration is the energetically most favorable state for both Tc2Cl2O and Tc2Br2O, with the corresponding relative energies summarized in Table I. In the AM ground state, the magnetic moments are predominantly localized on the Tc atoms, with magnitudes of approximately 3.83 µB and 3.67 µB for Tc2Cl2O and Tc2Br2O, respectively. In the absence of SOC, the two spin...",
+        "FIG. 2. Panels (a)–(d) illustrate the FM, AM and two AFM configurations of the Tc2X2O (X = Cl, Br) monolayer. Panels (e) and (f) show the normalized magnetic moments of monolayer Tc2X2O (X = Cl, Br) as functions of temperature, obtained from Monte Carlo simulations. TABLE I. Calculated structural, magnetic, and electronic properties of monolayer Tc2Cl2O and Tc2Br2O, including the lattice constants (a), energy differences between the altermagnetic (AM) state and the ferromagnetic (FM) as well as two antiferromagnetic (AFM) states (∆EAM−FM, ∆EAM−AFM1, and ∆EAM−AFM2), nearest-neighbor exchange interaction (J1), magnetocrystalline anisotropy energy (∆EMAE = E[001] −E[100]), and band gaps (Eg) calculated with SOC. Systems a (˚ A) ∆EAM−FM (eV) ∆EAM−AFM1 (eV) ∆EAM−AFM2 (eV) J1 (eV) ∆EMAE (meV) Eg (meV) Tc2Cl2O 4.287 −1.424 −1.214 −0.521 −114.218 3.546 0.021 Tc2Br2O 4.262 −1.017 −0.976 −0.323...",
+        "FIG. 3. (a) Schematic illustrations of the altermagnetic configurations within the unit cells and the corresponding Brillouin zones of monolayer Tc2X2O (X = Cl, Br). Red and blue dots indicate the positions of the Weyl points.. (b,c) Electronic band structures and projected density of states (PDOS) of monolayer Tc2Cl2O and Tc2Br2O without SOC, respectively. Red and blue curves represent the spin-up and spin-down states, respectively. Irreducible representations of the two bands near the Fermi level at the X and Y points are indicated. satisfies M2 z = −1, the Bloch states can be classified ac- cording to the mirror eigenvalues mz = ±i. We therefore choose the Bloch basis as the common eigenstates of Mz, denoted by |mz, k↑(↓)⟩, where k↑(↓) labels the crystal mo- mentum of the spin-up (spin-down) state. Because C4z commutes with Mz, [Mz, C4z] = 0, (2) acting with C4z on a mirror...",
+        "FIG. 4. (a) and (b) Band structures including SOC with the spin projection sz for monolayer Tc2Cl2O and Tc2Br2O monolayer, respectively. mirror symmetry Mz, rather than by a net Berry cur- vature integrated over the entire Brillouin zone. To fur- ther confirm the nontrivial topology, we calculated the Wilson loops for the two mirror subspaces separately for monolayer Tc2Cl2O and Tc2Br2O, as shown in Figs. 5(a) and 5(b), respectively. In both subspaces, the Wilson loop spectra exhibit a clear winding as a function of kx, unambiguously signaling a nonzero Chern number and providing independent confirmation consistent with the direct Berry-curvature integration. These results es- tablish that monolayer Tc2Cl2O and Tc2Br2O are two- dimensional MCIs protected by the mirror symmetry Mz in the presence of SOC, representing a rare realization of MCI physics within an altermagnetic host. A...",
+        "FIG. 5. (a,b) Wilson loop evolutions for monolayer Tc2Cl2O and Tc2Br2O with SOC, calculated in the two Mz (mz = ±i) subspaces, respectively. (c,d) Edge-state spectra of monolayer Tc2Cl2O and Tc2Br2O along the (1¯ 10) direction, respectively. (e,f) Corresponding spin-resolved edge-state spectra with sz projection. (g,h) Energy dependence of the spin Hall conductivity σs xy for monolayer Tc2Cl2O and Tc2Br2O, respectively, exhibiting a quantized plateau within the bulk band gap. the vicinity of X, we expand the Hamiltonian to leading order in each wave-vector component ki, yielding H(k) = \u0000txk2 x + tyk2 y \u0001 σ0+ \u0000m + rxk2 x + ryk2 y \u0001 σz+vykyσx, (9) where the Pauli matrices σi act within the space spanned by the two basis states at X, and σ0 is the 2 × 2 identity matrix. The model parameters, obtained by fitting to the first-principles band structure, are tx = 3.413 eV ˚ A2, ty = 4.484 eV ˚...",
+        "FIG. 6. Dispersions around the Weyl points fitted by the effective model. Panels (a) and (b) show the band structures without SOC, while panels (c) and (d) show those with SOC. Red and blue curves represent the DFT results and the fitting results obtained from the k · p models in Eqs. (9) and (11), respectively. opposite Chern number C−= −1. This symmetry-based prediction is independently corroborated by the Wilson- loop calculations performed separately for the two mir- ror subsystems, as shown in Figs. 5(a) and 5(b). Taken together, the effective model establishes that monolayer Tc2Cl2O and Tc2Br2O, in the presence of SOC, real- ize a two-dimensional MCI with mirror Chern number Cm = (C+ −C−)/2 = 1. IV. CONCLUSION In summary, using first-principles calculations and symmetry-based analysis, we have identified monolayer Tc2X2O (X = Cl, Br) as a novel family of two- dimensional..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that the interplay between altermagnetism and crystalline band topology provides an intriguing avenue for realizing unconventional topological phases with distinctive spin-dependent properties. Here, based on first-principles calculations and theoretical analysis, we identify monolayer $\\mathrm{Tc}_2X_2\\mathrm{O}$ ($X$ = Cl, Br) as a family of two-dimensional altermagnetic mirror Chern insulators.",
+      "abstract_status": "original"
+    },
     {
       "id": "doi:10.1103/z4g8-2kwj",
       "title": "Topological flat bands and fractional Chern insulators in Rashba systems with tunable superlattice potentials",
