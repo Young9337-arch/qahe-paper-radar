@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-08-21T04:03:45.580988+00:00",
+  "updated_at": "2026-08-22T02:29:42.106620+00:00",
   "papers": [
+    {
+      "id": "doi:10.1103/5378-2fcs",
+      "title": "Magnetization-free quantum anomalous Hall effect in altermagnetic weak topological insulators",
+      "authors": [
+        "Yanmiao Han",
+        "Yu-Hao Wan",
+        "Peng-Yi Liu",
+        "Rundong Zhao",
+        "Qing-Feng Sun"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Magnetization-free quantum anomalous Hall effect in altermagnetic weak topological insulators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-08-21",
+      "url": "https://doi.org/10.1103/5378-2fcs",
+      "doi": "10.1103/5378-2fcs",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
     {
       "id": "arxiv:2608.19725",
       "title": "Mirror Chern insulators in two-dimensional altermagnetic Tc$_2$Cl$_2$O and Tc$_2$Br$_2$O",
@@ -628,25 +651,6 @@
       ],
       "ai_summary": "In Moire Superlattice, this paper argues that quantum anomalous Hall effect (QAHE) arises from the interplay between magnetic order and spin-orbit coupling, which opens up a topologically nontrivial band gap to host chiral edge states in the absence of magnetic field. Here, we propose an experimentally accessible family of two-dimensional oxides, M$_2$DO$_6$ (M = Zn, Cd; D = Se, Te), that can realize QAHE from the half-filled O-$2p$ orbital induced spontaneous ferromagnetism. Our finding provides a route to realize QAHE from O-$2p$ ferromagnetism and offers design principles applicable to oxygen-based magnetic topology platforms beyond conventional...",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/5378-2fcs",
-      "title": "Magnetization-free quantum anomalous Hall effect in altermagnetic weak topological insulators",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Magnetization-free quantum anomalous Hall effect in altermagnetic weak topological insulators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review B",
-      "published": "2026-08-11",
-      "url": "https://doi.org/10.1103/5378-2fcs",
-      "doi": "10.1103/5378-2fcs",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "doi:10.1103/qyj5-cd7k",
