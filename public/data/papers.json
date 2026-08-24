@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T02:38:08.641272+00:00",
+  "updated_at": "2026-08-24T02:38:55.504790+00:00",
   "papers": [
     {
       "id": "doi:10.1103/5378-2fcs",
@@ -23,6 +23,39 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2608.21228",
+      "title": "The Continuum Model for Uniaxially Strained Bilayer Graphene Moiré Systems",
+      "authors": [
+        "Tong Liu",
+        "X. R. Wang",
+        "Jiansheng Wu"
+      ],
+      "abstract": "We construct a continuum model for a one-dimensional moiré superlattice formed by stretching one layer of AB-stacked bilayer graphene along the x direction by a factor s. Following the spirit of the Bistritzer-MacDonald model for twisted bilayer graphene, we treat the interlayer coupling as hopping between several Dirac points. At a critical stretch factor s ~ 1.018 the two bands near the Fermi level touch, forming two degeneracy points along the k_y direction. This gap closing is accompanied by a topological phase transition, in which the Chern number changes from 1 to -1, and by a sign change of the Berry-curvature dipole, which we propose can be detected through the nonlinear Hall effect. We find that uniaxial strain modulates inter-Dirac-valley coupling, which drives band gap collapse and subsequent topological number inversion. This opens a route to engineer topological transport and quantum anomalous Hall effects via strain engineering of moiré heterostructures.",
+      "journal": "arXiv",
+      "published": "2026-08-21",
+      "url": "https://arxiv.org/abs/2608.21228",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2608.21228-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.21228-fig01.png",
+        "/data/figures/arxiv-2608.21228-fig02.png",
+        "/data/figures/arxiv-2608.21228-fig03.png",
+        "/data/figures/arxiv-2608.21228-fig04.png",
+        "/data/figures/arxiv-2608.21228-fig05.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. The structure in real space. (a) The AB-stacked bilayer graphene before stretching; the yellow region inside the black dashed line is the unit cell. (b) The stretched- bilayer structure studied in this paper, where the blue layer is the stretched one. The yellow region is the superlattice, which contains neither AA- nor BA-stacked regions. (c) The larger unit cell we choose in the single layer, containing four atoms A, B, C, and D; the red dashed line marks the unit cell. (d) How the stretching changes the unit cell, where s is the stretch factor. The tight-binding Hamiltonian of unstrained single- layer graphene is H = P R,δ,i,j c† i(R)hij δ cj(R + δ). We consider only nearest-neighbor hopping, so in the unit cell the vector δ can only be δ1, δ2, or δ3, and i, j can be A, B, C, D. After the Fourier transform, the Hamiltonian in matrix form is hsingle =     0 γ1 0 γ2 γ† 1 0...",
+        "Fig. 2. We now define a new basis ΨX = [X1(k), X2(k), X3(k), X4(k)] with X1 = CA(k) + CC(k), X2 = CB(k) + CD(k), X3 = CA(k) −CC(k), X4 = CB(k) −CD(k). (3) 3 In this basis the Hamiltonian becomes hsingle =     0 γ1 + γ2 0 0 γ† 1 + γ† 2 0 0 0 0 0 0 γ1 −γ2 0 0 γ† 1 −γ† 2 0     = \u0014 hs1 0 0 hs2 \u0015 . (4) Clearly hs1 has the same form as the two-sublattice Hamiltonian of the single layer. It can also be shown that hs2(k) = hs1(k+( 3 2K, 0)) = hs1(k+(0, √ 3 2 K)). Thus the four bands split into two groups, each having the same structure as the two-sublattice band of the single layer, as confirmed by the band structure in",
+        "Fig. 2. After the graphene layer is stretched as in Fig. 1(d), both the geometry and the hopping amplitudes change, and the Hamiltonian becomes h′ single =     0 γ1 + γ′ 2 0 0 γ† 1 + γ′ 2 † 0 0 0 0 0 0 γ1 −γ′ 2 0 0 γ† 1 −γ′ 2 † 0     = \u0014 hs1 ′ 0 0 hs2 ′ \u0015 , (5) where γ′ 2 = t′eik·δ′ 2 + t′eik·δ′ 3. The value of t′ depends on the distance between the two atoms, so we focus on δ′ 2 and δ′ 3. In our study the stretch factor s is small (less than 1.02), so |δ2| = |δ3| = q 3 4s2 + 1 4 d ≈sd and t′ = te−2.218(|δ2|/d−1) = te−2.218(s−1). The stretching in the x direction in real space compresses the kx direction in reciprocal space, so the reciprocal vectors become G′ 1 = (0, √ 3 2 K) and G′ 2 = ( 3 2sK, 0). In addition, the change of t′ shifts the Dirac cone away from the K and K′ points. The distance between the Dirac cone and the K point is ∆D = 2 √ 3 3ds \u0002 2π 3 −arccos(−t′ 2t) \u0003...",
+        "Fig. 2. In our study we focus on the low-energy part. We note, how- ever, that this model also contains part of the high-energy band structure, and that the corresponding interlayer interaction factor has the same order of magnitude as the low-energy one, differing only by a phase. Whether the conclusions of the Bistritzer–MacDonald continuum model can be extended to the high-energy region will be discussed in a future work. Ignoring the interlayer in- teraction gives the band structure in Fig. 2(e): near the Dirac cone there are only two low-energy bands, given by hs1 and h′ s1. Equation (10) shows that the interac- tion between hs1 and h′ s1 is independent of that between 4 hs2 and h′ s2, so we need only keep the hsg term in our model.",
+        "FIG. 2. (a)–(d) Energy band structure given by Eq. (2); (a) and (c) are the band structure at ky = 0, while (b) and (d) show the red band in (a) and (c), respectively. The black dashed box marks the first Brillouin zone. (e) Band structure of the stretched bilayer without the interlayer interaction; the eight bands are given by the four Hamiltonians hsi and h′ si after the change of basis. In our study we only consider the low-energy part, so near the Dirac cone we need only keep the interaction between hs1 and h′ s1, because the other two bands have higher energy. (f) Honeycomb structure of hs1 (black) and h′ s1 (red). Near the Dirac cone we can rewrite the Hamiltonians hs1 and h′ s1 as hs1(k) = v \u0014 0 kx + iky kx −iky 0 \u0015 , h′ s1(k) = \u0014 0 vx(kx + ∆D) + ivky vx(kx + ∆D) −ivky 0 \u0015 . (11) Here v = 3dt 2 and vx = − √ 3dst′ q 1 − t2 4t′2 ; when the stretch factor s is less than 1.02, which..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that we construct a continuum model for a one-dimensional moiré superlattice formed by stretching one layer of AB-stacked bilayer graphene along the x direction by a factor s. This opens a route to engineer topological transport and quantum anomalous Hall effects via strain engineering of moiré heterostructures.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2608.19725",
