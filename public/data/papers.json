@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-08-24T02:38:55.504790+00:00",
+  "updated_at": "2026-08-25T02:32:15.255174+00:00",
   "papers": [
+    {
+      "id": "doi:10.1103/l1zx-zjp5",
+      "title": "Emergence of topological multifold/crystalline kink states with even spin Chern insulators",
+      "authors": [
+        "Zhijian Li",
+        "Hongyan Zhao",
+        "Wei Xu",
+        "Yang Xue",
+        "Zhongqin Yang"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Emergence of topological multifold/crytalline kink states with even spin Chern insulators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-08-24",
+      "url": "https://doi.org/10.1103/l1zx-zjp5",
+      "doi": "10.1103/l1zx-zjp5",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
     {
       "id": "doi:10.1103/5378-2fcs",
       "title": "Magnetization-free quantum anomalous Hall effect in altermagnetic weak topological insulators",
@@ -588,7 +611,7 @@
         "Kang Yang",
         "Congjun Wu"
       ],
-      "abstract": "We study the quantum geometry of doubly degenerate energy levels in a four-dimensional parameter space. For degenerate pairs with $SU(2)$ gauge structures, the quantum geometry obeys $\\big(\\textrm{tr } g\\big)^2/16\\geq\\sqrt{\\det g}\\geq |\\textrm{Tr}(F\\wedge F)|/12$. The first inequality characterizes the anisotropy in the metric. The second determinant inequality measures the self-duality of the curvature under Hodge star operation and the inter-level processes that do not close under the three $SU(2)$ rotations of the doubly degenerate levels. The saturation of the determinant bound induces a quaternion Kähler structure on the four-dimensional parameter space, analogous to the complex structure induced by the ideal-band condition in two-dimensional Chern insulators. As examples, four-band Dirac Hamiltonians automatically saturate the determinant bound and possess a topological zero in $\\textrm{Tr}(F\\wedge F)$. We discuss the comparison to degenerate pairs with $U(2)$ gauge structures.",
+      "abstract": "We study the quantum geometry of doubly degenerate energy levels in a four-dimensional parameter space. We find that the scalar quantum metric $g$ and the Berry curvature $F$ obey $(\\operatorname{tr} g)^2/16\\geq\\sqrt{\\det g}\\geq |2\\Tr(F\\wedge F)-\\Tr F\\wedge \\Tr F|/24$. The first inequality characterizes the anisotropy in the metric. The second determinant inequality measures the self-duality of the traceless $SU(2)$ part of the curvature under Hodge star operation and the algebraic closedness of the inter-level polarization amplitudes under $SU(2)$ rotations in the doubly degenerate levels. The saturation of the determinant bound imposes a quaternionic Cauchy-Riemann equation, analogous to the complex analyticity imposed by ideal-band conditions in two-dimensional Chern insulators. As examples, four-band Dirac Hamiltonians automatically saturate the determinant bound and possess a topological zero in $\\operatorname{tr}(F\\wedge F)$. We compare the differences between Kramers degeneracy and ordinary $U(2)$ degeneracy. In addition to the non-Abelian geometric bound, the latter also obeys an independent first-Chern bound.",
       "journal": "arXiv",
       "published": "2026-08-12",
       "url": "https://arxiv.org/abs/2608.12221",
@@ -609,7 +632,7 @@
         "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [],
-      "ai_summary": "In Other New Materials, this paper argues that we study the quantum geometry of doubly degenerate energy levels in a four-dimensional parameter space.",
+      "ai_summary": "In Other New Materials, this paper argues that we study the quantum geometry of doubly degenerate energy levels in a four-dimensional parameter space. We find that the scalar quantum metric $g$ and the Berry curvature $F$ obey $(\\operatorname{tr} g)^2/16\\geq\\sqrt{\\det g}\\geq |2\\Tr(F\\wedge F)-\\Tr F\\wedge \\Tr F|/24$.",
       "abstract_status": "original"
     },
     {
@@ -833,25 +856,6 @@
       "doi": "10.1103/7sbg-yqhs",
       "source": "Crossref",
       "material_system": "Moire_Superlattice",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
-    },
-    {
-      "id": "doi:10.1103/l1zx-zjp5",
-      "title": "Emergence of topological multifold/crytalline kink states with even spin Chern insulators",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Emergence of topological multifold/crytalline kink states with even spin Chern insulators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review B",
-      "published": "2026-08-10",
-      "url": "https://doi.org/10.1103/l1zx-zjp5",
-      "doi": "10.1103/l1zx-zjp5",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
       "image_url": null,
       "figure_urls": [],
       "figure_captions": [],
