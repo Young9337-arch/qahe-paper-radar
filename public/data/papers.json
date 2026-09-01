@@ -1,6 +1,85 @@
 {
-  "updated_at": "2026-08-31T07:04:59.060332+00:00",
+  "updated_at": "2026-09-01T06:16:19.950546+00:00",
   "papers": [
+    {
+      "id": "arxiv:2608.29833",
+      "title": "Floquet Topological Spin-Valley-Layertronics on a Layered Dice Lattice",
+      "authors": [
+        "Jianqi Zhong",
+        "Teng-Fei Ying",
+        "Jinyu Zou",
+        "Benjamin T. Zhou"
+      ],
+      "abstract": "The recent discovery of long-sought dice flat band in layered YCl electride has opened up rich possibilities of correlation and topological physics in dice lattice systems [Nature Communications 17, 2213 (2026), arXiv:2509.05958]. Here, we reveal a plethora of distinctive correlated topological phases in a generic layered dice lattice system at band filling of $ν=4$ under on-site Hubbard interactions: (i) the system is an intrinsic sublattice anti-ferromagnetic (AFM) quantum spin-valley Hall insulator; (ii) a circularly polarized light (CPL) drives the AFM spin-valley insulator into a Floquet odd-parity $f$-wave altermagnet(AM) insulator; (iii) a vertical displacement field turns the Floquet $f$-wave AM insulator into a spin-valley-layer-polarized Chern insulator, with the sign of spin, valley and Chern number all controlled by the direction of the displacement field. Our results not only establish the layered dice lattice as a versatile platform for electrically switchable magnetic and topological phases, but also provide an all-electrical scheme for integrated spin-valley-layertronics for non-volatile information storage and processing.",
+      "journal": "arXiv",
+      "published": "2026-08-30",
+      "url": "https://arxiv.org/abs/2608.29833",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2608.29833-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.29833-fig01.png",
+        "/data/figures/arxiv-2608.29833-fig02.png",
+        "/data/figures/arxiv-2608.29833-fig03.png",
+        "/data/figures/arxiv-2608.29833-fig04.png",
+        "/data/figures/arxiv-2608.29833-fig05.png",
+        "/data/figures/arxiv-2608.29833-fig06.png",
+        "/data/figures/arxiv-2608.29833-fig07.png",
+        "/data/figures/arxiv-2608.29833-fig08.png",
+        "/data/figures/arxiv-2608.29833-fig09.png",
+        "/data/figures/arxiv-2608.29833-fig10.png",
+        "/data/figures/arxiv-2608.29833-fig11.png",
+        "/data/figures/arxiv-2608.29833-fig12.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Schematic dice-lattice geometry showing the an- tiferromagnetic (AFM) configuration at ν = 4 and the light- induced altermagnetic phase. Magnetic phase diagrams of the Hubbard model in Eq. (1) as functions of (b) t2 and U, and (c) U and ν. In (b), ϵC = −0.3 and ν = 4; in (c), t2 = −0.1 and ϵC = −0.3. states can arise spontaneously in bipartite lattices such as the Lieb lattice, where inequivalent sublattice envi- ronments allow magnetic order to generate altermagnetic phase [49–51]. The dice lattice is likewise bipartite in nature, and its hexagonal symmetry is compatible with f-wave magnetism. Given the layered lattice architec- ture, should f-wave magnetism develops under interac- tions, the coupled spin-valley-layer physics is expected to emerge. The simplest Hubbard model with on-site Coulomb repulsion on a pristine dice lattice, however, supports robust...",
+        "FIG. 2. (a) The topological phase diagram as a function of light intensity and frequency. (b) The schematic of topological evolutions for the low and high CPL intensity at K/K′ valley. (c) The f-wave altermagnetic band structure for the green star labeled as (a). The inset shows the Fermi surface at EF = −0.12 eV. (d) The edge states calculated for the light amplitude of A0 = 1.8 ˚ A−1 and ω = 5.0 eV. Parameters: t = −1 eV, t2 = −0.1 eV, ϵ = −0.3 eV, M = 0.2 eV. off-resonant high-frequency regime, the static effective Hamiltonian is obtained [57–59], Heff(k) = H0(k) + X n≥1 [H−n(k), Hn(k)] nω + O(ω−2), (8) Keeping the leading one-photon process, the light- dressed Hamiltonian takes the form (more details in Ap- pendix B) Heff(k) = H(0) AFM(k) + ∆η(k) ω σ0 ⊗Λz, (9) where H(0) AFM denotes the static Hamiltonian with the hopping amplitudes renormalized by the zeroth-order Bessel function...",
+        "FIG. 3. The Band structures under an out-of-plane electric field along the +z direction with δ < 0 (a) and along the −z direction with δ > 0 (b). Corresponding electrically driven SVLL-selective edge spectra for δ < 0 (c) and δ > 0 (d), where only the spin-up and spin-down sectors host two chiral edge states, respectively. Parameters: t = −1 eV, t2 = −0.1 eV, ϵ = −0.3 eV, M = 0.2 eV, A0 = 1.8 ˚ A−1, |δ| = 0.2 and ω = 5.0 eV. in this regime, consistent with the topological phase di- agram in Fig. 2 a. The layer-resolved Berry curvature in Appendix E shows equivalent contributions from the two rim sublayers. The chiral edge states appearing for |Fη| > |M|, as shown in Fig. 2 d, further confirm the bulk-boundary correspondence of this Chern phase. VI. ELECTRICALLY-SWITCHABLE SPIN-VALLEY-LAYER LOCKING PHYSICS A. Gating-Tunable Chern Phase We now use an electric field to switch the SVLL...",
+        "FIG. 4. (a),(b) Calculated the SVLL-dependent degree of circular polarization ηC near the K′ and K valleys under a +z direction electric field with δ < 0, respectively. (c),(d) Schematic of the gate-controlled SVLL optical selection and spin deflection. Under one gate polarity, the K′ and K valleys are selected by opposite helical CPL. The photoexcited elec- trons show the same longitudinal current but opposite trans- verse anomalous currents for the distinct CPL. Reversing the electric-field direction reverses the Berry-curvature sign of the gate-selected SVLL sector, switches the spin polarization, and interchanges the valley selected by a given light helicity. The parameters are consistent with those shown in",
+        "Fig. 3. ometric tensor, respectively. The indices v and c de- note the lower and upper bands of the effective k · p model Eq. 4, mainly contributed by (s, χ) = (+1, −1) and (−1, +1), within which Ωxy vc and gij vc are evaluated. When we apply the +z direction electric field, corre- sponding to δ < 0, the Berry curvature of the spin-down K valley changes sign first at δ = −(Fη −M). For the two SVLL sectors relevant to the optical transition, the degree of circular polarization is mainly governed by the sign of the Berry curvature near the valley center η↑K′ C = sgn (Fη −M −δ) , η↓K C = sgn (Fη −M + δ) . (16) Therefore, a negative gate bias reverses the Berry curva- ture and circular selectivity of the spin-down K valley, while leaving the spin-up K′ valley unchanged. As shown in Fig. 4 a and b, the calculated degree of circular polar- ization takes opposite signs at the K′ and K valleys....",
+        "FIG. 5. (a) The magnetic phase diagram as a function of the light intensities and Coulomb interactions. (b) The HF band structure for the purple star point. The inset shows the Fermi surface at EF = −0.25 eV labeled the green dash line. Appendix D: Valley k · p model We derive the effective valley k · p model starting from the two inequivalent valleys Kχ = χ \u00124π 3a , 0 \u0013 , χ = ±1. (D1) Expanding around k = Kχ+q, the structure factor takes the linear form Γχ(q) ≃J0(αA0) √ 3a 2 (−χqx + iqy) , (D2) while the Floquet-induced valley mass is ∆η(Kχ) = 9ηχ(t2 −t2 2)J2 1(αA0), (D3) So that λs,χ = sM + ∆η(Kχ)/ω. The onsite level ϵC is the remote low-lying subspace in the parameter regime used in the main text, and it does not participate in the valley band inversion. We therefore downfold this one- dimensional subspace out. Because the mirror operation My relates the two valleys, we choose the...",
+        "FIG. 6. (a) layer-resolved band structure for the rim sublay- ers. (b)-(d) layer-resolved Berry curvature. This quadratic term dominates the large-momentum behavior and fixes the winding of the in-plane vector (dx, dy). Then the in-plane texture can be written as dx+idy = χv2z−µ¯ z,2, where z = qx+iqy. Using z = reiθ, one finds that the asymptotic texture is governed by e−2iθ, giving a winding number N∞= −2. As a re- sult, the SVLL Chern number becomes Csχ = sgn(χλsχ) in the main text. Appendix E: Layer polarization and layer-resolved Berry curvature Here we describe the numerical diagnostics used to identify the spin-valley-layer locking. The layer degree of freedom is represented by the two rim sublayers A and B. We define the projection operators PA = diag(1, 0, 0, 1, 0, 0), (E1) PB = diag(0, 0, 1, 0, 0, 1), (E2) PC = diag(0, 1, 0, 0, 1, 0), (E3) For the effective Bloch eigenstate..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that the recent discovery of long-sought dice flat band in layered YCl electride has opened up rich possibilities of correlation and topological physics in dice lattice systems [Nature Communications 17, 2213 (2026), arXiv:2509.05958]. Here, we reveal a plethora of distinctive correlated topological phases in a generic layered dice lattice system at band filling of $ν=4$ under on-site Hubbard interactions: (i) the system is an intrinsic sublattice anti-ferromagnetic (AFM) quantum spin-valley Hall insulator; (ii) a circularly polarized light (CPL) drives the AFM spin-valley insulator into a Floquet odd-parity $f$-wave...",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.29015",
+      "title": "Probing spin order via magnon transmission across quantum Hall ferromagnet heterojunctions",
+      "authors": [
+        "Seung Hwan Lee",
+        "Shaowen Chen",
+        "Andrew T. Pierce",
+        "Patrick R. Forrester",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Amir Yacoby"
+      ],
+      "abstract": "Two-dimensional material platforms now host a remarkable array of exotic correlated phases, from unconventional superconductivity to fractional Chern insulators. Probing magnetic order in these systems is essential for understanding their underlying physics, yet dilute spin densities render conventional magnetic probes ineffective. Spin waves, or magnons, in quantum Hall ferromagnets (QHFM) have proven effective for probing the magnetic order in various symmetry-broken quantum Hall (QH) phases in graphene systems, but previous works have been limited to homojunction configurations within a single material. Here, we demonstrate magnon transmission across a monolayer-bilayer graphene quantum Hall ferromagnet heterojunction - the first magnon transmission across quantum Hall ferromagnet heterojunctions, using one material as a magnon source to probe magnetic order in a distinct material. Generating magnons in monolayer graphene (MLG) at $ν$ = 1, we detect their transmission through bilayer graphene (BLG) via nonlocal voltage measurements, revealing spin order in BLG symmetry-broken quantum Hall states. The transmission exhibits hallmark magnon signatures: a sharp onset at the Zeeman energy and systematic variation with Landau level filling, including suppression at $ν$ = 4 and 8 where spin polarization vanishes. Our findings establish heterojunction magnon transmission as a powerful, modular probe of magnetic order, opening new avenues for investigating exotic quantum states across the rapidly expanding family of two-dimensional materials.",
+      "journal": "arXiv",
+      "published": "2026-08-29",
+      "url": "https://arxiv.org/abs/2608.29015",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that two-dimensional material platforms now host a remarkable array of exotic correlated phases, from unconventional superconductivity to fractional Chern insulators. Here, we demonstrate magnon transmission across a monolayer-bilayer graphene quantum Hall ferromagnet heterojunction - the first magnon transmission across quantum Hall ferromagnet heterojunctions, using one material as a magnon source to probe magnetic order in a distinct material.",
+      "abstract_status": "original"
+    },
     {
       "id": "doi:10.1103/7sbg-yqhs",
       "title": "Shining Light on Collective Modes in Moiré Fractional Chern Insulators",
