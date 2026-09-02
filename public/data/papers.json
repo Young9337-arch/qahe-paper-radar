@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-09-01T06:16:19.950546+00:00",
+  "updated_at": "2026-09-02T05:52:29.858334+00:00",
   "papers": [
+    {
+      "id": "arxiv:2609.00784",
+      "title": "Anti-higher-order Weyl semimetal",
+      "authors": [
+        "Cheng-Ming Miao",
+        "Yu-Hao Wan",
+        "Qing-Feng Sun"
+      ],
+      "abstract": "Higher-order topology extends the bulk-boundary correspondence by enabling corner or hinge localized states. Here we identify an anti-higher-order Weyl semimetal, a three dimensional topological phase in which the conventional boundary hierarchy is reversed. Unlike conventional higher-order Weyl semimetals where bulk topology enforces hinge Fermi arcs, this phase hosts anti-hinge states, meaning the bulk topology forces states to vanish at specific hinge orientations. Using a minimal two-band model, we show how Weyl points separate the Brillouin zone into quantum anomalous Hall and anti-higher-order topological insulating regions, with the latter characterized by a band-inversion surface enclosing two distinct high-symmetry points carrying opposite topological charges. Analytical solutions for Weyl points, Berry curvature monopoles, and slice Chern numbers are derived, with numerical simulations confirming the resulting anti-hinge behavior. Our work establishes anti-higher-order topology as a dual counterpart to conventional higher-order phenomena, further extending the exploration of topological phases.",
+      "journal": "arXiv",
+      "published": "2026-09-01",
+      "url": "https://arxiv.org/abs/2609.00784",
+      "doi": "10.1103/6r84-zzdj",
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2609.00784-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.00784-fig01.png",
+        "/data/figures/arxiv-2609.00784-fig02.png",
+        "/data/figures/arxiv-2609.00784-fig03.png",
+        "/data/figures/arxiv-2609.00784-fig04.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Schematic of a 3D HOWSM (left) and its kz = 0 slice on the x −y plane, showing a 2D HOTI phase (right). Orange spheres denote Weyl points separating the Brillouin zone into QAHI and HOTI regions. Red lines and ellipses indicate hinge and corner states. (b) Schematic of an anti- HOWSM (left) and its kz = 0 slice on the x −y plane, show- ing a 2D anti-HOTI phase (right). Orange spheres denote Weyl points separating QAHI and anti-HOTI regions. Blue incomplete surfaces and broken circles indicate the absence of hinge/corner states, corresponding to anti-hinge and anti- corner states. given below: dx(k) = sin kx, dy(k) = sin ky, dz(k) = m + Bx cos kx + By cos ky + Bz cos kz, (1) where m is the mass parameters and Bx/y/z is the hop- ping parameters for x/y/z direactions. It is well estab- lished that realizing Weyl points necessitates breaking ei- ther time-reversal symmetry (T )...",
+        "FIG. 2. (a) The vector plot of the Berry curvature in momen- tum space, with only vectors of large magnitude shown. Red (blue) arrows indicate outward (inward) Berry-curvature flow, corresponding to Weyl points with positive (negative) chiral- ity. (b) The slice Chern number C versus kz. (c,d) Numerical energy levels of a finite-sized circular system with different wave vectors kz = 0.8π for (c) and kz = 0.2π for (d). Bulk, edge, and anti-corner states are shown in black, red, and blue, respectively. Insets display the cumulative density of states for all edge states in Panel (c) or anti-corner states in Panel (d), where the radius of each colored circle is proportional to the cumulative density ρ(i) at the corresponding lattice site. The other parameters are set as m = −1, Bx = 1.5, λ = 0.5, Bz = 1, and R = 20a. the circular nanoflake satisfy the condition p2 + q2 ≤R2 with radius R =...",
+        "FIG. 3. (a) Energy spectra of ribbons versus ky, with eigen- states color-coded by their position ⟨x/Lx −1/2⟩to distin- guish bulk states and surface (anti-hinge) states. (b) Energy spectra of ribbons versus kx, with eigenstates color-coded by ⟨y/Ly −1/2⟩to distinguish bulk states and surface (anti- hinge) states. The width of ribbon is chosen as L = 100. Other parameters are the same as those in",
+        "Fig. 2. from conventional chiral edge states in the QAHI phase to the directionally suppressed anti-corner states in the anti-HOTI phase, as the system passes through the Weyl point at kz = k0 z. Anti-Fermi arcs.—The definitive fingerprint of an anti- HOWSM is the emergence of ”anti-Fermi arcs.” Unlike conventional Weyl semimetals where Fermi arcs typically form continuous surface states states connecting Weyl points, the anti-Fermi arcs in anti-HOWSM exhibit a unique subtractive topology: these surface states are se- lectively suppressed along specific crystalline boundaries while persisting on others. To visualize this, we calculate the energy spectra of nanoribbons finite in the x and y directions, respectively, as plotted in"
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that higher-order topology extends the bulk-boundary correspondence by enabling corner or hinge localized states. Here we identify an anti-higher-order Weyl semimetal, a three dimensional topological phase in which the conventional boundary hierarchy is reversed.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2609.00780",
+      "title": "Anti-higher-order topological insulators",
+      "authors": [
+        "Cheng-Ming Miao",
+        "Yu-Hao Wan",
+        "Ying-Tao Zhang",
+        "Qing-Feng Sun"
+      ],
+      "abstract": "Duality is a fundamental concept in physics that connects complementary opposites like particles and holes. Similarly, while topological states in topological insulators localize at boundaries, the existence and nature of their dual counterparts remain unexplored. Here, we introduce anti-topological states as the dual of topological states, exemplified by anti-higher-order topological insulators. Unlike higher-order topological insulators, where states localize at corners, anti-higher-order topological insulators host states along edges but absent at corners, realizing an inverted distribution of states. We demonstrate this phenomenon in a bilayer Chern insulator with opposite Chern numbers, where the band inversion surfaces enclose distinct high-symmetry points. The topological invariant distinguishing these phases is given by the topological charges enclosed by band inversion surfaces. This work establishes anti-topology as a new paradigm, opening a chapter in topological research.",
+      "journal": "arXiv",
+      "published": "2026-09-01",
+      "url": "https://arxiv.org/abs/2609.00780",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2609.00780-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.00780-fig01.png",
+        "/data/figures/arxiv-2609.00780-fig02.png",
+        "/data/figures/arxiv-2609.00780-fig03.png",
+        "/data/figures/arxiv-2609.00780-fig04.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a, b) Schematic of the HOT phase with localized corner states in a circular nanoflake (a), and the anti-HOT phase with anti-corner states extending along most bound- aries but vanishing at specific corners (b). (c) Numerical energy levels of a finite-sized circular bilayer Chern insula- tor system, where anti-corner states are highlighted in blue symbols. The red rectangle indicates the near zero energy region, which is enlarged in the upper left inset. (d) Spatial distributions of representative anti-corner states marked by the star symbols in (c). The gray dots represent discrete lat- tice sites and the areas of the blue circles are proportional to the local density of states. The parameters are set as R = 30, M1 = M2 = 1, A1 x = A1 y = A2 x = −A2 y = 1, B1 x = B1 y = 1, B2 x = 1, B2 y = −2, t0 = 0.3. ping with strength t0, giving the bilayer Hamiltonian: H (k) = \u0012H1 (k) t0σ0...",
+        "FIG. 2. (a-c) Band structures of nanoribbons with periodic boundary conditions along different edge directions. The edge angles are θ = 0 in (a), θ = π/4 in (b), and θ = π/2 in (c). Red and black lines correspond to edge states and bulk states, respectively. (d) The energy gap ∆as a function of edge an- gles θ. (e, f) Spin-texture maps in the Brillouin zone for layer 1 and layer 2, respectively. The black arrows represent the components of (dα x, dα y ), while the color represents the dα z component (with the yellow contour marking dα z = 0). Four green dots in (e) correspond to four high-symmetry points. The nanoribbon width is set to L = 300, and all other pa- rameters are the same as those in",
+        "Fig. 1. set of states (blue symbols) whose spatial distributions we analyze below. For clarity, the red rectangle indi- cates the near zero energy region, which is enlarged in the upper left inset of Fig. 1(c). The star symbols mark the representative state selected for visualizing its spa- tial distribution. As shown in Fig. 1(d), these states are localized along most boundaries but are strongly sup- pressed near specific boundary positions. These states exhibit typical characteristic: they are localized along edges but vanish sharply along specific boundary direc- tions, as shown in Fig. 1(d). We define these states as anti-corner states, which serve as the defining feature of the anti-HOT phase. Supplementary Video and Sec. S2 of the Supplemental Material [34] provide animated visu- alizations of the local density distributions for every blue- symbol state, confirming that the...",
+        "FIG. 3. (a) Schematic illustration of a Chern insulator with d- wave altermagnetic coupling. (b) Energy gap ∆vs edge angle θ with width L = 300. (c) Spectrum of a circular nanoflake, highlighting anti-corner (blue) and bulk (black) states. (d-h) Spatial distributions of the representative states marked in (c). Parameters: R = 40, m = B = 1, J = 0.9. layer Chern insulator model above identifies the essen- tial conditions and underlying mechanism for realizing the anti-HOT phase. Guided by this insight, we con- sider altermagnets [37–46], whose intrinsic momentum- space spin anisotropy naturally produces BIS enclosing distinct high-symmetry points, making altermagnetically coupled Chern insulators a promising platform for the anti-HOT phase. Motivated by this symmetry property, we introduce d-wave altermagnetic coupling into a mono- layer Chern insulator to construct a lattice model for..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that duality is a fundamental concept in physics that connects complementary opposites like particles and holes. We demonstrate this phenomenon in a bilayer Chern insulator with opposite Chern numbers, where the band inversion surfaces enclose distinct high-symmetry points.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2609.00139",
+      "title": "Higher-Winding Fractionalization",
+      "authors": [
+        "Kishore Iyer",
+        "Christophe Mora",
+        "Daniele Guerci"
+      ],
+      "abstract": "Higher-winding skyrmion textures can generate emergent magnetic fields with multiple flux quanta per unit cell. This opens an intriguing route toward fractionalization, allowing fractionalized quantum anomalous Hall states to arise even at integer filling of the microscopic unit cell. We show that, in this setting, increasing lattice-scale inhomogeneity of the emergent magnetic field drives a Berezinskii--Kosterlitz--Thouless (BKT) transition between a fractionalized liquid and a crystalline dielectric state. This transition carries a topological signature: under flux insertion, the many-body polarization defines a quantized winding number that is nonzero in the fractionalized phase and vanishes in the dielectric crystal.",
+      "journal": "arXiv",
+      "published": "2026-08-31",
+      "url": "https://arxiv.org/abs/2609.00139",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2609.00139-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.00139-fig01.png",
+        "/data/figures/arxiv-2609.00139-fig02.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Higher-winding skyrmion model bands and fractionalization at filling ν = 1. The low-energy manifold for Jm∗a2/(π2ℏ2) = 100 consists of Q = 3 flat bands with total Chern number |Ctot| = 1, which become degenerate in the infinite-J limit. Many-body spectrum vs. center of mass momentum q, from ED on a 3×3 torus for electrons at filling ν = 1, using the three lowest energy bands with V1 interaction at K = 0.4. The ground state is threefold degenerate. We focus on the minimal higher-winding case, Q = 3, at filling ν = 1 of the ideal bands. In this regime, lattice-scale inhomogeneities of the emergent magnetic field qualitatively reshape the many-body ground state. For weak modulation, repulsive interactions stabilize a FCI with a threefold-degenerate ground-state manifold adiabatically connected to the Laughlin fractional quan- tum Hall state. Interestingly, increasing the inhomo-...",
+        "FIG. 2. Topological response and perfect screening of the ideal FCI. (a) Many-body positions X1 (blue) and X2 (orange) under flux insertion ϕ2. (b) Connected static structure factor S(q) along qx in unit of ℓ2 = AUC/(2πQ), where the solid parabola shows the long-wavelength behavior. Plots are for N = 192 electrons at K = 0.4. To demonstrate this mechanism, we consider one elec- tron per moir´ e unit cell, ν = 1, and Q = 3. We refer to this setup as the three-flux model. Since the emergent flat-band manifold in Eq. (4) contains three states per unit cell, this corresponds to an effective filling 1/3 of that manifold, despite the integer filling of the unit cell. We therefore study interacting electrons projected to this three-band manifold, assuming that the single- particle gap to higher bands is sufficiently large to suppress interaction-induced band mixing. To expose the..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that higher-winding skyrmion textures can generate emergent magnetic fields with multiple flux quanta per unit cell. We show that, in this setting, increasing lattice-scale inhomogeneity of the emergent magnetic field drives a Berezinskii--Kosterlitz--Thouless (BKT) transition between a fractionalized liquid and a crystalline dielectric state. This opens an intriguing route toward fractionalization, allowing fractionalized quantum anomalous Hall states to arise even at integer filling of the microscopic unit cell.",
+      "abstract_status": "original"
+    },
     {
       "id": "arxiv:2608.29833",
       "title": "Floquet Topological Spin-Valley-Layertronics on a Layered Dice Lattice",
