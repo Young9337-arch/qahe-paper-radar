@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T06:03:19.279153+00:00",
+  "updated_at": "2026-09-10T06:01:40.713669+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,25 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1063/5.0343925",
+      "title": "Chern insulator in periodic magnetically doped two-dimensional semiconductors",
+      "authors": [
+        "Dinh Loc Duong"
+      ],
+      "abstract": "The quantum anomalous Hall effect introduces a dissipationless edge current without an external magnetic field, offering opportunities for low-power electronics and a platform for harnessing quantum phenomena. Although this phenomenon has been observed in several materials, including magnetic-doped topological insulators, the topological antiferromagnet MnBi2Te4, multilayer graphene, and twisted 2D materials, the magnetic transition temperature remains low in these systems. Exploring novel materials with a non-zero Chern number and a magnetic phase at high temperatures is both crucial and challenging. Here, we propose an approach to induce nontrivial bands with nonzero Chern numbers by leveraging strong spin–orbit coupling in magnetic-doped transition metal dichalcogenides. We demonstrate that a doped state near the valence-band edge induces band crossing with the hybridized host band, leading to topologically non-trivial properties. Calculations for V-doped WSe2 and WS2 confirm this mechanism. The coexistence of magnetic order and nontrivial topology in these systems offers a promising platform for exploring the quantum anomalous Hall effect at high temperatures.",
+      "journal": "Journal of Applied Physics",
+      "published": "2026-09-14",
+      "url": "https://doi.org/10.1063/5.0343925",
+      "doi": "10.1063/5.0343925",
+      "source": "Crossref",
+      "material_system": "MnBi2Te4_MTI",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In MnBi2Te4 MTI, this paper argues that the quantum anomalous Hall effect introduces a dissipationless edge current without an external magnetic field, offering opportunities for low-power electronics and a platform for harnessing quantum phenomena. Here, we propose an approach to induce nontrivial bands with nonzero Chern numbers by leveraging strong spin–orbit coupling in magnetic-doped transition metal dichalcogenides.",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1088/1361-6463/ae9f66",
@@ -109,6 +128,11 @@
       "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
       "figure_urls": [
         "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -163,6 +187,45 @@
         "FIG. 6. Bogoliubov Fermi surfaces in the SU(4) gauge-field su- perfluid when the chemical potential lies in the middle-band region. The parameters are chosen as µ = −0.8, U0 = 2, and U2 = 3, for which the self-consistent solution is dominated by quintet pairing. (a) Bogoliubov-de Gennes quasiparticle spectrum. The zero-energy contours indicate the emergence of Bogoliubov Fermi surfaces. (b) Sign of the Pfaffian topological invariant in the Brillouin zone. The red and blue regions denote positive and negative Pfaffian signs, re- spectively. The sign-changing boundaries coincide with the Bogoli- ubov Fermi surfaces shown in (a). C. Bogoliubov Fermi surfaces We next examine the quasiparticle spectrum of the super- conducting state. For the quintet states selected by the SU(4) gauge field, the excitation spectrum depends sensitively on the position of the chemical potential. When the..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that we study topological band structures and superfluid phases in two-dimensional square-lattice systems with homogeneous SU($N$) non-Abelian gauge fields. Starting from an SU(4) gauge-field model related to the Hofstadter model with flux $α=1/4$, we show that the lowest and highest bands are isolated Chern bands that carry Chern numbers $C=-4$ and give rise to four chiral edge modes in a strip geometry. We find that the uppermost and lowermost bands become increasingly flat and their Berry curvature becomes more uniform as $N$ increases, providing a promising platform for realizing fractional Chern insulating...",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2609.09422",
+      "title": "Quantum Phase Transitions and Fractional Quantized Anomalous Hall Insulators in Rhombohedral Graphene",
+      "authors": [
+        "Zach Hadjri",
+        "Xinlei Yue",
+        "Tonghang Han",
+        "Yuxuan Yao",
+        "Zhengguang Lu",
+        "Shenyong Ye",
+        "Junseok Seo",
+        "Jixiang Yang",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Liang Fu",
+        "Ady Stern",
+        "Long Ju"
+      ],
+      "abstract": "Fractional quantum anomalous Hall effect (FQAHE) has been discovered in twisted MoTe$_2$ and rhombohedral graphene/hBN moiré superlattices. Such van der Waals heterostructures feature a tuning knob of gate displacement field $D$, which is absent from the conventional fractional quantum Hall systems in two-dimensional electron gases. $D$ plays a critical role in engineering FQAHE and other emergent quantum states and provides an exciting new opportunity to explore their quantum phase transitions. However, the microscopic details of such transitions and temperature-dependent transport have remained mostly elusive. Here we report systematic resistance measurements in rhombohedral pentalayer graphene/hBN moiré superlattices. We found that the displacement field-driven phase transitions between Composite Fermi liquid, Fermi liquid, Fractional Chern insulators, and insulating states are described by semi-circle relations of the longitudinal and transverse resistivities (or conductivities), largely unexplored in the fractional quantum Hall systems. This agrees with a spatially separated two-phase picture for the phase transitions and further indicates a new insulator phase--fractional quantized anomalous Hall insulator. By comparing the temperature-dependence of longitudinal resistance with the thermal activation model, we estimated the transport gap sizes in three fractional Chern insulator states. Our work shed light on the quantum and temperature evolutions of fractional Chern insulator states--providing necessary background for anyon-braiding and gate-defined junctions in rhombohedral graphene.",
+      "journal": "arXiv",
+      "published": "2026-09-08",
+      "url": "https://arxiv.org/abs/2609.09422",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2609.09422-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.09422-fig01.png",
+        "/data/figures/arxiv-2609.09422-fig02.png",
+        "/data/figures/arxiv-2609.09422-fig03.png"
+      ],
+      "figure_captions": [
+        "Fig. 1b. Along the white dashed lines that correspond to filling factors 𝜈 = 2/5, 3/7, 4/9, 5/11, 5/9, 4/7, 3/5 and 2/3, FCI states can be seen as local minima of Rxx versus 𝜈 (indicated by the orange star for the 3/7 state, for example). For filling factors below 1/2, at higher and lower D values than the range of FCI state, a valley-symmetry- broken FL state and a CI state are observed and labeled by the red triangle and pink hexagon, respectively. The intermediate state between FL and FCI is labeled by the green diamond. Figure 1c-f show the 𝜌𝑥𝑦−𝜌𝑥𝑥 plots for states along the dashed lines in Fig. 1b for 𝜈 = 3/7, 4/9, 5/11 and 2/5, respectively. We found that the states between FL and FCI fall on semi-circles at the base temperature, while the states between FCI and CI form a vertical line feature. Note that we converted Rxx to 𝜌𝑥𝑥 by using a geometric aspect ratio of around 1.3 (see...",
+        "Fig. 1g. Using 𝜈 = 3/7 as an example, when the device area is dominated by one of the two phases under ideal conditions, the macroscopic transport is to follow (𝜌𝑥𝑦, 𝜌𝑥𝑥) ~ (0, 0) and (7ℎ3𝑒2 ⁄ , 0) correspondingly. As we tune D by starting from the FL-dominated side, the regions of the FCI phase gradually expand and redistribute the current inside the sample. Along such a process, the net resistivities(conductivities) deviate from the pure FL state, (𝜌𝑥𝑦, 𝜌𝑥𝑥) ≈ (0,0), following the semi-circle trajectory determined by the resistivities (conductivities) of the two phases, and eventually reach (𝜌𝑥𝑦, 𝜌𝑥𝑥)~ (7ℎ3𝑒2 ⁄ , 0). At even lower D values, the device gets into an insulating state that corresponds to 𝜌𝑥𝑦∼7ℎ3𝑒2 ⁄ and a diverging 𝜌𝑥𝑥. This picture applies to 𝜈 = 3/7, 4/9, 5/11 and 2/5 well as shown in Fig. 1c-e.",
+        "Fig. 1. Resistivity semi-circles of FL-FCI quantum phase transitions in a pentalayer rhombohedral graphene/hBN moiré superlattice. a, Optical micrograph of the device reported on in this paper. The probe configuration used to measure 𝑅𝑥𝑥 and 𝑅𝑥𝑦 is shown. b, Color map of longitudinal resistance 𝑅𝑥𝑥 as a function of moiré filling factor 𝜈 and D. Vertical stripes corresponding to FCIs can be seen in the intermediate range of D, above (below) which is the Fermi liquid state (the correlated insulating (CI) state). The thermal activation data in Fig. 4 were taken along the dotted-dashed line. c-f, Longitudinal resistivity 𝜌𝑥𝑥 versus Hall resistivity 𝜌𝑥𝑦 plots, corresponding to the dashed lines in b for 𝜈= 3/7, 4/9, 5/11 and 2/5 at varying temperatures. The red triangle, green diamond, orange star and pink hexagon markers in c correspond to four (n, D) points in b at filling factor 3/7. These..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that fractional quantum anomalous Hall effect (FQAHE) has been discovered in twisted MoTe$_2$ and rhombohedral graphene/hBN moiré superlattices. $D$ plays a critical role in engineering FQAHE and other emergent quantum states and provides an exciting new opportunity to explore their quantum phase transitions.",
       "abstract_status": "original"
     },
     {
@@ -279,6 +342,11 @@
       "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
       "figure_urls": [
         "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -291,7 +359,8 @@
         "FIG. 2. Benchmark of the irrep-projected HyperDet wavefunction ansatz against ED results on a 3 × 6 × 2 sample (2 is the sublattice) for model Eq. (19) at half-filling ν = 1/2 as the extended-hopping strength t′′ ∈[−1, 0] is varied. (a) Comparison of the lowest twenty ED energies across all sectors and the irrep-projected variational energy in the global ground-state sector. The three phases SF@M, bosonic FCI, and SF@Γ are shaded with their phase boundaries adapted from the DMRG calculations in Ref. [64]. (b) Wavefunction overlap with the ED ground states. Note: the prominent drop in the overlap at t′′ ≈−0.71 is due to the closing of the direct gap in the chosen sector (0, 3). Such a tiny-gap region is notoriously difficult for VMC to resolve [100]. The resulting overlap drop is thereby an artifact of VMC; it does not compromise the expressiveness of our HyperDet wavefunction ansatz. V....",
         "FIG. 3. Bipartite Fusion Matrix SVD Spectrum of Bosonic Two- parton Case. Top three largest normalized singular values of the bipartite fusion matrix Eq. (14) along the extended-hopping sweep t′′ ∈[−1, 0] for the bosonic model Eq. (19) on a 3 × 6 × 2 sample at ν = 1/2. The abrupt jump in the singular value strengths around t′′ ≈−0.7, and the smooth change of the slope around t′′ ≈−0.5, are consistent with the first-order and continuous phase boundaries revealed in Ref. [64], respectively. The shaded phase regions, taken from Ref. [64], are also included for comparison. tinuous FCI–SF@Γ transition near t′′ ≈−0.495. We perform VMC optimization of the fusion tensor with two parton species, m = 2, for this bosonic model by sweep- ing t′′ ∈[−1, 0] following Ref. [64]. This single sweep is a stringent phase-agnostic test. The middle bosonic FCI phase has intrinsic semion topological order,...",
         "Fig. 4. The perfor- mance of the HyperDet wavefunction in the fermionic case remains excellent: the variational energy error remains less than 1.0 × 10−3 per particle, with exceptional wavefunction overlaps over 99.96% across the entire sweep of AHC, FCI, and",
-        "FIG. 4. Benchmark of the irrep-projected HyperDet wavefunction ansatz against ED results on a 3 × 5 × 2 sample (2 is the sublattice) for model Eq. (20) at band filling ν = 1/3 as the extended-hopping strength t′′ ∈[−0.62, 0.41] is varied. (a) Comparison of the lowest twenty ED energies across all sectors and the chosen global ground state of the irrep-projected variational energy. The phase bound- aries between candidate AHC, fermionic FCI, and candidate CDW here are determined from the ED spectrum sweep detailed in Ap- pendix [77]. Although this is not a thermodynamic-limit phase di- agram, it suffices to benchmark the expressiveness of the ansatz on this finite cluster. (b) Wavefunction overlap with the ED ground states. CDW phases, and in particular over 99.98% throughout the FCI phase, within two thousand VMC updates. We also perform an SVD analysis of the bipartite fusion matrix..."
+        "FIG. 4. Benchmark of the irrep-projected HyperDet wavefunction ansatz against ED results on a 3 × 5 × 2 sample (2 is the sublattice) for model Eq. (20) at band filling ν = 1/3 as the extended-hopping strength t′′ ∈[−0.62, 0.41] is varied. (a) Comparison of the lowest twenty ED energies across all sectors and the chosen global ground state of the irrep-projected variational energy. The phase bound- aries between candidate AHC, fermionic FCI, and candidate CDW here are determined from the ED spectrum sweep detailed in Ap- pendix [77]. Although this is not a thermodynamic-limit phase di- agram, it suffices to benchmark the expressiveness of the ansatz on this finite cluster. (b) Wavefunction overlap with the ED ground states. CDW phases, and in particular over 99.98% throughout the FCI phase, within two thousand VMC updates. We also perform an SVD analysis of the bipartite fusion matrix...",
+        "FIG. 5. Species-Averaged Bipartite Fusion Matrix SVD Spec- trum of Fermionic Three-parton Case. Top five largest nor- malized, species-averaged singular values of the bipartite fusion matrix Eq. (12) obtained from the one-versus-two parton biparti- tions of the optimized fusion tensor. The calculation is done for the fermionic model Eq. (20) on a 3 × 5 × 2 sample at ν = 1/3. The observed singular value strengths jump around t′′ ≈−0.41 and a smooth change of slope around t′′ ≈0.15 is consistent with the ED-resolved finite-size AHC–FCI and FCI–CDW phase boundaries. a diagnostic tool for many-body phase transitions without extra information from phase-specific physical observables. VI. INTERPRETABILITY OF THE HYPERDET WAVEFUNCTION ANSATZ A. Parton Chern Numbers from the Optimized Fusion Tensor A central question for the interpretability of the optimized fusion tensor is whether it encodes..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that describing competing phases of strongly correlated systems often requires trial wave functions built from phase-specific assumptions. We propose the \\emph{hyperdeterminant (HyperDet) wavefunction} as a phase-agnostic ansatz for both bosonic and fermionic quantum many-body systems exhibiting spontaneous symmetry-breaking order, fractionalization, and/or topological order with anyonic excitations. We thus anticipate the HyperDet wavefunction to be a promising variational platform for both accurate ground-state searches and phase-diagram explorations across strongly correlated phases, and for providing...",
       "abstract_status": "original"
@@ -518,8 +587,13 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -689,6 +763,11 @@
       "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
       "figure_urls": [
         "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -701,7 +780,9 @@
         "FIG. 3: Chiral edge mode coexisting with a bulk Dirac node, Eq. (7), at tc = 0.3 and M1 = 0. (a)-(c) Cylin- der spectra (periodic along a1). Grey marks bulk states; colored points are edge modes (the higher the color inten- sity, the more localized to the edge) , blue for left-moving (v > 0) and orange for right-moving (v < 0). The dashed line is the projection of K′. (a) C = 2: two pairs of co- propagating chiral edge modes. (b) At M2 = M c 2 the bulk closes, where one pair of edge modes delocalize into the bulk and the other pair remains robust. (c) C = 1: one pair of edge modes. (d) 3J/π versus R for the three cases in (a)-(c): converges to 2, 3/2, and 1, respectively. partner valley K stays gapped, so the low-energy bulk at M2 = M c 2 is again a single massless Dirac cone, where one pair of chiral/anti-chiral modes merge into the bulk, and the other pair survive. Fig. 3(a)-(c)...",
         "FIG. 4: (a) Schematic figures for quadratic node (left) and finite Fermi surface with µ = 0.75 (right). (b) En- tanglement scaling: Quadratic node still satisfies the area law, whereas the FS follows the Widom scaling [19]. (c) The MC: both cases seem to converge in the thermody- namic limit, but we note that the quadratic node case dif- fers significantly from 1 = (C+ + C−)/2, and the FS case differs from the Berry curvature σxy (dotted line) [39]. (d) Curvature dependence of the MC for a quadratic node. with f(k) = P3 j=1eik·δj. For n = 1, Eq. (8) is the Hal- dane model. Taking n = 2 doubles the winding, realizing a C : 2 →0 transition with a quadratic band touching E ∝q2 at the critical point. Here we take ˜ t1 = t = 1 and ˜ t2 = 1/3. Secondly, to achieve a Fermi surface we use a non-zero chemical potential µ on top of the original gapped Haldane model (here only ˜ t1 term is kept)....",
         "FIG. 5: Markov property check. (a) The chain triparti- tion ABC of a 3w × 3w square. (b) CMI: decays expo- nentially in the gapped case and saturates in the critical case (with a Dirac node). Appendix A: Violation of Markov property The Markov property is defined through the condi- tional mutual information (CMI) of a chain partition of a subregion of a state (see Fig. 5(a), i.e. A and C are fully separated from one another by B). Writing the von Neu- mann entanglement entropy SX = −TrρX log ρX, the CMI is defined by I(A:C|B) = SAB + SBC −SB −SABC. (A1) The Markov property states that the CMI for a gapped state must decay to zero exponentially with the size w. Operationally the Markov property is the statement that the modular Hamiltonian is local, in the sense that it decomposes additively, KABC ≃KAB + KBC −KB [42]. Fig. 5(b) shows that the CMI of the critical point sat- urates when...",
-        "FIG. 6: Deformation invariance check. (a) Different ge- ometries of tripartition. (b) The (non)-convergence of the MC in various cases under tripartitions given in (a)."
+        "FIG. 6: Deformation invariance check. (a) Different ge- ometries of tripartition. (b) The (non)-convergence of the MC in various cases under tripartitions given in (a).",
+        "FIG. 7: Effects of linear velocity (a) and anisotropy (b) on the MC of states with a Dirac cone. and when the cone becomes anisotropic. Fig. 7 shows that the half-quantization remains robust in both cases.",
+        "FIG. 8: (a) The FSV formula applied to the gapped and the critial cases. (b) The convergence of the FSV formula in the critical case, with the MC also shown for compar- ison. Both follow a power law. 8 Appendix C: Fan-Sahay-Vishwanath formula for Hall conductance Recently, Fan, Sahay and Vishwanath proposed a new formula (referred to as the FSV formula below) to extract the Hall conductance of a gapped state using a single bulk wavefunction [34]. Given the same tripartition used for the modular commutator, the FSV formula says Σ(A, B, C) ≡i 2⟨[KAB, Q2 BC]⟩= σxy, (C1) where KX is defined as before, and QX is the total charge operator in the region X, P j∈X c† jcj. Here we apply the FSV formula to the critical point with a Dirac cone. Fig. 8 shows that, similar to the MC, it is also half-quantized, and both quantities have power law convergence with system size. Appendix D: Energy scale..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that the modular commutator $J(A,B,C) = i\\langle[K_{AB},K_{BC}]\\rangle$ extracts the chiral central charge $c_-$ from a single bulk wavefunction of a \\emph{gapped} 2d state, where $3J/π=c_-$. For the critical point hosting an isolated Dirac node we find that $J$ remains sharp: it converges to a \\textit{half-quantized} value, with corrections that decay as a power law in the subsystem size rather than exponentially, mirroring the power-law correlations in gapless systems. These results generalize the modular commutator beyond gapped phases, and at the same time provide an information-theoretic measurement of the...",
       "abstract_status": "original"
@@ -722,8 +803,13 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Kagome_Lattice",
-      "image_url": "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -767,6 +853,11 @@
       "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
       "figure_urls": [
         "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -798,8 +889,13 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Kagome_Lattice",
-      "image_url": "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1066,6 +1162,11 @@
       "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
       "figure_urls": [
         "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1173,6 +1274,11 @@
       "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
       "figure_urls": [
         "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1185,7 +1291,8 @@
         "Figure 3. Residual physical-auxiliary coupling. (a) Compari- son of spin-spin correlation function between physical-physical and auxiliary-physical. (b) Frobenius norm of the density matrix differ- ence that measures the coupling between the physical and the auxil- iary system. where ∥· ∥F denotes the Frobenius norm. This is stronger than any single correlation function, since it probes the reduced density matrix on R and tests whether it approximately fac- torizes between the physical and auxiliary subsystems. Fig. 3 (b) demonstrates the factorization error decreases rapidly with increasing bond dimension. Together with the weak short ranged inter-layer correlations, our studies show that the resid- ual physical-auxiliary coupling in the entanglement space only affects short-distance quantites and can be systematically suppressed when enlarging D. These results confirm the...",
         "Figure 4. Bipartite entanglement spectrum of the spin state on finite-width cylinders. Variational ˜ D = 6 state (with a virtual space V = 0⊕0⊕1 2 ⊕1 2) with SU(2) symmetry. (a)-(b) Entanglement spec- trum of the enlarged physical-plus-auxiliary wavefunction, resolved by the total momentum in (a) and by the physical momentum in (b) on a width-8 cylinder. CTMRG environment with χ = 80 is used to construct entanglement Hamiltonian. (c)-(d) Projected spectra in fixed auxiliary-momentum sectors on a width-6 cylinder. Exact con- traction is used to construct entanglement Hamiltonian. Resolving the Schmidt states by the total momentum (ktot y ) gives the ordinary non-chiral spectrum of the enlarged state, as shown in Fig. 4 (a). Instead resolving with respect to the physical-layer momentum (kphy y ) reorganizes the same low- energy states according to the chiral conformal level h + N, in Fig....",
         "Figure 5. Sketch diagram for translation operator actions used in the calculation of entanglement spectrum on a W = 3 cylinder. (a) Full Ty = T aux y T phy y translation for both physical and auxiliary systems. (b) Partial Ty = T phy y translation for only the physical system. For this spin model, the energy, correlation functions, and transfer-matrix spectra are computed with dense tensors. For the entanglement-spectrum analysis, we additionally use an SU(2)-symmetric tensor ansatz, which resolves the total-spin quantum numbers of the Schmidt states and makes the SU(2)1 level counting directly visible. In the numerical calculations of the entanglement spectrum in Fig. 4 in the main text, we use two complementary contraction schemes. The spectra resolved by the total momentum and by the physical momentum in Figs. 4 (a) and (b) are obtained from the CTMRG fixed-point environment, where...",
-        "Fig. 5. This means we can approximately label the subsystem Schmidt eigenvectors of the two layers with an independent momentum. On the chiral theory level, as explained above, the momentum operator and the entanglement Hamiltonian are actually the same one up to non-universal normalization factors. Now we can construct a fixed momentum value ka 0 for the auxiliary part, and calculate the entanglement energy spectrum with respect to the physical layer momentum. The energy spectrum now have the structure q ∼hi + Ni −ka 0 ∆∼hi + Ni + ka 0. (B10) This is the universal chiral energy spectrum ∆∼q one expects for the boundary theory of a chiral bulk topological order. In particular for the SU(2)1 theory, the chiral and anti-chiral global SU(2) symmetry admits a diagonal global SU(2). We consider only integer spins, hence there are (I, I) and (s, s) sectors in the boundary theory, while the..."
+        "Fig. 5. This means we can approximately label the subsystem Schmidt eigenvectors of the two layers with an independent momentum. On the chiral theory level, as explained above, the momentum operator and the entanglement Hamiltonian are actually the same one up to non-universal normalization factors. Now we can construct a fixed momentum value ka 0 for the auxiliary part, and calculate the entanglement energy spectrum with respect to the physical layer momentum. The energy spectrum now have the structure q ∼hi + Ni −ka 0 ∆∼hi + Ni + ka 0. (B10) This is the universal chiral energy spectrum ∆∼q one expects for the boundary theory of a chiral bulk topological order. In particular for the SU(2)1 theory, the chiral and anti-chiral global SU(2) symmetry admits a diagonal global SU(2). We consider only integer spins, hence there are (I, I) and (s, s) sectors in the boundary theory, while the...",
+        "Fig. 4. The first two rows give the expected Iphy and sphy towers of the chiral SU(2)1 edge theory, while the last two rows give the auxiliary- momentum-projected branches obtained from the enlarged PEPS. The 0aux ⊗Iphy branch directly reproduces the identity tower. The 1 2 aux ⊗sphy branch is obtained by tensoring the physical semion tower with the lowest auxiliary spin- 1 2 multiplet, yielding the integer-spin content shown in the table. Importantly, the table contains all low-lying levels that can be unambiguously identified in the projected numerical spectra. We resolve four conformal levels in the 0aux ⊗Iphy branch and three in the 1 2 aux ⊗sphy branch, and all of them reproduce the corresponding theoretical multiplet content."
       ],
       "ai_summary": "In Other New Materials, this paper argues that it has been controversial whether infinite projected entangled pair state (PEPS) can faithfully describe chiral gapped phases in two dimensions or not. For both a free-fermion Chern insulator and an interacting chiral spin liquid, the resulting PEPS show clean gapped correlation functions, and a finite transfer-matrix correlation length, in contrast with the artificial long-range tail of direct chiral PEPS representations. Our study provides a practical route to access gapped chiral phases with finite bond-dimension PEPS by changing the representation problem rather than directly studying the chiral pure state.",
       "abstract_status": "original"
@@ -1276,8 +1383,13 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1391,8 +1503,13 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1462,8 +1579,13 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1493,6 +1615,11 @@
       "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
       "figure_urls": [
         "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
