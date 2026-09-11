@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T06:01:40.713669+00:00",
+  "updated_at": "2026-09-11T06:04:17.146760+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -72,6 +72,64 @@
       ],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that abstract Composition engineering modifies local ligand fields, orbital hybridization, and crystal symmetry, providing a route to tailor the band topology of two-dimensional magnetic materials. These results demonstrate an ordering-dependent modulation of band topology in VCl 3 − x Br x monolayers and identify the ordered Janus phase as a metastable theoretical candidate.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/pvtg-t7y9",
+      "title": "Coexistence of spontaneously polarized layer Hall effect and quantum anomalous Hall effect in noncompensated antiferromagnetic heterostructures",
+      "authors": [
+        "Anonymous"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Coexistence of spontaneously polarized layer Hall effect and quantum anomalous Hall effect in noncompensated antiferromagnetic heterostructures in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-09-10",
+      "url": "https://doi.org/10.1103/pvtg-t7y9",
+      "doi": "10.1103/pvtg-t7y9",
+      "source": "Crossref",
+      "material_system": "Oxide_Heterostructure",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2609.10720",
+      "title": "Moiré Topology in Twisted Structures with Noncollinear Spin-Orbit Coupling",
+      "authors": [
+        "Xilong Xu",
+        "Liangtao Peng",
+        "Shaffique Adam",
+        "Li Yang"
+      ],
+      "abstract": "Moiré superlattices provide a powerful platform for flat bands and correlated topological phases, yet most established examples rely on valley-contrasting Berry curvature in hexagonal lattices. Here, we propose a different route to achieve topological moiré minibands based on noncollinear spin orbit coupling in centrosymmetric type II SOC bilayers. Interlayer hybridization opens local pseudogaps and produces sharply localized Berry curvature, which twisting reconstructs into isolated topological minibands without requiring valley degrees of freedom or hexagonal symmetry. We demonstrate this mechanism in tetragonal Dresselhaus-SOC HgI2, where a Lieb-like moiré potential yields topological flat bands. To improve miniband isolation, we develop a physics-informed machine-learning surrogate that identifies stronger SOC as a key design principle and guides the replacement of Hg by Pb. The resulting PbI2 minibands are narrower and better isolated, supporting correlation-driven magnetism and tunable quantum spin Hall and Chern insulating phases, thereby providing an optimized material realization for experimental exploration.",
+      "journal": "arXiv",
+      "published": "2026-09-09",
+      "url": "https://arxiv.org/abs/2609.10720",
+      "doi": "10.1021/acs.nanolett.6c02338",
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. Type-II Rashba (R-2) or Dresselhaus SOC (D-2) refers to a centrosymmetric bilayer constructed from two noncentrosymmetric monolayers with opposite polar axes or symmetry-related orientations. The central mechanism is that interlayer hybridization in centrosymmetric type-II SOC bilayers opens local pseudogaps and produces sharply localized Berry curvature near avoided crossings. Twisting then introduces a long-wavelength moiré potential that slices, redistributes, and reconstructs these Berry-curvature hotspots into isolated topological minibands. Importantly, this mechanism does not require valley degeneracy, hexagonal symmetry, or topological monolayer bands. We demonstrate this principle in twisted tetragonal Dresselhaus-SOC HgI₂, where the square- lattice symmetry produces a Lieb-like moiré potential landscape, providing a non-hexagonal realization of topological moiré...",
+        "Fig. 1. In contrast to conventional noncentrosymmetric Rashba/Dresselhaus systems, an R-2/D-2 bilayer restores global inversion symmetry while retaining hidden layer-resolved SOC textures. Taking the D-2 homobilayer as an example, the effective Hamiltonian can be written as: 𝐻= ℏ2𝑘2 2𝑚∗𝜎𝐿0 + 𝛼𝑅(𝑘𝑥𝜎𝑦−𝑘𝑦𝜎𝑥)𝜎𝐿𝑧+ 𝛼𝐼𝜎𝐿𝑥 , (2) where 𝜎𝐿0, 𝜎𝐿𝑧, 𝜎𝐿𝑥 are defined as the layer Pauli metrices. αI is the strength of interlayer coupling, and the term, 𝛼𝐼𝜎𝐿𝑥, accounts for the interlayer coupling energy. Importantly, as shown in Figs. 2(b) and 2(c), a pseudo-gap is created at the crossing point with highly localized berry curvature. In fact, the interlayer interaction essentially works as a pseudo antiferromagnetic field after a unitary transformation of the Hamiltonian Eq. (2). As a result, the intrinsic in-plane Dresselhaus spin texture is biased to the out-of-plane direction around the gap opening...",
+        "Figure 1. Schematic illustration of moiré engineering artificial type-II SOC bilayers to realize topological flat bands and correlated states.",
+        "Figure 2. Model results of monolayer and D-2 bilayer Dresselhauses-SOC structures. Band structures and spin textures of the effective model in monolayer (a) and bilayer (b) Dresselhauses SOC. (c) Berry curvature around Γ point in D-2 system."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that moiré superlattices provide a powerful platform for flat bands and correlated topological phases, yet most established examples rely on valley-contrasting Berry curvature in hexagonal lattices. Here, we propose a different route to achieve topological moiré minibands based on noncollinear spin orbit coupling in centrosymmetric type II SOC bilayers.",
       "abstract_status": "original"
     },
     {
