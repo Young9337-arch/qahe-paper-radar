@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T06:04:17.146760+00:00",
+  "updated_at": "2026-09-12T05:52:32.955951+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -72,6 +72,25 @@
       ],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that abstract Composition engineering modifies local ligand fields, orbital hybridization, and crystal symmetry, providing a route to tailor the band topology of two-dimensional magnetic materials. These results demonstrate an ordering-dependent modulation of band topology in VCl 3 − x Br x monolayers and identify the ordered Janus phase as a metastable theoretical candidate.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1142/s0217979226502723",
+      "title": "Quantum anomalous Hall conductivity on the background of Lorentz violating c -tensor",
+      "authors": [
+        "Ozorio Holanda"
+      ],
+      "abstract": "We investigate the quantum anomalous Hall effect in a (2+1)-dimensional fermionic system with a violation of emergent Lorentz invariance parametrized by the constant tensor c μν . Through explicit one-loop calculations, we derive the polarization tensor and obtain the Hall conductivity using the Kubo formula. The conductivity exhibits explicit dependence on the Lorentz-violating parameters through the modified dispersion relation for the fermions. In the static limit (ω → 0), we recover the universal quantized value σ Hall = ±2αsgn(m), demonstrating the robustness of topological response against this Lorentz-violating background.",
+      "journal": "International Journal of Modern Physics B",
+      "published": "2026-09-11",
+      "url": "https://doi.org/10.1142/s0217979226502723",
+      "doi": "10.1142/s0217979226502723",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that we investigate the quantum anomalous Hall effect in a (2+1)-dimensional fermionic system with a violation of emergent Lorentz invariance parametrized by the constant tensor c μν .",
       "abstract_status": "original"
     },
     {
