@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T05:58:40.560007+00:00",
+  "updated_at": "2026-09-19T05:57:56.343775+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -23,6 +23,25 @@
       "figure_urls": [
         "https://files.sciengine.com/template/platform/img/SciEngine-logo.png"
       ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/k6yc-nx4y",
+      "title": "Orbital-selective engineering of strain-tunable Chern insulators in momentum space",
+      "authors": [
+        "Anonymous"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Orbital-selective engineering of strain-tunable Chern insulators in momentum space in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-09-18",
+      "url": "https://doi.org/10.1103/k6yc-nx4y",
+      "doi": "10.1103/k6yc-nx4y",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
