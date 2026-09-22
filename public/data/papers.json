@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T06:25:42.230719+00:00",
+  "updated_at": "2026-09-22T06:18:49.461934+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,63 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/l4wt-87js",
+      "title": "Field-induced metal-insulator transition, Chern insulators, and topological semimetals in the clean magnetic semiconductor GdGaI",
+      "authors": [
+        "Anonymous"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Field-induced metal-insulator transition, Chern insulators, and topological semimetals in the clean magnetic semiconductor GdGaI in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-09-21",
+      "url": "https://doi.org/10.1103/l4wt-87js",
+      "doi": "10.1103/l4wt-87js",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2609.23099",
+      "title": "Non-Hermitian Topology from Edge Transport in Hermitian Quantum Anomalous Hall Systems",
+      "authors": [
+        "Humian Zhou",
+        "Ming Lu",
+        "Chui-Zhen Chen",
+        "X. C. Xie"
+      ],
+      "abstract": "Non-Hermitian physics, known for exotic phenomena like exceptional points and the skin effect, has been most prominently realized in engineered systems relying on controlled gain and loss. Here we show that it can also arise naturally as an intrinsic transport response of a globally Hermitian quantum anomalous Hall system, without the need for external non-Hermitian engineering. We show that the interplay between unidirectional chiral edge modes and diffusive normal edge modes induces intrinsic non-reciprocal transport described by a continuum Hatano-Nelson model. Consequently, the non-Hermitian skin effect is encoded directly in experimentally accessible Hall-bar observables: the electrochemical potential and local heat dissipation acquire chirality-dependent exponential spatial profiles, while the longitudinal conductance decays exponentially with system size and the Hall conductance remains quantized. Using Landauer--B{\"u}ttiker simulations, we confirm these transport signatures and identify magnetic topological insulators as a realistic platform for an intrinsic non-Hermitian transport response. Our results bridge non-Hermitian topology with mesoscopic transport, opening a pathway toward non-Hermitian topological devices in solid-state systems.",
+      "journal": "arXiv",
+      "published": "2026-09-19",
+      "url": "https://arxiv.org/abs/2609.23099",
+      "doi": "10.1038/s41467-026-77208-6",
+      "source": "arXiv",
+      "material_system": "MnBi2Te4_MTI",
+      "image_url": "/data/figures/arxiv-2609.23099-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.23099-fig01.png",
+        "/data/figures/arxiv-2609.23099-fig02.png",
+        "/data/figures/arxiv-2609.23099-fig03.png",
+        "/data/figures/arxiv-2609.23099-fig04.png",
+        "/data/figures/arxiv-2609.23099-fig05.png",
+        "/data/figures/arxiv-2609.23099-fig06.png",
+        "/data/figures/arxiv-2609.23099-fig07.png",
+        "/data/figures/arxiv-2609.23099-fig08.png",
+        "/data/figures/arxiv-2609.23099-fig09.png",
+        "/data/figures/arxiv-2609.23099-fig10.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. Nonreciprocal transport and NHSE in QAH edge states. (a) Schematic plot of unidirectional chiral (blue) and bidirectional nor- mal (red) edge modes. The nonreciprocal transport is highlighted by the unequal amplitude splitting of edge-injected wave packets. This imbalance serves as a dynamic signature of the NHSE. (b) Cor- responding energy-momentum dispersion, showing the chiral (blue) and normal (red) edge modes relative to the Fermi level EF. In this work, we show that realistic QAH insulators provide a solid-state transport setting in which non-Hermitian topol- ogy emerges directly from intrinsic edge dynamics. While ideal QAH insulators host only chiral edge modes, realistic samples often harbor non-topological normal edge modes due to imperfections [37, 43, 44]. We show that the interplay be- tween a chiral mode and a normal edge mode realizes the con- tinuum Hatano-Nelson...",
+        "Fig. 2. (a) Schematic of a Hall-bar device hosting one chiral and one normal mode. The positive directions of the local 1D boundary co- ordinates for the upper and lower edges follow their respective chiral propagation directions. (b),(c) Spatial proﬁles of the electrochemical potential (b) and the heat dissipation (c) along the lower edge of a QAH sample for c = 0, ±1 with L = 5λ. (d) The longitudinal σxx as a function of sample length L for c = 0 and 1 with x = 0.4L, L0 = 0.3L, W = 3λ ﬁxed. investigate the Green’s function of the system under a periodic boundary condition (PBC), deﬁned as G(E, x, x′) = ⟨x| [E − HHN]−1 |x′⟩. It takes the form [64]: G(E; x, x′) = −im ℏ2κ ( eiκ(x−x′) 1 −ei2Lk+ −e−iκ(x−x′) 1 −ei2Lk− ) e c(x−x′) λ (6) which is valid for the interval 0 ≤x −x′ < 2L. For other coordinate diﬀerences, the Green’s function satisﬁes the pe- riodicity condition G(E; x, x′ ± 2L) =...",
+        "Fig. 3. (a),(b) Energy spectra of the surface states for parallel (c = 1,QAH) and antiparallel (c = 0, Axion insulator) magnetizations, respectively. The coexistence of chiral (blue) and normal (red) edge states alongside bulk states (gray) reproduces the band dispersions shown in Fig. 4o of Chang et al. [43]. Insets: Schematic of the corresponding magnetization and edge-state conﬁgurations. (c),(d) Longitudinal (σxx) and Hall (σxy) conductances versus system size L for (c) c = 1 and (d) c = 0 at various Fermi energies EF.(e) Spatial distribution of voltage along the QAH sample edge for c = 0, ±1 with EF = 0.2, measured using the multi-terminal Hall-bar geometry illustrated in (f). (g),(h) Spatial distribution of the local heat dissipation PD for (g) c = 1, (h) c = 0 with EF = 0.2. The model parameters are ﬁxed as Ax,y = 1.0, Az = 0.4, Bx,y = 0.4, Bz = 0.5, M0 = 1.0, Mt = 0.4, and Mb =...",
+        "Fig. 4. Schematic illustration of the lattice model obtained from discretizing the QAH Hamiltonian. Unidirectional blue arrows indi- cate the chiral channel originating from the chiral edge state, while bidirectional red arrows denote the normal channel arising from the normal edge state. The curved lines represent virtual leads attached to the corresponding lattice sites. where M0 = ( M0 −∑ j=x,y,z 2Bj/a2) σz⊗s0, Mz = Mz(z)σ0⊗sz, and T j = Bj/a2σz⊗s0 −iA j/(2a)σx⊗sj. Here, a = 1 is the cubic lattice constant. ci (c† i ) is the annihilation (creation) operator at site i, and ˆ e j is a unit vector in the j di- rection for j = x, y, z. The sample width, length, and thickness are given by W = Nya, L = Nxa, and Lz = Nza, respectively. We study the edge transport behavior in a six-terminal Hall- bar device. Within the Landauer–Büttiker formalism[78, 81], the electric current and the heat..."
+      ],
+      "ai_summary": "In MnBi2Te4 MTI, this paper argues that non-Hermitian physics, known for exotic phenomena like exceptional points and the skin effect, has been most prominently realized in engineered systems relying on controlled gain and loss. Here we show that it can also arise naturally as an intrinsic transport response of a globally Hermitian quantum anomalous Hall system, without the need for external non-Hermitian engineering. Using Landauer--B{\"u}ttiker simulations, we confirm these transport signatures and identify magnetic topological insulators as a realistic platform for an intrinsic non-Hermitian transport response.",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1103/k6yc-nx4y",
@@ -66,6 +123,32 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2609.18189",
+      "title": "Chern Insulators on a Twisted Klein Bottle",
+      "authors": [
+        "Rong Xiao",
+        "Y. X. Zhao"
+      ],
+      "abstract": "Recently, momentum-space nonsymmorphic symmetries have attracted considerable attention. However, their realizations typically rely on fine-tuning hopping phases to satisfy the required projective symmetry algebras. Here, we show that such symmetry algebras arise naturally on bipartite lattices through the interplay of crystalline and sublattice symmetries. Unlike previously studied cases, these symmetry operators can anticommute with the Hamiltonian and are therefore referred to as momentum-space nonsymmorphic chiral symmetries. Although the free actions of these symmetries reduce the Brillouin torus to more elementary manifolds, the resulting manifolds are twisted in the Atiyah--Segal formalism. In particular, chiral glide reflection (screw rotation) gives rise to a twisted Klein bottle (dicosm) in two (three) dimensions, and this twisting dramatically alters the topological classification. Unlike the untwisted Klein bottle, whose nonorientability forces the Chern number to vanish, the twisted Klein bottle can host nonzero Chern numbers, corresponding to even Chern numbers on the torus. At open boundaries, the corresponding topological invariant manifests itself through chiral edge states exhibiting a glide-reflection structure in energy--momentum space. Our results establish momentum-space nonsymmorphic chiral symmetry as a new organizing principle for discovering and engineering topological phases beyond conventional crystalline classifications.",
+      "journal": "arXiv",
+      "published": "2026-09-16",
+      "url": "https://arxiv.org/abs/2609.18189",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2609.18189-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.18189-fig01.png",
+        "/data/figures/arxiv-2609.18189-fig02.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Momentum space representation of the symmetry and twisted Brillouin Klein bottle. a The valence and conduction Brillouin zones and the corresponding fundamental domains K±. b Cut the valence and conduction Klein bottles into cylinders and edge gluing rules specified by the twisting. c The torus resulting from gluing edges with the same color along the indicated directions. d Schematic illustration of edge spectra of the system in a slab geometry with C = 2. States on the left/right boundary are marked in blue/red color. phic chiral symmetries. RESULTS Momentum-space nonsymmorphic chiral symme- tries. There are two types of nonsymmorphic symme- tries: glide reflections and screw rotations6. We begin by considering momentum-space glide reflection symme- try. As shown in Ref.18, this momentum-space symmetry arises from the real-space projective symmetry algebra {Mx, Ty} = 0, or...",
+        "Fig. 1b. The resulting manifold is a torus connecting C−and C+ [see Fig. 1c]. Mathematically, the resulting torus is a Z2 bundle over K determined by τ. The twisted free action of momentum-space nonsym- morphic symmetries profoundly alters the topological classification. To determine this classification, we com- pute the twisted K-group K(Mτ) using the Atiyah– Hirzebruch spectral sequence40. For the Klein bottle K, it is useful to formulate the twisting τ ∈H1(K, Z2) al- gebraically in order to describe the second page of the spectral sequence. Because K = R2/pg under the natural action of the wallpaper group pg, we have H1(K, Z2) ∼ = H1(pg, Z2). A twisting can therefore be interpreted as a homomorphism from pg to Z2, which in the present case is given by τ(Tx) = 0 and τ(Gx) = 1. Here, pg is generated by the lattice translation Tx along the x direction and the glide reflection Gx that..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that recently, momentum-space nonsymmorphic symmetries have attracted considerable attention. Here, we show that such symmetry algebras arise naturally on bipartite lattices through the interplay of crystalline and sublattice symmetries.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2609.17500",
@@ -991,6 +1074,49 @@
       ],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that two-dimensional material platforms now host a remarkable array of exotic correlated phases, from unconventional superconductivity to fractional Chern insulators. Here, we demonstrate magnon transmission across a monolayer-bilayer graphene quantum Hall ferromagnet heterojunction - the first magnon transmission across quantum Hall ferromagnet heterojunctions, using one material as a magnon source to probe magnetic order in a distinct material.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2608.28574",
+      "title": "Super-resolution Control of Individual Two-dimensional Quantum Emitters",
+      "authors": [
+        "Bosai Lyu",
+        "Valeria Vento",
+        "Ludivine Fausten",
+        "Daniel Suarez-Forero",
+        "Klevis Domi",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Alberto Morpurgo",
+        "Iaroslav Gaponenko",
+        "Patrycja Paruch",
+        "Ajit Srivastava"
+      ],
+      "abstract": "Localized interlayer excitons in semiconducting transition-metal dichalcogenide heterobilayers are quantum emitters with a static electric dipole moment, making them excellent nanoscale charge sensors to probe correlated quantum phases in a proximal layer. These emitters are electrically tunable and inherit spin-valley selection rules, yet their deterministic spatial control remains challenging due to subwavelength confinement. Here, we present a platform that combines cryogenic optical spectroscopy with scanning probe microscopy to investigate trapped interlayer excitons in MoSe$_2$/WSe$_2$ bilayers. By exploiting tip-induced local Stark shift, we achieve super-resolution of emitters separated by a few tens of nanometers and demonstrate deterministic control of individual charge states, including trion formation. Time-resolved measurements reveal tip-induced modification of the electromagnetic vacuum around individual emitters, and thus control of their radiative emission. Our multi-point charge sensing platform with optical readout is particularly well-suited for future study of fractionalization and anyon dynamics in semiconducting fractional Chern insulators.",
+      "journal": "arXiv",
+      "published": "2026-08-28",
+      "url": "https://arxiv.org/abs/2608.28574",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2608.28574-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2608.28574-fig01.png",
+        "/data/figures/arxiv-2608.28574-fig02.png",
+        "/data/figures/arxiv-2608.28574-fig03.png",
+        "/data/figures/arxiv-2608.28574-fig04.png",
+        "/data/figures/arxiv-2608.28574-fig05.png",
+        "/data/figures/arxiv-2608.28574-fig06.png"
+      ],
+      "figure_captions": [
+        "FIG. 1: Quantum optical super-resolution microscope. a, Schematic of QOSMic. A metallic tip produces a non-homogeneous displacement field (black lines) through the sample. The sharp PL peaks of different quantum emitters show different energy shifts ∆E due to Stark effect or doping when tuning tip position (x, y, z) and voltage Vtip. At z = 0, the tip is in contact with the sample. The variation of the lifetime ∆τ is due to the modification of the local photonic density of states (LPDOS) near the tip (inset). b, Illustration of the MoSe2/WSe2 interlayer excitons with static electric dipole moment. c, Reproducible blue (red) shift of the PL emission of localized interlayer excitons in spot I of device A with increasing (decreasing) tip voltage Vtip, with the sample electrically floating and bottom gate grounded. Each spectral line corresponds to a different emitter in the optical spot....",
+        "Fig. 1d. Super-resolution of 2D emitters. A first step toward exploiting these quantum emitters as local sensors of electronic states is to map their spatial locations and emission profiles. To this aim, we perform a raster scan of the tip along the xy plane in contact with the hBN spacing layer 5 1,367 1,366 1,365 1,364 1,363 0 PL intensity 1 Energy (meV) 400 nm -3 3 0 Energy shift (meV) x (nm) 0 100 200 300 y (nm) 0 100 200 300 PL intensity 0 150 300 y (nm) Energy (meV) 0 200 400 y (nm) x (nm) 0 100 200 300 400 Energy shift (meV) -3.5 -3 -2.5 -2 -1.5 -1 -0.5 0 0.5 1 1,362 1,361.5 1,361 1,360.5 x - δx (nm) 0 50 100 150 200 250 y - δy (nm) 0 50 100 150 250 200 a b c f d e DA1 DA2 DA3 DA4 DA6 DA5 DA7",
+        "FIG. 2: Super-resolution of 2D quantum emitters. a, Tip-position dependence of the PL emission spec- trum from spot II of device A. The spectra are collected sequentially while the tip is raster scanned on a 400 nm square, with 5 nm step size and Vtip = −1 V. White lines separate the tip line scans along the y direction (fast axis) at a fixed x coordinate (slow axis). The panel displays only the central region of the raster scan, i.e. 225 nm of the slow axis range. b, Tip-position-dependent energy shift of the dot at around 1, 366 meV extracted from panel a. The backlash of the fast y axis is corrected by shifting 3 pixels. c, Line-cut (blue circles) of b taken along the x direction, averaged from y = 200 to 220 nm. Error bars are the standard deviation of the average. The red curve is calculated from equation 1 with a global scaling factor A = 0.22, and electron-hole displacement d =...",
+        "Fig. 2a. We first focus on the dot with emission energy of 1, 365.8 meV at the initial tip position, i.e. at a large tip-dot distance. The measurement reveals the Stark-energy shift of this dot as the tip approaches, with a maximum red shift of about 3 meV. On the contrary, several other emitters under the laser spot exhibit negligible Stark shift, being far from the region 6 of raster scan. Fig. 2b shows the spatial profile of the emission energy shift of the dot as a function of the (x, y) tip position. For a purely out-of-plane dipole p = pz, we expect a red Stark-shift as the tip approaches the dot, such that the (x, y) coordinates of maximum red shift identify the dot position. Remarkably, a blue-shift of about 0.8 meV additionally appears, which can be attributed to the presence of an in-plane dipole component px = e dx ˆ x for a moir´ e-trapped exciton in H-stacked heterobilayer...",
+        "FIG. 3: Selective doping of 2D quantum emitters. a, Bottom gate dependence of the PL emission from spot I of device B. The horizontal dashed line indicates the onset gate voltage V + bg for global electron doping in MoSe2. The orange arrow indicates the transition from neutral exciton to trion for one of the emitters at the onset voltage. b, Bottom gate dependence of the reflectivity of MoSe2. Upon the increase in electron doping density, the neutral exciton resonance evolves into a dispersive repulsive polaron feature. The onset doping voltage is consistent with panel a. c, Tip voltage dependent PL emission of the two dots at about 1, 390 meV with the tip on axis with the higher-energy dot for different tip-sample distances z, at Vbg = −0.5 V. d, Back voltage dependent PL emission with the tip in contact with the target dot, at three different Vtip values. e, {Vtip, Vbg}i dependence of...",
+        "FIG. 4: Lifetime control of an individual quantum emitter. a, PL emission spectra as a function of tip bias for a neutral dot in spot IV of device A. The tip-dot distance is approximately 200 nm. b, Total lifetime τ as a function of Vtip (black circles), compared with the integrated PL intensity from panel a (blue circles). The integration range spans 264.2 µeV, and is centered at the peak of maximum intensity. c, PL emission spectra as a function of the tip x-coordinate, with the tip y-coordinate fixed close to the dot position. The tip voltage is fixed at Vtip = −0.22 V. d, Total lifetime as a function of increasing (black circles) and decreasing (gray squares) tip x-coordinate, compared with the integrated PL intensity from panel c (blue circles). The red curve corresponds to the simulation described in Methods and Supplementary Fig. 13, with a baseline τfar = 185 ns and x-axis..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that localized interlayer excitons in semiconducting transition-metal dichalcogenide heterobilayers are quantum emitters with a static electric dipole moment, making them excellent nanoscale charge sensors to probe correlated quantum phases in a proximal layer. By exploiting tip-induced local Stark shift, we achieve super-resolution of emitters separated by a few tens of nanometers and demonstrate deterministic control of individual charge states, including trion formation. Here, we present a platform that combines cryogenic optical spectroscopy with scanning probe microscopy to investigate trapped interlayer...",
       "abstract_status": "original"
     },
     {
