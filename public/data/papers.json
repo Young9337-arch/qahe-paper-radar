@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T06:18:49.461934+00:00",
+  "updated_at": "2026-09-23T06:02:42.762486+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -1240,12 +1240,12 @@
     },
     {
       "id": "arxiv:2608.26099",
-      "title": "Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model",
+      "title": "Exact quantum geometry from sublattice symmetry: Closed-form solution of the quarter-flux Harper-Hofstadter model",
       "authors": [
         "Isaac Tesfaye",
         "André Eckardt"
       ],
-      "abstract": "Quantum geometry has emerged as a guiding principle across atomic and condensed-matter physics, shaping the topological responses of Bloch bands and the stability of the correlated phases they host. Beyond two-band models, however, closed-form expressions for both the spectrum and the quantum geometry are rare. Here we provide such expressions for a paradigmatic four-band model that has recently been realized experimentally with ultracold atoms, photons and in superconducting circuits: the Harper-Hofstadter model at quarter flux, describing charged particles on a two-dimensional square lattice subjected to a uniform magnetic field. We achieve this by first showing that the model possesses a sublattice symmetry, which renders its Bloch Hamiltonian anti-block-diagonal allowing us to derive the spectrum and the eigenstates analytically. From that we also obtain closed-form expressions for the full quantum geometric tensor (QGT), including both the Berry curvature and the quantum metric, for all the bands of the model. For this purpose we first derive a general expression for the QGT for sublattice-symmetric systems in terms of contributions from the individual sublattice sectors. Finally, we evaluate fractional-Chern-insulator stability criteria analytically and quantify the lowest band of the quarter-flux Harper-Hofstadter model to be a nearly ideal Chern band.",
+      "abstract": "Quantum geometry has emerged as a guiding principle across atomic and condensed-matter physics, shaping the topological responses of Bloch bands and the stability of the correlated phases they host. Sublattice symmetry, though common among bipartite lattice models, has not yet been exploited to obtain closed-form quantum geometry in multiband systems. For this purpose, we derive a general expression for the QGT of sublattice-symmetric systems in terms of contributions from the individual sublattice sectors, and show that this symmetry renders the Bloch Hamiltonian of a paradigmatic four-band model, the quarter-flux Harper-Hofstadter model, anti-block-diagonal, analytically yielding the spectrum, eigenstates, and full quantum geometric tensor (QGT), including the Berry curvature and quantum metric, for all four bands. The model, describing charged particles on a two-dimensional square lattice subjected to a uniform magnetic field, has recently been realized experimentally with ultracold atoms, photons, and superconducting circuits. Finally, we evaluate fractional-Chern-insulator stability criteria analytically and quantify the lowest band of the quarter-flux Harper-Hofstadter model to be a nearly ideal Chern band. Our approach opens a route for studying also the quantum geometry of other sublattice-symmetric multiband systems.",
       "journal": "arXiv",
       "published": "2026-08-26",
       "url": "https://arxiv.org/abs/2608.26099",
@@ -1259,7 +1259,7 @@
       "figure_captions": [
         "FIG. 1. Sublattice symmetry and analytical spectrum of the quarter-flux Harper-Hofstadter model. (a) Real space lat- tice of HH-model with a quarter flux Φ = π/2 per plaquette, the symmetric 2 × 2 MUC (green shaded area) with its four sublattice sites A, B, C, D. The sublattice symmetry ˆ S = (−1)m+n|m, n⟩ ⟨m, n| corresponding to the bipartite checker- board pattern (purple/blue colored sites for the even/odd sub- lattice), commutes with the associated magnetic translation operators (MTOs) ˆ M 2 i of the MUC, [ ˆ S, ˆ M 2 i ] = 0, and is pre- served in momentum space via S = diag(1, −1, −1, 1), and anti-commutes with the Bloch Hamiltonian (2), {H(k), S} = 0. (b): Same as (a) for the other two choices of the MUC, (i) and (iii), of size 1 × 4 and 4 × 1, respectively, showing that the sublattice symmetry is not preserved in momentum space as {H(k), S} ̸= 0 due to [ ˆ S, ˆ M 1 i ] ̸= 0..."
       ],
-      "ai_summary": "In Other New Materials, this paper argues that quantum geometry has emerged as a guiding principle across atomic and condensed-matter physics, shaping the topological responses of Bloch bands and the stability of the correlated phases they host. Here we provide such expressions for a paradigmatic four-band model that has recently been realized experimentally with ultracold atoms, photons and in superconducting circuits: the Harper-Hofstadter model at quarter flux, describing charged particles on a two-dimensional square lattice subjected to a uniform magnetic field.",
+      "ai_summary": "In Other New Materials, this paper argues that quantum geometry has emerged as a guiding principle across atomic and condensed-matter physics, shaping the topological responses of Bloch bands and the stability of the correlated phases they host. For this purpose, we derive a general expression for the QGT of sublattice-symmetric systems in terms of contributions from the individual sublattice sectors, and show that this symmetry renders the Bloch Hamiltonian of a paradigmatic four-band model, the quarter-flux Harper-Hofstadter model, anti-block-diagonal, analytically yielding the spectrum, eigenstates, and full quantum geometric tensor (QGT), including the...",
       "abstract_status": "original"
     },
     {
