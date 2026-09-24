@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T06:02:42.762486+00:00",
+  "updated_at": "2026-09-24T06:13:33.526963+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,141 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2609.27388",
+      "title": "Strain Engineering of the Topological Gap and Tunable Chern Numbers in the 2D Kagome Metal-Organic Framework Eu$_2$(C$_6$H$_4$)$_3$",
+      "authors": [
+        "Jiaxuan Guo",
+        "Simin Nie",
+        "Fritz B. Prinz"
+      ],
+      "abstract": "The quantum anomalous Hall effect carries dissipationless chiral edge currents without an external magnetic field, yet raising its operating temperature and controlling the number of edge channels remain difficult. Using first-principles calculations, we identify the two-dimensional metal-organic kagome ferromagnet Eu$_2$(C$_6$H$_4$)$_3$ as an intrinsic Chern insulator whose topological gap can be enlarged by mechanical strain. The monolayer has a spin-orbit-coupling-induced gap of 72.7 meV that widens to 124.7 meV under -8% biaxial strain, realizing a quantum anomalous Hall phase with Chern number $\\mathcal{C}=-1$ and a single chiral edge state. The local moments come from the half-filled Eu $4f^{7}$ shell, while the gap-opening spin-orbit coupling is carried by Eu $5d$ states hybridized into the carbon kagome bands. The AB-stacked bilayer couples ferromagnetically and accumulates the per-layer Chern numbers, giving $\\mathcal{C}=-2$ with two co-propagating chiral channels. An out-of-plane electric field then drives the bilayer through a sequence of topological transitions among $\\mathcal{C}=-2$, $-3$, and $-1$, switching the number of edge channels. Together, strain, stacking, and gating give three distinct handles on the gap and the Chern number within a single stoichiometric material.",
+      "journal": "arXiv",
+      "published": "2026-09-23",
+      "url": "https://arxiv.org/abs/2609.27388",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Kagome_Lattice",
+      "image_url": "/data/figures/arxiv-2609.27388-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.27388-fig01.png",
+        "/data/figures/arxiv-2609.27388-fig02.png",
+        "/data/figures/arxiv-2609.27388-fig03.png",
+        "/data/figures/arxiv-2609.27388-fig04.png",
+        "/data/figures/arxiv-2609.27388-fig05.png",
+        "/data/figures/arxiv-2609.27388-fig06.png",
+        "/data/figures/arxiv-2609.27388-fig07.png",
+        "/data/figures/arxiv-2609.27388-fig08.png",
+        "/data/figures/arxiv-2609.27388-fig09.png",
+        "/data/figures/arxiv-2609.27388-fig10.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (Color online). (a) Top and side views of Eu2(C6H4)3. (b) First Brillouin zone and the high-symmetry k points. (c) Phonon dispersion of the monolayer and (d) its low-frequency region. (e),(f) Temperature and total energy during a 3 ps AIMD simulation at 300 K. meshes, using the gauge-invariant discretized-Brillouin- zone construction of Fukui, Hatsugai, and Suzuki [50]. III. RESULTS A. Crystal Structure and Stability Figure 1(a) depicts the atomic configuration of the monolayer Eu2(C6H4)3. The monolayer crystallizes in the hexagonal space group P6/m: each Eu atom sits at the center of a triangle of three benzene rings, and the corner-sharing triangles trace out a 2D metal-organic kagome lattice. After full relaxation the in-plane lattice constant is a = 13.84 ˚ A. We first evaluated the dynamical stability. The phonon dispersion along the high-symmetry lines, shown in Figs. 1(c)...",
+        "FIG. 2. (Color online). The electronic band structures of the monolayer Eu2(C6H4)3 (a) without SOC, with the projected density of states of the C-p, Eu-d, and Eu-f orbitals shown alongside, and (b) with SOC, where a 72.7 meV gap opens at K/K′. (c)-(d) The armchair and zigzag edge spectra, each showing the single chiral mode of the C = −1 phase. −8 −6 −4 −2 0 2 4 Biaxial strain ε (%) 60 80 100 120 SOC gap (meV) 124.7 109.7 96.2 83.9 72.7 62.6 53.7 Γ M K Γ K' M' −0.8 −0.4 0.0 0.4 Energy (eV) ε = −8% Ef Γ M K Γ K' M' −0.8 −0.4 0.0 0.4 Energy (eV) ε = +4% (a) (b) (c)",
+        "FIG. 3. (Color online). (a) Evolution of the SOC-induced topological gap of monolayer Eu2(C6H4)3 under biaxial strain ε. (b),(c) SOC band structures at ε = −8% and ε = +4%, showing the enlarged and reduced gaps at K/K′. retains the ˆ C3z rotation that the symmetry indicator and the field analysis below rely on, as well as inversion sym- metry. After full relaxation the bilayer has an interlayer separation of 3.3 ˚ A and a small out-of-plane buckling of the two Eu sites within each layer of 0.42 ˚ A, and the two layers couple ferromagnetically with all moments along the out-of-plane axis. Applying the same LKAG–Monte Carlo protocol as for the monolayer yields a bilayer Curie temperature of TC ≈105 K, comparable to the monolayer value, so the magnetic order survives stacking. The re- laxed AB-stacked geometry is shown in Fig. 4(a). Encap- sulation between hexagonal boron-nitride (h-BN)...",
+        "FIG. 4. (Color online). (a) Top and side views of the free- standing AB-stacked bilayer Eu2(C6H4)3. (b) The bilayer encapsulated between hexagonal boron-nitride (h-BN) lay- ers. (c) Phonon spectrum of the h-BN/bilayer/h-BN het- erostructure and (d) its low-frequency region color-coded by the phonon weight on the Eu2(C6H4)3 sublattice (red) ver- sus the h-BN substrate (blue): the single imaginary branch is assigned almost entirely to h-BN displacements, while all bilayer-derived modes are real. (e) Atomic-displacement pat- tern of this lowest mode at Γ, with the out-of-plane motion confined to the h-BN layers. fined to the h-BN layers. Within the simulated het- erostructure, therefore, the single imaginary mode is car- ried by the h-BN slabs, and no unstable mode dominated by the Eu2(C6H4)3 bilayer is identified. Without SOC, the ˆ C3-protected band crossings of the two layers sit at the...",
+        "FIG. 5. (Color online). Band structures of the bilayer Eu2(C6H4)3 (a) without and (b) with SOC, where a 57.6 meV gap opens. (c)-(d) The armchair and zigzag edge spectra, each showing the two co-propagating chiral modes of the C = −2 phase. spondence. The bilayer therefore carries the additive sum of the two monolayer Chern numbers, one chiral channel per layer. As in the monolayer, this gap arises from spin- orbit coupling borrowed onto the carbon kagome bands, so stacking multiplies the chiral channels while each layer retains the same mechanically tunable gap. TABLE I. ˆ C3z eigenvalues at Γ, K, and K′ for the four con- duction bands just above the gap of the bilayer Eu2(C6H4)3, together with the Chern number of each band modulo 3 in- ferred from the product of its rotation eigenvalues via Eq. (2). Band index Γ K K′ Cn (mod 3) 237 e−iπ/3 eiπ eiπ 1 238 e−iπ/3 eiπ/3 eiπ/3 2 239 eiπ eiπ...",
+        "FIG. 6. (Color online). (a) Global band gap of the bilayer Eu2(C6H4)3 as a function of the out-of-plane electric field E. Shaded regions mark the three Chern phases C = −2, −3, and −1 (dashed lines). The first boundary is a gap- closing band inversion at K′ and the second one driven by the states at Γ. (b) Field-on band structure at E = 0.06 V/˚ A (black lines), where the C = −3 gap reaches its maximum of 15.5 meV; open red circles show the field-calibrated Wannier tight-binding bands obtained with a relative interlayer on-site shift ∆ε = 0.20 eV. (c) Flow of the summed Wannier charge centers ν of the on-site-shift model in the C = −3 phase; the total winding of −3 gives the Chern number. (d),(e) The armchair and zigzag edge spectra of the same model, each showing three co-propagating chiral modes. on a scale comparable to the 0.045 V/˚ A of the ytterbium framework. The C = −3 phase..."
+      ],
+      "ai_summary": "In Kagome Lattice, this paper argues that the quantum anomalous Hall effect carries dissipationless chiral edge currents without an external magnetic field, yet raising its operating temperature and controlling the number of edge channels remain difficult. Using first-principles calculations, we identify the two-dimensional metal-organic kagome ferromagnet Eu$_2$(C$_6$H$_4$)$_3$ as an intrinsic Chern insulator whose topological gap can be enlarged by mechanical strain.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1093/nsr/nwag610",
+      "title": "Reconstructed Chern insulator in moderately correlated twisted bilayer MoTe2",
+      "authors": [
+        "Min Wu",
+        "Lingxiao Li",
+        "Yunze Ouyang",
+        "Yifan Jiang",
+        "Wenxuan Qiu",
+        "Zaizhe Zhang",
+        "Zihao Huo",
+        "Qiu Yang",
+        "Ming Tian",
+        "Neng Wan",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Shiming Lei",
+        "Fengcheng Wu",
+        "Xiaobo Lu"
+      ],
+      "abstract": "Abstract Twisted bilayer MoTe2 (tMoTe2) is a prototypical moiré material in which long-wavelength superlattices amplify electron correlations, enabling a wealth of emergent quantum phases. To date, experimental efforts have focused primarily on small twist angles (typically < 4°), whereas the larger-angle regime—where moiré bands become more dispersive and correlations are reduced—has remained largely unexplored. Here we chart the topological phase space of tMoTe2 at a relatively large twist angle of approximately 4.54°, accessing a moderately correlated regime with enhanced bandwidth. In contrast to small-angle devices that predominantly host fractional quantum anomalous Hall or spin Hall responses, we uncover multiple Chern-insulating states with |C| = 1 at moiré fillings ν = −1, −0.53 and −1/2. Strikingly, at ν = −2/3 a magnetic field induces a fractional Chern insulator accompanied by an insulator–metal transition. Our results broaden the topological phase diagram of tMoTe2 and establish large-angle moiré superlattices as a versatile platform for engineering robust topological states beyond the strong-correlation limit.",
+      "journal": "National Science Review",
+      "published": "2026-09-23",
+      "url": "https://doi.org/10.1093/nsr/nwag610",
+      "doi": "10.1093/nsr/nwag610",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Moire Superlattice, this paper argues that abstract Twisted bilayer MoTe2 (tMoTe2) is a prototypical moiré material in which long-wavelength superlattices amplify electron correlations, enabling a wealth of emergent quantum phases. Our results broaden the topological phase diagram of tMoTe2 and establish large-angle moiré superlattices as a versatile platform for engineering robust topological states beyond the strong-correlation limit.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2609.26991",
+      "title": "Spin Configurations of Anyonic excitations in Moiré Fractional Chern Insulators",
+      "authors": [
+        "Vadym Apalkov",
+        "Tapash Chakraborty"
+      ],
+      "abstract": "We have examined the nature of elementary excitations in particular, their spin polarization, in recently discovered zero-field fractional Chern insulator in twisted bilayer MoTe$_2$. We have found that the finite-size bilayer system, in close proximity to a planar parabolic quantum dot containing a single electron (or a hole), forms an incompressible spin-unpolarized fractional Chern insulator at 1/3 filling factor. The corresponding energy gap is found to be large and weakly dependent on the separation between the quantum dot and the bilayer. We predict that in this fractional Chern insulator coupled to a quantum dot, spin-unpolarized quasiparticles and quasiholes are expected to appear as low-energy elementary excitations. The charge density results indicate that, for the spin-unpolarized quasiparticles, the positive charge is strongly localized near the negatively charged QD within the spin-flipped component, whereas for the spin-polarized quasiparticles, such localization is much less pronounced.",
+      "journal": "arXiv",
+      "published": "2026-09-22",
+      "url": "https://arxiv.org/abs/2609.26991",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2609.26991-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.26991-fig01.png",
+        "/data/figures/arxiv-2609.26991-fig02.png",
+        "/data/figures/arxiv-2609.26991-fig03.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Electron density for a 1 3-FCI state coupled to a QD, shown within one supercell. (a) Spin-up electron density ρ↑ for a bilayer system containing five spin-up electrons. (b, c) Charge densities for a system with four spin-up electrons and one spin-down electron, showing (b) ρ↑and (c) ρ↓. All den- sities are normalized to their maximum values. The distance between the bilayer system and the QD layer is d0 = 2 nm. 6 holes, the spin-flip energy gap has a slight dependence on the separation distance with the QD. A larger en- ergy gap is observed for quasiparticle excitations. In the case of the QD containing a positively-charged hole the quasiparticle state is also spin unpolarized. The quasi- particle is found to be located closer to the QD form- ing a bound QD-quasiparticle state. The charge density profile shows a strong localization for the spin-flipped component, which...",
+        "FIG. 2. Electron density for a 1 3-FCI state with one quasihole coupled to a QD, shown within one supercell. (a) Spin-up electron density ρ↑for a bilayer system containing five spin- up electrons. (b, c) Charge densities for a system with four spin-up electrons and one spin-down electron, showing (b) ρ↑ and (c) ρ↓. All densities are normalized to their maximum values. The distance between the bilayer system and the QD layer is d0 = 2 nm. tive charge near the negatively charged QD for the spin- reversed component. Compared to its finite-magnetic field counterpart, the zero-field FQHE in the Moir´ e bilayer lattice suggests a strong presence of spin-reversed qasiholes and quasipar- ticles that could potentially open up the door to explore exciting spin-related phenomena in the FQHE, such as zero-field fractional skyrmions in a Laughlin state[49], or the Laughlin spin-liquid states[50]....",
+        "FIG. 3. Electron density for a 1 3-FCI state with one quasipar- ticle coupled to a QD, shown within one supercell. (a) Spin-up electron density ρ↑for a bilayer system containing five spin- up electrons. (b, c) Charge densities for a system with four spin-up electrons and one spin-down electron, showing (b) ρ↑ and (c) ρ↓. All densities are normalized to their maximum values. The distance between the bilayer system and the QD layer is d0 = 2 nm. 7 with a tilted magnetic filed[33, 34, 51, 52], in the FCI in a Moir´ e bilayer system, the photoluminescence spec- troscopy is perhaps is the best option[43, 53, 54] to ob- serve the spin effects predicted here. The funding was provided by by Grant No. DE- SC0007043 from the Materials Sciences and Engineering Division of the Office of the Basic Energy Sciences, Office of Science, US Department of Energy. [1] K. von Klitzing, T. Chakraborty, P...."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that we have examined the nature of elementary excitations in particular, their spin polarization, in recently discovered zero-field fractional Chern insulator in twisted bilayer MoTe$_2$.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2609.26916",
+      "title": "Interlayer-correlated fractional quantum Hall state in a trilayer electron system",
+      "authors": [
+        "Chengyu Wang",
+        "C. T. Tai",
+        "N. Toemtrisna",
+        "A. Gupta",
+        "L. N. Pfeiffer",
+        "K. W. Baldwin",
+        "M. Shayegan"
+      ],
+      "abstract": "In multilayer quantum Hall systems, when the layer separation is sufficiently small, the interplay between intralayer and interlayer Coulomb interactions can lead to exotic, multi-component, many-body states. A particular example is the even-denominator fractional quantum Hall state (FQHS) at total filling factor $ν=1/2$ in bilayer systems with negligible interlayer tunneling. This state can be understood as a generalized Laughlin state described by the Halperin-Laughlin $Ψ_{331}$ wavefunction. While such correlated states have been extensively explored in bilayers, little is known about their counterparts in systems with more than two layers. Here, we investigate a trilayer two-dimensional electron system confined to ultrahigh-quality GaAs triple quantum wells. We observe an exotic FQHS at total filling factor $ν=5/7$, evinced by a deep longitudinal resistance minimum and a quantized Hall plateau, when the side layers have a density larger than the middle layer and $d/l_B \\simeq 2.2$ ($d$ is the interlayer distance and $l_B$ the magnetic length). This state is naturally interpreted as the long-predicted trilayer, generalized Laughlin ($Ψ_{33311}$) state, characterized by $ν=1/3$-like intralayer correlation within each layer and $ν=1$-like interlayer correlation between neighboring layers. Our observation establishes a new member of the Halperin-Laughlin many-body states that extends interlayer coherence to three coupled layers.",
+      "journal": "arXiv",
+      "published": "2026-09-22",
+      "url": "https://arxiv.org/abs/2609.26916",
+      "doi": "10.1103/4bpx-3mwm",
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2609.26916-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.26916-fig01.png",
+        "/data/figures/arxiv-2609.26916-fig02.png",
+        "/data/figures/arxiv-2609.26916-fig03.png",
+        "/data/figures/arxiv-2609.26916-fig04.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Interlayer-correlated FQHS in a trilayer 2DES. (a, b) Schematic descriptions of the interlayer-correlated FQHSs in the weakly-interacting CF picture for: (a) bilayer 2DESs at νtotal = 1/2, and (b) trilayer 2DESs at νtotal = 5/7. The blue spheres represent electrons, and the yellow vertical arrows the magnetic field flux quanta. Each electron captures two flux quanta from its own layer (blue curved arrows) and one flux quantum from its neighboring layer(s) (red arrows), forming a multi-component (2 + 1)-flux CF. νtop, νmiddle, and νbottom are the actual layer fillings and ν∗ top, ν∗ middle, and ν∗ bottom are the effective layer fillings that reflect the intralayer correlation. (c) Rxx and Rxy vs B data for our triple-QW sample measured at 30 mK and 240 mK, respectively. The trilayer 2DES has a total density of 1.34×1011 cm−2 and a symmetric charge distribution. At zero and low B,...",
+        "Fig. 2. The transport energy gap (∆) of a FQHS is typically deduced from the relation Rxx ∝e−∆/2kBT . For our electron system, however, with",
+        "FIG. 2. Temperature dependence data. Rxx vs B traces at ntotal = 1.34 × 1011 cm−2, measured at different temperatures. The dashed and solid lines illustrate, using the 240 mK data as an example, the method used to determine the background resistance Rbg at each temperature [48]. Inset shows the Arrhenius plot of Rν=5/7/Rbg, where Rν=5/7 is the Rxx value at νtotal = 5/7. Slope of the linear fit provides an estimate of the energy gap for the 5/7 FQHS, ∆≃730 mK. decreasing temperature, instead of approaching zero, Rxx at νtotal = 5/7 increases because of the temperature- dependent Rxx background. A useful method to esti- mate the energy gap of a FQHS riding on a temperature- dependent resistance background is to extract a so-called pseudogap from the temperature dependence of the rel- ative depth of the Rxx minimum [48]. In Fig. 2 inset, we present Arrhenius plots of Rν=5/7/Rbg vs 1/T,...",
+        "FIG. 3. Evolution of FQHSs with symmetric gating. (a) Rxx vs 1/νtotal traces measured at different total densities, while the front and back gates are used to ensure that the top and bottom QWs have equal densities. Each trace is vertically shifted by 10 kΩfor clarity. (b-d) Charge distributions and potentials for ntotal = 1.08, 1.34, and 1.69, calculated self-consistently at zero magnetic field. (e) FFT spectra of low-B SdH oscillations at different ntotal. From the frequencies of the FFT peaks, we determine the layer densities, as shown in (f). The density range where a νtotal = 5/7 FQHS is observed is highlighted. equal densities [see Figs. 3(b-d) for charge distributions]. We determine layer densities from FFT spectra of low- B SdH oscillations shown in Fig. 3(e). As we increase ntotal, nside increases because charges are added to the top and bottom QWs, while nmiddle slightly..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that in multilayer quantum Hall systems, when the layer separation is sufficiently small, the interplay between intralayer and interlayer Coulomb interactions can lead to exotic, multi-component, many-body states.",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1103/l4wt-87js",
@@ -808,7 +943,7 @@
         "Ying Ran",
         "Di Xiao"
       ],
-      "abstract": "Describing competing phases of strongly correlated systems often requires trial wave functions built from phase-specific assumptions. We propose the \\emph{hyperdeterminant (HyperDet) wavefunction} as a phase-agnostic ansatz for both bosonic and fermionic quantum many-body systems exhibiting spontaneous symmetry-breaking order, fractionalization, and/or topological order with anyonic excitations. The HyperDet structure emerges naturally by fusing auxiliary fermionic parton Slater determinants into physical orbitals through a fully learnable \\emph{fusion tensor} $\\mathcal F$. Optimized using variational Monte Carlo, a single HyperDet architecture can achieve exceptionally high overlaps $\\geq 99.9\\%$ with exact-diagonalization ground states throughout the entire fractional Chern insulator phase in both bosonic and fermionic models, and across their nearby competing phases. We introduce the singular-value spectrum of the \\emph{bipartite fusion matrix} as a structural diagnostic of fusion tensor, and find that its redistribution tracks many-body phase transitions without computing phase-specific observables. The optimized fusion tensor also encodes the parton-level topological data: it reproduces the parton Chern numbers expected for the bosonic and fermionic FCI states, completing their field-theory descriptions and the resulting topological order. Its intrinsic gauge structure further determines whether physical symmetries admit virtual lifts and, when faithful lifts exist, extracts their projective class; for the bosonic FCI, this recovers the expected parton translation fractionalization. We thus anticipate the HyperDet wavefunction to be a promising variational platform for both accurate ground-state searches and phase-diagram explorations across strongly correlated phases, and for providing interpretable theoretical insights from parton-level microscopics to field-theory descriptions.",
+      "abstract": "Competing phases of strongly correlated systems are often described by trial wavefunctions built on phase-specific assumptions. We propose the \\emph{hyperdeterminant (HyperDet) wavefunction} as a phase-agnostic ansatz for both bosonic and fermionic quantum many-body systems exhibiting spontaneous symmetry-breaking, fractionalization, and/or topological order. The HyperDet structure emerges by fusing auxiliary fermionic parton Slater determinants into physical orbitals through a learnable \\emph{fusion tensor $\\mathcal F$}. Optimized using variational Monte Carlo, a single HyperDet architecture achieves overlaps exceeding $99.9\\%$ with exact-diagonalization ground states for nearly all sampled parameters across fractional Chern insulator (FCI) phases and their neighboring competing phases in both bosonic and fermionic models. Beyond its variational expressiveness, the optimized fusion tensor also provides rich interpretability. We show that, (i) the singular-value spectra of the \\emph{bipartite fusion matrix} can be used to track phase transitions; (ii) the reconstructed Bott indices reproduce the parton Chern numbers expected for the FCI states without parton-Hamiltonian input; and (iii) faithful lifts of physical translations to the parton degrees of freedom recover the expected translation fractionalization in the bosonic FCI without projective symmetry class assignment. These results establish HyperDet wavefunction as a promising framework for both variational ground-state searches and phase-diagram explorations across strongly correlated phases, and for providing theoretical insights by connecting the optimized wavefunction with parton microscopics and field-theory descriptions.",
       "journal": "arXiv",
       "published": "2026-09-03",
       "url": "https://arxiv.org/abs/2609.04146",
@@ -838,7 +973,7 @@
         "FIG. 4. Benchmark of the irrep-projected HyperDet wavefunction ansatz against ED results on a 3 × 5 × 2 sample (2 is the sublattice) for model Eq. (20) at band filling ν = 1/3 as the extended-hopping strength t′′ ∈[−0.62, 0.41] is varied. (a) Comparison of the lowest twenty ED energies across all sectors and the chosen global ground state of the irrep-projected variational energy. The phase bound- aries between candidate AHC, fermionic FCI, and candidate CDW here are determined from the ED spectrum sweep detailed in Ap- pendix [77]. Although this is not a thermodynamic-limit phase di- agram, it suffices to benchmark the expressiveness of the ansatz on this finite cluster. (b) Wavefunction overlap with the ED ground states. CDW phases, and in particular over 99.98% throughout the FCI phase, within two thousand VMC updates. We also perform an SVD analysis of the bipartite fusion matrix...",
         "FIG. 5. Species-Averaged Bipartite Fusion Matrix SVD Spec- trum of Fermionic Three-parton Case. Top five largest nor- malized, species-averaged singular values of the bipartite fusion matrix Eq. (12) obtained from the one-versus-two parton biparti- tions of the optimized fusion tensor. The calculation is done for the fermionic model Eq. (20) on a 3 × 5 × 2 sample at ν = 1/3. The observed singular value strengths jump around t′′ ≈−0.41 and a smooth change of slope around t′′ ≈0.15 is consistent with the ED-resolved finite-size AHC–FCI and FCI–CDW phase boundaries. a diagnostic tool for many-body phase transitions without extra information from phase-specific physical observables. VI. INTERPRETABILITY OF THE HYPERDET WAVEFUNCTION ANSATZ A. Parton Chern Numbers from the Optimized Fusion Tensor A central question for the interpretability of the optimized fusion tensor is whether it encodes..."
       ],
-      "ai_summary": "In Other New Materials, this paper argues that describing competing phases of strongly correlated systems often requires trial wave functions built from phase-specific assumptions. We propose the \\emph{hyperdeterminant (HyperDet) wavefunction} as a phase-agnostic ansatz for both bosonic and fermionic quantum many-body systems exhibiting spontaneous symmetry-breaking order, fractionalization, and/or topological order with anyonic excitations. We thus anticipate the HyperDet wavefunction to be a promising variational platform for both accurate ground-state searches and phase-diagram explorations across strongly correlated phases, and for providing...",
+      "ai_summary": "In Other New Materials, this paper argues that competing phases of strongly correlated systems are often described by trial wavefunctions built on phase-specific assumptions. We propose the \\emph{hyperdeterminant (HyperDet) wavefunction} as a phase-agnostic ansatz for both bosonic and fermionic quantum many-body systems exhibiting spontaneous symmetry-breaking, fractionalization, and/or topological order. Beyond its variational expressiveness, the optimized fusion tensor also provides rich interpretability.",
       "abstract_status": "original"
     },
     {
