@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T06:11:13.985859+00:00",
+  "updated_at": "2026-09-26T06:11:41.311874+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -25,6 +25,34 @@
       ],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/c5hf-mn4s",
+      "title": "Circulators based on coupled quantum anomalous Hall insulators and resonators",
+      "authors": [
+        "Luis A. Martinez",
+        "Nick Du",
+        "Nicholas Materise",
+        "Sean O’Kelley",
+        "Xian Wu",
+        "Gang Qiu",
+        "Kang L. Wang",
+        "Gianpaolo P. Carosi",
+        "Tony Low",
+        "Dong-Xia Qu"
+      ],
+      "abstract": "Integrated plasmonics is advancing rapidly, enabling a wide range of functionalities to be incorporated onto a single chip. Applications span information processing, computation, quantum sensing, and dark matter detection. This progress has driven the development of integrated nonreciprocal devices, which are essential for preventing unwanted feedback that can degrade system performance. While nonreciprocal devices have been realized in edge magnetoplasmon (EMP) materials via classical interference effects, their operation is often limited by the input power range. Here, we demonstrate that topological circulators utilizing asymmetric coupling offer improved input power range, isolation, and insertion loss. In this configuration, we demonstrate that the coupling between a chiral edge magnetoplasmonic resonator and a pair of LC resonators is well described by an effective non-Hermitian two-site Hatano–Nelson model with asymmetric directional couplings, resulting in nonreciprocal behavior. The coherent photon-plasmon interaction enables a circulator with up to 50 dB of isolation across a broad range of excitation power. These results suggest that magnetic topological insulators provide a promising platform for realizing asymmetric non-Hermitian couplings at radio frequencies and for exploring regimes of strong directional suppression and possible exceptional-point physics. More broadly, they highlight the potential of topological-material-based microwave devices for future integration with superconducting quantum information platforms.",
+      "journal": "Physical Review Applied",
+      "published": "2026-09-25",
+      "url": "https://doi.org/10.1103/c5hf-mn4s",
+      "doi": "10.1103/c5hf-mn4s",
+      "source": "Crossref",
+      "material_system": "MnBi2Te4_MTI",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In MnBi2Te4 MTI, this paper argues that integrated plasmonics is advancing rapidly, enabling a wide range of functionalities to be incorporated onto a single chip. Here, we demonstrate that topological circulators utilizing asymmetric coupling offer improved input power range, isolation, and insertion loss. The coherent photon-plasmon interaction enables a circulator with up to 50 dB of isolation across a broad range of excitation power.",
       "abstract_status": "ai_assisted"
     },
     {
@@ -1686,25 +1714,6 @@
       ],
       "ai_summary": "In Moire Superlattice, this paper argues that we present a comprehensive exact-diagonalization study of interaction-driven phases in twisted bilayer MoTe$_2$ across experimentally relevant twist angles ($2.13^\\circ$--$4^\\circ$) and hole fillings. Finally, motivated by the Landau-level analogy at $θ\\approx 2.13^\\circ$, we test the proposed non-abelian Pfaffian state at $ν=-3/2$ in the fully-polarized spin sector but find no evidence for this state within the models and parameters studied.",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/c5hf-mn4s",
-      "title": "Circulators based on coupled quantum anomalous Hall insulators and resonators",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Circulators based on coupled quantum anomalous Hall insulators and resonators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review Applied",
-      "published": "2026-08-24",
-      "url": "https://doi.org/10.1103/c5hf-mn4s",
-      "doi": "10.1103/c5hf-mn4s",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "doi:10.1103/5378-2fcs",
