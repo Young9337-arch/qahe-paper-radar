@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T06:38:35.673372+00:00",
+  "updated_at": "2026-09-28T07:00:11.503249+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -128,6 +128,36 @@
       "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "In Moire Superlattice, this paper argues that abstract Switching the bulk Chern number in topological materials is of central importance for the design of topological electronic devices. Using density functional theory (DFT) calculations, we show that the Chern number of the first K-valley moiré band evolves from +1 to −1 under the interlayer sliding. Our results establish ATT MoTe2 as a promising platform for engineering moiré band topologies through the design of moiré potentials with sliding in multilayer moiré systems.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2609.30368",
+      "title": "Is the fractional Chern insulator-superconductor transition in twisted MoTe$_2$ direct?",
+      "authors": [
+        "Tevž Lotrič",
+        "Steven H. Simon"
+      ],
+      "abstract": "The observation of superconducting behaviour near a fractional Chern insulator in twisted MoTe$_2$ has sparked excitement about a possible direct \"anyon superconducting\" transition between a topologically ordered and a symmetry-broken phase. We carefully examine the experimentally measured transport data in the relevant region of the low-temperature tMoTe$_2$ phase diagram and propose a scenario where the nearby reentrant integer quantum Hall effect (RIQHE) acts as an intervening phase between the two. While the RIQHE is most prominent at large displacement fields, we propose that it extends to smaller fields at very low temperatures. Based on this picture, we model the sample as a patchwork of the three phases and show that such a model can explain the main qualitative features of the transport phase diagram, including its dependence on temperature and displacement field. The model predicts that at lower electronic temperatures the apparent FCI-SC transition at zero displacement field should split into two transitions separated by a narrow RIQHE region.",
+      "journal": "arXiv",
+      "published": "2026-09-24",
+      "url": "https://arxiv.org/abs/2609.30368",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2609.30368-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.30368-fig01.png",
+        "/data/figures/arxiv-2609.30368-fig02.png",
+        "/data/figures/arxiv-2609.30368-fig03.png",
+        "/data/figures/arxiv-2609.30368-fig04.png"
+      ],
+      "figure_captions": [
+        "Fig. 1: (A) we could have a direct FCI-SC transition, with the RIQHE phases separated, (B) the two RIQHE minima could be connected, leaving no direct FCI-SC transition; or (C) a compressible phase may appear with finite ρxx in the zero-temperature limit. We now show that scenario (B) can explain the detailed shape of the resistive peak and its temperature depen- dence. Alternative interpretations of the resistive struc- ture neighbouring the RIQHE have also been proposed [29]. The strategy is to assume that in the region of interest, the three phases are in close energetic competition (this arXiv:2609.30368v1 [cond-mat.str-el] 24 Sep 2026 2 <latexit sha1_base64=\"CabKE6XMfQILAtxX+aWg5mZI NPs=\">AB6nicbVA9TwJBEJ3DL8Qv1NJmIzGxIncUaElCQrTDKEgCF7K37MGvb3L7pwJIfwEGwuNsfUX2flvXOAKB V8yct7M5mZFyRSGHTdbye3sbm1vZPfLeztHxweFY9P2iZONeMtFstYdwJquBSKt1Cg5J1EcxoFkj8G4/rcf3zi2oh...",
+        "Figure 1. Left: Replotted ρxx(ν, D) from Ref. [2], showing four minima, associated with the fractional Chern insulator (FCI), reentrant integer quantum Hall (RIQHE), and super- conducting (SC) phases at the lowest temperature achieved in experiment. The phases are separated by peaks in ρxx. Right: As temperature approaches zero, the resistive peaks are ex- pected to become narrower. We sketch three possible natural topologies of the zero-temperature quantum phase diagram. In the present work, we argue that scenario (B), where the RIQHE is always an intervening phase between the FCI and SC, naturally explains the observed transport signatures. is supported numerically in a toy model [12]). Then, even with a relatively small degree of disorder (be it twist an- gle disorder or impurities), one expects different phases to be favoured in different spatial regions, leading to a picture of an...",
+        "Fig. 2. We take the D = 0 cut for ν ∈[−0.735, −0.666], showing the depen- dence of ρxx on ρxy at several temperatures. While one expects a phase transition to become a sharper feature as a function of external parameters in the zero-temperature case, with a narrow peak in ρxx as a function of ν, the shapes in Fig. 2 need not become sharply peaked. In- stead, both ρxx and ρxy change sharply as functions of ν, while their interdependence can still follow a smooth curve. <latexit sha1_base64=\"8IGJcfAtdYZL7kzxQwB9TDokX6U=\">AB/HicbVDLSsNAFJ34rPUV7dLNYBFc1aRIdVk QxGUF+4A2hsl0gydzISZiRhC/RU3LhRx64e482+ctlo64ELh3Pu5d57goRpR3n21pZXVvf2Cxtlbd3dvf27YPDjhKpxKSNBROyFyBFGOWkralmpJdIguKAkW4wvpr63QciFRX8TmcJ8WI04jSkGkj+XZlICPh54/ZKBoDKMzcl/37apTc...",
+        "Figure 2. The resistive peak in ρxx as a function of ρxy for various temperatures in the D = 0 cut of the phase diagram. The higher temperatures show a dependence reminiscent of a scaled semicircle in the (ρxy, ρxx) plane (red dashes), while at lower temperatures the peak in ρxx is suppressed, and a knee in the data appears near ρxy ∼h/e2. [Data from Ref. [2]] The first interesting observation is the shape of the T = 1100 mK curve, which is well described by a semi- circle law (Sρxx)2 + (ρxy −3h/4e2)2 = (3h/4e2)2, the red dashed line in the figure [31]. This form of the in- terdependence can be neatly explained by modelling the sample as a mixture of two phases undergoing a perco- lation transition in a regime where effects of quantum- coherent tunnelling over large distances can be ignored and the local conductivity satisfies the linear relation j(r) = σ(r)E(r), with a spatially..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that the observation of superconducting behaviour near a fractional Chern insulator in twisted MoTe$_2$ has sparked excitement about a possible direct \"anyon superconducting\" transition between a topologically ordered and a symmetry-broken phase. We carefully examine the experimentally measured transport data in the relevant region of the low-temperature tMoTe$_2$ phase diagram and propose a scenario where the nearby reentrant integer quantum Hall effect (RIQHE) acts as an intervening phase between the two.",
       "abstract_status": "original"
     },
     {
