@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T07:00:11.503249+00:00",
+  "updated_at": "2026-09-29T06:59:09.678991+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -28,6 +28,211 @@
       "abstract_status": "ai_assisted"
     },
     {
+      "id": "doi:10.1103/xyq4-kr2k",
+      "title": "Erratum: Programmable Quantum Anomalous Hall Insulator in Twisted Crystalline Flatbands [Phys. Rev. X 16 , 011015 (2026)]",
+      "authors": [
+        "Wenxuan Wang",
+        "Yijie Wang",
+        "Zaizhe Zhang",
+        "Zihao Huo",
+        "Gengdong Zhou",
+        "Shu Zhang",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Xiaoxia Yang",
+        "Qing Dai",
+        "X. C. Xie",
+        "Kaihui Liu",
+        "Zhida Song",
+        "Xiaobo Lu"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Erratum: Programmable quantum anomalous Hall insulator in twisted crystalline flatbands [Phys. Rev. X 16, 011015 (2026)] in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review X",
+      "published": "2026-09-28",
+      "url": "https://doi.org/10.1103/xyq4-kr2k",
+      "doi": "10.1103/xyq4-kr2k",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2609.35492",
+      "title": "Dynamical transition in non-Hermitian Chern insulator",
+      "authors": [
+        "Zhi-Qiang Zhang",
+        "Yuan-Hang Ren",
+        "Ming Lu",
+        "Hua Jiang"
+      ],
+      "abstract": "We unveil a peculiar dynamical transition for the propagation of wave packets in non-Hermitian Chern insulators, where the evolution of the topological wave packets at the edge is not solely determined by the topological Chern number. Unlike the Hermitian Chern insulator, where a wave packet initiated at the edge propagates along the system boundary, here it may instead penetrate into the bulk. This behavior is attributed to the competition between the localization induced by conventional topology and the non-Hermitian skin effect. Specifically, when the former dominant, the wave packet will evolve along the boundary; otherwise, it will spread into the bulk. These features demonstrate that while the generalized-Brillouin zone framework reliably predicts topological phase transitions, it does not on its own specify the dynamical transitions.",
+      "journal": "arXiv",
+      "published": "2026-09-28",
+      "url": "https://arxiv.org/abs/2609.35492",
+      "doi": "10.1103/kdd6-nnrf",
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2609.35492-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.35492-fig01.png",
+        "/data/figures/arxiv-2609.35492-fig02.png",
+        "/data/figures/arxiv-2609.35492-fig03.png",
+        "/data/figures/arxiv-2609.35492-fig04.png",
+        "/data/figures/arxiv-2609.35492-fig05.png",
+        "/data/figures/arxiv-2609.35492-fig06.png",
+        "/data/figures/arxiv-2609.35492-fig07.png",
+        "/data/figures/arxiv-2609.35492-fig08.png",
+        "/data/figures/arxiv-2609.35492-fig09.png",
+        "/data/figures/arxiv-2609.35492-fig10.png",
+        "/data/figures/arxiv-2609.35492-fig11.png",
+        "/data/figures/arxiv-2609.35492-fig12.png"
+      ],
+      "figure_captions": [
+        "FIG. 1: (a) The phase diagram. The topologically trivial white region with Chern number C = 0 is separated with the topologically nontrivial gray and blue regions, by the red curve predicted by the GBZ theory. The solid blue curve delineates the distinct dynamical regimes marked in (b) and (c), where the wave packets evolve along the boundary in (b) , and spread into the bulk in (c). tion of wave packets manifests two distinct schemes, aris- ing from the competition between the topologically pro- tected intrinsic localization of edge states and the NHSE. When intrinsic localization dominates, the edge states display conventional localization properties, and the wave packet propagates along the edge of the sample, as illus- trated in Fig. 1(b). In contrast, when the NHSE domi- nates, the localizations of edge states are similar to their bulk states. In this case, the wave packet spreads...",
+        "FIG. 2: (a) and (b) are the time evolutions of wave packet |ψ(r, t)| with boundary and bulk type evolutions, respectively. Note that they are both in the topological region, as marked in (d) with red and blue squares. (c) The variation of P and Chern number C for two representative γ’s, showing clear deviation for non-Hermitian case. (d) The plot of P and C versus m and γ with system size Nx = Ny = 30. The red dashed line is the topological phase transition line based on the GBZ theory. The solid green line represents the dynamical transition line given by Eq. (19). The parameters are v = tx = ty = 1 and γx = γy = γ, with others marked in the figure accordingly. packet center for different times, which is marked by the location of its maximum value Rc(t) = arg max x,y∈[1,N] |ψ(r, t)|2 = [xc(t), yc(t)], (3) with ψ(r, t) = ⟨r|e−iHt|ψin⟩. For a square sample with sizes N × N, the wave...",
+        "FIG. 3: (a) A schematic illustrating the method for obtain- ing the topological edge states of H, using the transformed Hermitian Hamiltonian H = S−1HS and its eigenfunction φH as the intermediate step. (b) A typical plot of the edge state with γ = 0.1 and m = 1.8. (c) The variation of the bottom edge states along the white dashed line marked in (b) for γ ∈[0, 0.6]. (d) The red dots are the slope of the edge states in (c), and the blue solid line is the analytical curve λ = ln βy −κy. Other parameters are m = 1.8, v = 1 and γx = γy = γ. place. In the following section, we analytically show this correspondence and derive the dynamical phase bound- ary line shown in Fig. 2(d). IV. DERIVATION OF THE DYNAMICAL TRANSITION LINE Based on the above analysis, the localization properties of the topological edge states play a crucial role in un- derstanding the dynamical evolution of the wave...",
+        "Fig. 4. It illuminates the competition between the intrinsic localization κy and the NHSE ln(βy). Particularly, since the Hermitian Hamiltonian Eq. (21) is obtained based on a similarity transformation of Eq. (1) by kx,y →kx,y −iγxy, they must have the same topo- logical invariant based on the GBZ theory. Therefore, κy = v − √ v2 + 2m −4 = 0 is the topological phase transition condition for the non-Hermitian Chern insula- tor in Eq. (1). For v = 1, the topological transition line is m = 2, independent of γ. Notably, the intrinsic localization lengths κy = κy(E) of the edge state are typically energy-dependent. When the largest intrinsic localization length of the edge state is comparable with ln βy, all the edge states lost their intrinsic localization properties. Consequently, dynami- cal evolution transitions from intrinsic-localization domi- nance to NHSE dominance. Here, the largest...",
+        "FIG. 4: Schematic plot of the sample. The dashed blue lines represent bottom edge states with |ψ| ∝e[ln(βy)−κy]y. Here, ln(βy) are induced by the NHSE. κy is the intrinsic localization of edge states originating from the nontrivial Chern numbers. (a) is the Hermitian cases with ln(βy) = 0. (b) and (c) mark the typical edge and bulk states with ln(βy) −κy < 0 and ln(βy) −κy > 0, respectively. 0 20 40 t 0 5 10 rc(t) 20 40 20 40 -1 0 1 rc(t) 20 40 20 40 20 40 20 40 20 40 20 40 20 40 γ=0.1 m=1.8 γ=0.3 m=1.9 x y y t=0 t=20/3 t=40/3 t=20 t=80/3 t=100/3 t=40 (a) (b) (c) (d) P=1 P=0 rc rc",
+        "FIG. 5: (a) and (b) are the time evolutions of wave packet |ψ(r, t)| with boundary and bulk type evolutions, respectively. The red dots mark the wave packet centers with maximum values of |ψ(r, t)|. (c) and (d) The variation of rc(t) versus t. The corresponding index P are noted in the figures. The parameters are the same as those in the main text. The sample sizes are Nx × Ny = 40 × 40. wave packet center remains localized at the edge of the sample or not. Here, we clarify the calculation of P in details. Firstly, the evolution schemes are defined by identifing the evolution of the wave packet center. Its evolution sat- isfies the equation ψ(r, t) = ⟨r|ψ(t)⟩= ⟨r|e−iHt/ℏ|ψin⟩. The wave packet center is located at Rc(t) where Rc(t) = arg max x,y∈[1,N] |ψ(r, t)|2 = [xc, yc]. (31) Secondly, one defines the boundary coordinate for the set of sites located at the boundary, marked as Rb =...",
+        "FIG. 6: (a) and (b) are the time evolutions of wave packet |ψ(r, t)| with typical boundary and bulk evolutions, respec- tively. Note that they are both in the topological region, as marked in (d) with red and blue squares. (c) The variation of P and C for two representative γ’s, showing clear deviation for non-Hermitian case. (d) The plot of P and C versus m and γ with system size Nx = Ny = 30. The red dashed line is the topological phase transition line based on the GBZ theory. The solid green line represents the dynamical transition line given by Eq. (35). The parameters are v = 1 , with others marked in the figure accordingly. ple. Typically, if rc(t) matches the boundary cases for arbitrary t with rc(t) = 0, one can conclude that |ψ(t)⟩= e−iHt|ψin⟩evolves along the edge of the sample [See Fig. 5(c)]. Otherwise, |ψ(t)⟩spreads into the bulk [See Fig. 5(d)]. These two cases give rise..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we unveil a peculiar dynamical transition for the propagation of wave packets in non-Hermitian Chern insulators, where the evolution of the topological wave packets at the edge is not solely determined by the topological Chern number. These features demonstrate that while the generalized-Brillouin zone framework reliably predicts topological phase transitions, it does not on its own specify the dynamical transitions.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2609.34941",
+      "title": "Moiré Quantum Layer Hall Effect",
+      "authors": [
+        "Jin-Xin Hu",
+        "Wen-Bo Dai",
+        "X. C. Xie"
+      ],
+      "abstract": "Even-layer topological antiferromagnetic thin films such as MnBi$_2$Te$_4$ exhibit an unconventional layer Hall effect (LHE) arising from a layer-locked Berry curvature. This effect manifests as a layer-polarized anomalous Hall effect that can be controlled by a vertical displacement field. However, achieving a quantized version of the LHE remains experimentally challenging. In this work, we propose that moiré engineering, using an electrostatic superlattice potential from control layers, can realize the quantum layer Hall effect (QLHE). Specifically, by placing moiré control layers in close proximity to the surfaces of a MnBi$_2$Te$_4$ thin film without breaking $PT$ symmetry, the resulting system exhibits a vanishing net Hall conductance but a quantized layer Hall conductance of $e^2/h$. A weak gate electric field then breaks $PT$ symmetry and drives the system into a layer-polarized quantum anomalous Hall (QAH) phase. Furthermore, when a single control layer is introduced on only one surface, the layer-polarized QAH emerges even in the absence of an external electric field. We identify the microscopic origin of the QLHE as an emergent layer-$U(1)$ gauge field generated by the scalar moiré potential, which in turn produces opposite periodic pseudomagnetic fields on the top and bottom layers. Our work provides a feasible pathway toward realizing the QLHE in antiferromagnetic thin films.",
+      "journal": "arXiv",
+      "published": "2026-09-28",
+      "url": "https://arxiv.org/abs/2609.34941",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2609.34941-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.34941-fig01.png",
+        "/data/figures/arxiv-2609.34941-fig02.png",
+        "/data/figures/arxiv-2609.34941-fig03.png",
+        "/data/figures/arxiv-2609.34941-fig04.png",
+        "/data/figures/arxiv-2609.34941-fig05.png",
+        "/data/figures/arxiv-2609.34941-fig06.png",
+        "/data/figures/arxiv-2609.34941-fig07.png",
+        "/data/figures/arxiv-2609.34941-fig08.png",
+        "/data/figures/arxiv-2609.34941-fig09.png",
+        "/data/figures/arxiv-2609.34941-fig10.png",
+        "/data/figures/arxiv-2609.34941-fig11.png",
+        "/data/figures/arxiv-2609.34941-fig12.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Conceptual illustration of the layer Hall effect (LHE) and its quantized counterpart, the quantum layer Hall effect (QLHE). The top and bottom layers carry opposite magneti- zations, forming a compensated AFM. (a) The LHE is charac- terized by opposite Hall responses associated with the top and bottom layers. (b) Upon quantization, the opposite layer Hall responses evolve into counter-propagating chiral edge states localized on opposite layers, giving rise to the QLHE. itself as an anomalous Hall response [23]. A perpendic- ular electric field breaks the combined parity-time (PT) symmetry, lifting the cancellation of Berry curvature be- tween opposite layers and generating a measurable layer- polarized Hall signal. Despite this advance, it is impor- tant to note that the observed Hall response is not yet quantized to e2/h; a genuine QAH state in such collinear AFMs has remained...",
+        "FIG. 2. (a) Schematic illustration of the quantum layer Hall effect (QLHE) via moir´ e engineering. Dual control layers on both top and bottom surfaces preserve PT symmetry. The layer resolved Chern number is shown to be nearly quantized for the top and bottom layers (N1 and N4). (b) An applied Ez breaks PT and selects which layer hosts chiral edge states. whether the electrically tunable LHE can be quantized into a quantum layer Hall effect (QLHE), in which the opposite layer Hall responses are quantized and locked by opposite layers (see Fig. 1(b)), thereby providing an ex- perimentally feasible route toward electrically controlled, layer-polarized QAH phases in compensated AFMs. In this work, we demonstrate that moir´ e engineering pro- vides a general solution to realize the QLHE in MBT thin films. Moir´ e superlattices can be fabricated by an integrated patterned dielectric...",
+        "FIG. 3. (a) Band structure of tetralayer MBT thin film. The conduction and valence bands are labeled by blue and red. (b) The moir´ e bands are formed by adding control layers to bottom and top surfaces. (c) Applying vertical displacement field by setting ∆z = 30 meV. (d) The momentum-space distribution of Berry curvature for the lowest conduction band with Chern number C = 1. (e) and (f) The layer-resolved Chern number for ∆z = ±30 meV. (g) The anomalous Hall conductivity as a function of Fermi energy. (h) The phase diagram of QLHE with respect to AFM states and Ez. Parameters for moir´ e potential: V0 = 15meV, LM = 30nm. surface band, thereby confining the quantized Hall cur- rent almost entirely to the top layer. To see this more clearly, we can examine the layer resolved transport cur- rent Ji = −e R k(vi k −E × Ωi)fk. The layer-resolved Chern number Ci can be calculated by by...",
+        "FIG. 4. (a) The control layer is placed on the top surface, resulting in the C = 1 for the lowest conduction band with the layer-resolved Chern number is shown in the lower panel. (b) The corresponding moir´ e band structure. (c) and (d) The control layer is placed on the bottom surface. Parameters for moir´ e potential: V0 = 15meV, LM = 50 nm. Emergent layer U(1) gauge field.—After numerically demonstrating the formation of the QLHE with layer- polarized Chern bands in moir´ e MBT multilayers, we now provide a physical interpretation of the numerical observations above. For an even-layer MBT film, the low-energy physics can be effectively described by the two-surface model [45], which reads H = v0(pysx−pxsy)τz+Mszτz+∆ts0τx+U(r)s0τ0, (4) where M denotes the layer-contrasted exchange field and ∆t is the interlayer coupling. v0 is the Fermi velocity. Using the projection method [46], we...",
+        "FIG. 5. (a) Schematic illustration of the layer-contrasted pseudomagnetic field. Two chiral edge states propagate in op- posite directions relative to each other. (b) Moir´ e minibands for V0 = 15 meV and LM = 30 nm. (c) Layer Hall conduc- tance σl xy with various interlayer coupling strength ∆t. (d) Schematic of the electric-field-driven topological phase transi- tion. Other parameters: ℏv0 = 0.3 eV·nm and M = 30 meV. moir´ e MBT flake with dual control layers (Fig. 2(a)), a quantum layer Hall insulator emerges when the first moir´ e conduction band is fully filled. It serves as the parent state of the layer-polarized QAH in collinear topo- logical AFMs. However, since layer resolved transport measurement techniques are not yet available, and even multilayer MnBi2Te4 is only nanometers thick, the layer Chern number cannot be directly read out from trans- port measurement. Is there an...",
+        "FIG. 6. Topological magnetoelectric effect in axion insulator and quantum layer Hall insulator. α denotes the magneto- electric coefficient. from ±1/2 to ±1 is the direct consequence of the moir´ e- induced QLHE. Consequently, the QLHE not only en- ables a quantized layer Hall conductance σl xy = e2/h with zero net charge Hall response but also doubles the mag- netoelectric coupling, providing a distinct experimental signature (see Fig. 6). Conclusion and discussion.—In this work, we have pre- sented a general theoretical framework for engineering the QLHE in topological AFM thin films. Our findings point to several promising directions. First, the concept of a moir´ e-induced layer-locked pseudomagnetic field can be extended to other antiferromagnetic topological insu- lators, particularly the broader family of MnBi2Te4-type materials [26, 50]. Second, the designed moir´ e potential..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that even-layer topological antiferromagnetic thin films such as MnBi$_2$Te$_4$ exhibit an unconventional layer Hall effect (LHE) arising from a layer-locked Berry curvature. In this work, we propose that moiré engineering, using an electrostatic superlattice potential from control layers, can realize the quantum layer Hall effect (QLHE). Our work provides a feasible pathway toward realizing the QLHE in antiferromagnetic thin films.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2609.34607",
+      "title": "Quantum-Geometric Amplification of Nonperturbative Interaction Scales",
+      "authors": [
+        "Stefano Bilamour",
+        "René Meyer",
+        "Johanna Erdmenger",
+        "Domenico Di Sante"
+      ],
+      "abstract": "Weak interactions at a two-dimensional quadratic band touching (QBT) can generate an exponentially small symmetry-breaking gap, $m\\sim e^{-A/V_1}$, that cannot be captured by every finite order of perturbation theory. We show that the singular quantum geometry of the gapped QBT converts this beyond-all-orders scale into an algebraically enhanced response. The quantum metric develops a momentum-space hot spot whose Brillouin-zone integral diverges logarithmically, and therefore grows algebraically when the gap is dynamically generated by interactions. Through the inverse-frequency Souza--Wilkens--Martin optical sum rule, the same amplification appears in the negative-first longitudinal optical moment, even though the ordinary optical conductivity remains $O(e^2/\\hbar)$ and its absorption threshold is exponentially small. We establish these results analytically for a massive QBT and verify them microscopically in an interacting kagome lattice model known to develop a spontaneous quantum anomalous Hall mass at its QBT from loop currents order. Our results identify quantum geometry as an asymptotic amplifier of nonperturbative interaction scales.",
+      "journal": "arXiv",
+      "published": "2026-09-28",
+      "url": "https://arxiv.org/abs/2609.34607",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Kagome_Lattice",
+      "image_url": "/data/figures/arxiv-2609.34607-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.34607-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Low-energy dispersion along qy = 0 near the Γ-point QBT for the regularized kagome lattice at r/t = 0.05. Energies are measured relative to EΓ = 2t. Dashed curves show the ungapped case mΓ = 0; solid curves show a representative QAH mass |mΓ| = 0.018t from loop currents (see inset) corresponding to (a deliberately large for plotting purposes) V1/t ≃0.44 from the weak-coupling lattice mass relation Eq. (6). (b) Weak-coupling scaling of the interaction-generated lattice mass. The quantity −(V1/t) ln(|mΓ|/t), obtained from the scalar log-mass self-consistency equation, approaches the parameter-free asymptotic coefficient Alat = π/ √ 3 (dashed line) as V1/t →0; no exponential coefficient is fitted. (c) Scaling collapse of the full-lattice quantum-metric trace near the QBT. With qm = p |mΓ|/d and x = q/qm, lattice results for |mΓ|/t = 10−3, 10−4, 10−5 collapse onto the continuum..."
+      ],
+      "ai_summary": "In Kagome Lattice, this paper argues that weak interactions at a two-dimensional quadratic band touching (QBT) can generate an exponentially small symmetry-breaking gap, $m\\sim e^{-A/V_1}$, that cannot be captured by every finite order of perturbation theory. We show that the singular quantum geometry of the gapped QBT converts this beyond-all-orders scale into an algebraically enhanced response.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/b8b7-scc5",
+      "title": "Interacting Chern insulator transition on the sphere: Revealing the Gross-Neveu-Yukawa criticality",
+      "authors": [
+        "Anonymous"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Interacting Chern insulator transition on the sphere: Revealing the Gross-Neveu-Yukawa criticality in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-09-28",
+      "url": "https://doi.org/10.1103/b8b7-scc5",
+      "doi": "10.1103/b8b7-scc5",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2609.33802",
+      "title": "Autonomous phase discovery",
+      "authors": [
+        "Shiyu Zhou",
+        "Yuxuan Zhang",
+        "Sebastian Wetzel",
+        "Roger Melko",
+        "Xiu-Zhe Luo"
+      ],
+      "abstract": "Understanding quantum phases of matter has long relied on physicists' intuition and mathematical tools such as symmetry and topology. Remarkably successful as these approaches have been, they provide no universal way to explore a Hamiltonian space whose organizing principle is not known in advance. In this work, we introduce a fully autonomous system combining differentiable programming and unsupervised learning for quantum phase discovery. The search evaluates ground-state data along an adaptive trajectory rather than on a predetermined parameter grid. We demonstrate the system with three different solvers and benchmark it against random sampling at equal ground-state-evaluation budgets. On a generalized cluster chain hosting up to $200$ distinct phases, the search finds up to $25$ more phases at the same budget, and matches random sampling given thirty times its budget. On a $50$-parameter Chern insulator, it reaches sectors not obtained by the simple harmonic constructions considered here, in a family whose inverse problem remains open, while recovering all sectors found by sampling. Our results establish autonomous, gradient-driven exploration of Hamiltonian space as a practical route to discovering quantum phases without phase labels or a prescribed target phase.",
+      "journal": "arXiv",
+      "published": "2026-09-27",
+      "url": "https://arxiv.org/abs/2609.33802",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. Earlier works have demon- strated the effectiveness of supervised learning meth- ods given labeled data [21–33], though these require the phases to be known in advance. For certain Hamiltonians with few model parameters, their entire phase diagrams can also be mapped using unsupervised methods without ∗paper@rogerluo.dev A C B Automation •phase labels •param. sweep •phase labels •param. sweep •phase labels •param. sweep : no data : unlabeled data : labeled data : phase bdy. Supervised Unsupervised Autonomous",
+        "FIG. 1. Three machine-learning paradigms for mapping quantum phase diagrams with increasing levels of automation. Supervised methods require both phase labels and data from a predetermined sweep of Hamiltonian parameters, whereas unsupervised methods remove the need for phase labels but still rely on such a sweep. In contrast, our autonomous frame- work requires no prior knowledge of the phases and initial- izes from data sampled locally around an arbitrary point in Hamiltonian parameter space. The algorithm actively guides the search for new and unknown phases performing measure- ments or simulations only on the discovery trajectory. phase labels, such as principal component analysis, dif- fusion maps, contrastive learning, variational quantum circuits or autoencoders [34–47]. In approaches based on predetermined parameter sweeps, the region to ex- amine is fixed in advance. For a grid...",
+        "FIG. 2. Autonomous phase discovery system. A differentiable Hamiltonian solver (ED, ITE or DMRG here; a closed-form free- fermion backend in Sec. IV) produces ground-state data at the current parameters θ, which the encoder (E) of the autoencoder (AE) compresses into a latent representation z(θ). The pathfinder loss L = −∥z(θ) −µ∥2/√dz, the negative ℓ2 distance to the centroid µ of the visited-phase cluster, is minimized by gradient descent on the Hamiltonian parameters. A diverging gradient, ∇L →nan, signals a gap closing at a phase boundary and triggers a jump with a boosted learning rate (η ←10 × η). On the other hand, a vanishing gradient, ∇L →0, triggers the AE bootstrap, retraining the AE on data that include the newly explored region. Bottom left: search trajectory in the Hamiltonian parameter space, from the starting point (cross in phase A) to the discovered phase (cross in...",
+        "Fig. 2. The differentiable Hamiltonian solver provides ground-state information to the autoen- coder, which projects it into a latent space. The phase pathfinder then uses this latent representation to direct the search toward unknown phases. The differentiable solver allows the Hamiltonian parameters to become fully trainable variables, so that the gradients of the final loss can propagate all the way back to the parameters. The unsupervised phase detector is pretrained on data gen- erated by the Hamiltonian solver, either before the au- tomatic phase discovery loop begins or when retraining is required during the loop. We first discuss the phase detector and then present the full discovery system. The unsupervised phase detection algorithm is an autoencoder (AE), a commonly used machine learning model for anomaly detection that produces meaningful latent space embeddings. This...",
+        "Fig. 2. Typically, an AE exhibits a mirror-symmetric architecture, and the loss function used to train the AE is defined by the distance between the inputs and outputs, LC = d [(D ◦E)(x), x] . (2) The training is purely unsupervised, since no labels are required. The choice of reconstruction loss depends on the input representation. To demonstrate versatil- ity, in this work, we consider inputs for AE from three different Hamiltonian solvers: i) the full wavefunctions from exact diagonalization (ED), ii) the full wavefunc- tions from imaginary time evolution (ITE), iii) the ex- pectation values of a set of observables of the ground states obtained by density matrix renormalization group (DMRG) [67, 68]. For the cases where full wavefunctions are available, it is natural to use fidelity LC = 1−| ⟨ϕ|ψ⟩|2 as the AE loss function, where |ψ⟩and |ϕ⟩are the in- puts and outputs of AE...",
+        "Fig. 2. Given an arbitrary Hamiltonian H(θ) and initial starting points θ0, the Hamiltonian solver is queried to generate a set of train- ing data for AE. The training data are drawn from the vicinity of θ0 with radius r0. r0 is chosen small enough so that the training data lies within a single phase. The en- coder of the trained AE is taken as the embedding model, and the centroid µ is computed from the latent represen- tations of the training data. Once the phase detection model is in place, the phase discovery loop begins. At each step, the solver produces the ground state at the current θ, which the encoder maps to a latent represen- tation z(θ). The pathfinder loss L is evaluated from z(θ) and µ, and its gradient is backpropagated through the encoder and the solver to θ. The Hamiltonian parame- ters are then updated by the gradient descent, θ ←θ −η ∇θL , (5) where η is the learning...",
+        "FIG. 3. Autonomous phase discovery for TFIM, Z2 lattice gauge theory, and the transverse-field XXZ model. Top row: discovery trajectories in the Hamiltonian parameter space; bottom row: the corresponding trajectories projected onto the first two principal components of the autoencoder latent space. TFIM: chain of L = 10 solved by ED. The latent dimension is dz = 10. Three trajectories are shown: g from −0.3 to −2.25 (orange), from −0.5 to −1.75 (blue), and from −1.5 to −0.74 (green), demonstrating crossings of the phase boundary (solid black horizontal line) from either phase to the other. AE bootstrapping is indicated by the star. Z2: 2 × 3 lattice solved by ITE. The latent dimension is dz = 30. Three trajectories are shown: λ from −0.09 to −0.48 (blue, hidden behind the starting point square), from −0.10 to 0.39 (orange), from −0.75 to 0.08 (green). The two trajectories starting in...",
+        "FIG. 4. Phases discovered by the autonomous search versus random sampling at equal numbers of ground-state evalua- tions. (a) Generalized cluster chain, Eq. (9), at L = 500: phases found across d ∈[20, 200], at budgets of 104, 3 × 104, 105, and 3 × 105 evaluations (light to dark). In 36 of the 40 (d, budget) cells the search’s worst seed exceeds the baseline’s best realization. (b) Chern insulator, Eq. (12): distinct Chern sectors against budget; every budget shown is a nested prefix of the same runs, and the median margin grows from +21 at 3×104 to +68 at 3×105, increasing end to end in every seed. Medians over five fresh seeds throughout; bands are min–max over seeds or realizations. ω = α hosts α unpaired Majorana modes at each edge. The benchmark itself uses a closed chain, with site indices taken modulo L, and is restricted to the even-parity sec- tor, corresponding to antiperiodic...",
+        "FIG. 5. The comparison of Fig. 4(b) at 3×105 evaluations, re- solved by the probability mass occupied by each Chern sector under the Gaussian sampling measure (mean over five seeds). The four decades resolved by the 106-sample reference are saturated by both methods, while the advantage of the au- tonomous search is concentrated in the two rarest bins. mass below 10−5. This suggests that the trajectory-based search is particularly effective at reaching small phase re- gions that are unlikely to be found by independent ran- dom samples. V. DISCUSSION & OUTLOOK We have introduced a fully autonomous system for quantum phase discovery that recasts the search for new phases in the Hamiltonian parameter space as a geomet- ric problem in the latent space of an autoencoder, navi- gated by gradient descent through a differentiable solver, without supplying phase labels or order parameters to the..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that understanding quantum phases of matter has long relied on physicists' intuition and mathematical tools such as symmetry and topology. We demonstrate the system with three different solvers and benchmark it against random sampling at equal ground-state-evaluation budgets. Remarkably successful as these approaches have been, they provide no universal way to explore a Hamiltonian space whose organizing principle is not known in advance.",
+      "abstract_status": "original"
+    },
+    {
       "id": "doi:10.1103/c5hf-mn4s",
       "title": "Circulators based on coupled quantum anomalous Hall insulators and resonators",
       "authors": [
@@ -54,6 +259,86 @@
       "figure_captions": [],
       "ai_summary": "In MnBi2Te4 MTI, this paper argues that integrated plasmonics is advancing rapidly, enabling a wide range of functionalities to be incorporated onto a single chip. Here, we demonstrate that topological circulators utilizing asymmetric coupling offer improved input power range, isolation, and insertion loss. The coherent photon-plasmon interaction enables a circulator with up to 50 dB of isolation across a broad range of excitation power.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2609.31846",
+      "title": "Read-Rezayi fractional Chern insulators in modulated Bernal graphene",
+      "authors": [
+        "Ruth Mora-Soto",
+        "André Grossi Fonseca",
+        "Raul Perea-Causin",
+        "Hui Liu",
+        "Emil J. Bergholtz",
+        "Marin Soljačić"
+      ],
+      "abstract": "Fibonacci anyons provide a universal platform for topological quantum computation, and emerge as low-energy excitations in the $\\mathbb{Z}_3$ Read-Rezayi phase in the fractional quantum Hall effect. However, realistic microscopic realizations of this phase in the absence of a magnetic field have remained elusive. We study a model of periodically modulated Bernal bilayer graphene with gate-screened Coulomb interactions. Using the recently developed target-phase optimization method in conjunction with band-projected exact diagonalization, we identify at filling $ν=3/5$ a region of parameter space whose ground state is consistent with a Read-Rezayi fractional Chern insulator. The partially filled band from which it arises is a part of a two-band complex which mimics geometric aspects of the lowest and first Landau levels, with the ground state at $ν=1/2$ consistent with the Moore-Read state. Our results suggest that modulated Bernal graphene can realize delicate non-Abelian fractional quantum Hall states at zero magnetic field, while demonstrating target-phase optimization as a practical route to discovering such phases in realistic, high-dimensional microscopic models.",
+      "journal": "arXiv",
+      "published": "2026-09-25",
+      "url": "https://arxiv.org/abs/2609.31846",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2609.31846-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.31846-fig01.png",
+        "/data/figures/arxiv-2609.31846-fig02.png",
+        "/data/figures/arxiv-2609.31846-fig03.png",
+        "/data/figures/arxiv-2609.31846-fig04.png",
+        "/data/figures/arxiv-2609.31846-fig05.png",
+        "/data/figures/arxiv-2609.31846-fig06.png",
+        "/data/figures/arxiv-2609.31846-fig07.png",
+        "/data/figures/arxiv-2609.31846-fig08.png"
+      ],
+      "figure_captions": [
+        "Figure 1. (a) Bernal bilayer graphene in the presence of periodic pseudomagnetic and scalar fields (color map) in a dual-gate geom- etry (b) Schematic workflow for target-phase optimization to search for the Read–Rezayi phase. We model the strain-induced pseudomagnetic field of strength B0 by its leading triangular superlattice harmonics, B(r) = B0 5 X ℓ=0 eiGℓ·r, Gℓ= R2πℓ/6G0, (1) where G0 = 4π/ √ 3aM(1, 0), and the Gℓare the six short- est reciprocal superlattice vectors. The field averages to zero over the superlattice unit cell, so single-particle states form Bloch bands (or pseudo LLs) rather than ordinary LLs. We choose the corresponding dimensionless vector-potential pro- file Ax(r) + iAy(r) = A0 P5 ℓ=0 eiπℓ/3eiGℓ·r, where A0 = B0/|G0|. We also include a scalar modulation of strength V0 with the same phase V(r) = V0 P5 ℓ=0 eiGℓ·r. Then, the single-particle Hamiltonian in the...",
+        "Figure 2. Exact-diagonalization signatures of the Read–Rezayi state and quantum geometry at the optimized point. Results are shown in the flat-band limit for Ns = 25 sites and Ne = 15 electrons, at parameter point (α, β, γ, U, d) = (0.636, 0.007, 0.986, 1.033, 2.301). (a) Low-energy ED spectrum as a function of center-of-mass momentum, with the ground-state manifold highlighted. (b) ED spectrum as a function of inserted flux Φ1. (c) Particle-cut entanglement spectrum for NA = 5. The number of eigenvalues below red line is 51255, matching exactly the expected RR quasihole count. (d) Band structure along a high symmetry line, with active band highlighted in purple. Chern numbers C and trace violations T are indicated. (e) Berry curvature Ω(k) of the active band. (f) Momentum-resolved trace violation T(k) of the active band. flux threading, the ten states flow only among themselves [Fig-...",
+        "Figure 3. Many-body gap of the Read–Rezayi state in the Ns = 25 cluster as a function of dielectric constant εr upon including the bare dispersion and Hartree–Fock self-energy, at parameter point (α, β, γ, U, d) = (0.620, 0.006, 0.943, 1.009, 3.110). Shaded region denotes the range of dielectric constants of hBN-encapsulated graphene. hand, the combined two-band trace violation, T2b = 0.87, re- mains somewhat above the ideal vortexable value T2b = 0 [59]. Nonetheless, further strong evidence for the LL-like nature of this two-band complex comes from the observation that, at ν = 1/2 of the active band, the ground state is consistent with the Moore–Read state, as we detail in the SM. Taken together, the band geometry indicators and ground state at half filling support a picture in which the two bands approximately mimic the zeroth and first LLs, suggesting a microscopic origin for the...",
+        "Figure 3. For E0 = 300 meV and aM ≃14 nm, these correspond to a pseudomagnetic field strength B0 ≃109 T, scalar potential strength V0 ≃1.8 meV, interlayer hopping γ1 ≃283 meV, and gate distance d ≃44 nm. The interlayer bias U ≃303 meV corresponds to a gap Eg = Uγ1/ q U2 + γ2 1 ≃207 meV in the minimal unmodulated tight- binding model for Bernal graphene. The value of B0 needed is accessible in previous realizations [39], which reported a pseudomagnetic field amplitude of up to 116 T. The re- quired scalar modulation is modest relative to experimentally demonstrated patterned dielectric architectures [41, 42]. Our interlayer hopping is somewhat below the measured value of γ1 = 380–400 meV [63, 64]; matching this value would re- quire increasing E0 to about 400 meV, corresponding to moir´ e period aM ≃10 nm, at the expense of stronger pseudomag- netic and scalar modulations. The estimated..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that fibonacci anyons provide a universal platform for topological quantum computation, and emerge as low-energy excitations in the $\\mathbb{Z}_3$ Read-Rezayi phase in the fractional quantum Hall effect. Using the recently developed target-phase optimization method in conjunction with band-projected exact diagonalization, we identify at filling $ν=3/5$ a region of parameter space whose ground state is consistent with a Read-Rezayi fractional Chern insulator.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2609.31839",
+      "title": "Zoology of chiral superconductors in Chern bands",
+      "authors": [
+        "André Grossi Fonseca",
+        "Aidan Reddy",
+        "Ahmed Abouelkomsan",
+        "Liang Fu",
+        "Marin Soljačić"
+      ],
+      "abstract": "Evidence for chiral superconductivity has recently been observed in several van der Waals systems including rhombohedral multilayer graphene and twisted bilayer MoTe$_2$. In the latter, superconductivity emerges at carrier densities near a fractional Chern insulator. This raises the question of what kinds of superconductors may emerge in a system of electrons in a topological band with strong repulsive interactions. Here, we adapt the target-phase optimization method to search for chiral superconductors in a minimal model of interacting electrons in a Chern band. We construct a differentiable loss function for superconductors from the sign oscillation of the pair-binding energy and combine gradient-based optimization with a rigorous screening procedure to identify and characterize superconductors. Applying this framework within exact diagonalization to spinless electrons in periodically modulated Landau levels with screened Coulomb interactions, we uncover a broad family of chiral superconducting phases. At filling $ν=2/3$, we recover the previously identified $f-\\mathrm{i} f$ hole superconductors and find additional $p\\pm \\mathrm{i} p$ and $f+\\mathrm{i} f$ superconductors of both electrons and holes, occurring near and far from the limit of ideal quantum geometry. At $ν=1/2$, we identify $p- \\mathrm{i} p$ electron and $f-\\mathrm{i} f$ hole superconductors and find, for the first time, a direct transition between chiral superconductors and composite Fermi liquids. Our results reveal that chiral superconductivity in Chern bands comprises a diverse landscape of competing pairing instabilities and establish target-phase optimization as a general strategy for searching for quantum phases in complex interacting systems.",
+      "journal": "arXiv",
+      "published": "2026-09-25",
+      "url": "https://arxiv.org/abs/2609.31839",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "Figure 1. Target-phase loss function for superconductivity and workflow. (a) Visual depiction of loss function definition in Eq. (2), in terms of the sign oscillation of the pair binding energy, defined in Eq. (1). (b) Schematic workflow for searching for and verifying superconductivity, through optimization of the superconductor loss function and a multi-step screening process (see text), respectively. mentum K = 0, leading to a sign-reversed “odd-even effect” for periodic boundary conditions1[19, 22, 23]. When the paired fermions are doped holes on top of a filled band of electrons, the sign of the even-odd effect in EB(Ne) depends on the number of available single-particle Bloch states Nk, since the number of holes Nh = Nk −Ne depends on Nk. We use this fact, in addition to other many-body indicators, to distinguish electron and hole superconductors. We now leverage this sign...",
+        "Figure 1a. Therefore, we can optimize L in the pa- rameter space, in search of regions with negative loss function. In this work, we use exact diagonalization on small clusters to evaluate the pair binding energy, which has been recently employed to identify chiral superconductors in topological bands [11, 19]. We note that, at a higher computational cost, more charge sectors can in principle be included in the max function in Eq. (2) to more strongly enforce the sign oscillation of the pair binding energy across a broader range of fillings. We now summarize the search protocol (Figure 1b, top), and provide further details in the Supplemental Material (SM). The first step is to identify a Hamiltonian of interest (see Section III), for which we will search for chiral superconductors. Then, we choose a finite cluster, a filling of interest, and whether we will target a hole or electron...",
+        "Figure 2. Chiral superconductors at ν = 2/3 found through target-phase optimization and screening steps. (a) 2D projection of parameter points found, with marker types denoting the charge carriers (circles/squares for electrons/holes) and color denoting the phase winding of the condensate wavefunction. Dashed line marks the ideal line V0 = δB0/2. Data in the panels are for parameter point highlighted, located at (δB0, V0, ϕ, U0, d) = (2.06, 0.99, 0.07, 2.65, 1.37). All many-body data are calculated at system size Ns = 27 and number of electrons Ne = 18, unless otherwise specified. (b) Many-body spectrum as a function of the absolute value of the center-of-mass momentum |K|. (c) Pair binding energy EB as a function of number of electrons Ne. (d) Largest eigenvalues of the 2RDM λ in each momentum transfer sector q. (e) Interaction-induced hole dispersion εh(k). (f) Ground-state momentum...",
+        "Figure 3. Chiral superconductors at ν = 1/2 found through target-phase optimization and screening steps. (a) 2D projection of parameter points found, with marker types denoting the charge carriers (circles/squares for electrons/holes) and color denoting the phase winding of the condensate wavefunction. Dashed line marks the ideal line V0 = δB0/2. Data in the panels are for the parameter point highlighted, located at (δB0, V0, ϕ, U0, d) = (−1.79, −0.73, 3.18, 1.98, 0.77). All many-body data are calculated at system size Ns = 26 and number of electrons Ne = 13, unless otherwise specified. (b) Many-body spectrum as a function of the absolute value of the center-of-mass momentum |K|. (c) Pair binding energy EB as a function of number of electrons Ne. (d) Largest eigenvalues of the 2RDM λ in each momentum transfer sector q for Ns = 22, Ne = 11 and Ns = 26, Ne = 13. (e) Bare band dispersion...",
+        "Figure 3e. It once again has a minimum at Γ, with the momentum occupation centered around it and show- ing a clear sign of an electron Fermi surface, with occupation drop near the non-interacting Fermi wavevector for electrons, kF = √ 2ν (Figure 3f). Finally, the leading condensate wave- function is once again concentrated near the Fermi surface, and its phase displays a −2π winding, characterizing the paired state as a p −ip superconductor. At the single-particle level, we once again find Chern number C = +1, with trace violation and Berry curvature fluctuations T ≈0.79, σΩ≈0.16, indicating a band far from the ideal limit. The ν = 1/2 results broaden the scope of our search. They show that the optimization does not merely rediscover super- conductivity near the previously studied ν = 2/3 regime, but 7 can identify distinct electron- and hole-paired phases at any fill- ing. More...",
+        "Figure 4. Quantum phase transition between a p −ip supercon- ductor (SC) and a composite Fermi liquid (CFL). All data are cal- culated at system size Ns = 26 and number of electrons Ne = 13. (a) Parameter space path taken to drive phase transition, which corresponds to sweeping the path δB0(α) = (1 −α)δB0 0 + αδBf 0, with δB0 0 = −1.79, δBf 0 = −1.60, while holding all other parameters fixed to (V0, ϕ, U0, d) = (−0.73, 3.18, 1.98, 0.77). (b) Ground-state momentum occupation range ∆n = max n(k) −min n(k) as a func- tion of sweep parameter α. (c) Many-body spectrum (top) and ground-state momentum occupation (bottom) for final point in the sweep α = 1. (d) Many-body spectrum (top) and ground-state mo- mentum occupation (bottom) for the lowest Landau level at ν = 1/2 and short-range interactions. function are then subjected to a rigorous staged screening pro- cedure that verifies..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that evidence for chiral superconductivity has recently been observed in several van der Waals systems including rhombohedral multilayer graphene and twisted bilayer MoTe$_2$. We construct a differentiable loss function for superconductors from the sign oscillation of the pair-binding energy and combine gradient-based optimization with a rigorous screening procedure to identify and characterize superconductors.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2609.30202",
@@ -2169,25 +2454,6 @@
       ],
       "ai_summary": "In Other New Materials, this paper argues that the gapped Kondo effect describes the screening of an $S=\\frac12$ impurity spin locally coupled via an antiferromagnetic exchange interaction to a conduction-electron system exhibiting a finite hard gap. Furthermore, we show that the different phases can be characterized by several topological invariants: the conventional momentum-space Chern number of the underlying two-dimensional host system, corresponding to a Chern insulator; the B-space Chern number, defined by coupling the impurity spin to a fictitious local magnetic field $\\boldsymbol B$, in the limit $B \\to 0$; and the S-space Chern number, defined for...",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/xyq4-kr2k",
-      "title": "Erratum: Programmable quantum anomalous Hall insulator in twisted crystalline flatbands [Phys. Rev. X 16, 011015 (2026)]",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Erratum: Programmable quantum anomalous Hall insulator in twisted crystalline flatbands [Phys. Rev. X 16, 011015 (2026)] in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review X",
-      "published": "2026-08-12",
-      "url": "https://doi.org/10.1103/xyq4-kr2k",
-      "doi": "10.1103/xyq4-kr2k",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "doi:10.1021/acs.langmuir.6c03279",
