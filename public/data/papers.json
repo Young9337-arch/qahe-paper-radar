@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T06:59:09.678991+00:00",
+  "updated_at": "2026-09-30T06:47:27.598478+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,46 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2609.38045",
+      "title": "Interlayer Fermi Polarons in Bilayer MoTe$_2$",
+      "authors": [
+        "Ruihao Ni",
+        "Eugen Dizer",
+        "Maximilian Wolf",
+        "Son T. Le",
+        "Sharadh Jois",
+        "Jeffrey J. Schwartz",
+        "Liuxin Gu",
+        "Rundong Ma",
+        "Suji Park",
+        "Beini Gao",
+        "Lifu Zhang",
+        "Houk Jang",
+        "Takashi Taniguchi",
+        "Kenji Watanabe",
+        "Aubrey T. Hanbicki",
+        "Adam L. Friedman",
+        "Richard Schmidt",
+        "You Zhou"
+      ],
+      "abstract": "Atomic bilayers of transition metal dichalcogenides (TMDs) host quantum phases governed by the layer degree of freedom, including bilayer Wigner crystals, fractional Chern insulators, and exciton condensates. These phases are probed primarily through exciton spectroscopy, yet it remains poorly understood how excitons and carriers interact to form Fermi polarons in bilayers, where both the impurity and the Fermi sea carry a layer pseudospin. Progress has been limited because most TMD bilayers have momentum-indirect optical bandgaps, in which non-radiative decay and inhomogeneous broadening obscure the intrinsic spectra. Here, we show that bilayer MoTe$_2$, unlike most TMD bilayers, retains a direct optical bandgap, providing a clean platform for studying bilayer Fermi-polaron physics. In a dual-gated device, an out-of-plane electric field continuously tunes the hybridization between intralayer and interlayer excitons, forming layer-coherent excitons. Upon electrostatic doping, the excitonic spectrum evolves into multiple polaron branches, controlled by both carrier doping and the out-of-plane electric field. Among these, we identify a polaron with no analog in monolayers, in which a layer-coherent exciton is dressed by carriers in the opposite layer, and is quantitatively captured by our field-theoretic model. Our results establish that pseudospin structure in both the impurity and the bath reshapes polaron formation, opening new avenues to many-body states such as Bose-Einstein condensates with interlayer coherence.",
+      "journal": "arXiv",
+      "published": "2026-09-29",
+      "url": "https://arxiv.org/abs/2609.38045",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2609.38045-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.38045-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Intralayer and interlayer excitons in a MoTe2 bilayer. a, Schematic of a MoTe2 bilayer heterostructure with dual, top and bottom-gate control. The bilayer MoTe2 is encapsulated by two hBN multilayers, with thicknesses of 8 nm (top) and 4.5 nm (bottom). b, c, Electric-field- dependent reflectance contrast (𝑅−𝑅!) /𝑅!, where 𝑅! is the baseline reflectance measured on the same spot at a highly hole-doped gate voltage (b) Reflectance contrast as a function of top gate voltage VTG, and its voltage derivative (c) when the materials are nearly intrinsic: VBG = − 0.556 VTG at T = 6.5 K. X1 and X2 denote intralayer K-valley excitons, IX1 and IX2 denote interlayer excitons with finite out-of-plane dipoles, and XQ denotes a Q-valley-related excitonic branch. d, Extracted electric-field-dependent exciton energy fitted using a coupled oscillator model. Inset: Illustration of intralayer and..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that atomic bilayers of transition metal dichalcogenides (TMDs) host quantum phases governed by the layer degree of freedom, including bilayer Wigner crystals, fractional Chern insulators, and exciton condensates. Here, we show that bilayer MoTe$_2$, unlike most TMD bilayers, retains a direct optical bandgap, providing a clean platform for studying bilayer Fermi-polaron physics.",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1103/xyq4-kr2k",
@@ -189,6 +229,43 @@
       "abstract_status": "ai_assisted"
     },
     {
+      "id": "arxiv:2609.36027",
+      "title": "Spectroscopy of phonon-coupled integer and fractional Chern insulators: emergence of polarons and chirality deficit of graviton mode",
+      "authors": [
+        "Min Long",
+        "Yuzhu Wang",
+        "Zi Yang Meng"
+      ],
+      "abstract": "Strong electron-phonon coupling can destabilize both Chern insulators (CIs) and fractional Chern insulators (FCIs) in favor of charge order, but whether the instabilities in CI and FCI share a common microscopic mechanism remains unclear. In this paper, we address this question by studying a flat-band Haldane model coupled to dynamical Holstein phonons at integer and fractional fillings using density-matrix renormalization group with local basis optimization. We find that the low-energy effects of phonons are dominated by their dressing of charge-neutral collective modes. In the CI and FCI, phonons dress excitons and magnetorotons into composite modes that we identify as exciton polarons and magnetoroton polarons, respectively. These modes soften strongly upon approaching the transition, while the momenta of their energy minima anticipate the ordering wave vectors of the charge-ordered phases. The phonon spectrum, in turn, acquires dispersive features inherited from the exciton and magnetoroton modes, providing direct lattice signatures of these neutral excitations. Within the FCI phase, electron-phonon coupling also enhances the opposite-chirality spectral weight of the graviton response, thereby resulting in a chirality deficit. Our results provide a unified excitation-based picture of phonon-driven instabilities in CIs and FCIs and establish lattice dynamics as a probe of their neutral collective modes.",
+      "journal": "arXiv",
+      "published": "2026-09-28",
+      "url": "https://arxiv.org/abs/2609.36027",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2609.36027-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2609.36027-fig01.png",
+        "/data/figures/arxiv-2609.36027-fig02.png",
+        "/data/figures/arxiv-2609.36027-fig03.png",
+        "/data/figures/arxiv-2609.36027-fig04.png",
+        "/data/figures/arxiv-2609.36027-fig05.png",
+        "/data/figures/arxiv-2609.36027-fig06.png",
+        "/data/figures/arxiv-2609.36027-fig07.png",
+        "/data/figures/arxiv-2609.36027-fig08.png",
+        "/data/figures/arxiv-2609.36027-fig09.png",
+        "/data/figures/arxiv-2609.36027-fig10.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Phonon dressing of neutral excitations in CI and FCI, Hamiltonian and Brillouin zone. (a) In the CI, phonons dress excitons into an exciton polaron and soften its dispersion. (b) In FCI, phonons dress the magnetoroton, neutral bound state of fractionally charged quasielectrons and quasiholes, into a magnetoroton polaron. Phonon coupling also enhances spectral weight to the opposite-chirality gravi- ton response, producing a chirality deficit. The black and green curves schematically represent the bare and phonon- dressed dispersions, respectively. (c) Haldane–Holstein model on the honeycomb lattice (d) Brillouin Zone and the three mo- mentum cuts accessible on the Ly = 3 cylinder. exciton-polarons and magnetoroton-polarons. In con- trast to the formation of graviton polaritons in a cavity setting [9], we find that electron–phonon coupling am- plifies the chirality deficit of the...",
+        "FIG. 2. CI-CDW transition and Exciton-polarons . The spectrum shown for the CI case focuses on path 1 in Fig. 1 (d). (a) Evolution of CDW parameter M(Γ) and static density correlation S(Γ) at ν = 1 filling as g increases. (b) and (c) S(k, ω) defined in Eq. (2) for different g, where the low- energy branch is fully captured by the n−branch as shown in (d). (e) Phonon spectral function D(k, ω); the white dashed line denotes the intrinsic frequency. (f)Evolution of neutral gap ∆n, charge gap ∆c, and phonon gap ∆ph within the CI phase. As the coupling strength increases, the density fluctu- ation is enhanced, followed by the emergence of charge order at Γ, suggesting that the phase instability is related to density fluctuations. We mark g ∼1.6 as the critical value. Fig. 2 (b) and (c) show the spectral function S(k, ω) at different values of g, where the exciton appears as a sharp mode at...",
+        "FIG. 3. FCI-CDW transition and Magnetoroton- polarons. The spectrum shown for the FCI case focuses along path 2 in Fig. 1 (d). (a) evolution of CDW parameter M(K) and static density correlation S(K) at ν = 1/3 filling as g increases. (b) Charge pumping by flux threading. (c) and (d) show S(k, ω) defined in Eq. (2) for g = 0 and g = 1.8 close to the phase boundary; a dashed line is added to guide the magnetoroton-polaron dispersion in (d) and (e). (e) Phonon spectral function D(k, ω); the black dashed line denotes the intrinsic frequency ω0 = 3. We use a broken ω axis here. (f) Evolution of neutral gap ∆n, charge gap ∆c, and phonon gap ∆ph within the FCI phase. the transition is therefore closely connected to the soft- ening of the magnetoroton minimum. Similar to the CI case, the phonon spectrum provides direct evidence for strong dressing of the neutral mode. In addition to the...",
+        "FIG. 4. Phonon-induced chirality deficit of the gravi- ton response. (a) Chiral graviton spectra Iχ(ω) in the FCI for electron–phonon couplings g = 0, 0.8, and 1.6, calculated on an Lx × Ly = 16 × 3 cylinder. The blue solid and red dashed curves denote the χ = −and χ = + channels, respec- tively; the spectra are normalized by the total weight in χ = − sector. (b)Chirality ratio C = (N−−N+)/(N−+N+) of the in- tegrated spectral weights in the two chiral channels as a func- tion of g. (c) Chiral graviton spectra obtained from a com- plementary Landau-level calculation with a phonon-mediated effective interaction of strength Uph. The spectra are plotted against E −E0, where E0 is the ground state energy. (d) Corresponding ratio C as a function of Uph. gap ∆ph closely follows the neutral gap ∆n, and both are strongly suppressed as g increases. By contrast, al- though the charge gap ∆c is..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that strong electron-phonon coupling can destabilize both Chern insulators (CIs) and fractional Chern insulators (FCIs) in favor of charge order, but whether the instabilities in CI and FCI share a common microscopic mechanism remains unclear. We find that the low-energy effects of phonons are dominated by their dressing of charge-neutral collective modes. Our results provide a unified excitation-based picture of phonon-driven instabilities in CIs and FCIs and establish lattice dynamics as a probe of their neutral collective modes.",
+      "abstract_status": "original"
+    },
+    {
       "id": "arxiv:2609.33802",
       "title": "Autonomous phase discovery",
       "authors": [
@@ -342,7 +419,7 @@
     },
     {
       "id": "arxiv:2609.30202",
-      "title": "Incipient superconductivity and tunable Chern insulators in twisted Bernal bilayer-trilayer graphene",
+      "title": "Incipient superconductivity and tunable Chern insulators in twisted bilayer-trilayer graphene",
       "authors": [
         "Derek Waleffe",
         "Aryana Bhattacharyya",
@@ -355,7 +432,7 @@
         "Joshua Folk",
         "Matthew Yankowitz"
       ],
-      "abstract": "Moiré superlattices assembled by twisting Bernal and rhombohedral multilayer graphene host a rich set of interaction-driven magnetic and topological states, yet superconductivity has not been observed in these systems except in proximity to a transition-metal dichalcogenide. Here we report incipient superconductivity and tunable Chern insulators in twisted Bernal bilayer-trilayer graphene encapsulated by hexagonal boron nitride. Across twist angles from $θ= 1.05^\\circ$ to $1.50^\\circ$, Chern insulators form at integer and fractional moiré fillings for electron doping, with Chern numbers up to |C| = 3 set by twist angle and tuned by doping. At $θ= 1.18^\\circ$, a symmetry-broken metallic region forms for hole doping and hosts a trivial insulator at band filling $ν= -2$. Displacement field alone drives this insulator into a pocket of incipient superconductivity with a sharp transition, a well-defined critical current, and a critical temperature that peaks near the insulating boundary, although the resistance does not fall to zero. In-plane magnetic field expands the pocket, which persists to more than four times the weak-coupling Pauli limit, and stabilizes a second pocket in which Fraunhofer-like modulation of the critical current signals phase-coherent pairing. Twisted Bernal bilayer-trilayer graphene thus offers a single gate-tunable system in which pairing can be interfaced with Chern insulators whose topology is itself an adjustable parameter.",
+      "abstract": "Moiré superlattices assembled by twisting Bernal and rhombohedral multilayer graphene host a rich set of interaction-driven magnetic and topological states, yet superconductivity has not been observed in these systems except in proximity to a transition-metal dichalcogenide. Here we report incipient superconductivity and tunable Chern insulators in twisted bilayer-trilayer graphene encapsulated by hexagonal boron nitride. Across twist angles from $θ= 1.05^\\circ$ to $1.50^\\circ$, Chern insulators form at integer and fractional moiré fillings for electron doping, with Chern numbers up to |C| = 3 set by twist angle and tuned by doping. At $θ= 1.18^\\circ$, a symmetry-broken metallic region forms for hole doping and hosts a trivial insulator at band filling $ν= -2$. Displacement field alone drives this insulator into a pocket of incipient superconductivity with a sharp transition, a well-defined critical current, and a critical temperature that peaks near the insulating boundary, although the resistance does not fall to zero. In-plane magnetic field expands the pocket, which persists to more than four times the weak-coupling Pauli limit, and stabilizes a second pocket in which Fraunhofer-like modulation of the critical current signals phase-coherent pairing. Twisted bilayer-trilayer graphene thus offers a single gate-tunable system in which pairing can be interfaced with Chern insulators whose topology is itself an adjustable parameter.",
       "journal": "arXiv",
       "published": "2026-09-24",
       "url": "https://arxiv.org/abs/2609.30202",
