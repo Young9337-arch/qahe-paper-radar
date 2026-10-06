@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T07:08:14.679504+00:00",
+  "updated_at": "2026-10-06T07:37:26.304367+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -28,6 +28,32 @@
       "abstract_status": "ai_assisted"
     },
     {
+      "id": "doi:10.1103/tv3l-85d1",
+      "title": "Demonstration of Robust Chiral Edge Transport in Field-Induced Chern Insulator MnBi 2 Te 4 Devices with Engineered Geometric Defects",
+      "authors": [
+        "Pinyuan Wang",
+        "Jun Ge",
+        "Jiawei Luo",
+        "Xiaoqi Liu",
+        "Jiayi Yang",
+        "Fucong Fei",
+        "Fengqi Song",
+        "Jian Wang"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Demonstration of robust chiral edge transport in field-induced Chern insulator MnBi 2 Te 4 devices with engineered geometric defects in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-10-05",
+      "url": "https://doi.org/10.1103/tv3l-85d1",
+      "doi": "10.1103/tv3l-85d1",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
       "id": "doi:10.1103/l6sm-yzbn",
       "title": "Similarity of fractional Chern insulators to fractional quantum Hall states: Moire-enhanced gaps and excitation-spectrum correspondence",
       "authors": [
@@ -40,6 +66,49 @@
       "doi": "10.1103/l6sm-yzbn",
       "source": "Crossref",
       "material_system": "Moire_Superlattice",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/h96k-q32d",
+      "title": "Flavor-Polarized Chern Insulator in the Half-Filled Rhombohedral Graphene Moiré Superlattice",
+      "authors": [
+        "Zaizhe Zhang",
+        "Xi Chen",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Zhida Song",
+        "Xiaobo Lu"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Flavor-polarized Chern insulator in the half-filled rhombohedral graphene moire superlattice in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-10-02",
+      "url": "https://doi.org/10.1103/h96k-q32d",
+      "doi": "10.1103/h96k-q32d",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/wh99-b81w",
+      "title": "Magnon Chern insulator in two-dimensional fully compensated ferrimagnetic heterostructures",
+      "authors": [
+        "Anonymous"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Magnon Chern insulator in two-dimensional fully compensated ferrimagnetic heterostructures in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-10-02",
+      "url": "https://doi.org/10.1103/wh99-b81w",
+      "doi": "10.1103/wh99-b81w",
+      "source": "Crossref",
+      "material_system": "Oxide_Heterostructure",
       "image_url": null,
       "figure_urls": [],
       "figure_captions": [],
@@ -1702,25 +1771,6 @@
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that abstract Altermagnetism is a newly identified magnetic phase, constituting a third class of magnets with momentum-dependent spin splitting but vanishing net magnetic moment. Furthermore, we identify the Fe2Te2O monolayer as a realistic candidate hosting nontrivial phenomena, where topological phase transitions from a topological crystalline insulator (TCI) to a QAH insulator and between QAH insulators with opposite chirality emerge, as confirmed by first-principles calculations. Notably, Floquet–Bloch band engineering enables switchable chirality via manipulating the intensity and/or polar angle.",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/tv3l-85d1",
-      "title": "Demonstration of robust chiral edge transport in field-induced Chern insulator MnBi 2 Te 4 devices with engineered geometric defects",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Demonstration of robust chiral edge transport in field-induced Chern insulator MnBi 2 Te 4 devices with engineered geometric defects in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review Letters",
-      "published": "2026-09-03",
-      "url": "https://doi.org/10.1103/tv3l-85d1",
-      "doi": "10.1103/tv3l-85d1",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "arxiv:2609.00784",
@@ -3807,25 +3857,6 @@
       ],
       "ai_summary": "In Other New Materials, this paper argues that we systematically introduce hyperdeterminant wavefunctions as a variational-wavefunction-based theoretical framework for strongly correlated quantum states of matter, together with practical numerical simulation algorithms. We demonstrate the applications of this framework to fractional Chern insulators and quantum spin liquids.",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/h96k-q32d",
-      "title": "Flavor-polarized Chern insulator in the half-filled rhombohedral graphene moire superlattice",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Flavor-polarized Chern insulator in the half-filled rhombohedral graphene moire superlattice in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review Letters",
-      "published": "2026-07-24",
-      "url": "https://doi.org/10.1103/h96k-q32d",
-      "doi": "10.1103/h96k-q32d",
-      "source": "Crossref",
-      "material_system": "Moire_Superlattice",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "doi:10.1002/adma.74186",
