@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T07:37:26.304367+00:00",
+  "updated_at": "2026-10-07T07:17:47.559015+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -28,6 +28,25 @@
       "abstract_status": "ai_assisted"
     },
     {
+      "id": "doi:10.1142/s0217979226502723",
+      "title": "Quantum anomalous Hall conductivity on the background of Lorentz-violating c -tensor",
+      "authors": [
+        "Ozório Holanda"
+      ],
+      "abstract": "We investigate the quantum anomalous Hall effect in a (2+1)-dimensional fermionic system with a violation of emergent Lorentz invariance parametrized by the constant tensor [Formula: see text]. Through explicit one-loop calculations, we derive the polarization tensor and obtain the Hall conductivity using the Kubo formula. The conductivity exhibits explicit dependence on the Lorentz-violating parameters through the modified dispersion relation for the fermions. In the static limit ([Formula: see text]), we recover the universal quantized value [Formula: see text], demonstrating the robustness of topological response against this Lorentz-violating background.",
+      "journal": "International Journal of Modern Physics B",
+      "published": "2026-10-07",
+      "url": "https://doi.org/10.1142/s0217979226502723",
+      "doi": "10.1142/s0217979226502723",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that we investigate the quantum anomalous Hall effect in a (2+1)-dimensional fermionic system with a violation of emergent Lorentz invariance parametrized by the constant tensor [Formula: see text].",
+      "abstract_status": "original"
+    },
+    {
       "id": "doi:10.1103/tv3l-85d1",
       "title": "Demonstration of Robust Chiral Edge Transport in Field-Induced Chern Insulator MnBi 2 Te 4 Devices with Engineered Geometric Defects",
       "authors": [
@@ -52,6 +71,118 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2610.07174",
+      "title": "Composite Fermion Theory of Fractional Chern Insulators in Rhombohedral Graphene",
+      "authors": [
+        "Peize Ding",
+        "Andrew J. Millis",
+        "Yongxin Zeng"
+      ],
+      "abstract": "The experimental observation of the fractional quantum anomalous Hall effect in rhombohedral graphene multilayers has raised questions about the nature of the fractional Chern insulator (FCI) states and the role of the moiré potential. In this Letter we develop a composite fermion (CF) description and discuss how moiré modulation and Coulomb interactions stabilize the FCI ground states. Under a flux-attachment transformation and mean-field approximation, the CF spectrum forms Landau levels that are further split by the moiré potential. At moiré filling fractions in the Jain sequence, an integer number of CF bands are occupied, resulting in an incompressible ground state with fractionally quantized Hall response. Remarkably, when the attached flux opposes the Berry curvature of the conduction band of rhombohedral graphene, the CF Landau levels are widely spaced in energy and delocalized across layers, leading to a reduced density of states that helps protect the CF mean-field state and amplifying effects of the moiré potential acting on the layer away from the doped electrons. Interactions between CFs further enlarge the moiré-induced band gap and stabilize the FCI ground state. Our work sheds light on the nature of the FCI states in rhombohedral graphene and provides a new theoretical framework for further studies.",
+      "journal": "arXiv",
+      "published": "2026-10-05",
+      "url": "https://arxiv.org/abs/2610.07174",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2610.07174-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.07174-fig01.png",
+        "/data/figures/arxiv-2610.07174-fig02.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic illustration of the composite fermion (CF) theory of fractional Chern insulators (FCIs) in rhombohedral graphene. Left panel: schematic of band structure of RLG in the absence of moir´ e, with orientation of Berry curvature Ωindicated. Middle panel: flux attachment maps electrons into CF quasiparticles in a magnetic field such that the lowest CF Landau level (LL) is half filled. When the Chern-Simons gauge field (∆B) is chosen to be opposite to the Berry cur- vature Ωof the parent band, the LLs are widely spaced in energy, stabilizing the CF mean-field state. Right panel: a periodic moir´ e potential splits each LL into Hofstadter sub- bands. For moir´ e periodicities such that the number of elec- trons per moir´ e unit cell is in the Jain sequence ν = n/(2n±1), each LL splits into 2n subbands and the lowest n are occu- pied (shown for n = 1, ν = 1/3). Interactions...",
+        "FIG. 2. Electronic band structure of rhombohedral penta- layer graphene (R5G). (a) Continuum band structure in the absence of moir´ e. (b) Moir´ e band structure along K–M–Γ– M–K′ for Vm = 20 meV applied to layer l0 = 5. The gray dashed lines show the Vm = 0 bands folded into the moir´ e Brillouin zone. The color scale indicates the layer polariza- tion P [Eq. (3)], defined such that P = +1 (−1) when an electronic state is fully polarized to layer l = 1 (l = 5). 3 the Hamiltonian Hint = 1 2A X ll′σσ′ X kk′q Vqc† lσ,k+qc† l′σ′,k′−qcl′σ′k′clσk, (4) where A is the area of the two-dimensional system and Vq = 2πe2/ϵq is the Coulomb potential. In our numerical calculations we set the dielectric constant to ϵ = 5, and it follows that the interaction energy scale is e2/ϵam = 25 meV. Flux attachment.—In the absence of interactions, a fractionally filled Landau level (LL) has an extensive..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that the experimental observation of the fractional quantum anomalous Hall effect in rhombohedral graphene multilayers has raised questions about the nature of the fractional Chern insulator (FCI) states and the role of the moiré potential. Our work sheds light on the nature of the FCI states in rhombohedral graphene and provides a new theoretical framework for further studies.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2610.06245",
+      "title": "Probing Quantum Anomalous Hall Transport Under Microwave Irradiation Using a Topological Circulator",
+      "authors": [
+        "Athul Ashok",
+        "Frank Jin",
+        "Nick Du",
+        "Luis A. Martinez",
+        "Jenny Zhou",
+        "Sean O'Kelley",
+        "Zachary J. -R. Espley",
+        "Gang Qiu",
+        "Kang L. Wang",
+        "Dong-Xia Qu"
+      ],
+      "abstract": "Edge magnetoplasmons (EMPs) provide a platform for probing chiral charge dynamics and nonreciprocal microwave transport in topological quantum materials. However, detecting small perturbations to EMP propagation remains challenging because their signatures in conventional microwave scattering measurements can be weak. Here, we investigate microwave-photon-induced perturbations of EMP transport using a quantum anomalous Hall topological circulator. Pump--probe measurements reveal a strongly frequency-selective response: while microwave irradiation substantially modifies the EMP transmission at several pump frequencies, the transmission remains nearly unchanged at selected frequencies, including 4 and 7 GHz. We further exploit the non-Hermitian mode hybridization of the coupled EMP-resonator system to probe the response near an exceptional point (EP). The pump-induced change in transmission magnitude near the EP is approximately twice that observed away from the EP, demonstrating an enhanced microwave response to perturbations. These results reveal the interplay among chiral EMP transport, microwave-photon-induced perturbations, and non-Hermitian dynamics, and demonstrate the potential of topological circulators as a promising platform for enhanced microwave spectroscopy and sensing.",
+      "journal": "arXiv",
+      "published": "2026-10-05",
+      "url": "https://arxiv.org/abs/2610.06245",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2610.06245-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.06245-fig01.png",
+        "/data/figures/arxiv-2610.06245-fig02.png",
+        "/data/figures/arxiv-2610.06245-fig03.png",
+        "/data/figures/arxiv-2610.06245-fig04.png",
+        "/data/figures/arxiv-2610.06245-fig05.png",
+        "/data/figures/arxiv-2610.06245-fig06.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Pump–probe measurement configuration for the topolog- ical circulator. A continuous-wave pump generated by the vector signal generator (Keysight N5182B MXG) is applied to Port 1 (P1). The Zynq UltraScale+ RFSoC board with the Quantum Instrumenta- tion Control Kit (QICK) digital-to-analog converter (DAC) supplies the probe signal to Port 2 (P2) through a programmable attenuator (RCDAT), which sets the probe power incident on the device. The resulting transmission is collected at Port 3 (P3), amplified by a low- noise amplifier (LNA), and digitized by the RFSoC/QICK analog-to- digital converter (ADC). and attenuation, providing a natural mechanism for nonre- ciprocal transmission.16 In a three-port geometry, capacitive coupling between microwave electrodes and the propagating EMP forms the basis of a topological microwave circulator. Previous measurements of QAH circulators have...",
+        "FIG. 2. Transmission response of the circulator as a function of input power. (a)–(c) Power-dependent microwave transmission responses |S31|, |S32|, and |S32|−|S31| for the 100µm-radius circulator coupled to LC resonators. The signal is excited from ports 1 and 2, and measured at port 3. (d)–(f) Frequency line cuts from panels (a), (b), and (c) at an input power of P = −68 dBm. The insets in (d) and (e) show schematic device structures illustrating anticlockwise EMP transport from Port 1 to Port 3 and from Port 2 to Port 3, respectively. The microwave response of the EMP is also sensitive to dissipative processes within the QAH material. Broadband microwave measurements have shown that coupling between the chiral edge state and charge puddles in the bulk modifies EMP propagation and introduces additional dissipation3,17. Microwave excitation can further promote hopping between localized...",
+        "Fig. 1. Additional details of the device design and operating principle are given in Ref.3,5. The device is characterized at millikelvin temperatures us- ing complementary microwave measurement platforms. The 3",
+        "FIG. 3. Power-dependent hybridization of the LC and EMP modes. Color map of the nonreciprocal transmission contrast, |S31| −|S32|, as a function of frequency and input power. The ex- tracted lower- and upper-frequency resonance branches are indicated by blue and orange circles, respectively, while the dashed curves show a fit to the two-mode coupled-resonator model. device is mounted at the mixing chamber stage (∼50– 300 mK) of a dry dilution refrigerator. We use both a vector network analyzer (VNA) and a Xilinx Zynq UltraScale+ RF- SoC board with QICK FPGA overlay for RF signal generation and acquisition. Details about the fabrication process and ex- perimental setup are provided in Supplementary Section I. III. CIRCULATOR TRANSMISSION RESPONSE The measured microwave response reveals strong power- dependent nonreciprocity across 0.4–0.8 GHz, with the trans- mission contrast exceeding...",
+        "FIG. 4. Microwave transmission spectra between 500 and 700 MHz under various pump powers. A continuous-wave pump signal from the MXG is injected through Port 1, with the pump frequency varied from 1 to 9 GHz over a range of power levels. The transmission spectra are measured using the RFSoC/QICK setup by applying a 2.2 µs-long excitation pulse to Port 2 and measuring the transmitted signal at Port 3, as shown in the inset of (a). The two dashed lines mark the frequencies at 551.5 and 642.3 MHz. Port 1 while the transmission from Port 2 to Port 3 is mea- sured using the RFSoC/QICK setup. The pump frequency is varied from 1 to 9 GHz over a broad range of pump powers, while the probe frequency is swept from 500 to 700 MHz. The sample temperature is maintained at a constant value while the pump power is swept. As shown in Fig. 4, the microwave pump produces a strongly frequency-dependent...",
+        "FIG. 5. Pump-power dependence of the transmission response at two probe frequencies. Transmission magnitude |S32| as a function of pump power for pump frequencies from 1 to 9 GHz, measured at probe frequencies of 551.5 MHz (solid lines) and 642.3 MHz (dashed lines). The 642.3 MHz traces are vertically offset by −6 dB for clar- ity. The response at 642.3 MHz, near the exceptional point, exhibits a substantially stronger pump-power dependence for several pump frequencies than the response at 551.5 MHz, away from the excep- tional point, while selected pump frequencies show comparatively weak perturbation. explained simply by a gradual increase or decrease in mi- crowave coupling with drive frequency. Instead, the data demonstrate a highly frequency-selective interaction between the applied microwave field and the EMP system. This behavior is qualitatively distinct from the microwave-..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that edge magnetoplasmons (EMPs) provide a platform for probing chiral charge dynamics and nonreciprocal microwave transport in topological quantum materials. Pump--probe measurements reveal a strongly frequency-selective response: while microwave irradiation substantially modifies the EMP transmission at several pump frequencies, the transmission remains nearly unchanged at selected frequencies, including 4 and 7 GHz.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2610.06110",
+      "title": "Beyond the Flat-Band Paradigm: Open Orbits as a Route to Correlated States in Dispersive Moiré Minibands",
+      "authors": [
+        "Zihao Wang",
+        "Pablo M. Perez-Piskunow",
+        "Calvin Pei Yu Wong",
+        "Matthew Holwill",
+        "Hao Sun",
+        "Wei Fu",
+        "Junxiong Hu",
+        "Zheng Yuntian",
+        "Zhang Xuanrui",
+        "T. Taniguchi",
+        "K. Watanabe",
+        "A. Ariando",
+        "Geliang Yu",
+        "Li Lin",
+        "Kuan Eng Johnson Goh",
+        "Stephan Roche",
+        "Jeil Jung",
+        "Kostya S. Novoselov",
+        "Nicolas Leconte"
+      ],
+      "abstract": "The realization of fractional Chern insulators has largely relied on isolated flat bands in complex bilayer or multilayer moiré systems with ideal quantum geometry. Whether such phases can emerge in genuinely dispersive bands, and by what mechanism, remains an open question. Here, we propose a mechanism for magnetic-field-induced strong correlations in the highly dispersive bands of monolayer graphene on hexagonal boron nitride. In the low-field classical-to-quantum crossover regime of the second moiré miniband, we show that the interplay of the moiré potential and weak magnetic fields (B < 1.5 T) profoundly alters electron dynamics. Saddle-point van Hove singularities produce extended open orbits that strongly suppress carrier propagation, potentially favoring a regime in which Coulomb interactions become comparatively more important, while weak magnetic fields lift valley degeneracy and trigonal warping redistributes Berry curvature. High-resolution magnetotransport and temperature-dependent measurements reveal fractional-slope transport features and signatures of interaction-driven incompressibility. Because the Hall conductivity is not fully quantized and the longitudinal resistance remains finite, we describe these observations as incipient FCI behavior: transport signatures consistent with a developing fractional Chern insulating state, without claiming a fully developed FCI phase established by complete Hall quantization and vanishing longitudinal resistance. Our results suggest a possible fermiology-driven route toward correlated topological states in dispersive bands in the classical-to-quantum crossover, distinct from the conventional flat-band scenario.",
+      "journal": "arXiv",
+      "published": "2026-10-05",
+      "url": "https://arxiv.org/abs/2610.06110",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2610.06110-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.06110-fig01.png",
+        "/data/figures/arxiv-2610.06110-fig02.png"
+      ],
+      "figure_captions": [
+        "Figure 1: Full spectrum magnetic-field dependence of electronic states in G-hBN su- perlattice and signatures of incipient FCI behavior. a Displays σxx and Rxy, highlighting hole and electron SDP (black dashed lines), Landau level splitting (yellow-dashed area), and non- linear Wannier diagram region (purple dashed area). vHS positions are marked as A to D. b Semi-classical LL predictions based on zero-field Fermi contours, with colors indicating specific minibands. c shows the minibands corresponding to the Landau levels. d highlights the DOS vHS caused by the open orbits around saddle points, and its inset shows the open orbit saddle point for A as a dashed line, separating the hole-type carriers in red and the electron-type carriers in blue. 4 Given that the moiré period of this sample is only 14.5 nm (estimated from the carrier density at the SDP), the momentum-dependent moiré band...",
+        "Fig. 1a. Their positions agree with the saddle points in the calculated band structure in Fig. 1c and the DOS peaks in"
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that the realization of fractional Chern insulators has largely relied on isolated flat bands in complex bilayer or multilayer moiré systems with ideal quantum geometry. Here, we propose a mechanism for magnetic-field-induced strong correlations in the highly dispersive bands of monolayer graphene on hexagonal boron nitride. Our results suggest a possible fermiology-driven route toward correlated topological states in dispersive bands in the classical-to-quantum crossover, distinct from the conventional flat-band scenario.",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1103/l6sm-yzbn",
@@ -114,6 +245,31 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2610.02888",
+      "title": "Topological insulators on complex networks",
+      "authors": [
+        "Sunkyu Yu",
+        "Xianji Piao",
+        "Namkyoo Park"
+      ],
+      "abstract": "The landscape of topological insulators has expanded beyond its traditional domain of periodic lattices with short-range hopping. Related studies have explored topological phenomena under non-Euclidean geometries, disordered structures, and long-range hopping, progressively narrowing the gap between topological phases of matter and complex networks. Here we demonstrate that genuine complex networks, far beyond periodic lattices and their conventional variants, can themselves host topological insulating phases. By developing a nonconflicting design framework for multiple topological objectives, we realize topological insulators in high-degree Hofstadter lattices and across regular, small-world, and random networks. This generalization uncovers distinct network-specific features, including an expanded range of attainable topological characteristics, a degree-dependent transition from Hofstadter-type to Haldane-type Chern insulators, and, most notably, the superior robustness and reconfigurability of small-world topological insulators. Our graph-theoretic framework establishes network complexity as a resource for realizing high-capacity and reconfigurable topological insulators.",
+      "journal": "arXiv",
+      "published": "2026-10-02",
+      "url": "https://arxiv.org/abs/2610.02888",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2610.02888-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.02888-fig01.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. Designing network TIs. a, Small-world TI supporting a protected directional state (blue glows and arrows)—the network analogue of chiral edge states in 2D TIs. The realization is one instance of the designs in Fig. 3, for k = 20 and link-swap parameter ρ = 0.1. b, Surrogate model Cβ for CL across the design space τ. c, Optimization curves for a. High-degree Hofstadter networks Using our design framework, we begin with a network extension of a canonical model: the Hofstadter lattice2. We use this model to examine how node degree affects topological phenomena by introducing hopping beyond nearest-neighbour (NN) interactions: next-nearest-neighbour (NNN) and the qth-nearest-neighbour (qNN) hopping (Fig. 2a). In contrast to most previous studies15,16,41, we assume uniform hopping magnitudes, thereby emulating an ideal abstract 8 network whose links are independent of spatial..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that the landscape of topological insulators has expanded beyond its traditional domain of periodic lattices with short-range hopping. Here we demonstrate that genuine complex networks, far beyond periodic lattices and their conventional variants, can themselves host topological insulating phases.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2610.01486",
@@ -217,14 +373,13 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://arxiv.org/icons/licenses/by-nc-nd-4.0.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2609.40065/assets/fig1.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2609.40065/assets/fig1.png",
+        "https://ar5iv.labs.arxiv.org/html/2609.40065/assets/fig3.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "https://arxiv.org/icons/licenses/by-nc-nd-4.0.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -560,13 +715,10 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
       "figure_urls": [
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -580,9 +732,7 @@
         "Fig. 2. The differentiable Hamiltonian solver provides ground-state information to the autoen- coder, which projects it into a latent space. The phase pathfinder then uses this latent representation to direct the search toward unknown phases. The differentiable solver allows the Hamiltonian parameters to become fully trainable variables, so that the gradients of the final loss can propagate all the way back to the parameters. The unsupervised phase detector is pretrained on data gen- erated by the Hamiltonian solver, either before the au- tomatic phase discovery loop begins or when retraining is required during the loop. We first discuss the phase detector and then present the full discovery system. The unsupervised phase detection algorithm is an autoencoder (AE), a commonly used machine learning model for anomaly detection that produces meaningful latent space embeddings. This...",
         "Fig. 2. Typically, an AE exhibits a mirror-symmetric architecture, and the loss function used to train the AE is defined by the distance between the inputs and outputs, LC = d [(D ◦E)(x), x] . (2) The training is purely unsupervised, since no labels are required. The choice of reconstruction loss depends on the input representation. To demonstrate versatil- ity, in this work, we consider inputs for AE from three different Hamiltonian solvers: i) the full wavefunctions from exact diagonalization (ED), ii) the full wavefunc- tions from imaginary time evolution (ITE), iii) the ex- pectation values of a set of observables of the ground states obtained by density matrix renormalization group (DMRG) [67, 68]. For the cases where full wavefunctions are available, it is natural to use fidelity LC = 1−| ⟨ϕ|ψ⟩|2 as the AE loss function, where |ψ⟩and |ϕ⟩are the in- puts and outputs of AE...",
         "Fig. 2. Given an arbitrary Hamiltonian H(θ) and initial starting points θ0, the Hamiltonian solver is queried to generate a set of train- ing data for AE. The training data are drawn from the vicinity of θ0 with radius r0. r0 is chosen small enough so that the training data lies within a single phase. The en- coder of the trained AE is taken as the embedding model, and the centroid µ is computed from the latent represen- tations of the training data. Once the phase detection model is in place, the phase discovery loop begins. At each step, the solver produces the ground state at the current θ, which the encoder maps to a latent represen- tation z(θ). The pathfinder loss L is evaluated from z(θ) and µ, and its gradient is backpropagated through the encoder and the solver to θ. The Hamiltonian parame- ters are then updated by the gradient descent, θ ←θ −η ∇θL , (5) where η is the learning...",
-        "FIG. 3. Autonomous phase discovery for TFIM, Z2 lattice gauge theory, and the transverse-field XXZ model. Top row: discovery trajectories in the Hamiltonian parameter space; bottom row: the corresponding trajectories projected onto the first two principal components of the autoencoder latent space. TFIM: chain of L = 10 solved by ED. The latent dimension is dz = 10. Three trajectories are shown: g from −0.3 to −2.25 (orange), from −0.5 to −1.75 (blue), and from −1.5 to −0.74 (green), demonstrating crossings of the phase boundary (solid black horizontal line) from either phase to the other. AE bootstrapping is indicated by the star. Z2: 2 × 3 lattice solved by ITE. The latent dimension is dz = 30. Three trajectories are shown: λ from −0.09 to −0.48 (blue, hidden behind the starting point square), from −0.10 to 0.39 (orange), from −0.75 to 0.08 (green). The two trajectories starting in...",
-        "FIG. 4. Phases discovered by the autonomous search versus random sampling at equal numbers of ground-state evalua- tions. (a) Generalized cluster chain, Eq. (9), at L = 500: phases found across d ∈[20, 200], at budgets of 104, 3 × 104, 105, and 3 × 105 evaluations (light to dark). In 36 of the 40 (d, budget) cells the search’s worst seed exceeds the baseline’s best realization. (b) Chern insulator, Eq. (12): distinct Chern sectors against budget; every budget shown is a nested prefix of the same runs, and the median margin grows from +21 at 3×104 to +68 at 3×105, increasing end to end in every seed. Medians over five fresh seeds throughout; bands are min–max over seeds or realizations. ω = α hosts α unpaired Majorana modes at each edge. The benchmark itself uses a closed chain, with site indices taken modulo L, and is restricted to the even-parity sec- tor, corresponding to antiperiodic...",
-        "FIG. 5. The comparison of Fig. 4(b) at 3×105 evaluations, re- solved by the probability mass occupied by each Chern sector under the Gaussian sampling measure (mean over five seeds). The four decades resolved by the 106-sample reference are saturated by both methods, while the advantage of the au- tonomous search is concentrated in the two rarest bins. mass below 10−5. This suggests that the trajectory-based search is particularly effective at reaching small phase re- gions that are unlikely to be found by independent ran- dom samples. V. DISCUSSION & OUTLOOK We have introduced a fully autonomous system for quantum phase discovery that recasts the search for new phases in the Hamiltonian parameter space as a geomet- ric problem in the latent space of an autoencoder, navi- gated by gradient descent through a differentiable solver, without supplying phase labels or order parameters to the..."
+        "FIG. 3. Autonomous phase discovery for TFIM, Z2 lattice gauge theory, and the transverse-field XXZ model. Top row: discovery trajectories in the Hamiltonian parameter space; bottom row: the corresponding trajectories projected onto the first two principal components of the autoencoder latent space. TFIM: chain of L = 10 solved by ED. The latent dimension is dz = 10. Three trajectories are shown: g from −0.3 to −2.25 (orange), from −0.5 to −1.75 (blue), and from −1.5 to −0.74 (green), demonstrating crossings of the phase boundary (solid black horizontal line) from either phase to the other. AE bootstrapping is indicated by the star. Z2: 2 × 3 lattice solved by ITE. The latent dimension is dz = 30. Three trajectories are shown: λ from −0.09 to −0.48 (blue, hidden behind the starting point square), from −0.10 to 0.39 (orange), from −0.75 to 0.08 (green). The two trajectories starting in..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that understanding quantum phases of matter has long relied on physicists' intuition and mathematical tools such as symmetry and topology. We demonstrate the system with three different solvers and benchmark it against random sampling at equal ground-state-evaluation budgets. Remarkably successful as these approaches have been, they provide no universal way to explore a Hamiltonian space whose organizing principle is not known in advance.",
       "abstract_status": "original"
@@ -670,14 +820,14 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2609.31839/assets/fig2_final.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2609.31839/assets/fig2_final.png",
+        "https://ar5iv.labs.arxiv.org/html/2609.31839/assets/fig3_final.png",
+        "https://ar5iv.labs.arxiv.org/html/2609.31839/assets/fig4.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "https://arxiv.org/icons/licenses/by-4.0.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1119,7 +1269,7 @@
         "/data/figures/arxiv-2609.16483-fig01.png"
       ],
       "figure_captions": [
-        "FIG. 1. Schematic T-g phase diagram for two competing QH regimes, QH1 and QH2. The (magenta) phase boundary gc(T) bends toward the lower-entropy QH1 regime. In the simplest case in which there are no additional finite T distinctions between the two phases associated with broken symmetries, the phase transition is first-order and ends at an ordinary critical point—otherwise additional phase boundaries arise. For fixed g0 close to gc(0), the transport gaps generally satisfy the relation ∆tr 1,2/2kB ≫Tc, so the finite-T Hall response is nearly quantized on both sides of the thermal transition. in Fig. 1, with QH1 (QH2) favored for g < gc(0) (g > gc(0)). Here, g may represent a displacement field, an interaction strength, etc. Near the transi- tion, the energy-density difference can be expanded as E1(g) −E2(g) ≈Λ[g −gc(0)], where Λ > 0. We now ask how the first-order phase boundary gc(T)..."
+        "FIG. 1. Schematic T-g phase diagram for competing eIQH and FQH regimes. The first-order phase boundary gc(T) (dou- ble magenta line) bends so as to expand the range of the higher entropy QH regime. In the case shown, this is the FQH regime, as in cases (i)–(iii) and (vi) in the main text, but it would bend the opposite way in cases (iv)–(v-a). Above the melting boundary (single magenta line), where the transla- tional order is lost, the approximate integer quantization of the Hall response is generically lost, giving rise to a Hall-metal regime. The eIQH-to-FQH evolution can thus proceed either directly (orange dashed line) or through an intermediate Hall- metal regime (blue dashed line). The finite-T Hall response is nearly quantized in the eIQH and FQH regimes, provided ∆tr I,F /2kB ≫T, where ∆tr I,F are the transport gaps of the eIQH and FQH states, respectively. If there is no..."
       ],
       "ai_summary": "In Moire Superlattice, this paper argues that electronic states with coexisting Wigner-crystal order can sometimes exhibit a quantum Hall effect over a finite range of electron densities---i.e., exhibit ``extended'' quantum Hall (QH) plateaus in the absence of disorder. Applying this framework to moiré rhombohedral graphene, we argue that a soft magnetoroton in a fractional quantum anomalous Hall state provides a plausible bulk mechanism for the observed thermal evolution from an extended integer QH to a fractional QH regime.",
       "abstract_status": "original"
@@ -1187,13 +1337,14 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2609.15300/assets/fig1_qwz_superlattice_engineering.png",
       "figure_urls": [
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://ar5iv.labs.arxiv.org/html/2609.15300/assets/fig1_qwz_superlattice_engineering.png",
+        "https://ar5iv.labs.arxiv.org/html/2609.15300/assets/fig5_sector_competition_gz.png",
+        "https://ar5iv.labs.arxiv.org/html/2609.15300/assets/figure_A1.png",
+        "https://ar5iv.labs.arxiv.org/html/2609.15300/assets/figure_A2.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1303,25 +1454,6 @@
       "abstract_status": "original"
     },
     {
-      "id": "doi:10.1142/s0217979226502723",
-      "title": "Quantum anomalous Hall conductivity on the background of Lorentz violating c -tensor",
-      "authors": [
-        "Ozorio Holanda"
-      ],
-      "abstract": "We investigate the quantum anomalous Hall effect in a (2+1)-dimensional fermionic system with a violation of emergent Lorentz invariance parametrized by the constant tensor c μν . Through explicit one-loop calculations, we derive the polarization tensor and obtain the Hall conductivity using the Kubo formula. The conductivity exhibits explicit dependence on the Lorentz-violating parameters through the modified dispersion relation for the fermions. In the static limit (ω → 0), we recover the universal quantized value σ Hall = ±2αsgn(m), demonstrating the robustness of topological response against this Lorentz-violating background.",
-      "journal": "International Journal of Modern Physics B",
-      "published": "2026-09-11",
-      "url": "https://doi.org/10.1142/s0217979226502723",
-      "doi": "10.1142/s0217979226502723",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "In Other New Materials, this paper argues that we investigate the quantum anomalous Hall effect in a (2+1)-dimensional fermionic system with a violation of emergent Lorentz invariance parametrized by the constant tensor c μν .",
-      "abstract_status": "original"
-    },
-    {
       "id": "arxiv:2609.12504",
       "title": "Spin-polarized Superconductivity and High-Chern Insulators in Twisted Rhombohedral Graphene Family",
       "authors": [
@@ -1401,14 +1533,11 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "https://arxiv.org/icons/licenses/by-4.0.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1509,14 +1638,12 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2609.09065/assets/fig3.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2609.09065/assets/fig3.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "https://arxiv.org/icons/licenses/by-4.0.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
