@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T07:28:52.964397+00:00",
+  "updated_at": "2026-10-09T07:27:32.752704+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -44,6 +44,48 @@
       "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that we investigate the quantum anomalous Hall effect in a (2+1)-dimensional fermionic system with a violation of emergent Lorentz invariance parametrized by the constant tensor [Formula: see text].",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2610.10706",
+      "title": "Symmetric Mode Ansatz: Theory of Magnon Collective Modes in Chern Insulators",
+      "authors": [
+        "Miguel Gonçalves",
+        "Jonah Herzog-Arbeitman",
+        "Juan Felipe Mendez-Valderrama",
+        "Andreas Feuerpfeil",
+        "B. Andrei Bernevig",
+        "Nicolas Regnault"
+      ],
+      "abstract": "Moiré materials host integer and fractional Chern insulators (FCIs) where time-reversal is broken spontaneously by flat band ferromagnetism. In twisted MoTe2, unlike in quantum Hall, opposite spins carry opposite Chern numbers and realize Ising ferromagnetism with gapped magnon excitations. Clarifying the nature of these collective modes and the origin of the magnon gap is key to understanding the stability of the Chern magnets in these materials. To do so, we develop a generalized single-mode approximation, which we call the symmetric mode ansatz (SyMA), to describe the low-energy magnon spectrum. We find it to be in exceptional agreement with numerical calculations at integer filling, and qualitatively accurate across fractional fillings including FCIs. To explain the accuracy of the SyMA, we present two families of Hubbard models (including the Haldane model and continuum ideal bands) whose collective modes are analytically solvable and for which the SyMA is either exact or an accurate approximation. For a class of these models where SyMA is exact, we prove two-sided bounds on the zero-momentum magnon gap in terms of the Chern number, Berry curvature, and quantum metric, revealing that uniform quantum geometry is sufficient for stabilizing magnetism in Chern bands.",
+      "journal": "arXiv",
+      "published": "2026-10-07",
+      "url": "https://arxiv.org/abs/2610.10706",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Twisted Brillouin zones of the TMD bilayer, with opposite spin-polarized low-energy states at the single-layer Dirac points KSL and K′ SL related by time-reversal symmetry T . A relative twist creates a moiré Brillouin zone shown in the figure. Blue/red points represent moiré reciprocal lattice points in the bottom/top layers. (b) Single-particle dispersion in Eq. 8 for the lowest-energy hole band at KSL and K′ SL, for the FH model of MoTe2 at θ = 3.7◦. The Chern number for this band in each valley is also indicated. Note that the dispersion of ϵHF,η(k) is only 5% of the full dispersion. (c) Charge excitation energies computed using Eq. 10 for the FH model of MoTe2 at θ = 3.7◦. one-band projected limit (see Fig. 11 of Appendix C 3). As an example, we show in Fig. 12 of Appendix C 3 that the Ising gap only closes when the single-particle band- width is artificially increased to...",
+        "Fig. 2. Fig. 2(a) shows the exact results at p = 0 in gray, while Fig. 2(b) shows the exact results for θ = 2◦ and θ = 3.7◦as function of p. The colored symbols in Fig. 2(a) and (b) compare the exact results with the re- sults of the SyMA theory, that will be later introduced in Sec. III. The calculation can also be performed for the full Hamiltonian in Eq. 8. At p = 0, we can prove us- ing symmetry that the corrections to Eq. 12 due to ad- ditional single-particle terms in Eq. 8 vanish exactly for the FH model with Vz = 0 (see App. C 2). At p ̸= 0 or Vz ̸= 0 we observe numerically that the lowest-energy magnon modes are only weakly dependent on the addi- tional single-particle terms in Eq. 8 (see Fig. 13 in App. C 3). In Fig. 2(b), we can identify four low-lying bound magnon modes for both θ = 2◦and θ = 3.7◦, with the two lowest modes clearly separated from the continuum. The upper two...",
+        "FIG. 2. Exact magnon spectrum (gray) vs. SyMA (other colors) results for the FH model of MoTe2, using the flat band Hamiltonian HI in Eq. 7 where V (q) corresponds to the double-gated Coulomb interaction. (a) Comparison between exact (gray) magnon spectrum at p = 0 with the SyMA (other colors) results of the individual modes within the different symmetry sectors (κ, ζ). (b) Comparison between exact and SyMA magnon spectrum of the individual modes computed through Eq. 27 for variable p, for the angles indicated in the figure. We exclude the modes (κ, ζ) = (1, 1); (0, −1), that are in the continuum (plots for all the modes and different angles are provided in Fig. 15 of Appendix C 6). The insets show the Berry curvature. (c) Comparison between the exact magnon spectrum and the SyMA magnon spectrum obtained by diagonalizing HI in the six-dimensional subspace spanned by all the individual...",
+        "FIG. 3. Comparison between absolute values of exact and SyMA magnon eigenstates at p = 0 for the FH model of MoTe2 at θ = 3.7◦. The exact modes are ordered by increasing energy from left to right. The three lowest energy states have the smallest sum of the node degrees N: 2 (double node), 2 and 4 respectively. All the higher-energy modes have N ≥6. Thus, S−|↑⟩is an exact zero-energy state at p = 0, cor- responding to the zero-momentum Goldstone mode. Its wave function in the projected one-band Hilbert space is S −= X k γ† k,↓ \u0010 U † ↓,kU↑,k \u0011 γk,↑= X k γ† k,↓γk,↑. (30) where we used that in the SU(2)-symmetric case, the two spin components of the active band can be chosen to have the same Bloch eigenvector, and therefore U↓,k = U↑,k. Consequently, the magnon wave function of the zero- momentum Goldstone state is M (↓,↑)(k, 0) = 1 for all k in the SU(2)-symmetric case. The zero-momentum...",
+        "FIG. 4. (a) Magnon spectrum for the time-reversal symmet- ric Landau level limit with V0 pseudopotential (see Ref. [35] or App. E for details). (b) Exact magnon spectrum obtained for the flat band Hamiltonian HI in Eq. 7 (full gray lines) using the Hubbard interaction defined by setting V (q) = V (q = 0) in Eq. 7, for θ = 3.7◦. The blue and green points are the results for the SyMA modes defined in Sec. III A with sym- metry eigenvalues (κ, ζ) specified in the figure. (c) Magnon spectrum of the flat band Haldane model, for ratio between next-nearest-neighbor and nearest-neighbor hopping strength (see inset) of t2/t1 = 1/10. (d) Same as (b), for θ = 2◦. bitals α = 1, . . . , Norb per unit cell at position rα. The Hamiltonian reads H = X kαβη c† k,αηhη αβ(k)ck,βη + X Rα VαnR,α,↑nR,α,↓, (36) where hη(k) is the single-particle Hamiltonian. We will focus on the case where hη(k) is U(1)..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that moiré materials host integer and fractional Chern insulators (FCIs) where time-reversal is broken spontaneously by flat band ferromagnetism. We find it to be in exceptional agreement with numerical calculations at integer filling, and qualitatively accurate across fractional fillings including FCIs.",
       "abstract_status": "original"
     },
     {
