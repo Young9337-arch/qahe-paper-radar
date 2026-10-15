@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T06:11:51.610724+00:00",
+  "updated_at": "2026-10-15T05:56:14.952980+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,90 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2610.20522",
+      "title": "Anyons at impurities: Fractional charge measurement and \"wrong sign\" binding",
+      "authors": [
+        "Haydn S. Adlong",
+        "Arthur Christianen",
+        "Atac Imamoglu",
+        "Glenn Wagner"
+      ],
+      "abstract": "Recent photoluminescence experiments in twisted MoTe$_2$ have reported signatures of anyons binding to trapped trions. The measured binding energies near the fractional Chern insulators at fillings of $ν=-2/3$ and $-3/5$ have a ratio close to the fractional-charge ratio $5/3$, even though such scaling is not generally guaranteed for the expected short-range trion-anyon interaction. We model the trapped trion as a fixed impurity, and investigate anyon-impurity binding using a lowest-Landau-level model with exact diagonalization and Jain wavefunctions. Surprisingly, we find that the anyon-impurity binding energy ratio between $ν=-2/3$ and $-3/5$ is close to $5/3$ for either short- or long-ranged impurity-electron interactions. However, the ratio departs strongly from the charge ratio at intermediate ranges or different Jain states. Remarkably, we also uncover \"wrong-sign\" binding, whereby both quasiholes and quasiparticles can bind to either sign of a short-range impurity potential by selecting orbital channels with favorable local density oscillations. Our findings show that localized excitons or trions can be used to probe the internal density profile of anyons.",
+      "journal": "arXiv",
+      "published": "2026-10-14",
+      "url": "https://arxiv.org/abs/2610.20522",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2610.20522-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.20522-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Density profiles for quasiholes and quasiparti- cles. Relative density deviation δρl(r) = [ρs,l(r) −ρb]/ρb at ν = 1/3 and 2/5, computed by Monte Carlo sampling of Jain wavefunctions, with bulk density ρb = ν/(2πℓ2 B), where ℓB is the magnetic length. The quasiparticle and quasihole panels contain Ne = 75 and 73 electrons at ν = 1/3, and Ne = 91 and 89 at ν = 2/5, respectively. Each wedge shows the profile for an orbital label l of the composite-fermion orbital added to create a quasiparticle or removed to create a quasihole. Haldane sphere, threaded by Nϕ = 2Q flux quanta. The lowest Landau level forms an angular-momentum mul- tiplet with j = Q and m = −Q, . . . , Q. We place the impurity at the north pole and take its potential to be Va(r) = U exp \u0012 −r2 2a2 \u0013 , (1) where r is the chord distance from the north pole and a is the Gaussian range. In our electron convention, U > 0..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that recent photoluminescence experiments in twisted MoTe$_2$ have reported signatures of anyons binding to trapped trions. Surprisingly, we find that the anyon-impurity binding energy ratio between $ν=-2/3$ and $-3/5$ is close to $5/3$ for either short- or long-ranged impurity-electron interactions.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/n961-7qx3",
+      "title": "Quantum anomalous Hall metals with interface-governed plateau hierarchy",
+      "authors": [
+        "Binbin Wang",
+        "Jiayuan Hu",
+        "Humian Zhou",
+        "Tongtong Jia",
+        "Zheng Sun",
+        "Chang Liu",
+        "Bo Zhang",
+        "Jiaqi Li",
+        "Dong Qian",
+        "Tingxin Li",
+        "X. C. Xie",
+        "Yunchuan Kong",
+        "Chui-Zhen Chen",
+        "Di Xiao"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Quantum anomalous Hall metals with interface-governed plateau hierarchy in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-10-14",
+      "url": "https://doi.org/10.1103/n961-7qx3",
+      "doi": "10.1103/n961-7qx3",
+      "source": "Crossref",
+      "material_system": "Oxide_Heterostructure",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2610.19284",
+      "title": "Chern insulator optics",
+      "authors": [
+        "Jason G. Kattan",
+        "J. E. Sipe"
+      ],
+      "abstract": "Chern insulators have optical properties that are strikingly different than ordinary chiral media. Unlike the natural optical activity of the latter, which is a finite-wavelength effect arising from spatial dispersion, the optical activity of a Chern insulator is already present in the long-wavelength limit, and exhibits a striking directional asymmetry in the propagation of circularly polarized light. We study this unnatural optical activity using a recently developed field theory for Chern insulators. For bulk Chern insulators, we derive the normal-incidence transmission and reflection coefficients of multilayer structures, identify the associated Faraday and Kerr angles, and show that these optical rotations provide a direct optical signature of topology at low frequencies. We also show that an interface between bulk Chern insulators can act as a kind of mirror, completely reflecting light at normal incidence when the Chern invariants have opposite signs. Moving to a more realistic model of a two-dimensional current sheet, we study the Faraday and Kerr effects in a thin film of $\\mathrm{Mn}\\mathrm{Bi}_2\\mathrm{Te}_4$ in its Chern insulator phase. The predicted rotations are many orders of magnitude larger than those of optically active media of comparable thickness that are topologically trivial.",
+      "journal": "arXiv",
+      "published": "2026-10-13",
+      "url": "https://arxiv.org/abs/2610.19284",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Oxide_Heterostructure",
+      "image_url": "/data/figures/arxiv-2610.19284-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.19284-fig01.png",
+        "/data/figures/arxiv-2610.19284-fig02.png"
+      ],
+      "figure_captions": [
+        "Figure 1. C. “Unnatural” optical activity The result for a bulk Chern insulator is strikingly dif- ferent, and can be traced back to the fact that the op- tical activity is not due to spatial dispersion effects, but instead to the unusual form of the response tensor εiℓ(ω). Since it arises in the long-wavelength approximation, it can be expected to be a larger effect than natural optical activity, which relies on spatial dispersion. To compare directly with the situation for α–quartz, we simplify our earlier expressions by putting εxx(ω) = εyy(ω) ≡ε⊥(ω). (49)",
+        "FIG. 1. The refractive indices in natural optical activity do not depend on the direction of propagation, but only on the polarization. Then the solutions (37) for n(ω)2 reduce to n(ω)2 = ε⊥(ω) ± p εxy(ω)εyx(ω), (50) and the equation for Ex and Ey simplifies to \u0012ε⊥(ω) −n(ω)2 εxy(ω) εyx(ω) ε⊥(ω) −n(ω)2 \u0013 \u0012Ex Ey \u0013 = 0. (51) For n(ω) = ±n+(ω), where here n+(ω) = q ε⊥(ω) + p εxy(ω)εyx(ω), (52) we have − p εxy(ω)εyx(ω) εxy(ω) εyx(ω) − p εxy(ω)εyx(ω) ! \u0012Ex Ey \u0013 = 0, (53) and so Ey Ex = εyx(ω) p εxy(ω)εyx(ω) , (54) while for n(ω) = ±n−(ω), where here n−(ω) = q ε⊥(ω) − p εxy(ω)εyx(ω), (55) we have p εxy(ω)εyx(ω) εxy(ω) εyx(ω) p εxy(ω)εyx(ω) ! \u0012Ex Ey \u0013 = 0, (56) and so Ey Ex = − εyx(ω) p εxy(ω)εyx(ω) . (57) Note that the equations (54) and (57) that identify the polarization states depend only on εxy(ω) and εyx(ω). In the transparency regime, on which we focus, we have (n+(ω))2 and (n−(ω))2 both..."
+      ],
+      "ai_summary": "In Oxide Heterostructure, this paper argues that chern insulators have optical properties that are strikingly different than ordinary chiral media. For bulk Chern insulators, we derive the normal-incidence transmission and reflection coefficients of multilayer structures, identify the associated Faraday and Kerr angles, and show that these optical rotations provide a direct optical signature of topology at low frequencies.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2610.16659",
