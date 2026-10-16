@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T05:56:14.952980+00:00",
+  "updated_at": "2026-10-16T05:54:21.516738+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,67 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2610.22348",
+      "title": "Parafermions in polarized $ν=2/3$ Fractional Quantum (Anomalous) Hall Heterostructures",
+      "authors": [
+        "Steffen Bollmann",
+        "Andreas Haller",
+        "Thomas L. Schmidt",
+        "Jukka I. Väyrynen",
+        "Elio J. König"
+      ],
+      "abstract": "Motivated by recent experimental signatures of fractional Chern insulators in 2D quantum materials, we investigate the realization of $\\mathbb Z_3$ parafermion zero modes (PZMs) on edges of spin-polarized $ν=2/3$ fractional quantum Hall states which are proximitized by superconductors. Unlike the spin-unpolarized Halperin state, the polarized $ν=2/3$ edge contains counterpropagating electron and fractional quasihole modes, giving rise to a plethora of competing tunneling and pairing processes. We focus on the vicinity of the fixed point where these modes reorganize into decoupled charge and neutral sectors, with the neutral sector describing an emergent dipole degree of freedom. Using bosonization and renormalization group analysis, we lay out the parameter space in which the interedge dipole interactions gap the neutral sector to stabilize one dominant tunneling and one dominant pairing channel resulting in a double sine-Gordon model in the charge sector which supports $\\mathbb{Z}_3$ PZMs at domain walls. We discuss both clean and disordered systems. In clean systems this mechanism requires a certain degree of control of the interaction strength and range. In contrast, disorder can provide a more generic route: While short-ranged, edge-uncorrelated disorder % on the two edges suppresses the simultaneous pinning required for stable parafermion modes, when the disorder on the two edges is sufficiently correlated, as expected for smooth disorder potentials, the parameter regime hosting PZMs increases.",
+      "journal": "arXiv",
+      "published": "2026-10-15",
+      "url": "https://arxiv.org/abs/2610.22348",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Oxide_Heterostructure",
+      "image_url": "/data/figures/arxiv-2610.22348-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.22348-fig01.png",
+        "/data/figures/arxiv-2610.22348-fig02.png",
+        "/data/figures/arxiv-2610.22348-fig03.png",
+        "/data/figures/arxiv-2610.22348-fig04.png",
+        "/data/figures/arxiv-2610.22348-fig05.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic of hypothetical experimental setup. A sample of tMoTe2 is tuned into a ν = 2/3 FQH state (pur- ple glow) via tuning the filling with a top and bottom gate. Within the FQH state, a thin finger gate induces supercon- ducting (green) and insulating regions (purple) within the sample. strong magnetic fields, which complicate their integra- tion with superconductors (SCs). Fractional Chern in- sulators (FCIs) provide an attractive alternative: they realize fractionalized topological order in partially filled Chern bands and can occur without an externally ap- plied magnetic field [55–57]. Their recent observation in 2D quantum materials [58–67], therefore, opens new possibilities for realizing parafermions in experimentally accessible platforms. Twisted bilayer MoTe2 (tMoTe2) is particularly arXiv:2610.22348v1 [cond-mat.mes-hall] 15 Oct 2026 2 promising in this respect....",
+        "Fig. 1. Top and bottom gates tune the sample into the spin-polarized ν = 2/3 FCI, while a narrow finger gate locally changes the filling and induces superconducting or insulating regions. Fractional superconducting and insulating regions can thus, in principle, be defined elec- trostatically without an additional material interface. With the prospect of such a single-material realiza- tion, we here theoretically delineate the parameter space in which Z3 parafermion modes may be realized based on 1D heterostructures of SCs and the edge states of spin-polarized ν = 2/3 phases. Our study includes an in-depth analysis of interaction and disorder effects. We find that for clean samples, interaction effects need to be externally controlled to stabilize quantum phases with parafermion edge states. In contrast, for disordered in- terfaces, the tuning can be avoided. If the disorder po- tential...",
+        "FIG. 2. a) Schematic of a FQH-SC heterostructure. A trench in an FQH liquid is subsequently filled with a SC (∆L), an insulator (t), and a SC (∆R). At the interfaces, parafermions (red stars) emerge. b) Potential landscape due to tunneling and pairing. The interfaces create potential wells in which bound states can be trapped. The zero-energy states (red stars) have parafermionic statistics. set to unity. A. Fractional quantum Hall edge states Let two fractional quantum Hall edges at filling fac- tor ν = 1/k be separated by a thin trench. The trench is filled with a SC (thinner than its coherence length) and regions of insulating material that allow for electron pairing, i.e., crossed Andreev reflection (CAR) and tun- neling, respectively. These materials form interfaces at xR and xL as shown",
+        "Fig. 2. On the FQH edges, the two edge modes (“top” and “bottom”) can be described by two counterpropagating bosonic modes with the usual commutation relations [ϕt(x), ϕt(x′)] = iπ k sign(x −x′), (1a) [ϕb(x), ϕb(x′)] = −iπ k sign(x −x′), (1b) [ϕt(x), ϕb(x′)] = −iπ k , (1c) whose dynamics in the absence of CAR or tunneling are determined by the quadratic Hamiltonian H0 = X τ=t,b vτ Z dx (∂xϕτ)2. (2) Note that the non-vanishing commutator between top and bottom edge modes presumes that these modes are connected at x →+∞and avoids the introduction of Klein factors [84]. A trench of SC or insulator separates the top and bot- tom edge modes, see Fig. 2a). Only electrons can cross 3 the trench, which can be represented in terms of vertex operators of top and bottom modes, ψτ ∼eikϕτ , τ = t, b. (3) The corresponding density operators are ρt/b = ± 1 2π∂xϕt/b. It is useful to introduce the...",
+        "FIG. 3. a) Two quantum Hall liquids at filling ν = 1/3 with opposite spin polarization are coupled to form an SU(2)- symmetric ν = 2/3 Halperin (112) state. b) Spin polarized charge conjugate ν = 2/3 state. The edge consists of two counterpropagating edge modes. two counterpropagating modes, an integer mode support- ing electron excitations of charge −e and a fractional mode supporting quasiparticle excitations of charge e/3, which are separated by the distance r, where e > 0 is the elementary charge. The latter state can occur spin- polarized or spin-unpolarized [91, 92]. However, since the FCI state realized in twisted MoTe2 as well as rhombo- hedral multilayer graphene is most likely spin-polarized [93, 94], we focus in this work only on the polarized case. To understand this in more detail, it is worthwhile to revisit the construction of the electron from FQH edges via vertex..."
+      ],
+      "ai_summary": "In Oxide Heterostructure, this paper argues that motivated by recent experimental signatures of fractional Chern insulators in 2D quantum materials, we investigate the realization of $\\mathbb Z_3$ parafermion zero modes (PZMs) on edges of spin-polarized $ν=2/3$ fractional quantum Hall states which are proximitized by superconductors. Using bosonization and renormalization group analysis, we lay out the parameter space in which the interedge dipole interactions gap the neutral sector to stabilize one dominant tunneling and one dominant pairing channel resulting in a double sine-Gordon model in the charge sector which supports $\\mathbb{Z}_3$ PZMs at domain walls.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2610.21310",
+      "title": "Transdimensional Chern insulators in rhombohedral multilayer graphene superlattices",
+      "authors": [
+        "Min Li",
+        "Xin Lu",
+        "Lei Wang",
+        "Jianpeng Liu"
+      ],
+      "abstract": "Recent experiments on lightly electron-doped rhombohedral multilayer graphene (RMG) in the \"transdimensional\" regime revealed anomalous Hall hysteresis under both perpendicular and in-plane magnetic fields, pointing to the emergence of transdimensional orbital magnetism in an interaction-driven \"Fermi-lune\" metal. Here we demonstrate that, by coupling to the moiré potential, this transdimensional orbital ferromagnetic metal can evolve into quantized Chern insulator phases in twisted RMG/hBN moiré superlattices. Using unrestricted Hartree-Fock calculations, we find that interaction-driven reconstruction isolates a spin-valley-polarized $|C| = 1$ Chern band, leading to a \"transdimensional Chern insulator\" (TDCI) state exhibiting both in-plane and out-of-plane orbital magnetizations. A minimal two-band model is introduced to describe the unique properties of TDCI, which unveils the intimate connection between non-reciprocal velocity and in-plane orbital magnetization. We further analyze the collective excitations of TDCIs, and identify soft charge and spin modes that may lead to density wave instabilities in certain cases. An in-plane magnetic field can harden the soft density-wave mode and may drive a transition from density-wave state to TDCI. Finally, when the $|C| = 1$ band is fractionally filled, the many-body ground state may be a fractional Chern insulator with broken rotation and mirror symmetries.",
+      "journal": "arXiv",
+      "published": "2026-10-15",
+      "url": "https://arxiv.org/abs/2610.21310",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2610.21310-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.21310-fig01.png",
+        "/data/figures/arxiv-2610.21310-fig02.png",
+        "/data/figures/arxiv-2610.21310-fig03.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Moire Superlattice, this paper argues that recent experiments on lightly electron-doped rhombohedral multilayer graphene (RMG) in the \"transdimensional\" regime revealed anomalous Hall hysteresis under both perpendicular and in-plane magnetic fields, pointing to the emergence of transdimensional orbital magnetism in an interaction-driven \"Fermi-lune\" metal. Here we demonstrate that, by coupling to the moiré potential, this transdimensional orbital ferromagnetic metal can evolve into quantized Chern insulator phases in twisted RMG/hBN moiré superlattices.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2610.20522",
@@ -110,6 +171,62 @@
       ],
       "ai_summary": "In Oxide Heterostructure, this paper argues that chern insulators have optical properties that are strikingly different than ordinary chiral media. For bulk Chern insulators, we derive the normal-incidence transmission and reflection coefficients of multilayer structures, identify the associated Faraday and Kerr angles, and show that these optical rotations provide a direct optical signature of topology at low frequencies.",
       "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/szcj-44xj",
+      "title": "Emergence of a symmetry-broken Chern insulator near a moire Kondo breakdown",
+      "authors": [
+        "Wanghao Tian",
+        "Bowen Shen",
+        "Lizhong Li",
+        "Mingjie Zhang",
+        "Feng Liu",
+        "Chushan Li",
+        "Yaotian Liu",
+        "Fan Xu",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Peiling Li",
+        "Li Lu",
+        "Yang Xu",
+        "Shengwei Jiang",
+        "Tingxin Li",
+        "Jie Shan",
+        "Kin Fai Mak"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Emergence of a symmetry-broken Chern insulator near a moire Kondo breakdown in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-10-13",
+      "url": "https://doi.org/10.1103/szcj-44xj",
+      "doi": "10.1103/szcj-44xj",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/63ng-lf5t",
+      "title": "Fractional Chern insulators and competing states in a twisted MoTe 2 lattice model",
+      "authors": [
+        "Yuchi He",
+        "S. H. Simon",
+        "S. A. Parameswaran"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Fractional Chern insulators and competing states in a twisted MoTe 2 lattice model in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-10-13",
+      "url": "https://doi.org/10.1103/63ng-lf5t",
+      "doi": "10.1103/63ng-lf5t",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
     },
     {
       "id": "arxiv:2610.16659",
