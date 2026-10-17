@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T05:54:21.516738+00:00",
+  "updated_at": "2026-10-17T05:38:41.340491+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -23,6 +23,27 @@
       "figure_urls": [
         "https://files.sciengine.com/template/platform/img/SciEngine-logo.png"
       ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/b8b7-scc5",
+      "title": "Interacting Chern Insulator Transition on the Sphere: Revealing the Gross-Neveu-Yukawa Criticality",
+      "authors": [
+        "Zhi-Qiang Gao",
+        "Taige Wang",
+        "Dung-Hai Lee"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Interacting Chern insulator transition on the sphere: Revealing the Gross-Neveu-Yukawa criticality in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-10-16",
+      "url": "https://doi.org/10.1103/b8b7-scc5",
+      "doi": "10.1103/b8b7-scc5",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
@@ -1109,25 +1130,6 @@
       ],
       "ai_summary": "In Kagome Lattice, this paper argues that weak interactions at a two-dimensional quadratic band touching (QBT) can generate an exponentially small symmetry-breaking gap, $m\\sim e^{-A/V_1}$, that cannot be captured by every finite order of perturbation theory. We show that the singular quantum geometry of the gapped QBT converts this beyond-all-orders scale into an algebraically enhanced response.",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/b8b7-scc5",
-      "title": "Interacting Chern insulator transition on the sphere: Revealing the Gross-Neveu-Yukawa criticality",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Interacting Chern insulator transition on the sphere: Revealing the Gross-Neveu-Yukawa criticality in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review Letters",
-      "published": "2026-09-28",
-      "url": "https://doi.org/10.1103/b8b7-scc5",
-      "doi": "10.1103/b8b7-scc5",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "arxiv:2609.36027",
