@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T06:06:11.184772+00:00",
+  "updated_at": "2026-10-22T06:09:18.817906+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -57,6 +57,94 @@
       "abstract_status": "original"
     },
     {
+      "id": "arxiv:2610.29916",
+      "title": "Stabilizing and detecting electron fractionalization in the Hofstadter-Hubbard model",
+      "authors": [
+        "Jiahao Yang",
+        "Zeyu Han",
+        "Gang v. Chen"
+      ],
+      "abstract": "Motivated by the recent progress in correlated Chern insulator physics in moiré systems, we investigate the half-filled triangular-lattice Hofstadter--Hubbard model and its electron fractionalization. Among various competing non-magnetic states, increasing the orbital flux stabilizes and broadens the $\\mathrm{U}(1)_2$ chiral spin liquid phase in the Mott regime. In this exotic regime, the electron is fractionalized into gapped spinons and gapped chargons, whose effective bands are linked to the orbital flux. The convolution of the narrow spinon bands with the gapped chargon excitations produces rich and discernible structures in the electron spectral function and the density of states. These results not only identify the orbital flux as a control parameter for the detailed patterns of electron fractionalization and the nature of the Mott transition, but also provide the key spectral characteristics for the angle-resolved photoemission and scanning tunneling studies of the relevant systems, linking the free-particle band topology to intrinsic topological order in the correlated regime.",
+      "journal": "arXiv",
+      "published": "2026-10-21",
+      "url": "https://arxiv.org/abs/2610.29916",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2610.29916-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.29916-fig01.png",
+        "/data/figures/arxiv-2610.29916-fig02.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Triangular-lattice Hofstadter–Hubbard model, mean-field phase diagrams, and representative bond configurations. (a) The external flux Φext △through the highlighted triangle. Aext ij denotes the bond Peierls phase. The arrows specify the circulation. (b) Phase diagram versus U/t for Φext △= π/2, π/4, and π/6. Blue, yellow, and green denote the Chern insulator (CI), U(1)2 chiral spin liquid (CSL), and valence-bond solid (VBS), respectively. The boundaries follow from energy comparisons among nonmagnetic mean-field states. (c) CSL with uniform kinetic-bond strength and nonzero spinon triangle flux. Circular arrows indicate loop orientation, not charge currents. (d) Plaquette VBS with a representative covering of four-site rhombi, highlighted by shading. In (c) and (d), line widths encode the magnitudes of the mean-field kinetic-bond energies on a common scale. Dashed links indicate...",
+        "FIG. 2. Electron removal spectral function Ae(k, ω) in the CSL at U/t = 4 for external flux per triangle (a) Φext △ = π/2 (left) and (b) Φext △ = π/6 (right). High-symmetry cuts follow Γ–X–M–Y –Γ within the respective two-site and six- site magnetic Brillouin zones (see insets). Both the weakly dispersing ridges and the broad continuum features signify a loss of quasiparticle coherence driven by the Mott transition. states with the Kalmeyer–Laughlin CSL, characterized by U(1)2 topological order [7, 8]. The nature of the Mott transition between the CI and this CSL depends qualitatively on the applied external flux. The energy branches, condensate weights, and ro- tor gaps used to diagnose these transitions are shown in Fig. S2 of the SM [56]. For Φext △= π/4 and π/6, the transition is strongly first-order. The self-consistent ground-state energy branches cross with distinct slopes as a..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that motivated by the recent progress in correlated Chern insulator physics in moiré systems, we investigate the half-filled triangular-lattice Hofstadter--Hubbard model and its electron fractionalization. These results not only identify the orbital flux as a control parameter for the detailed patterns of electron fractionalization and the nature of the Mott transition, but also provide the key spectral characteristics for the angle-resolved photoemission and scanning tunneling studies of the relevant systems, linking the free-particle band topology to intrinsic topological order in the correlated regime.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/rvzx-phch",
+      "title": "Chiral topological superconductivity from quantum anomalous Hall states in ferromagnetic metals",
+      "authors": [
+        "Yun-Lei Sun"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Chiral topological superconductivity from quantum anomalous Hall states in ferromagnetic metals in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-10-21",
+      "url": "https://doi.org/10.1103/rvzx-phch",
+      "doi": "10.1103/rvzx-phch",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2610.27802",
+      "title": "Collective Hall quantization in 3D Chern vector systems",
+      "authors": [
+        "Zhi-Qiang Zhang",
+        "Shuguang Cheng",
+        "Hongfang Liu",
+        "Hailong Li",
+        "Hua Jiang",
+        "X. C. Xie"
+      ],
+      "abstract": "Understanding the three-dimensional (3D) quantum Hall effect, characterized by a Chern vector rather than a single Chern number, has been a central pursuit in topological physics. While quantized Hall transport is established for the special case with one nonzero Chern component, recent realizations of more general Chern-vector states raise a fundamental question: how does such topology protect quantized transport? Here, we predict a distinct 3D quantized Hall effect protected by $\\mathbf{C}=(0,m,n)$. For samples with dimensions $L_y$ and $L_z$, global topology enforces collective quantization of $mL_y+nL_z$, despite the fragility of individual edge modes to disorder. This reveals a novel transport regime in which robust quantization emerges as a holistic property of a unified chiral network,rather than of its constituent modes. Crucially, this collective response manifests as a quantized Hall conductance $G_{xy}=\\pm(mL_y+nL_z)e^2/h$, with a distinctive dependence on both Chern-vector components and sample dimensions. We propose candidate materials to facilitate experimental observation.",
+      "journal": "arXiv",
+      "published": "2026-10-20",
+      "url": "https://arxiv.org/abs/2610.27802",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2610.27802-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.27802-fig01.png",
+        "/data/figures/arxiv-2610.27802-fig02.png",
+        "/data/figures/arxiv-2610.27802-fig03.png",
+        "/data/figures/arxiv-2610.27802-fig04.png",
+        "/data/figures/arxiv-2610.27802-fig05.png",
+        "/data/figures/arxiv-2610.27802-fig06.png",
+        "/data/figures/arxiv-2610.27802-fig07.png",
+        "/data/figures/arxiv-2610.27802-fig08.png",
+        "/data/figures/arxiv-2610.27802-fig09.png",
+        "/data/figures/arxiv-2610.27802-fig10.png",
+        "/data/figures/arxiv-2610.27802-fig11.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Chiral modes, front surface state spectra, conductances and Hall effect from Chern-number insulators to Chern-vector insulators. (A) 2D samples with Cxy =n; (B) 3D samples with a single nonzero Chern component C=(0, 0, n); (C) 3D samples with multiple nonzero Chern components C = (0, m, n), with td = 0 for the schematic spectra. The sample sizes are Lα with α ∈x, y, z. Gα is the two-terminal conductance along α direction. To simplify the analysis, we set m = n = 1 and e2/h = 1 by default. II. MODEL Our starting point is a minimal tight-binding model composed of two coupled 3D Chern-insulator sectors [see Appendix and Supplementary Material (SM) Note 0 [39] for details], H = \u0012 Hxyz 0 0 Hxzy \u0013 + X n \u0012 0 Td Td 0 \u0013 c† ncn. (1) Here, Hxyz describes a 3D Chern insulator charac- terized by the Chern vector Cxyz = (Cyz, Cxz, Cxy) = (0, 0, 1), [7–16] whereas Hxzy is obtained by...",
+        "FIG. 2. Chiral surface states and quantized transport in a Chern-vector insulator. (A) Schematic illustration of the chiral surface states in a system with Chern vector C = (0, 1, 1). The sample details are indicated in the figure. (B) Half of the sample in (A), where solid (dashed) lines denote the visible (hidden) chiral modes. (C) Enlarged views of a typical chiral intersection in (A) for different inter-mode coupling strengths td. (D),(E) Chiral network transport for various lead configurations in (B). (F),(G) Energy spectra E versus ky with and without inter-mode coupling td, respectively. (H) Typical spatial distributions of the eigenstates, ρ = |ψn|2, for the blue and red modes indicated in (F). (I) Two-terminal conductance G(αβ) γ as a function of Fermi energy E. We define G(αβ) γ as the conductance of chiral modes localized at the α-β boundaries, where the current flows along...",
+        "FIG. 3. Hall bar device measurement of quantized Hall conductance. (A) Schematic plot of Hall bar with current along the y-direction. (B) and (C) the Hall conductances versus Fermi energy E and Ct for the setup in (A). The total Chern vector Ct = (0, CxzLy, CxyLz) is marked in the figure with td = 0.1t. The solid lines plot (CxzLy +CxyLz) versus L. (D)-(F) are the same as those in (A)-(C), excepting currents along the x-direction. We set E =−0.2t for (C) and (F). not representative of the general physics. In the broader regime of intermediate coupling, the system manifests a 3D collective state whose topology is governed by global network connectivity. This global network architecture accounts for the full variety of chiral mode configura- tions, that remains fundamentally inaccessible within the spatial rotation of the (0, 0, q) limit. Consequently, our generalized framework...",
+        "FIG. 4. Intrinsic 3D chiral network topology beyond stacked 2D QAH physics. Schematic of surface states for a 3D Chern insulator with a general Chern vector C = (0, m, n) in the general case (A) and the strong-coupling limit (C). (B) and (D) show surface configurations after coordinate rotation and cutting along high-index surfaces. In the general regime (B), the chiral network persists, maintaining a complex connectivity that cannot be reduced to simple 2D physics. In contrast, the strong-coupling limit (D) yields a configuration equivalent to a stacking of 2D QAH insulators with C = (0, 0, q). (E) and (F) give their typical surface spectra. B. Here, the metallic bands are described by Hmetal(B) = X n ε0c† ncn + txeiϕyc† n+δxcn + tyc† n+δycn + tzc† n+δzcn + h.c., and Hxzy(B) is identical to Eq. (1), with the inclusion of an applied magnetic field B. The magnetic field B = (0, 0, B) is...",
+        "FIG. 5. Quantized Hall response in Chern-vector-protected 3D quantum Hall insulators. (A) Schematic band structures for a 3D QAH and a 3D metallic phase. The pink planes indicate the constant-energy surfaces. (B) Corresponding Fermi surfaces for the spectra shown in (A). (C) Surface states associated with (A) under an applied magnetic field. (D),(F) Numerically calculated band spectra at magnetic flux ϕ = 0.25π. (E) and (G) are Hall conductances of (D) and (F), respectively. The sample sizes are Lx =Ly =Lz =10. The other parameters are fixed at tx = ty = t, ε0 = −2t, tz = 0.1t, and td =0.1t From a material perspective, the requirement for mul- tiple coexisting orbitals is intrinsically satisfied in many candidates. Based on topological material databases, compounds such as RbSb, CsSb, RbAs [44], and BiInN/Al2O3 [45] are identified as promising candidates, as they naturally exhibit..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that understanding the three-dimensional (3D) quantum Hall effect, characterized by a Chern vector rather than a single Chern number, has been a central pursuit in topological physics. This reveals a novel transport regime in which robust quantization emerges as a holistic property of a unified chiral network,rather than of its constituent modes.",
+      "abstract_status": "original"
+    },
+    {
       "id": "arxiv:2610.25472",
       "title": "Topological Quantum Gates on FCIs with Bounded Quantum Geometry",
       "authors": [
@@ -74,9 +162,9 @@
       "figure_urls": [
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -155,14 +243,11 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
         "FIG. 1. Trade-off plane. Each band, in a given physical realiza- tion, is a point with R = det Ds/ det Dfloor s = 1+(Torb/2π|C|)2 and abscissa T cl LVP/2π|C|. The theorem forbids the upper shaded region; on its boundary curve Σ = 0. The Chern floor excludes R < 1 (lower shaded strip). Squares show the QWZ band of Fig. 3, −1.8 ≤M ≤−0.6, with its or- bitals on two sites (filled) or one site (open). Circles show the theta band on one site, d = 0.1, 0.25, 0.5 (Fig. 2). The star marks vortexable bands, among them the theta band on two sites and the honeycomb band of Ref. [27]. The trian- gle marks the π-flux band [24, 28]. The diamond marks the time-reversed n = 1 Landau level (continuum, mean field). Heterostrained twisted bilayer graphene, at abscissa 2.5×10−3 and det G⋆/π2C2 −1 < 3 × 10−8 (a geometric ordinate, since its density is not uniform), is not resolved. one site or on two...",
@@ -196,14 +281,11 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
         "FIG. 1: Fractional Chern States and Phase Diagrams of Kagome Monolayers. (a) Schematic compound structure for monolayer A2T3X4. (b) Different types of Chern insulators and symmetry-broken states exhibited by A2T3X4 monolayers. The higher Chern numbers 2 and 3 appear in Rb2Pd3Se4, and Cs2Pt3S4. (c-i) (c) Phases that we have identified for (d) Cs2Pd3S4, (e) Rb2Pd3S4, (f) Cs2Ni3S4, (g) Cs2Ni3Se4, (h) Rb2Pd3Se4, and (i) Cs2Pt3S4. FM and PM stand for ferromagnet and paramagnet. markably rich variety of correlated phases encompassing high Chern bands, Jain-sequence fractional Chern insu- lators, anomalous composite Fermi liquids, and charge- density waves [Fig. 1(d)-(i)]. Notably, the fractional Chern insulator in Cs2Pd3S4 at νtot = 4/3 retains a finite-size many-body gap of approximately 26 meV with band mixing between the two upper kagome bands in the largest accessible system size [Fig....",
@@ -306,14 +388,11 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
         "Fig. 1c. The Fermi level lies between the fully filled dxy orbital and the empty dzx orbital, rendering the system a semiconductor with a bandgap in the visible light range. The color of the crystals varies from gold (Cs2Ni3Se4), olive gold (Cs2Ni3S4), teal ((Rb,Cs)2Pd3Se4), dark magenta ((Rb,Cs)2Pd3S4) to silver (Cs2Pt3S4), indicating that the electronic structure and optical band gap are widely tunable by varying the transition metal or chalcogen site, while the alkali metal site plays a marginal role35. We now highlight the realization of a 2D kagome system by mechanical exfoliation of bulk A2T3X4. Representative optical images of exfoliated mono- to penta-layer Cs2Pd3S4 on SiO2/Si substrates are shown in",
@@ -882,9 +961,9 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -1237,9 +1316,9 @@
         "https://arxiv.org/icons/licenses/by-nc-nd-4.0.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "FIG. 1. Schematic comparison of a gapped Chern insulator and a critical topological flat band. (a) Band structure of a gapped Chern insulator with a spectral gap ∆= Ec −Ev separating the valence and conduction bands. (b) Band structure of a CTFB system, where an exactly flat band at Ef (blue) touches an upper dispersive band (red) quadratically at a single momentum point. (c,d) Cumulative Chern weight C(E) for (c) Chern insulator and (d) CTFB system. Here, C is an integer. sulator. At fixed particle number corresponding to complete flat-band filling, the CTFB recovers the Chern-insulator trans- port limits at zero temperature T = 0, while its leading finite- temperature deviations follow the algebraic-logarithmic hier- archy T[ln(1/T)]n: n = 1 for the Hall response, n = 2 for the thermoelectric Hall response, and n = 3 for the ther- mal Hall response. This hierarchy originates from the...",
@@ -1334,14 +1413,11 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
         "Figure 1. (a) Layout of the six-terminal Hall bar (width W = 3 µm, length L ≈20 µm) with source S, drain D, perimeter probes 1–4 and the two interior contacts A and B, together with the measurement circuit. The source–drain current I is set by VSD through a 10 MΩresistor; a second current can be injected between A and B by VIN. VH is measured between probes 2 and 3 and VAB between the interior contacts, which are connected by air bridges. The dashed lines mark the electronic edge of the 2DES. (b) Zoom onto the interior contacts: each is a ℓi × wi = 0.5 × 0.5 µm2 square, the gap between them is 2yi −ℓi = 1 µm, and their distance to the electronic edge is 0.95 µm. (c) Cross-section of the heterostructure: the 2DES lies d = 110 nm below the surface, the Si δ-doping s = 45 nm above it, and the interior contact reaches down to the 2DES plane. Interior contacts in a narrow quantum Hall bar 6...",
@@ -1556,19 +1632,13 @@
         "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
         "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
         "Fig. 1. Earlier works have demon- strated the effectiveness of supervised learning meth- ods given labeled data [21–33], though these require the phases to be known in advance. For certain Hamiltonians with few model parameters, their entire phase diagrams can also be mapped using unsupervised methods without ∗paper@rogerluo.dev A C B Automation •phase labels •param. sweep •phase labels •param. sweep •phase labels •param. sweep : no data : unlabeled data : labeled data : phase bdy. Supervised Unsupervised Autonomous",
         "FIG. 1. Three machine-learning paradigms for mapping quantum phase diagrams with increasing levels of automation. Supervised methods require both phase labels and data from a predetermined sweep of Hamiltonian parameters, whereas unsupervised methods remove the need for phase labels but still rely on such a sweep. In contrast, our autonomous frame- work requires no prior knowledge of the phases and initial- izes from data sampled locally around an arbitrary point in Hamiltonian parameter space. The algorithm actively guides the search for new and unknown phases performing measure- ments or simulations only on the discovery trajectory. phase labels, such as principal component analysis, dif- fusion maps, contrastive learning, variational quantum circuits or autoencoders [34–47]. In approaches based on predetermined parameter sweeps, the region to ex- amine is fixed in advance. For a grid...",
         "FIG. 2. Autonomous phase discovery system. A differentiable Hamiltonian solver (ED, ITE or DMRG here; a closed-form free- fermion backend in Sec. IV) produces ground-state data at the current parameters θ, which the encoder (E) of the autoencoder (AE) compresses into a latent representation z(θ). The pathfinder loss L = −∥z(θ) −µ∥2/√dz, the negative ℓ2 distance to the centroid µ of the visited-phase cluster, is minimized by gradient descent on the Hamiltonian parameters. A diverging gradient, ∇L →nan, signals a gap closing at a phase boundary and triggers a jump with a boosted learning rate (η ←10 × η). On the other hand, a vanishing gradient, ∇L →0, triggers the AE bootstrap, retraining the AE on data that include the newly explored region. Bottom left: search trajectory in the Hamiltonian parameter space, from the starting point (cross in phase A) to the discovered phase (cross in...",
-        "Fig. 2. The differentiable Hamiltonian solver provides ground-state information to the autoen- coder, which projects it into a latent space. The phase pathfinder then uses this latent representation to direct the search toward unknown phases. The differentiable solver allows the Hamiltonian parameters to become fully trainable variables, so that the gradients of the final loss can propagate all the way back to the parameters. The unsupervised phase detector is pretrained on data gen- erated by the Hamiltonian solver, either before the au- tomatic phase discovery loop begins or when retraining is required during the loop. We first discuss the phase detector and then present the full discovery system. The unsupervised phase detection algorithm is an autoencoder (AE), a commonly used machine learning model for anomaly detection that produces meaningful latent space embeddings. This...",
-        "Fig. 2. Typically, an AE exhibits a mirror-symmetric architecture, and the loss function used to train the AE is defined by the distance between the inputs and outputs, LC = d [(D ◦E)(x), x] . (2) The training is purely unsupervised, since no labels are required. The choice of reconstruction loss depends on the input representation. To demonstrate versatil- ity, in this work, we consider inputs for AE from three different Hamiltonian solvers: i) the full wavefunctions from exact diagonalization (ED), ii) the full wavefunc- tions from imaginary time evolution (ITE), iii) the ex- pectation values of a set of observables of the ground states obtained by density matrix renormalization group (DMRG) [67, 68]. For the cases where full wavefunctions are available, it is natural to use fidelity LC = 1−| ⟨ϕ|ψ⟩|2 as the AE loss function, where |ψ⟩and |ϕ⟩are the in- puts and outputs of AE...",
-        "Fig. 2. Given an arbitrary Hamiltonian H(θ) and initial starting points θ0, the Hamiltonian solver is queried to generate a set of train- ing data for AE. The training data are drawn from the vicinity of θ0 with radius r0. r0 is chosen small enough so that the training data lies within a single phase. The en- coder of the trained AE is taken as the embedding model, and the centroid µ is computed from the latent represen- tations of the training data. Once the phase detection model is in place, the phase discovery loop begins. At each step, the solver produces the ground state at the current θ, which the encoder maps to a latent represen- tation z(θ). The pathfinder loss L is evaluated from z(θ) and µ, and its gradient is backpropagated through the encoder and the solver to θ. The Hamiltonian parame- ters are then updated by the gradient descent, θ ←θ −η ∇θL , (5) where η is the learning...",
-        "FIG. 3. Autonomous phase discovery for TFIM, Z2 lattice gauge theory, and the transverse-field XXZ model. Top row: discovery trajectories in the Hamiltonian parameter space; bottom row: the corresponding trajectories projected onto the first two principal components of the autoencoder latent space. TFIM: chain of L = 10 solved by ED. The latent dimension is dz = 10. Three trajectories are shown: g from −0.3 to −2.25 (orange), from −0.5 to −1.75 (blue), and from −1.5 to −0.74 (green), demonstrating crossings of the phase boundary (solid black horizontal line) from either phase to the other. AE bootstrapping is indicated by the star. Z2: 2 × 3 lattice solved by ITE. The latent dimension is dz = 30. Three trajectories are shown: λ from −0.09 to −0.48 (blue, hidden behind the starting point square), from −0.10 to 0.39 (orange), from −0.75 to 0.08 (green). The two trajectories starting in..."
+        "Fig. 2. The differentiable Hamiltonian solver provides ground-state information to the autoen- coder, which projects it into a latent space. The phase pathfinder then uses this latent representation to direct the search toward unknown phases. The differentiable solver allows the Hamiltonian parameters to become fully trainable variables, so that the gradients of the final loss can propagate all the way back to the parameters. The unsupervised phase detector is pretrained on data gen- erated by the Hamiltonian solver, either before the au- tomatic phase discovery loop begins or when retraining is required during the loop. We first discuss the phase detector and then present the full discovery system. The unsupervised phase detection algorithm is an autoencoder (AE), a commonly used machine learning model for anomaly detection that produces meaningful latent space embeddings. This..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that understanding quantum phases of matter has long relied on physicists' intuition and mathematical tools such as symmetry and topology. We demonstrate the system with three different solvers and benchmark it against random sampling at equal ground-state-evaluation budgets. Remarkably successful as these approaches have been, they provide no universal way to explore a Hamiltonian space whose organizing principle is not known in advance.",
       "abstract_status": "original"
