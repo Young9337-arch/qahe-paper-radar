@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T06:09:18.817906+00:00",
+  "updated_at": "2026-10-23T06:04:48.618446+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -57,6 +57,71 @@
       "abstract_status": "original"
     },
     {
+      "id": "doi:10.1103/wh99-b81w",
+      "title": "Magnon Chern Insulator in Two-Dimensional Fully Compensated Ferrimagnetic Heterostructures",
+      "authors": [
+        "Yingxi Bai",
+        "Zhiqi Chen",
+        "Baibiao Huang",
+        "Ying Dai",
+        "Chengwang Niu"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Magnon Chern insulator in two-dimensional fully compensated ferrimagnetic heterostructures in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-10-22",
+      "url": "https://doi.org/10.1103/wh99-b81w",
+      "doi": "10.1103/wh99-b81w",
+      "source": "Crossref",
+      "material_system": "Oxide_Heterostructure",
+      "image_url": "https://doi.org/images/aps-logo.svg?1792697202",
+      "figure_urls": [
+        "https://doi.org/images/aps-logo.svg?1792697202",
+        "https://doi.org/images/tailwind/icons/rss.svg",
+        "https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/plp-logo.png",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/footer-logo.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2610.30743",
+      "title": "Anyon Chern bands of opposite sign and reversed drift",
+      "authors": [
+        "Zhenyu Xiao",
+        "Minxuan Wang",
+        "Shinsei Ryu"
+      ],
+      "abstract": "The elementary charged excitations of fractional quantum Hall states are anyons. Without continuous translation symmetry, they acquire a dispersion and richer dynamics. We study the Laughlin quasihole at filling $1/3$ in a periodically modulated magnetic field, a common model of fractional Chern insulators in two-dimensional materials. From the microscopic wave functions, we derive the commutator of its guiding-center coordinates, set by a many-body Berry curvature that governs its wave packets. A modulation with two flux quanta per unit cell splits the quasihole band into bands with Chern numbers $6$ and $-3$; such opposite signs are generic as long as a weak modulation opens a gap between the anyon bands. In the $C=-3$ band, the quasihole drifts against $\\mathbf{E}\\times\\mathbf{B}$, although the magnetic field has the same sign everywhere. Perturbation theory in the modulation explains these results, and large-scale Monte Carlo calculations confirm them. Anyon bands thus acquire their own topology, which controls anyon motion and may shape the phases of itinerant anyons.",
+      "journal": "arXiv",
+      "published": "2026-10-22",
+      "url": "https://arxiv.org/abs/2610.30743",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2610.30743-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.30743-fig01.png",
+        "/data/figures/arxiv-2610.30743-fig02.png",
+        "/data/figures/arxiv-2610.30743-fig03.png",
+        "/data/figures/arxiv-2610.30743-fig04.png",
+        "/data/figures/arxiv-2610.30743-fig05.png",
+        "/data/figures/arxiv-2610.30743-fig06.png",
+        "/data/figures/arxiv-2610.30743-fig07.png",
+        "/data/figures/arxiv-2610.30743-fig08.png",
+        "/data/figures/arxiv-2610.30743-fig09.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Split quasihole bands at (κ, ˜ κ) = (−0.35, 0.05) and d = ℓB, with Monte Carlo data at (Nϕ, Ne) = (256, 85). (a) Field magnitude: solid diamonds (dashed square) enclose cells of area 2a2 (a2); open circles (filled squares) mark minima of 0.4B0 (0.2B0). (b) Energies ∆E = E −E, with E the mean over both bands and momenta; curves show E0 ± |h|. (c),(d) Lower- and upper-band density-link curvature; backgrounds show Eq. (17). Points are Monte Carlo data; error bars denote one bootstrap standard deviation. Theory uses uniform-state coefficients. with ψσ η of Eq. (1) and the normalized band states |Ψ± k ⟩. The electric field is produced by the potential energy of the electrons ˆ VE(t) = e E(t) √ 2 q X i sin[q(xi + yi)], q = 2π L , (21) where L is the side of the torus. A uniform field has a linear potential, which is not periodic on the torus. The wave vector q makes ˆ VE periodic, and...",
+        "FIG. 2. Quasihole drift at (Nϕ, Ne) = (256, 85), with other parameters as in",
+        "Fig. 1. (a)–(f) Density deficit for packets initially in the upper (top) and lower (bottom) band. Dashed circles mark the evolving (black) and initial (gray) charge centers. (g),(h) Transverse and parallel displacements relative to the electric field; curves show Eq. (19). slight motion along the field, to the two approximations in Eq. (19). The magnetic field has the same sign every- where, between 0.2B0 and 1.7B0, so the reversal reflects the geometry of the band. Summary and Discussion.—For a Laughlin quasihole in a periodically modulated magnetic field, we have de- rived the guiding-center commutator, Eq. (7), and the wave-packet equations of motion, Eq. (12), from mi- croscopic wave functions. A modulation with two flux quanta per unit cell splits the parent band with Chern number 3 into bands with Chern numbers 6 and −3. We demonstrate that a wave packet in the C = −3 band drifts...",
+        "FIG. 3. Single quasihole band at κx = κy = 0.35, d = 5ℓB, and (Nϕ, Ne) = (100, 33). (a) ∆E = E −E, with E the momentum average and EC = e2/(ϵℓB). (b) Density-link curvature. Circles: Monte Carlo; backgrounds: Eqs. (5) and (11), with uniform-state coefficients. [Eq. (10)], gives E(k) −E0 = − X G wG χ(G) e−ik·d(G), Ω(k) −3ℓ2 B = −1 2 X G wG ⟨ρG⟩0 |d(G)|2 e−ik·d(G). (A4) For the first-harmonic modulation of the main text, w = −[κx cos(b1·r)+κy cos(b2·r)]/π, so that w±b1 = −κx/2π and w±b2 = −κy/2π, with d(b1) = 3aˆ y, d(b2) = −3aˆ x, and |d(bj)|2 = 18πℓ2 B. With χ(±bj) = χ1 and 3⟨ρ±bj⟩0 = ξ1 by the fourfold symmetry of the uniform state, these sums give the dispersion and the curvature of the main text [Eqs. (5) and (11)]. Both repeat nine times in the Brillouin zone because |d(bj)| = 3a, a generic fea- ture at filling 1/3 [61, 80]. A Monte Carlo evaluation of the energy [Eq. (A1)] and of..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that the elementary charged excitations of fractional quantum Hall states are anyons.",
+      "abstract_status": "original"
+    },
+    {
       "id": "arxiv:2610.29916",
       "title": "Stabilizing and detecting electron fractionalization in the Hofstadter-Hubbard model",
       "authors": [
@@ -101,6 +166,37 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2610.30241",
+      "title": "Vacancy-driven topological transition of a Chern insulator",
+      "authors": [
+        "Peize Ding",
+        "Raquel Queiroz"
+      ],
+      "abstract": "We develop a microscopic description of the strong-disorder transition in a Chern insulator using the in-gap ring states bound to individual vacancies. Using Green's function formalism, we construct an energy-dependent Hamiltonian describing their hybridization. In a commensurate periodic vacancy lattice, a Dirac inversion of the zero-energy vacancy kernel accounts for the change in the occupied-state Chern number of the full system. We treat weak positional disorder using the self-consistent Born approximation and numerical disorder averaging, and study independently distributed vacancies using transfer-matrix and multifractal scaling. The local Chern marker and current textures track the transition in real space. Together, these results highlight the role that nonperturbative ring states have as microscopic degrees of freedom through which strong disorder destroys the Chern phase.",
+      "journal": "arXiv",
+      "published": "2026-10-21",
+      "url": "https://arxiv.org/abs/2610.30241",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2610.30241-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.30241-fig01.png",
+        "/data/figures/arxiv-2610.30241-fig02.png",
+        "/data/figures/arxiv-2610.30241-fig03.png",
+        "/data/figures/arxiv-2610.30241-fig04.png",
+        "/data/figures/arxiv-2610.30241-fig05.png",
+        "/data/figures/arxiv-2610.30241-fig06.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic real-space picture for a vacancy- disordered Chern insulator: black dots mark vacancies, light- blue circles denote the bound ring states, and the orange boundary mode is the parent chiral edge state. (a) Dilute vacancies support isolated ring states, and the edge mode per- sists. (b) Overlapping ring states hybridize into a connected cluster with a chiral boundary mode. (c) A spanning cluster reconnects the chiral modes into separate loops rather than a mode encircling the full sample. Hybridization of the ring states produces an impurity band. In the periodic vacancy lattice, its inversion contributes ∆C = −1, opposite to the parent bulk’s C = +1, leaving a topologically trivial state with C = 0. cancy lattice, for which the impurity band is translation- ally invariant. This limit allows us to identify the critical impurity concentration required to close the...",
+        "FIG. 2. (a) Energy solutions SW (blue region) as a function of vacancy concentration W; the gray region denotes the bulk continuum. At Wc ≈0.120 the bands of h′(ϵ = 0) touch at ϵ = 0, signaling the topological phase transition. (b) Spec- trum and Berry curvature Ωof h′(ϵ = 0) in the mini-Brillouin zone of the ring-state lattice as a function of W. Near Wc (black) the spectrum exhibits a gapped Dirac cone whose mass changes sign, producing a relative Berry-flux transfer of −2π at Γ in the effective low-energy description. Param- eters: m = 3.5, t = 2, v = 0.8, for which ∆≃0.462 and ϵb ≃0.337. Up to a global phase rotation, this is a QWZ-type Hamil- tonian realized in the emergent impurity band, with parameters promoted to functions of d. Keeping only nearest-neighbor hopping preserves the chirality, but lo- cating the inversion quantitatively requires the longer- range hoppings in g0....",
+        "FIG. 3. Random defect-band transition (t = 2, v = 0.8). (a) Phase boundary in the (W, σu) plane located by the topo- logical Hamiltonian method for m = 3.5, with σ2 u = ⟨|δ|2⟩. Red and green show the numerical disorder-averaged self- energy Σnum and SCBA; the dotted line denotes the heuristic density-and-second-moment matching σu = 1/ √ 6W for bi- modal vacancies. (b) Normalized quasi-one-dimensional local- ization length Λ/Ny for the bimodal model, showing a cross- ing near the critical concentration. At m = 3.5, the critical concentrations obtained from the transfer matrix (TM), the periodic reference, the SCBA, and the numerical self-energy are W TM c ≃0.161, W periodic c ≃0.120, W SCBA c ≃0.128, and W Σnum c ≃0.135, respectively. (c) Wc versus m, comparing pe- riodic SCBA, SCBA along the matched trajectory, TM, and numerical self-energy. (d)–(f) Local Chern marker (color) and arrow..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we develop a microscopic description of the strong-disorder transition in a Chern insulator using the in-gap ring states bound to individual vacancies. Using Green's function formalism, we construct an energy-dependent Hamiltonian describing their hybridization.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2610.27802",
@@ -166,10 +262,7 @@
         "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
         "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
         "Fig. 1. Consequently: A uniform bound on the x-averaged quantum metric is equivalent to a uniform bound on the physical x-position variance of the hybrid Wannier eigenstates of projected position: gxx(ky) ≤ℓ2 for all ky ⇔ VarWn(ky)(ˆ x) ≤ℓ2 for all ky, n. (5) Imposing the same bound throughout the allowed Hamiltonian deformations ensures that these eigenstates retain a root-mean-square width along x of at most ℓ.",
@@ -336,8 +429,14 @@
       "doi": "10.1103/b8b7-scc5",
       "source": "Crossref",
       "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
+      "image_url": "https://doi.org/images/aps-logo.svg?1792697202",
+      "figure_urls": [
+        "https://doi.org/images/aps-logo.svg?1792697202",
+        "https://doi.org/images/tailwind/icons/rss.svg",
+        "https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/plp-logo.png",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/footer-logo.png"
+      ],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
@@ -786,9 +885,9 @@
       "figure_urls": [
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
@@ -961,14 +1060,11 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
         "FIG. 1. Twisted Brillouin zones of the TMD bilayer, with opposite spin-polarized low-energy states at the single-layer Dirac points KSL and K′ SL related by time-reversal symmetry T . A relative twist creates a moiré Brillouin zone shown in the figure. Blue/red points represent moiré reciprocal lattice points in the bottom/top layers. (b) Single-particle dispersion in Eq. 8 for the lowest-energy hole band at KSL and K′ SL, for the FH model of MoTe2 at θ = 3.7◦. The Chern number for this band in each valley is also indicated. Note that the dispersion of ϵHF,η(k) is only 5% of the full dispersion. (c) Charge excitation energies computed using Eq. 10 for the FH model of MoTe2 at θ = 3.7◦. one-band projected limit (see Fig. 11 of Appendix C 3). As an example, we show in Fig. 12 of Appendix C 3 that the Ising gap only closes when the single-particle band- width is artificially increased to...",
@@ -1162,25 +1258,6 @@
       "abstract_status": "ai_assisted"
     },
     {
-      "id": "doi:10.1103/wh99-b81w",
-      "title": "Magnon Chern insulator in two-dimensional fully compensated ferrimagnetic heterostructures",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Magnon Chern insulator in two-dimensional fully compensated ferrimagnetic heterostructures in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review Letters",
-      "published": "2026-10-02",
-      "url": "https://doi.org/10.1103/wh99-b81w",
-      "doi": "10.1103/wh99-b81w",
-      "source": "Crossref",
-      "material_system": "Oxide_Heterostructure",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
-    },
-    {
       "id": "arxiv:2610.02888",
       "title": "Topological insulators on complex networks",
       "authors": [
@@ -1227,9 +1304,9 @@
         "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "FIG. 1. (a) Trench between two spin- and valley-polarized ν = 2/3 FCI regions, with edges u and ℓ. Each edge carries a downstream charge mode (solid) and an upstream neutral mode (dashed). Superconducting regions S pin the pairing term P11 and the neutral channel A; tunneling regions W pin T11 and the neutral channel B (the region-by-region limit of Sec. IV D). The walls bind Z3 zero modes αj. (b) A short junc- tion S1|W|S2. Virtual tunneling of quasiparticles between the walls through the FCI bulk on each side of the trench, each returning to the edge it left, transfers, for example, a 2e/3 fragment (e/3 on each edge) or no net charge (an e/3 quasi- hole on u and an e/3 quasiparticle on ℓ); qu and qℓare the charges moved from S1 to S2. No such process changes the Z3 label, the eigenvalue of the fragment string between the interiors of S1 and S2 (Sec. V A). a gate inside the FQAH..."
@@ -1736,9 +1813,9 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "Figure 1. Target-phase loss function for superconductivity and workflow. (a) Visual depiction of loss function definition in Eq. (2), in terms of the sign oscillation of the pair binding energy, defined in Eq. (1). (b) Schematic workflow for searching for and verifying superconductivity, through optimization of the superconductor loss function and a multi-step screening process (see text), respectively. mentum K = 0, leading to a sign-reversed “odd-even effect” for periodic boundary conditions1[19, 22, 23]. When the paired fermions are doped holes on top of a filled band of electrons, the sign of the even-odd effect in EB(Ne) depends on the number of available single-particle Bloch states Nk, since the number of holes Nh = Nk −Ne depends on Nk. We use this fact, in addition to other many-body indicators, to distinguish electron and hole superconductors. We now leverage this sign...",
