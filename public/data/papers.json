@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T06:04:48.618446+00:00",
+  "updated_at": "2026-10-24T05:58:00.405657+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -54,6 +54,48 @@
       ],
       "figure_captions": [],
       "ai_summary": "In MnBi2Te4 MTI, this paper argues that abstract Since its experimental discovery as an intrinsic antiferromagnetic topological insulator in 2019, the MnBi 2 Te 4 family of materials has greatly propelled the development of condensed matter physics over the past several years. This family naturally integrates long-range magnetic order with topological band structure within a two-dimensional van der Waals layered material, providing an unprecedentedly clean platform for exploring quantum phenomena such as axion insulators, the quantum anomalous Hall effect, and the topological magnetoelectric effect.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/l4wt-87js",
+      "title": "Field-induced metal-insulator transition, Chern insulators, and topological semimetals in the clean magnetic semiconductor GdGaI",
+      "authors": [
+        "R. K. Guzman Ilave",
+        "Hiroaki Ishizuka"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Field-induced metal-insulator transition, Chern insulators, and topological semimetals in the clean magnetic semiconductor GdGaI in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-10-23",
+      "url": "https://doi.org/10.1103/l4wt-87js",
+      "doi": "10.1103/l4wt-87js",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/4ssv-5mvp",
+      "title": "Phason-resolved finite-temperature topological diagnostics in quasiperiodic Chern-insulator approximants",
+      "authors": [
+        "Sheng Liu",
+        "Wen-Yu Peng",
+        "Chang-Wei Zou",
+        "Qi-Zhe Hou"
+      ],
+      "abstract": "Finite-temperature topological diagnostics in quasiperiodic systems are subtle because quasiperiodicity removes the Bloch momentum torus on which mixed-state band indices are usually formulated. We study a quasiperiodic Qi-Wu-Zhang Chern insulator on finite Fibonacci approximants and use twisted boundary phases as an operational two-torus. A gap scan over L = 21 , 34 , 55 shows that the fixed-boundary spectral gap can remain finite while extended low-gap regions appear elsewhere on the twist torus. Projected-Uhlmann diagnostics reveal a sharper finite-size result: The stability of the projected winding is not determined by the scalar minimum twist gap alone. A high-resolution L = 34 , 25 × 41 audit gives operational stability scales 5 × 10 − 4 , 10 − 2 , and 3 × 10 − 2 for three cases whose minimum twist gaps are all of order 10 − 3 . The same ranking is obtained with projection bases on the θ x = 0 and exact θ x = π slices. Direct phase-curve diagnostics show that collapse is associated with the loss or singularization of a 2 π projected-Uhlmann phase winding, whereas stable cases preserve the winding despite small spectral gaps. Within the finite approximants studied here, these results identify phason-resolved boundary-phase geometry and projected-holonomy sensitivity, rather than the fixed-boundary gap or scalar minimum gap alone, as the mechanism controlling this finite-size projected diagnostic.",
+      "journal": "APS Open Science",
+      "published": "2026-10-23",
+      "url": "https://doi.org/10.1103/4ssv-5mvp",
+      "doi": "10.1103/4ssv-5mvp",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that finite-temperature topological diagnostics in quasiperiodic systems are subtle because quasiperiodicity removes the Bloch momentum torus on which mixed-state band indices are usually formulated. A gap scan over L = 21 , 34 , 55 shows that the fixed-boundary spectral gap can remain finite while extended low-gap regions appear elsewhere on the twist torus.",
       "abstract_status": "original"
     },
     {
@@ -1060,11 +1102,14 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "FIG. 1. Twisted Brillouin zones of the TMD bilayer, with opposite spin-polarized low-energy states at the single-layer Dirac points KSL and K′ SL related by time-reversal symmetry T . A relative twist creates a moiré Brillouin zone shown in the figure. Blue/red points represent moiré reciprocal lattice points in the bottom/top layers. (b) Single-particle dispersion in Eq. 8 for the lowest-energy hole band at KSL and K′ SL, for the FH model of MoTe2 at θ = 3.7◦. The Chern number for this band in each valley is also indicated. Note that the dispersion of ϵHF,η(k) is only 5% of the full dispersion. (c) Charge excitation energies computed using Eq. 10 for the FH model of MoTe2 at θ = 3.7◦. one-band projected limit (see Fig. 11 of Appendix C 3). As an example, we show in Fig. 12 of Appendix C 3 that the Ising gap only closes when the single-particle band- width is artificially increased to...",
@@ -2067,25 +2112,6 @@
       ],
       "ai_summary": "In Other New Materials, this paper argues that in multilayer quantum Hall systems, when the layer separation is sufficiently small, the interplay between intralayer and interlayer Coulomb interactions can lead to exotic, multi-component, many-body states.",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/l4wt-87js",
-      "title": "Field-induced metal-insulator transition, Chern insulators, and topological semimetals in the clean magnetic semiconductor GdGaI",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Field-induced metal-insulator transition, Chern insulators, and topological semimetals in the clean magnetic semiconductor GdGaI in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review B",
-      "published": "2026-09-21",
-      "url": "https://doi.org/10.1103/l4wt-87js",
-      "doi": "10.1103/l4wt-87js",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "arxiv:2609.23099",
