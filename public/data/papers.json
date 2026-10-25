@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T05:58:00.405657+00:00",
+  "updated_at": "2026-10-25T06:12:20.171036+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -1106,10 +1106,7 @@
         "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
         "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
         "FIG. 1. Twisted Brillouin zones of the TMD bilayer, with opposite spin-polarized low-energy states at the single-layer Dirac points KSL and K′ SL related by time-reversal symmetry T . A relative twist creates a moiré Brillouin zone shown in the figure. Blue/red points represent moiré reciprocal lattice points in the bottom/top layers. (b) Single-particle dispersion in Eq. 8 for the lowest-energy hole band at KSL and K′ SL, for the FH model of MoTe2 at θ = 3.7◦. The Chern number for this band in each valley is also indicated. Note that the dispersion of ϵHF,η(k) is only 5% of the full dispersion. (c) Charge excitation energies computed using Eq. 10 for the FH model of MoTe2 at θ = 3.7◦. one-band projected limit (see Fig. 11 of Appendix C 3). As an example, we show in Fig. 12 of Appendix C 3 that the Ising gap only closes when the single-particle band- width is artificially increased to...",
@@ -1344,14 +1341,14 @@
       "figure_urls": [
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
         "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png"
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "FIG. 1. (a) Trench between two spin- and valley-polarized ν = 2/3 FCI regions, with edges u and ℓ. Each edge carries a downstream charge mode (solid) and an upstream neutral mode (dashed). Superconducting regions S pin the pairing term P11 and the neutral channel A; tunneling regions W pin T11 and the neutral channel B (the region-by-region limit of Sec. IV D). The walls bind Z3 zero modes αj. (b) A short junc- tion S1|W|S2. Virtual tunneling of quasiparticles between the walls through the FCI bulk on each side of the trench, each returning to the edge it left, transfers, for example, a 2e/3 fragment (e/3 on each edge) or no net charge (an e/3 quasi- hole on u and an e/3 quasiparticle on ℓ); qu and qℓare the charges moved from S1 to S2. No such process changes the Z3 label, the eigenvalue of the fragment string between the interiors of S1 and S2 (Sec. V A). a gate inside the FQAH..."
@@ -1539,7 +1536,10 @@
         "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
         "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "Figure 1. (a) Layout of the six-terminal Hall bar (width W = 3 µm, length L ≈20 µm) with source S, drain D, perimeter probes 1–4 and the two interior contacts A and B, together with the measurement circuit. The source–drain current I is set by VSD through a 10 MΩresistor; a second current can be injected between A and B by VIN. VH is measured between probes 2 and 3 and VAB between the interior contacts, which are connected by air bridges. The dashed lines mark the electronic edge of the 2DES. (b) Zoom onto the interior contacts: each is a ℓi × wi = 0.5 × 0.5 µm2 square, the gap between them is 2yi −ℓi = 1 µm, and their distance to the electronic edge is 0.95 µm. (c) Cross-section of the heterostructure: the 2DES lies d = 110 nm below the surface, the Si δ-doping s = 45 nm above it, and the interior contact reaches down to the 2DES plane. Interior contacts in a narrow quantum Hall bar 6...",
