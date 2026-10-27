@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T06:20:07.143334+00:00",
+  "updated_at": "2026-10-27T06:21:30.642210+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -96,6 +96,37 @@
       "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that finite-temperature topological diagnostics in quasiperiodic systems are subtle because quasiperiodicity removes the Bloch momentum torus on which mixed-state band indices are usually formulated. A gap scan over L = 21 , 34 , 55 shows that the fixed-boundary spectral gap can remain finite while extended low-gap regions appear elsewhere on the twist torus.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2610.33303",
+      "title": "Chern non-trivial two-dimensional square-net nodal line semimetal",
+      "authors": [
+        "Kendall Ramos",
+        "Salvador Barraza-Lopez",
+        "Elias Andrade"
+      ],
+      "abstract": "We investigate a two-dimensional $p_xp_y$ square-net tight-binding model with two sublattices and introduce a symmetry-informed, momentum-dependent spin-orbit coupling (SOC) with a finite-range real-space hopping representation. Its two components jointly gap the nodal line, while one breaks time-reversal symmetry, producing a Chern-insulating phase with an occupied band Chern number $C=2$. Nanoribbon calculations reveal edge-localized states traversing this gap, with two net chiral modes per edge. We further show that the conserved spin sectors are unitarily equivalent and therefore have equal Chern numbers, ruling out a nontrivial time-reversal-protected $\\mathbb{Z}_2$ phase within this ansatz. Our results establish a phenomenological route to Chern topology in square-net two-dimensional systems and clarify the symmetry constraints governing the accessible insulating phases.",
+      "journal": "arXiv",
+      "published": "2026-10-23",
+      "url": "https://arxiv.org/abs/2610.33303",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2610.33303-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2610.33303-fig01.png",
+        "/data/figures/arxiv-2610.33303-fig02.png",
+        "/data/figures/arxiv-2610.33303-fig03.png",
+        "/data/figures/arxiv-2610.33303-fig04.png"
+      ],
+      "figure_captions": [
+        "Figure 1. (a) Square lattice with two atoms per unit-cell, the sublattices are labeled as A and B and indicated by or- ange (light) and blue (dark) circles, respectively. Each of the atoms contributes to the tight-binding Hamiltonian with px and py orbitals, shown as well. (b) First Brillouin zone of the two-atom square lattice. The black circles indicate the high-symmetry points. The spectrum features a nodal line indicated schematically by the (red) curve. The path-shown is used to plot the dispersion in (c); squares show the points where the path crosses the nodal line. II. MODEL The nodal line featured in ZrSiS can be described by the p-orbitals in the Si planes, forming a square-net as shown in Fig. 1(a) [27]. The inclusion of two atoms per unit cell results in the folding of the first Brillouin zone. For square-net pxpy models, this results in the appear- ance of a nodal line,...",
+        "Figure 2. Band structures with the introduction of PSOC with η(k) as defined in Eq. (13) for different values of µ and λ. (a) µ = λ = 0. (b) µ = 30 meV and λ = 0. (c) µ = 0 and λ = 30 meV. (d) µ = λ = 30 meV, this is the only case where a gap is opened, as highlighted by the shaded region. nearest-neighbor interaction between the two sublattices. Specifically, we choose: η(k) =2µ[sin(kxa) + sin(kya)] + 4iλ \u0014 sin \u0012kxa 2 \u0013 cos \u0012kya 2 \u0013\u0015 , (13) where µ and λ are real parameters. The real part is odd under momentum reversal and satisfies the time-reversal condition, whereas the imaginary part is also odd and therefore breaks time-reversal symmetry when λ ̸= 0. The bands are 2-fold degenerate since the spin subsectors H± have the same spectrum, given by, Eη e,±(k) = d0(k) + p |β(k) ± ϵ(k)|2 + |η(k)|2, (14a) Eη h,±(k) = d0(k) − p |β(k) ± ϵ(k)|2 + |η(k)|2. (14b) The electronic bands are shown...",
+        "Fig. 3. As discussed in Sec. III, there are two contributions to η(k): the imaginary part introduces a first-nearest-neighbor interaction of strength λ that changes sign between neighbors along the x-direction [Fig. 3(a)]. On the other hand, the real part introduces a second-nearest-neighbor interaction iµ which changes sign depending on bond orientation, hopping direction, and sublattice [Figs. 3(b)-(c)]. Both contributions couple states with opposite orbital and spin labels in the chosen basis. We are now able to calculate the electronic bands for nanoribbons, and we consider a periodic structure along the x−axis with a width W = 100a along the y-direction. The bands are shown in Fig. 4 for different values of µ and A B (a) (b) (c) B B B A A A A A B B B B B A B B B A A , , , , , , , ,",
+        "Figure 3. Mapping of the SOC η(k) in real space. (a) Inter- lattice interaction at first nearest neighbors, the magnitude of the interaction λ changes sign while moving along the x- direction. (b)-(c) Intralattice interaction for second nearest- neighbors with a imaginary amplitude µ. The signs are op- posite between sublattices. In each process there is a flip in the orbital and spin as indicated in the top-right inset. λ, and colored according to the expectation value ⟨y⟩to topologiclly tell edge states appart. When µ = λ = 0 [Fig. 4(a)] there is no SOC and the spectrum is com- posed of ‘flat’ bands with oscillations; these oscillations are a consequence of the nodal line in the bulk-spectrum, as multiple states at the same energy collapse in the one- dimensional spectrum and their avoided crossings results in oscillations. The cases for µ ̸= 0, λ = 0 and µ = 0, λ ̸= 0 are shown in..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we investigate a two-dimensional $p_xp_y$ square-net tight-binding model with two sublattices and introduce a symmetry-informed, momentum-dependent spin-orbit coupling (SOC) with a finite-range real-space hopping representation. Nanoribbon calculations reveal edge-localized states traversing this gap, with two net chiral modes per edge. Our results establish a phenomenological route to Chern topology in square-net two-dimensional systems and clarify the symmetry constraints governing the accessible insulating phases.",
       "abstract_status": "original"
     },
     {
