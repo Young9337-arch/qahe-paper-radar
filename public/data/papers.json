@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T06:53:54.278446+00:00",
+  "updated_at": "2026-10-29T07:11:14.868670+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -23,6 +23,29 @@
       "figure_urls": [
         "https://files.sciengine.com/template/platform/img/SciEngine-logo.png"
       ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/8xc4-977z",
+      "title": "Linear response of the Chern insulator MnBi 2 Te 4 : Wannier function approach",
+      "authors": [
+        "Matthew Albert",
+        "Javier Sivianes",
+        "Jason G. Kattan",
+        "Julen Ibañez-Azpiroz",
+        "J. E. Sipe"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Linear response of the Chern insulator MnBi 2 Te 4 : Wannier function approach in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-10-28",
+      "url": "https://doi.org/10.1103/8xc4-977z",
+      "doi": "10.1103/8xc4-977z",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
@@ -86,6 +109,72 @@
       ],
       "ai_summary": "In Other New Materials, this paper argues that boundary dissipation can reshape the spatial profiles and decay properties of topological edge modes in Chern insulators. By retaining the lossy outer orbitals and a normalized edge state of the Hermitian inner system, we identify a directly coupled bright boundary channel, while incorporating the remaining inner states through a Feshbach self-energy. These results provide a unified microscopic description of boundary-state reconstruction and its decay mechanisms, offering testable predictions to guide experiments in photonic crystals, phononic crystals, and topolectrical circuits.",
       "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/f735-gr9z",
+      "title": "Luttinger’s theorem and Green’s function topological invariants in a fractional Chern insulator",
+      "authors": [
+        "Anton A. Markov",
+        "Andrey M. Nikishin",
+        "Nigel R. Cooper",
+        "Nathan Goldman",
+        "Lucila Peralta Gavensky"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Luttinger’s theorem and Green’s function topological invariants in a fractional Chern insulator in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-10-27",
+      "url": "https://doi.org/10.1103/f735-gr9z",
+      "doi": "10.1103/f735-gr9z",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/zf45-1gvb",
+      "title": "Band mixing and particle-hole asymmetry in moire fractional Chern insulators",
+      "authors": [
+        "Nicolás Morales-Durán",
+        "Jingtian Shi",
+        "Cristian Voinea",
+        "Paweł Potasz",
+        "Jennifer Cano"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Band mixing and particle-hole asymmetry in moire fractional Chern insulators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Research",
+      "published": "2026-10-27",
+      "url": "https://doi.org/10.1103/zf45-1gvb",
+      "doi": "10.1103/zf45-1gvb",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/4v66-y755",
+      "title": "Interaction-induced sign reversal of the orbital magnetic susceptibility in Chern insulators",
+      "authors": [
+        "Ke Huang",
+        "Xiao Li"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Interaction-induced sign reversal of the orbital magnetic susceptibility in Chern insulators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-10-27",
+      "url": "https://doi.org/10.1103/4v66-y755",
+      "doi": "10.1103/4v66-y755",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
     },
     {
       "id": "doi:10.1088/1361-648x/aeb217",
@@ -1230,9 +1319,9 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
@@ -1469,14 +1558,11 @@
       "figure_urls": [
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
         "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png"
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
         "FIG. 1. (a) Trench between two spin- and valley-polarized ν = 2/3 FCI regions, with edges u and ℓ. Each edge carries a downstream charge mode (solid) and an upstream neutral mode (dashed). Superconducting regions S pin the pairing term P11 and the neutral channel A; tunneling regions W pin T11 and the neutral channel B (the region-by-region limit of Sec. IV D). The walls bind Z3 zero modes αj. (b) A short junc- tion S1|W|S2. Virtual tunneling of quasiparticles between the walls through the FCI bulk on each side of the trench, each returning to the edge it left, transfers, for example, a 2e/3 fragment (e/3 on each edge) or no net charge (an e/3 quasi- hole on u and an e/3 quasiparticle on ℓ); qu and qℓare the charges moved from S1 to S2. No such process changes the Z3 label, the eigenvalue of the fragment string between the interiors of S1 and S2 (Sec. V A). a gate inside the FQAH..."
