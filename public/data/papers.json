@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T07:02:21.370124+00:00",
+  "updated_at": "2026-11-01T07:36:58.616705+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -813,13 +813,18 @@
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "Fig. 1. Consequently: A uniform bound on the x-averaged quantum metric is equivalent to a uniform bound on the physical x-position variance of the hybrid Wannier eigenstates of projected position: gxx(ky) ≤ℓ2 for all ky ⇔ VarWn(ky)(ˆ x) ≤ℓ2 for all ky, n. (5) Imposing the same bound throughout the allowed Hamiltonian deformations ensures that these eigenstates retain a root-mean-square width along x of at most ℓ.",
         "Figure 1: The Brillouin zone of an effectively two-dimensional crystalline system is a torus T 2, depicted here by a fundamental domain with op- posite edges identified. The momentum coordinates kx and ky have reciprocal periods 2π/ax and 2π/ay, respectively; the displayed aspect ratio is schematic. Below, in § 3, we constrain the kx-averaged quan- tum metric gxx(ky) (2) uniformly in ky, selecting the horizontal cycle as the “small” momentum direction. The associated momentum 1-cycles are Wa for this bounded direction and Wb for the unrestricted vertical direction, cf.",
         "Fig. 3. T 2 kx ky | 0 | 2π ax 0− 2π ay − Wa Wb Cyclic QH Layers of FCI states. A striking insight of Qi and Barkeshli–Qi is that the hybrid Wannier states |Wn(ky)⟩(3) of a single Chern band exhibit an effective multilayer quantum Hall structure [Qi11; BQ12] in that: (i) the integer index n in (3) labels successive lattice translates: xn(ky) := ⟨Wn(ky) | ˆ x | Wn(ky)⟩= n ax + x(ky), (6) where x(ky) is a common offset determined by the Berry phase around the kx-cycle; (ii) for a band of Chern number C ̸= 0, traversing the transverse Brillouin-zone cycle shifts each center by C lattice cells, so that [Qi11, Eqs. (2)–(3)] |Wn(ky + 2π/ay)⟩= |Wn+C(ky)⟩. (7) Continuation in ky therefore joins the orbitals into |C| families, distinguished by the residue n mod C ∈Z/C . (8) These are the effective layers, cyclically permuted upon translation Tx by one lattice cell (cf. Fig. 2): Tx|Wn(ky)⟩=...",
-        "Figure 2: The eigenstates of projected x-position operators in an FCI at Chern number C ̸= 0 exhibit an orbital representa- tion consisting of |C| Quantum Hall layers that are cyclically permuted under lattice translation in the x-direction (9). ... (iii) With this, one finds [Qi11, below (5)] that these Wannier states in a layer n = i + Cq, i ∈{0, . . . , |C| −1}, q ∈Z, correspond to Quantum Hall Landau orbitals at transverse momentum K := ky + q 2π ay . (10) Multilayer FQH wavefunctions can then be transferred to the Chern band by re- placing their Landau-level orbitals with these Wannier orbitals while retaining their occupation-number coefficients. This layered organization is encoded in the spectral flow of projected position; the metric bound in (4) controls the physical widths of the orbitals that realize it. (We will see this structure reappear from novel topological..."
+        "Figure 2: The eigenstates of projected x-position operators in an FCI at Chern number C ̸= 0 exhibit an orbital representa- tion consisting of |C| Quantum Hall layers that are cyclically permuted under lattice translation in the x-direction (9). ... (iii) With this, one finds [Qi11, below (5)] that these Wannier states in a layer n = i + Cq, i ∈{0, . . . , |C| −1}, q ∈Z, correspond to Quantum Hall Landau orbitals at transverse momentum K := ky + q 2π ay . (10) Multilayer FQH wavefunctions can then be transferred to the Chern band by re- placing their Landau-level orbitals with these Wannier orbitals while retaining their occupation-number coefficients. This layered organization is encoded in the spectral flow of projected position; the metric bound in (4) controls the physical widths of the orbitals that realize it. (We will see this structure reappear from novel topological...",
+        "Figure 3: The relations (18) and (20) say that an adiabatic parameter loop of Bloch Hopfions around a basis of Brillouin torus cycles (cf. Fig. 1) induces transformation of the topolog- ical states by multiplication with the square of a complex phase ζ, a root of unity, to be identi- fied [SS25a, Prop. 3.21] with an anyon braiding phase. T 2 b ζ2|ψ⟩ 7→ |ψ⟩ c W −1 b c W −1 a c Wb c Wa General Covariance and Modular Data. In more detail, topological states, subject to the laws of topological field theory, are generally covariant [Wit88], in that they must see diffeomorphisms of space as gauge equivalences. Here this means [SS25b, §II.C; SS25a, §2.2] that the actual parameter space for crystalline topological phases is not quite the space Pcrs of Bloch Hamiltonians (13) itself, but its homotopy quotient (–) (–) (Borel construction) by the precomposition action with the...",
+        "Figure 4: The space L1S2 ⊂LS2 (31) of small loops in the (Bloch) sphere is homotopy equivalent (by Lem. 3.4) to its further subspace of loops that trace out round circles on S2, once at a constant rate. These in turn are equivalently determined by their base point b ∈S2 and by the oriented rotation axis p ∈S2 ⊂R3 that they are encircling clockwise. Here constant loops are included, regarded as circles of van- ishing radius that as such may be regarded as oriented either by the axis p = b or p = −b. Lemma 3.4. The space L1S2 (31) of “small loops” in S2: (i) is homotopy equivalent more specifically to the space of loops that traverse (once, at a constant rate) round circles embedded in S2, including degenerate circles corresponding to constant loops, (ii) as such may be coordinatized by pairs of points (b, p) ∈S2 × S2 indicating the loop’s basepoint b and the oriented axis p encircled..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that two-band 2D fractional Chern insulators (FCIs) have recently been shown, in principle, to admit unusual anyonic order, associated with Bloch Hopfions localized in momentum space. Here we show that bounding the integrated quantum metric along one primitive Brillouin-zone cycle may refine this topological order to $|C|$ distinct braiding observables, cyclically permuted by lattice translations, for Chern numbers $|C| > 1$.",
       "abstract_status": "original"
@@ -1432,7 +1437,10 @@
         "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
         "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "FIG. 1. Single-particle bands of the Berry basin model with N = 3, λ = 1, V0 = −25, and β = 0.2, the values used throughout this work. (a) Band structure in the absence of Vm. The color scale indicates the layer polarization P defined such that P = +1 (−1) when the Bloch state is fully polar- ized to the top (bottom) layer. (b) Berry curvature Ωk of the lowest band in (a). (c) Minibands in the presence of a moir´ e superlattice potential Vm = 8 acting on the bottom layer. (d) Same as (c) but with Vm acting on the top layer. components as the top and bottom “layers”. The polar angle θk parametrizes the layer content of the state at k. We choose it to interpolate monotonically from θ0 = 0 to θ∞= π over a scale set by a parameter λ; explicitly, we take θk = π tanh[(λk/π)2]. Note that in the two- band model of rhombohedral graphene [47] the winding number of Bloch spinors is related to the...",
@@ -1600,8 +1608,14 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
+        "http://arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "FIG. 1. Twisted Brillouin zones of the TMD bilayer, with opposite spin-polarized low-energy states at the single-layer Dirac points KSL and K′ SL related by time-reversal symmetry T . A relative twist creates a moiré Brillouin zone shown in the figure. Blue/red points represent moiré reciprocal lattice points in the bottom/top layers. (b) Single-particle dispersion in Eq. 8 for the lowest-energy hole band at KSL and K′ SL, for the FH model of MoTe2 at θ = 3.7◦. The Chern number for this band in each valley is also indicated. Note that the dispersion of ϵHF,η(k) is only 5% of the full dispersion. (c) Charge excitation energies computed using Eq. 10 for the FH model of MoTe2 at θ = 3.7◦. one-band projected limit (see Fig. 11 of Appendix C 3). As an example, we show in Fig. 12 of Appendix C 3 that the Ising gap only closes when the single-particle band- width is artificially increased to...",
