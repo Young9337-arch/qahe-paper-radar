@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T07:43:30.380731+00:00",
+  "updated_at": "2026-11-03T07:58:34.354192+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,106 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2611.02879",
+      "title": "Zero-field plasmon splitter: Controlled interaction between quantum anomalous Hall edge states",
+      "authors": [
+        "Dominik Hoborka",
+        "Torsten Röper",
+        "Fabian Hassler",
+        "Alexey A. Taskin",
+        "Yoichi Ando",
+        "Erwann Bocquillon"
+      ],
+      "abstract": "The quantum anomalous Hall (QAH) effect provides chiral edge states without the need for an external magnetic field, but unlike in conventional quantum Hall systems, their trajectories cannot be readily controlled electrostatically. Here, we engineer Coulomb interactions between two spatially separated, counter-propagating QAH edge channels using a floating metallic island. Microwave measurements reveal frequency-dependent redistribution of injected edge plasmons between two output channels, demonstrating interaction-induced hybridization of the collective modes. A long-range interaction model quantitatively reproduces the response and reveals a very low plasmon velocity in the coupling region, strongly reduced by electrostatic screening. Our results establish engineered Coulomb coupling as a route to control collective excitations in QAH edge states and provide a building block for chiral plasmonic circuits and electron quantum optics in magnetic topological insulators.",
+      "journal": "arXiv",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.02879",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "MnBi2Te4_MTI",
+      "image_url": "/data/figures/arxiv-2611.02879-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.02879-fig01.png",
+        "/data/figures/arxiv-2611.02879-fig02.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. Port 3 t Port 4 V-BST Port 3 Port 4 Port 1 Port 1 Port 2 dc contacts dc contacts Port 2 coplanar waveguides coplanar waveguides Metallic island A B",
+        "Fig. 1: Plasmon splitter device. (A) Full microscope image of a splitter device. Ohmic contacts (highlighted in light blue) allow for Hall measurements and coplanar waveguides transmit microwave signals to the four ports used for microwave exper- iments. (B) Zoomed-in image of a device. The two V-BST bars (light brown) are physically separated by a thin trench in the center. The edge states of each bar (high- lighted by the red and blue lines) are capacitively coupled via the metallic island covering the trench. Port 1 is used for the microwave excitation, and the other three for detection of the transmitted signal, yielding the scattering parameters S21, S31 and S41. The plasmon splitter device comprises a coupling region in which two counter- propagating edge channels coexist in close proximity. This is achieved by etching a thin trench into the V-BST layer, separating it into two..."
+      ],
+      "ai_summary": "In MnBi2Te4 MTI, this paper argues that the quantum anomalous Hall (QAH) effect provides chiral edge states without the need for an external magnetic field, but unlike in conventional quantum Hall systems, their trajectories cannot be readily controlled electrostatically. Microwave measurements reveal frequency-dependent redistribution of injected edge plasmons between two output channels, demonstrating interaction-induced hybridization of the collective modes.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.02268",
+      "title": "Lattice-Induced Splitting, Connectivity, and Topology of Anyon Bands",
+      "authors": [
+        "Siddhartha Sarkar",
+        "Xiaohan Wan"
+      ],
+      "abstract": "Fractional Chern insulators realize fractional quantum Hall states without external magnetic fields, while their underlying lattice periodicity allows otherwise dispersionless anyons to acquire finite bandwidth. Here we show that flux--lattice commensurability can also give rise to multiple anyon bands with nontrivial topology and symmetry-protected connectivity. In multiband vortexable systems, commensurability between the lattice periodicity and the effective magnetic unit cell of fractionally charged quasiholes leads to the folding of a quasihole Landau level into multiple bands. Interactions lift their degeneracy, producing dispersive bands with Chern numbers distinct from that of the parent quasihole Landau level. We further demonstrate that these Chern numbers can be redistributed through Dirac crossings under continuous deformations that preserve exact electronic flatness, while crystalline symmetries can enforce protected band touchings. Our results establish that fractionalized excitations can exhibit the rich band topology familiar from electronic Bloch bands, opening possibilities for nontrivial anyon dynamics beyond conventional Landau-level physics.",
+      "journal": "arXiv",
+      "published": "2026-11-01",
+      "url": "https://arxiv.org/abs/2611.02268",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic of flux–lattice commensurability and topological quasihole bands.. (a) A reference elec- tronic Landau level (LL) with one flux quantum per unit cell of area AΦ = 2πℓ2 B folds into two exactly degenerate flat bands when the moiré unit cell is enlarged to AM = 2AΦ. The total Chern number of the two degenerate bands remains C = −1. (b) At Laughlin filling νLLL = 1/3, corresponding to νM = 2/3 electrons per moiré cell, a quasihole of charge e/3 experiences an effective flux of 2/3 per moiré cell. Three moiré cells therefore enclose two quasihole flux quanta, defin- ing a quasihole magnetic unit cell. The quasihole magnetic translation algebra is T 1T 2 = e−4πi/3T 2T 1, and the magnetic anyon Brillouin zone (aBZ) has one-third the area of the elec- tronic BZ. (c) The uniform quasihole LL with C = +1 folds into two degenerate zero modes at each magnetic momen- tum under the...",
+        "FIG. 2. Exactly flat electronic bands, Laughlin state, and topological quasihole bands in a p6mm system. (a) Single-particle spectrum of the moiré-strained quadratic- band-crossing model at the original magic strain configura- tion, with first-shell strain coefficient a1 ≈−2.88 and all higher-shell coefficients zero (see End Matter). Four exactly flat bands occur at zero energy, two polarized on each sublat- tice. Inset: |ψΓ(r)| for one sublattice, showing the two zeros at the moiré-cell corners that generate the flat bands. (b) Spa- tial modulation |h(r)|2 relating the two sublattice-polarized bands to a reference LLL with two flux quanta per moiré unit cell. The primitive moiré lattice vectors A1, A2 are indicated. The magnetic length is given by 4πℓ2 B = A1 × A2. (c) Many- body spectrum of the screened Coulomb interaction projected into the two electronic flat bands at νLLL = 1/3 (νM...",
+        "FIG. 3. Topological transitions of quasihole bands along a continuous magic-strain path. (a) Continu- ous family of C6-symmetric magic strain fields connecting configurations A and B, with shell coefficients (a1, a2, a3) ≈ (−2.88, 0, 0) and (0.58, 2.33, 0), respectively. A corresponds to the strain in",
+        "Fig. 2. The projection of the path onto the (a1, Re a2) plane is shown in the main panel. The inset shows the imaginary shell coefficients along the path. The com- plex detour avoids the six-flat-band point of the real two- shell model. See End Matter for details. (b) Evolution of representative normalized Fourier coefficients wG(s)/w0(s) of |hs(r)|2, where Gi · Aj = 2πδij. The first-shell coeffi- cient vanishes at s0 ≃0.6938, while higher harmonics re- main nonzero. Inset: |hs0(r)|2. (c) Single-particle spectrum at s = s0, showing four exactly flat electronic bands sepa- rated from the remote bands. (d) Minimum direct quasihole- band gap ∆qh = mink[E+(k) −E−(k)] along the strain path. The main panel magnifies the transition region, while the in- set shows the full range 0 ≤s ≤1. The blue curve gives the sampled momentum-mesh minimum. Red open circles mark the refined gap closings: M1,...",
+        "FIG. 4. Symmetry-protected quasihole-band con- nectivity in a p4gm symmetric system. (a) Single- particle spectrum of the quadratic-band-crossing model with the p4gm-symmetric strain field e A(r) = iα[cos(G1 · r) − cos(G2 · r)], where G1,2 = (2π/a)ˆ x, (2π/a)ˆ y and α/|G1|2 ≃ 2.24 [47]. Four exactly flat bands appear at zero energy, two polarized on each sublattice. Inset: |ψΓ(r)|, showing the two edge-center zeros used in the flat-band construction. (b) Spatial modulation |h(r)|2 obtained from the same strain model, with the composite glide–time-reversal operations Gx and Gy indicated. The construction of h(r) is described in the End Matter and Supplemental Material. (c) Many-body screened-Coulomb ED spectrum at νLLL = 1/3 (νM = 2/3), on a 12-cell torus with Nϕ = 24 and Ne = 8. (d) Quasi- hole dispersion obtained by projecting the screened Coulomb interaction into the one-quasihole V1..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that fractional Chern insulators realize fractional quantum Hall states without external magnetic fields, while their underlying lattice periodicity allows otherwise dispersionless anyons to acquire finite bandwidth. Here we show that flux--lattice commensurability can also give rise to multiple anyon bands with nontrivial topology and symmetry-protected connectivity.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.02262",
+      "title": "Topological Acoustic Metamaterials with Synthetic Magnetism: Observation of Hofstadter Spectrum and Topological Edge States",
+      "authors": [
+        "Elena Rybalova",
+        "Jackson Saunders",
+        "Curtis Rasmussen",
+        "Nicholas H. Patino",
+        "Emil Prodan",
+        "Massimo Ruzzene",
+        "Camelia Prodan"
+      ],
+      "abstract": "Architected materials are increasingly used to implement topological dynamics, yet realizing the gauge fields and symmetries that protect the topology with purely passive elements remains the central practical challenge. Here we turn a previously proposed theoretical strategy into an integrated platform that accepts a theoretical model as input and returns a passive acoustic metamaterial with identical dynamics. We demonstrate it experimentally on the Hofstadter model at $θ= 2π/3$, fabricating a spin-Chern insulator whose two sectors carry Chern numbers $C_s = \\pm 1$, and observe the predicted helical edge states.",
+      "journal": "arXiv",
+      "published": "2026-11-01",
+      "url": "https://arxiv.org/abs/2611.02262",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.02262-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.02262-fig01.png",
+        "/data/figures/arxiv-2611.02262-fig02.png",
+        "/data/figures/arxiv-2611.02262-fig03.png",
+        "/data/figures/arxiv-2611.02262-fig04.png",
+        "/data/figures/arxiv-2611.02262-fig05.png",
+        "/data/figures/arxiv-2611.02262-fig06.png",
+        "/data/figures/arxiv-2611.02262-fig07.png"
+      ],
+      "figure_captions": [
+        "Figure 1: H-resonator and dimer tuning. a) Double bridge H-resonator schematic consisting of two chambers connected by two bridges. Crucial parameters are labeled. b) First 4 modes of the H-resonator (red dashed lines) and the corresponding pressure profiles. The heat map legend shows the minimum and maximum relative acoustic pressure. c) Eigenfrequencies of a dimer of two coupled H-resonators as a function of coupling length (CL) at a fixed coupling thickness of 10 mm. The dimer geometry with the CL indicated is shown in the inset. The red dashed line marks the 1733 Hz operating mode of an isolated H-resonator. Green rectangles highlight the CL intervals in which the splitting of this mode is most symmetric. d)–f) Eigenfrequency as a function of coupling thickness (ranging from 1 mm to 10 mm) for three CLs: 119 mm, 149 mm, and 179 mm. The geometric setup associated with each CL is...",
+        "Figure 2: Hofstadter butterfly spectrum from analytical model and acoustic simulation. a) Local density of states (LDOS) computed from the analytical two-layer realified Hofstadter Hamiltonian, H = P eiθ(x∧x′)|x⟩⟨x′|, on a 9×9 lattice per layer (162 total sites) with open boundary conditions. The complex Hofstadter Hamiltonian is realified by replacing the imaginary unit with a 2×2 rotation matrix, producing a bilayer system. The x-axis is the gauge field parameter θ. The LDOS is obtained by 2D histogram binning of (θ, E) pairs with per-θ column normalization. The spectrum exhibits the expected symmetry E(θ) = E(π −θ). b) LDOS from COMSOL finite-element simulation of a 9×9 bilayer coupled acoustic resonator lattice implementing the same synthetic magnetic field. The y-axis shows the physical eigenfrequency range (approximately 2.38–2.46 kHz). The same binning and normalization procedure...",
+        "Figure 3: Spectral and spatial characterization of a 9×9 bilayer acoustic resonator lattice at θ = 2π/3. a) 3D rendering of the bilayer coupled resonator lattice. Each unit cell is an H-shaped resonator consisting of two square cavities connected by a bridge. The two layers are stacked vertically, with interlayer and intralayer couplings implementing the realified Hofstadter Hamiltonian. b) Left: COMSOL eigenfrequencies versus solution number for all 162 modes. The spectrum separates into five band regions labeled i–v, with bulk bands (i, iii, v) separated by gap bands (ii, iv). Numbers 1–6 mark individual modes shown in panel (c). Right: density of states (DOS) histogram confirming the band gaps where the DOS drops to zero. c) Acoustic pressure magnitude |p| for six selected eigenmodes (labeled 1–6) visualized on the 3D lattice structure. Bulk modes (1,3,4, and 6) exhibit pressure...",
+        "Figure 4: Bulk–boundary correspondence of the realified Hofstadter lattice at θ = 2π/3 (|ϕ| = 1/3). Ribbon dispersion (periodic along x with a q = 3 magnetic cell, open along y; bulk states in grey, gap regions shaded). (a) A single sector S+: one chiral edge branch threads each bulk gap, localized on the top (red) or bottom (blue) boundary with opposite group velocity, consistent with the gap Chern numbers Cgap = +1 (lower) and −1 (upper) and the band Chern numbers (+1, −2, +1). (b) The realified system S+ ⊕S−: the second sector (S−, orange/light blue) contributes oppositely dispersing branches on each boundary, forming a counter-propagating helical pair in every gap. The total Chern number vanishes (Ctot = 0) while the spin Chern number Cs = ±1 remains nontrivial. 7 Robustness Against Structural Defects A defining property of topologically protected edge states is their resilience to..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that architected materials are increasingly used to implement topological dynamics, yet realizing the gauge fields and symmetries that protect the topology with purely passive elements remains the central practical challenge. We demonstrate it experimentally on the Hofstadter model at $θ= 2π/3$, fabricating a spin-Chern insulator whose two sectors carry Chern numbers $C_s = \\pm 1$, and observe the predicted helical edge states. Here we turn a previously proposed theoretical strategy into an integrated platform that accepts a theoretical model as input and returns a passive acoustic metamaterial with identical...",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1038/s41467-026-78306-1",
@@ -883,13 +983,18 @@
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "Fig. 1. Consequently: A uniform bound on the x-averaged quantum metric is equivalent to a uniform bound on the physical x-position variance of the hybrid Wannier eigenstates of projected position: gxx(ky) ≤ℓ2 for all ky ⇔ VarWn(ky)(ˆ x) ≤ℓ2 for all ky, n. (5) Imposing the same bound throughout the allowed Hamiltonian deformations ensures that these eigenstates retain a root-mean-square width along x of at most ℓ.",
         "Figure 1: The Brillouin zone of an effectively two-dimensional crystalline system is a torus T 2, depicted here by a fundamental domain with op- posite edges identified. The momentum coordinates kx and ky have reciprocal periods 2π/ax and 2π/ay, respectively; the displayed aspect ratio is schematic. Below, in § 3, we constrain the kx-averaged quan- tum metric gxx(ky) (2) uniformly in ky, selecting the horizontal cycle as the “small” momentum direction. The associated momentum 1-cycles are Wa for this bounded direction and Wb for the unrestricted vertical direction, cf.",
         "Fig. 3. T 2 kx ky | 0 | 2π ax 0− 2π ay − Wa Wb Cyclic QH Layers of FCI states. A striking insight of Qi and Barkeshli–Qi is that the hybrid Wannier states |Wn(ky)⟩(3) of a single Chern band exhibit an effective multilayer quantum Hall structure [Qi11; BQ12] in that: (i) the integer index n in (3) labels successive lattice translates: xn(ky) := ⟨Wn(ky) | ˆ x | Wn(ky)⟩= n ax + x(ky), (6) where x(ky) is a common offset determined by the Berry phase around the kx-cycle; (ii) for a band of Chern number C ̸= 0, traversing the transverse Brillouin-zone cycle shifts each center by C lattice cells, so that [Qi11, Eqs. (2)–(3)] |Wn(ky + 2π/ay)⟩= |Wn+C(ky)⟩. (7) Continuation in ky therefore joins the orbitals into |C| families, distinguished by the residue n mod C ∈Z/C . (8) These are the effective layers, cyclically permuted upon translation Tx by one lattice cell (cf. Fig. 2): Tx|Wn(ky)⟩=...",
-        "Figure 2: The eigenstates of projected x-position operators in an FCI at Chern number C ̸= 0 exhibit an orbital representa- tion consisting of |C| Quantum Hall layers that are cyclically permuted under lattice translation in the x-direction (9). ... (iii) With this, one finds [Qi11, below (5)] that these Wannier states in a layer n = i + Cq, i ∈{0, . . . , |C| −1}, q ∈Z, correspond to Quantum Hall Landau orbitals at transverse momentum K := ky + q 2π ay . (10) Multilayer FQH wavefunctions can then be transferred to the Chern band by re- placing their Landau-level orbitals with these Wannier orbitals while retaining their occupation-number coefficients. This layered organization is encoded in the spectral flow of projected position; the metric bound in (4) controls the physical widths of the orbitals that realize it. (We will see this structure reappear from novel topological..."
+        "Figure 2: The eigenstates of projected x-position operators in an FCI at Chern number C ̸= 0 exhibit an orbital representa- tion consisting of |C| Quantum Hall layers that are cyclically permuted under lattice translation in the x-direction (9). ... (iii) With this, one finds [Qi11, below (5)] that these Wannier states in a layer n = i + Cq, i ∈{0, . . . , |C| −1}, q ∈Z, correspond to Quantum Hall Landau orbitals at transverse momentum K := ky + q 2π ay . (10) Multilayer FQH wavefunctions can then be transferred to the Chern band by re- placing their Landau-level orbitals with these Wannier orbitals while retaining their occupation-number coefficients. This layered organization is encoded in the spectral flow of projected position; the metric bound in (4) controls the physical widths of the orbitals that realize it. (We will see this structure reappear from novel topological...",
+        "Figure 3: The relations (18) and (20) say that an adiabatic parameter loop of Bloch Hopfions around a basis of Brillouin torus cycles (cf. Fig. 1) induces transformation of the topolog- ical states by multiplication with the square of a complex phase ζ, a root of unity, to be identi- fied [SS25a, Prop. 3.21] with an anyon braiding phase. T 2 b ζ2|ψ⟩ 7→ |ψ⟩ c W −1 b c W −1 a c Wb c Wa General Covariance and Modular Data. In more detail, topological states, subject to the laws of topological field theory, are generally covariant [Wit88], in that they must see diffeomorphisms of space as gauge equivalences. Here this means [SS25b, §II.C; SS25a, §2.2] that the actual parameter space for crystalline topological phases is not quite the space Pcrs of Bloch Hamiltonians (13) itself, but its homotopy quotient (–) (–) (Borel construction) by the precomposition action with the...",
+        "Figure 4: The space L1S2 ⊂LS2 (31) of small loops in the (Bloch) sphere is homotopy equivalent (by Lem. 3.4) to its further subspace of loops that trace out round circles on S2, once at a constant rate. These in turn are equivalently determined by their base point b ∈S2 and by the oriented rotation axis p ∈S2 ⊂R3 that they are encircling clockwise. Here constant loops are included, regarded as circles of van- ishing radius that as such may be regarded as oriented either by the axis p = b or p = −b. Lemma 3.4. The space L1S2 (31) of “small loops” in S2: (i) is homotopy equivalent more specifically to the space of loops that traverse (once, at a constant rate) round circles embedded in S2, including degenerate circles corresponding to constant loops, (ii) as such may be coordinatized by pairs of points (b, p) ∈S2 × S2 indicating the loop’s basepoint b and the oriented axis p encircled..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that two-band 2D fractional Chern insulators (FCIs) have recently been shown, in principle, to admit unusual anyonic order, associated with Bloch Hopfions localized in momentum space. Here we show that bounding the integrated quantum metric along one primitive Brillouin-zone cycle may refine this topological order to $|C|$ distinct braiding observables, cyclically permuted by lattice translations, for Chern numbers $|C| > 1$.",
       "abstract_status": "original"
@@ -955,6 +1060,9 @@
         "https://arxiv.org/icons/licenses/by-4.0.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
@@ -1498,9 +1606,9 @@
       "figure_urls": [
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/simons-foundation-international.png",
-        "https://ar5iv.labs.arxiv.org/static/base/1.0.1/images/funders/schmidt-sciences.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
