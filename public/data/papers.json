@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T07:32:35.501604+00:00",
+  "updated_at": "2026-11-05T07:57:17.492053+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,30 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2611.06004",
+      "title": "The quantized Hall effect knows which way the current flows: mirror covariance and rectification in a laterally asymmetric Hall bar",
+      "authors": [
+        "A. Siddiki"
+      ],
+      "abstract": "The quantized Hall effect is the textbook emblem of universality: a resistance fixed by $h/e^2$, apparently indifferent to the shape of the sample, to its edges and to the direction of the current. That indifference is only half true. The plateau value is universal; the plateau is not. In a gate-defined Hall bar with one hard and one soft edge, reversing the current moves the plateau edge, and exchanging the edges reverses the move. We identify the symmetry that forces this. Because a perpendicular field breaks time reversal, the relevant operation is the in-plane $C_2$ rotation; within the self-consistent screening model it gives the covariance relation $R_α[B,V_{\\mathrm{conf}}(x),I]=R_α[B,V_{\\mathrm{conf}}(-x),-I]$, exact deep in the nonlinear regime and independent of linear response or microscopic reversibility. It predicts a rectification that is odd under exchange of the gate voltages and reverses with the magnetic field. The field-reversal test leaves the frozen lateral disorder untouched, so it holds for a single sample; it has not yet been performed. A further measurement, collapsing one incompressible strip, discriminates between co-directed and chiral pictures of the current. Self-consistent calculations show the soft-edge strip widening from 69 to 106\\,nm on current reversal, moving the Hall resistance from 0.940 to $0.999994\\,h/2e^2$ within a bounded window in magnetic field. The effect is a gate-tunable vector-product nonreciprocity, not magnetochiral anisotropy.",
+      "journal": "arXiv",
+      "published": "2026-11-04",
+      "url": "https://arxiv.org/abs/2611.06004",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that the quantized Hall effect is the textbook emblem of universality: a resistance fixed by $h/e^2$, apparently indifferent to the shape of the sample, to its edges and to the direction of the current. We identify the symmetry that forces this.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2611.04312",
