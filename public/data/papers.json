@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T07:57:17.492053+00:00",
+  "updated_at": "2026-11-06T07:58:32.033347+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -23,6 +23,90 @@
       "figure_urls": [
         "https://files.sciengine.com/template/platform/img/SciEngine-logo.png"
       ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2611.08475",
+      "title": "Direct transition from a fractional Chern insulator to a topological superconductor",
+      "authors": [
+        "Taige Wang"
+      ],
+      "abstract": "We find numerical evidence for a direct continuous transition from a Laughlin fractional Chern insulator (FCI) to a $c_-=3/2$ topological superconductor (TSC), driven by increasing bandwidth at filling $ν=1/3$ in a repulsively interacting Chern band. At the critical point, the electron correlation length diverges at momentum away from the reference Fermi surface. We develop a generalized theory of superconducting-vortex proliferation for this transition. Magnetic translation organizes the vortices into six valleys, so translation-preserving proliferation requires additional gauge fields. The resulting theory reproduces the momentum structure of the critical spectrum and captures the divergent electron correlation. Upon doping away from commensurate filling, the theory gives rise to a superconducting dome. These results are consistent with an anyonic origin of the topological superconductivity in the absence of a weak-coupling Fermi-surface instability.",
+      "journal": "arXiv",
+      "published": "2026-11-05",
+      "url": "https://arxiv.org/abs/2611.08475",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Correlation lengths across the FCI–SC boundary. (a,b) Leading neutral, electron, pair, and finite-momentum neutral correlation lengths for Ly = 5a and 7a at χ = 8000. (c,d) Electron correlation length near the transition for multiple bond dimensions. The critical points lie near Vm = 0.88 and 0.87 for Ly = 5a and 7a, respectively. The curves labeled CDW show finite-momentum neutral correlation lengths. to an f + if superconductor of opposite chirality [39, 40]. The numerical results further constrain the theory through lattice translation and the momentum structure of the critical correlations. We construct such a theory by proliferating the non- Abelian vortices of the topological superconductor. At ν = 1/3, magnetic translation organizes these vortices into six valleys. Translation-preserving proliferation then re- quires additional statistical gauge fields, and the resulting...",
+        "FIG. 2. Electron momentum structure for Ly = 5a at (a) the FCI–SC boundary, Vm = 0.88, χ = 8000, and (b) inside the SC toward the metal, Vm = 1.38, χ = 10000. Colors give ξ1e/ℓB, wires show the momentum-space occupation nk of the corresponding state, and dashed curves mark the single- particle reference Fermi surface. Black boxes show the reduced Brillouin zone of the MPS unit cell, |kx| ≤G1x/12 and |ky| ≤ π/a. Each measured mode is displayed in six copies related by kx →kx + nG1x/6, with n = 0, . . . , 5. the momentum structure of the critical electron and neu- tral correlations. Away from commensurate filling, doping suppresses vortex proliferation and produces a supercon- ducting dome. Together, these results are consistent with superconductivity emerging from an anyon fluid rather than from a Fermi-surface pairing instability. Direct transition between FCI and SC. We study the...",
+        "FIG. 3. Neutral critical momentum structure. (a,b) Neutral correlation lengths at the transition for Ly = 5a and 7a, at Vm = 0.88 and 0.87, respectively, with χ = 8000. Colors show ξ0e/ℓB. Black boxes shows the reduced Brillouin zone as in",
+        "Fig. 2. (c) The vortex theory predicts the operator momenta kpq = (pG1 + qG2)/6, with p, q ∈Z6. Filled symbols denote ordinary vortex bilinears, while open symbols require relative-monopole operators. contains six vortex valleys. In addition, the hc/2e vortices of the c−= 3/2 TSC are non-Abelian and carry an odd Majorana core parity [55, 56]. Therefore, we represent the six vortex valleys by U(2)-fundamental bosons φv, with v ∈Z6. Write the U(2) connection as α = a+α012, where a is traceless and α0 = tr α/2. The vortices carry unit charge under α0, giving the hc/2e vorticity, and transform as SU(2)2 fundamentals, accounting for the Majorana mode at the vortex core. Define LIQH[A] = AdA/(4π) + Ωg and CS[a] = tr(ada − 2ia3/3)/(4π). The vortex theory is [57–60] e L = 5 X v=0 |Da+α012φv|2 + Vφ + LMaxwell + 2 CS[a] + 2 2π Adα0 + 3LIQH[A], (3) where LMaxwell = (dα0)2/(4g2). The trace photon..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we find numerical evidence for a direct continuous transition from a Laughlin fractional Chern insulator (FCI) to a $c_-=3/2$ topological superconductor (TSC), driven by increasing bandwidth at filling $ν=1/3$ in a repulsively interacting Chern band.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.07844",
+      "title": "Half-integer quantum anomalous Hall effect in MnBi$_2$Te$_4$ via non-magnetic extension",
+      "authors": [
+        "Igor P. Rusinov",
+        "Tatiana V. Menshchikova",
+        "Evgueni V. Chulkov"
+      ],
+      "abstract": "Within an ab-initio approach, we study the electronic structure and Hall response of the antiferromagnetic topological insulator film of MnBi$_2$Te$_4$ in contact with non-magnetic GeBi$_2$Te$_4$ (Bi$_2$Te$_3$) overlayer. The proposed junction design eliminates the exchange splitting one of the Dirac cones of the MnBi$_2$Te$_4$ (0001) thus manifesting a half-integer quantum anomalous Hall phase. The described recipe allows to enlarge temperature of the effect observation, enriches the diversity of topological properties of the MnBi$_2$Te$_4$ compound and is appropriate for other layered antiferromagnetic topological insulators. Applying the proposed heterostructure design, the half-quantized Hall phase can be established with employing other overlayer and magnetic topological insulator films.",
+      "journal": "arXiv",
+      "published": "2026-11-05",
+      "url": "https://arxiv.org/abs/2611.07844",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "MnBi2Te4_MTI",
+      "image_url": "/data/figures/arxiv-2611.07844-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.07844-fig01.png",
+        "/data/figures/arxiv-2611.07844-fig02.png"
+      ],
+      "figure_captions": [
+        "Figure 1. (a) Schematic illustration of crystal structure of GBT(1SL)/MBT and Dirac cones for both terminations. (b,f) Surface band structure of GBT(1SL)/MBT and GBT(4SL)/MBT, respectively. The size of magenta (green) circles reflects the weight of the state in outer SL block for lower (upper) termination. The inset in the panel (a) represents the momentum-energy area of the Dirac cone with tiny exchange splitting for GBT termination. The energy range of half-quantized Hall plateau is denoted by light red areas in panel (f). (c,g) Charge density distribution integrated over xy plane at the ¯ Γ point for the surface states located at the global bulk band gap. (e) The magnetic exchange gap width with respect to the number of SL-blocks, N, for GBT(NSL)/MBT heterostructure. (d,h) Hall conductivity for GBT(1SL)/MBT and GBT(4SL)/MBT, respectively. The energy ranges corresponding to QAH,...",
+        "Figure 1.a, for the case of GBT(1SL)/MBT. Thus, the considered systems are asymmetric, and the two MBT surfaces are non-equivalent forming pristine and interface sides. First, consider the GBT(1SL)/MBT junction elec- tronic structure (Figure 1.b). It features two spin-split Dirac states located on opposite sides of the heterostruc- ture. The first one resides at the MBT pristine surface and exhibits an exchange splitting of ∼60 meV at the Γ point, consistent with previous results [24]. For the in- terface side, the splitting is reduced to ∼2 meV, which results from the redistribution of the TSS into the non- magnetic GBT 1SL block. The remaining gap originates both from the state’s tail within the interface MBT layer (Figure 1.c) and from the induced magnetization of the surface GBT block. In contrast, the pristine side of the heterostructure remains gapped and is unaffected by the..."
+      ],
+      "ai_summary": "In MnBi2Te4 MTI, this paper argues that within an ab-initio approach, we study the electronic structure and Hall response of the antiferromagnetic topological insulator film of MnBi$_2$Te$_4$ in contact with non-magnetic GeBi$_2$Te$_4$ (Bi$_2$Te$_3$) overlayer.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/gmtx-h1gs",
+      "title": "Field-tuned and zero-field fractional Chern insulators in twisted bilayer graphene",
+      "authors": [
+        "Daniel E. Parker",
+        "Patrick Ledwith",
+        "Eslam Khalaf",
+        "Tomohiro Soejima",
+        "Johannes Hauschild",
+        "Yonglong Xie",
+        "Andrew Pierce",
+        "Michael P. Zaletel",
+        "Amir Yacoby",
+        "Ashvin Vishwanath"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Field-tuned and zero-field fractional Chern insulators in twisted bilayer graphene in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-11-05",
+      "url": "https://doi.org/10.1103/gmtx-h1gs",
+      "doi": "10.1103/gmtx-h1gs",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": null,
+      "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
@@ -320,10 +404,13 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2610.40657/assets/figS_cf.png",
       "figure_urls": [
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.40657/assets/figS_cf.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.40657/assets/figS_cb.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.40657/assets/fig_skyrmion_lattice.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
@@ -614,11 +701,12 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2610.38626/assets/adia_1.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2610.38626/assets/adia_1.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "https://arxiv.org/icons/licenses/by-4.0.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
@@ -627,7 +715,8 @@
         "FIG. 2. Stable Wyckoff equivalence in pmm. Horizontal and vertical dumbbells denote px and py orbitals, respectively. The green circle is the common occupied ancilla sa. The orbital pairs in Eq. (11) move in the order indicated by the arrows. A B ∼stW ̸∼W x y z",
         "FIG. 3. Stable Wyckoff equivalence in P222. The eight vertices of the cube are the half-lattice points rϵ = ϵ/2, and each edge has a length equal to half the corresponding lattice constant. Double circles denote 2s. The left and right configurations occupy the even and odd vertices, respectively. After adding the four occupied ancillary orbitals in Eq. (15), A and B can be connected by the path in Eq. (16). Consider two atomic configurations with the same number of occupied orbitals, NA = NB = N. Fix repre- sentative orbitals in the unit cell, and let Φa(k) be the periodic orthonormal basis formed by the atomic orbitals of configuration a = A, B. The symmetry matrices ua k(g) give the Bloch form of the band representation deter- mined by the atomic configuration. They are defined by their action on the coefficient vector ψ ∈CN: ˆ g \u0000Φa(k)ψ \u0001 = Φa(gk)ua k(g)ψϕg. (18) Here M ϕg = M for...",
         "FIG. 4. Two atomic configurations in spinless Fm′m′m′. Each blue point represents two occupied s orbitals. The corners and face centers on the left are related by lattice translations, as are the body center and edge midpoints on the right. The cube is a conventional unit cell with side length 1. Each configuration has two occupied orbitals per primitive unit cell. Proposition III.1 The configurations in Eq. (41) sat- isfy A ∼stW B, A ̸∼ad B. (42) B. Wyckoff deformation with an occupied ancilla As in Sec. II C 2, the s⊕px, s⊕py, and px ⊕py orbitals can move continuously along the x, y, and z directions, respectively. For 0 ≤u ≤1, we perform the following three operations: 1. Split (s ⊕px)a into orbitals at ±uex/2 and merge the resulting pair into (s ⊕px)b at the endpoint. 2. Split the remaining (s⊕py)a into orbitals at ±uey/2 and merge the resulting pair into (s ⊕py)b at the endpoint....",
-        "FIG. 5. Fundamental domain of F222 with boundary iden- tifications. The domain D, chosen using reciprocal-lattice translations and D2 rotations, occupies 1/4 of the BZ vol- ume. In units of 2π, the vertex coordinates are Γ = (0, 0, 0), X = (1, 0, 0), Y = (0, 1, 0), and M = (1, 1, 0). Primed vertices denote the antipodal partners of the corresponding unprimed vertices. The three shaded faces are Fi = {k ∈D : ki = 2π} for i = x, y, z. The union Fx ∪Fy ∪Fz forms the surface on the Γ′ side of the closed path X →M →Y →X′ →M ′ → Y ′ →X. As illustrated by the two red points, the boundary identification pairs points antipodal about the center of the cube. For example, on the kz = 0 face, Rz(kx, ky, 0) + G = G −(kx, ky, 0). Thus, a twofold rotation about the z axis followed by a reciprocal-lattice translation maps the kz = 0 face to the kz = 2π face centered on G. The other two pairs of faces..."
+        "FIG. 5. Fundamental domain of F222 with boundary iden- tifications. The domain D, chosen using reciprocal-lattice translations and D2 rotations, occupies 1/4 of the BZ vol- ume. In units of 2π, the vertex coordinates are Γ = (0, 0, 0), X = (1, 0, 0), Y = (0, 1, 0), and M = (1, 1, 0). Primed vertices denote the antipodal partners of the corresponding unprimed vertices. The three shaded faces are Fi = {k ∈D : ki = 2π} for i = x, y, z. The union Fx ∪Fy ∪Fz forms the surface on the Γ′ side of the closed path X →M →Y →X′ →M ′ → Y ′ →X. As illustrated by the two red points, the boundary identification pairs points antipodal about the center of the cube. For example, on the kz = 0 face, Rz(kx, ky, 0) + G = G −(kx, ky, 0). Thus, a twofold rotation about the z axis followed by a reciprocal-lattice translation maps the kz = 0 face to the kz = 2π face centered on G. The other two pairs of faces...",
+        "FIG. 6. Two atomic configurations in spinless P1 ′. Each cube represents [0, 1 2]3, and the vertex label ϵxϵyϵz denotes the position (ϵx, ϵy, ϵz)/2. There is one orbital at each vertex. Filled blue circles denote occupied orbitals, and open circles denote the unoccupied orbitals used in the adiabatic deformation. The four orbitals at even-parity vertices are occupied in A, whereas the four orbitals at odd-parity vertices are occupied in B. The configurations A and B are not stably Wyckoff equivalent, but they are connected by an adiabatic deformation within the eight-orbital space A ⊕B, with four bands occupied throughout. Suppose that a periodic matrix Vk, invertible through- out the BZ, satisfies uA k V ∗ k \u0000uB k \u0001† = Vk. (73) Using the construction in Proposition II.4, we define the Hamiltonian Ht(k) = cos(πt) −I4 0 0 I4 ! + sin(πt) 0 Vk V † k 0 ! , 0 ≤t ≤1. (74) The occupied..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that we study the freedom in choosing Wannier centers and the associated symmetry representations in noninteracting Wannierizable insulators. Explicit examples show that stable Wyckoff equivalence and adiabatic equivalence at fixed filling do not imply each other.",
       "abstract_status": "original"
@@ -1095,10 +1184,11 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2610.25472/assets/graphics/RoundCircle.png",
       "figure_urls": [
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.25472/assets/graphics/RoundCircle.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
@@ -1106,7 +1196,8 @@
         "Fig. 1. Consequently: A uniform bound on the x-averaged quantum metric is equivalent to a uniform bound on the physical x-position variance of the hybrid Wannier eigenstates of projected position: gxx(ky) ≤ℓ2 for all ky ⇔ VarWn(ky)(ˆ x) ≤ℓ2 for all ky, n. (5) Imposing the same bound throughout the allowed Hamiltonian deformations ensures that these eigenstates retain a root-mean-square width along x of at most ℓ.",
         "Figure 1: The Brillouin zone of an effectively two-dimensional crystalline system is a torus T 2, depicted here by a fundamental domain with op- posite edges identified. The momentum coordinates kx and ky have reciprocal periods 2π/ax and 2π/ay, respectively; the displayed aspect ratio is schematic. Below, in § 3, we constrain the kx-averaged quan- tum metric gxx(ky) (2) uniformly in ky, selecting the horizontal cycle as the “small” momentum direction. The associated momentum 1-cycles are Wa for this bounded direction and Wb for the unrestricted vertical direction, cf.",
         "Fig. 3. T 2 kx ky | 0 | 2π ax 0− 2π ay − Wa Wb Cyclic QH Layers of FCI states. A striking insight of Qi and Barkeshli–Qi is that the hybrid Wannier states |Wn(ky)⟩(3) of a single Chern band exhibit an effective multilayer quantum Hall structure [Qi11; BQ12] in that: (i) the integer index n in (3) labels successive lattice translates: xn(ky) := ⟨Wn(ky) | ˆ x | Wn(ky)⟩= n ax + x(ky), (6) where x(ky) is a common offset determined by the Berry phase around the kx-cycle; (ii) for a band of Chern number C ̸= 0, traversing the transverse Brillouin-zone cycle shifts each center by C lattice cells, so that [Qi11, Eqs. (2)–(3)] |Wn(ky + 2π/ay)⟩= |Wn+C(ky)⟩. (7) Continuation in ky therefore joins the orbitals into |C| families, distinguished by the residue n mod C ∈Z/C . (8) These are the effective layers, cyclically permuted upon translation Tx by one lattice cell (cf. Fig. 2): Tx|Wn(ky)⟩=...",
-        "Figure 2: The eigenstates of projected x-position operators in an FCI at Chern number C ̸= 0 exhibit an orbital representa- tion consisting of |C| Quantum Hall layers that are cyclically permuted under lattice translation in the x-direction (9). ... (iii) With this, one finds [Qi11, below (5)] that these Wannier states in a layer n = i + Cq, i ∈{0, . . . , |C| −1}, q ∈Z, correspond to Quantum Hall Landau orbitals at transverse momentum K := ky + q 2π ay . (10) Multilayer FQH wavefunctions can then be transferred to the Chern band by re- placing their Landau-level orbitals with these Wannier orbitals while retaining their occupation-number coefficients. This layered organization is encoded in the spectral flow of projected position; the metric bound in (4) controls the physical widths of the orbitals that realize it. (We will see this structure reappear from novel topological..."
+        "Figure 2: The eigenstates of projected x-position operators in an FCI at Chern number C ̸= 0 exhibit an orbital representa- tion consisting of |C| Quantum Hall layers that are cyclically permuted under lattice translation in the x-direction (9). ... (iii) With this, one finds [Qi11, below (5)] that these Wannier states in a layer n = i + Cq, i ∈{0, . . . , |C| −1}, q ∈Z, correspond to Quantum Hall Landau orbitals at transverse momentum K := ky + q 2π ay . (10) Multilayer FQH wavefunctions can then be transferred to the Chern band by re- placing their Landau-level orbitals with these Wannier orbitals while retaining their occupation-number coefficients. This layered organization is encoded in the spectral flow of projected position; the metric bound in (4) controls the physical widths of the orbitals that realize it. (We will see this structure reappear from novel topological...",
+        "Figure 3: The relations (18) and (20) say that an adiabatic parameter loop of Bloch Hopfions around a basis of Brillouin torus cycles (cf. Fig. 1) induces transformation of the topolog- ical states by multiplication with the square of a complex phase ζ, a root of unity, to be identi- fied [SS25a, Prop. 3.21] with an anyon braiding phase. T 2 b ζ2|ψ⟩ 7→ |ψ⟩ c W −1 b c W −1 a c Wb c Wa General Covariance and Modular Data. In more detail, topological states, subject to the laws of topological field theory, are generally covariant [Wit88], in that they must see diffeomorphisms of space as gauge equivalences. Here this means [SS25b, §II.C; SS25a, §2.2] that the actual parameter space for crystalline topological phases is not quite the space Pcrs of Bloch Hamiltonians (13) itself, but its homotopy quotient (–) (–) (Borel construction) by the precomposition action with the..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that two-band 2D fractional Chern insulators (FCIs) have recently been shown, in principle, to admit unusual anyonic order, associated with Bloch Hopfions localized in momentum space. Here we show that bounding the integrated quantum metric along one primitive Brillouin-zone cycle may refine this topological order to $|C|$ distinct braiding observables, cyclically permuted by lattice translations, for Chern numbers $|C| > 1$.",
       "abstract_status": "original"
@@ -1142,13 +1233,13 @@
         "/data/figures/arxiv-2610.25046-fig12.png"
       ],
       "figure_captions": [
-        "FIG. 1. (Color online) Energy-dependent evolution of all sixteen fermion-fermion couplings with initial value λ0 = 10−2. (a) Unrescaled couplings diverge at a common critical scale lc ≃41.5. (b) Rescaled couplings remain finite and flow to the unique fixed point FP0. and rescale each coupling according to λij(l) → λij(l) λscale(l). (29) Hereafter, unless explicitly noted otherwise, all λij de- note these rescaled quantities. As depicted in Fig. 1(b), The scale lc marks the crit- ical point [76, 90], and the fixed point is defined as FP ≡{λij}|l=lc . (30) Such FPs are fundamentally connected to quantum crit- ical phenomena [12, 35, 41, 79–82, 90–92] and are in- strumental in governing the low-energy behavior of 2D QBCP systems. In the rest of this section, we aim to search for all possible FPs of the RG equations (12)-(27) and postpone the analysis of their physical implications to Sec....",
+        "FIG. 1. (Color online) Energy-dependent evolution of all sixteen fermion-fermion couplings with initial value λ0 = 10−2. (a) Unrescaled couplings diverge at a common critical scale lc ≃41.5. (b) Rescaled couplings remain finite and flow to the unique fixed point FP0. and rescale each coupling according to λij(l) → λij(l) λscale(l). (29) Hereafter, unless explicitly noted otherwise, all λij de- note these rescaled quantities. As depicted in Fig. 1(b), the scale lc marks the critical point [77, 91], and the fixed point is defined as FP ≡{λij}|l=lc . (30) Such FPs are fundamentally connected to quantum crit- ical phenomena [12, 35, 41, 80–83, 91–93] and are in- strumental in governing the low-energy behavior of 2D QBCP systems. In the rest of this section, we aim to search for all possible FPs of the RG equations (12)-(27) and postpone the analysis of their physical implications to Sec. V....",
         "FIG. 2. (Color online) Evolution of critical values at lc with (a) λ00(0) and (b) λ10(0) varied. All other initial couplings are 10−5. For large dominant couplings, all rescaled cou- plings converge to the same FP1, demonstrating its univer- sality. FP3 ≈    0 0 0 0 0 −2.2441 0 0.0981 0 0 2.4347 0 0 −0.0981 0 −2.2441   , (34) FP4 ≈    0 0 0 0 0 −2.2395 0.6385 0 0 0.1653 2.3668 0 0 0 0 −2.2244   , (35) FP5 ≈    0 0 0 0 0 −2.2244 0 0 0 0 2.3668 0.1653 0 0 0.6385 −2.2395   , (36) FP6 ≈    0 0 0 0 0 −2.2441 0 −0.0981 0 0 2.4347 0 0 0.0981 0 −2.2441   , (37) 7 (a)FP2 (b)FP7 (c)FP3 (d)FP6 (e)FP4 (f)FP5 (g)Unstable (h)Unstable",
         "FIG. 3. (Color online) Evolution of FP2CFP7 and the unstable cases. (a)C(f) Fixed-point couplings versus the dominant initial coupling: (a) FP2 (λ12), (b) FP7 (λ32), (c) FP3 (λ13), (d) FP6 (λ31), (e) FP4 (λ21), (f) FP5 (λ23). (g),(h) Unstable flows for varied λ11(0) and λ33(0), respectively. All other initial couplings are 10−5. FP7 ≈    0 0 0 0 0 −2.2156 0 0 0 0 2.2516 0.1986 0 0 0.7653 −2.2375   , (38) corresponding to the dominance of λ12, λ13, λ21, λ23, λ31, and λ32, respectively. Fig. 3 quantitatively shows how these FPs evolve with the initial value of domi- nant interaction. Notably, as illustrated in Fig. 3(a)- (f), these FPs fall into three related pairs, namely FP2 ↔FP7, FP3 ↔FP6, and FP4 ↔FP5, which are con- nected by exchanging the corresponding off-diagonal in- dices λ12 ↔λ32, λ13 ↔λ31, λ21 ↔λ23, respectively. This indicates an underlying discrete symmetry of FPs in...",
-        "FIG. 4. (Color online) Energy-dependent susceptibilities of candidate instabilities for (a) FP0 with λ0 = 10−2, (b) FP0 with λ0 = 10−5, (c) FP1 with λ00 = 10−2 and the rest being 10−5, and (d) FP1 with λ10 = 10−2 and the rest being 10−5. where f is the free energy density. The susceptibility χi thus measures the linear response of the system to the source field ∆i and serves as a diagnostic for the associated instability [12, 35, 36, 80–82, 92]. B. Leading instabilities and competing orders The formula (43) establishes a direct link between the susceptibility and the physical fluctuations of the corresponding order parameter. A divergence of χi sig- nals the onset of long-range order in that channel. By paralleling the the same RG procedure as employed in Sec. III, we derive the flow equations for all source terms in Table I (see Appendix B for details). Combined with the RG flows of...",
-        "Fig. 5. A systematic compar- ison of these susceptibilities allows us to identify the leading and subleading instabilities for each fixed point, which are summarized in Table II. TABLE II. Leading and subleading instabilities near the dis- tinct FPs (FP1-FP7). FPs leading phase subleading phase FP1 NSN(site)-z chiral SC1 or QAH FP2 NSN(site)-z chiral SC1 or QAH FP3 NSN(site)-z chiral SC1 or QAH FP4 NSN(site)-z chiral SC1 or QAH FP5 chiral SC1 / QAH QAH / chiral SC1 FP6 NSN(site)-z chiral SC1 or QAH FP7 chiral SC1 / QAH QAH / chiral SC1 Specifically, for FP1,2,3,4,6, Figs. 4(c)-(d) and 5(a)-(d) show that NSN(site)-z is always the leading instability, while the subleading channel alternates between chiral SC1 and QAH depending on the initial conditions. Ex- amining the structures of these FPs [see Eqs. (32)-(35), (37)], we can qualitatively understand this phenomenon. They all share a...",
-        "FIG. 5. (Color online) Energy dependence of the susceptibilities for the candidate instabilities. Panels (a)C(f) correspond to FP2, FP3, FP4, FP6, FP5, and FP7, respectively, with one dominant coupling initialized at 10−2 and all remaining couplings at 10−5. Panel (g) shows FP5 with λ23 = 10−2, λ10 = 10−3, and all other couplings set to 10−5. Panel (h) shows FP7 with λ32 = 10−2, λ10 = 10−3, and all other couplings set to 10−5. We next examine FP5 and FP7,which exhibit a quali- tatively different behavior from the previously discussed FPs. As illustrated in Figs. 5(e)-(f), the susceptibil- ities of the chiral SC1 and QAH channels diverge at nearly the same rate, indicating a near-degeneracy be- tween these two competing instabilities. The origin of this near-degeneracy can be traced to the structure of the FPs. Both FP5 (36) and FP7 (38) contain off- diagonal elements λ23 and λ32....",
-        "FIG. 6. (Color online) Statistical probability distributions of the leading and subleading instabilities obtained from random initial conditions. (a) and (b) show the probability that each candidate instability becomes the leading instability near FP5 and FP7, respectively. (c) Probability that each instability becomes the subleading instability at α ≈−0.25. (d) Probability that each instability becomes the leading instability at α ≈0.25. The color legend identifies the corresponding instability channels, and the percentages denote the relative probabilities. Given the exponents are nearly degenerate, the sus- ceptibility becomes more sensitively on the initial val- ues of the subordinate fifteen parameters. Compared Fig. 5(e) with Fig. 5(g) nearby the FP5, increasing λ10(0) from 10−5 to 10−3 reverses the leading instability from chiral SC1 to QAH [the basic results are analogous for..."
+        "FIG. 4. (Color online) Energy-dependent susceptibilities of candidate instabilities for (a) FP0 with λ0 = 10−2, (b) FP0 with λ0 = 10−5, (c) FP1 with λ00 = 10−2 and the rest being 10−5, and (d) FP1 with λ10 = 10−2 and the rest being 10−5. B. Leading instabilities and competing orders The formula (43) establishes a direct link between the susceptibility and the physical fluctuations of the cor- responding order parameter. A divergence of χi signals the onset of long-range order in that channel. By paral- leling the same RG procedure as employed in Sec. III, we derive the flow equations for all source terms in Table I (see Appendix B for details). Combined with the RG flows of the interaction parameters (12)-(27) and the formula of susceptibilities (43), this yields the energy dependence of each susceptibility near the FPs. The resulting scale-dependent susceptibility χi(l) allows us to...",
+        "Fig. 5. A systematic compar- ison of these susceptibilities allows us to identify the leading and subleading instabilities for each fixed point, which are summarized in Table II. Specifically, for FP1,2,3,4,6, Figs. 4(c)-(d) and 5(a)-(d) show that NSN(site)-z is always the leading instability, while the subleading channel alternates between chiral TABLE II. Leading and subleading instabilities near the dis- tinct FPs (FP1-FP7). FPs leading phase subleading phase FP1 NSN(site)-z chiral SC1 or QAH FP2 NSN(site)-z chiral SC1 or QAH FP3 NSN(site)-z chiral SC1 or QAH FP4 NSN(site)-z chiral SC1 or QAH FP5 chiral SC1 / QAH QAH / chiral SC1 FP6 NSN(site)-z chiral SC1 or QAH FP7 chiral SC1 / QAH QAH / chiral SC1 SC1 and QAH depending on the initial conditions. Ex- amining the structures of these FPs [see Eqs. (32)-(35), (37)], we can qualitatively understand this phenomenon. They all share a...",
+        "FIG. 5. (Color online) Energy dependence of the susceptibilities for the candidate instabilities. Panels (a)C(f) correspond to FP2, FP3, FP4, FP6, FP5, and FP7, respectively, with one dominant coupling initialized at 10−2 and all remaining couplings at 10−5. Panel (g) shows FP5 with λ23 = 10−2, λ10 = 10−3, and all other couplings set to 10−5. Panel (h) shows FP7 with λ32 = 10−2, λ10 = 10−3, and all other couplings set to 10−5. cantly larger and therefore plays a more important role than λ23 in the source-term equations. Learning from flow equations of source terms (B3), (B16), and (B17) that are respectively associated with QAH, NSN(site)- z, and chiral SC1, one can notice that the coefficient of λ32 is positive in both Eq. (B3) and Eq. (B17), while in Eq. (B16) is negative. This enables QAH and chiral SC1 to overtake NSN(site)-z and become the leading instabilities. Given the exponents...",
+        "FIG. 6. (Color online) Statistical probability distributions of the leading and subleading instabilities obtained from random initial conditions. (a) and (b) show the probability that each candidate instability becomes the leading instability near FP5 and FP7, respectively. (c) Probability that each instability becomes the subleading instability at α ≈−0.25. (d) Probability that each instability becomes the leading instability at α ≈0.25. The color legend identifies the corresponding instability channels, and the percentages denote the relative probabilities. the balance between the two channels. Hence, at FP5 and FP7, the leading instability is not fixed by the FP alone but depends on the full RG trajectory. Our sta- tistical sampling, shown in Fig. 6(a)-(b), confirms this picture that both chiral SC1 and QAH have substantial probabilities (approximately 45%-52%) of becoming the..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that two-dimensional quadratic band crossing point (QBCP) semimetals serve as a fertile platform for interaction-driven quantum criticality, nevertheless, the role of the complete fermion-fermion interactions remains largely unexplored. Using the momentum-shell renormalization group, we derive the coupled flow equations, which reveal that the low-energy physics is governed by a series of fixed points.",
       "abstract_status": "original"
@@ -1167,11 +1258,11 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Other_New_Materials",
-      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "https://arxiv.org/icons/licenses/by-4.0.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
@@ -1202,11 +1293,14 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2610.24633/assets/Fig1_PRX.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2610.24633/assets/Fig1_PRX.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.24633/assets/Fig2_DFT_TB_comparison.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.24633/assets/Fig3.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "https://arxiv.org/icons/licenses/by-4.0.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
@@ -1711,15 +1805,20 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/band_V0.png",
       "figure_urls": [
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
-        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/band_V0.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/bands_Vm.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/bands_Vm_scan.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/bands_Vm_top_scan.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/berry_QAH_08.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/berry_QAH_80.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/berry_AHC.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/Sq_AHC_Ns21.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/Sq_AHC_Ns24.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/Sq_AHC_Ns27.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/berry_FCI_08.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.15197/assets/berry_FCI_120.png"
       ],
       "figure_captions": [
         "FIG. 1. Single-particle bands of the Berry basin model with N = 3, λ = 1, V0 = −25, and β = 0.2, the values used throughout this work. (a) Band structure in the absence of Vm. The color scale indicates the layer polarization P defined such that P = +1 (−1) when the Bloch state is fully polar- ized to the top (bottom) layer. (b) Berry curvature Ωk of the lowest band in (a). (c) Minibands in the presence of a moir´ e superlattice potential Vm = 8 acting on the bottom layer. (d) Same as (c) but with Vm acting on the top layer. components as the top and bottom “layers”. The polar angle θk parametrizes the layer content of the state at k. We choose it to interpolate monotonically from θ0 = 0 to θ∞= π over a scale set by a parameter λ; explicitly, we take θk = π tanh[(λk/π)2]. Note that in the two- band model of rhombohedral graphene [47] the winding number of Bloch spinors is related to the...",
@@ -1882,11 +1981,17 @@
       "doi": null,
       "source": "arXiv",
       "material_system": "Moire_Superlattice",
-      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "image_url": "https://ar5iv.labs.arxiv.org/html/2610.10706/assets/fig2.png",
       "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/html/2610.10706/assets/fig2.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.10706/assets/fig6.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.10706/assets/pl_App_MoTe2_variableDispersion.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.10706/assets/pl_App_H_vs_HI_FH.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.10706/assets/pl_App_H_vs_HI_No_fitting.png",
+        "https://ar5iv.labs.arxiv.org/html/2610.10706/assets/spin_flip_spectra_vs_21_vs_24_vs_27.png",
+        "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "https://arxiv.org/icons/licenses/by-4.0.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
