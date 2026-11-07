@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T07:58:32.033347+00:00",
+  "updated_at": "2026-11-07T07:15:10.444925+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -23,6 +23,27 @@
       "figure_urls": [
         "https://files.sciengine.com/template/platform/img/SciEngine-logo.png"
       ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/l6sm-yzbn",
+      "title": "Similarity of Fractional Chern Insulators to Fractional Quantum Hall States: Moiré-Enhanced Gaps and Excitation-Spectrum Correspondence",
+      "authors": [
+        "Siddhartha Sarkar",
+        "Yitong Zhang",
+        "Kai Sun"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Similarity of fractional Chern insulators to fractional quantum Hall states: Moire-enhanced gaps and excitation-spectrum correspondence in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-11-06",
+      "url": "https://doi.org/10.1103/l6sm-yzbn",
+      "doi": "10.1103/l6sm-yzbn",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": null,
+      "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
@@ -2142,25 +2163,6 @@
       ],
       "ai_summary": "In Moire Superlattice, this paper argues that the realization of fractional Chern insulators has largely relied on isolated flat bands in complex bilayer or multilayer moiré systems with ideal quantum geometry. Here, we propose a mechanism for magnetic-field-induced strong correlations in the highly dispersive bands of monolayer graphene on hexagonal boron nitride. Our results suggest a possible fermiology-driven route toward correlated topological states in dispersive bands in the classical-to-quantum crossover, distinct from the conventional flat-band scenario.",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/l6sm-yzbn",
-      "title": "Similarity of fractional Chern insulators to fractional quantum Hall states: Moire-enhanced gaps and excitation-spectrum correspondence",
-      "authors": [
-        "Anonymous"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Similarity of fractional Chern insulators to fractional quantum Hall states: Moire-enhanced gaps and excitation-spectrum correspondence in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review Letters",
-      "published": "2026-10-02",
-      "url": "https://doi.org/10.1103/l6sm-yzbn",
-      "doi": "10.1103/l6sm-yzbn",
-      "source": "Crossref",
-      "material_system": "Moire_Superlattice",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "doi:10.1103/h96k-q32d",
