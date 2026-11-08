@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T07:15:10.444925+00:00",
+  "updated_at": "2026-11-08T07:26:45.238590+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,29 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1073/pnas.2608514123",
+      "title": "Majorana edge reconstruction and the ν = 5/2 non-Abelian thermal Hall puzzle",
+      "authors": [
+        "Tevž Lotrič",
+        "Taige Wang",
+        "Michael P. Zaletel",
+        "Steven H. Simon",
+        "S. A. Parameswaran"
+      ],
+      "abstract": "Pioneering thermal transport measurements on two-dimensional electron gases in high magnetic fields have demonstrated that the quantized Hall state at filling factor ν = 5/2 has a thermal Hall conductance κ quantized in half-integer multiples of κ 0 = π 2 k B 2 T / 3 h . Half-integer κ / κ 0 is a signature of neutral Majorana edge modes, in turn linked to the presence of non-Abelian anyon excitations in the bulk. However, the experimentally observed value of κ corresponds to the “PH-Pfaffian” state, in tension with numerical studies which instead favor either the Pfaffian or the AntiPfaffian. A variety of mechanisms have been invoked to explain this discrepancy, but have been either ruled out by further experiments or else involve fine-tuning. Building on density-matrix-renormalization group studies of physically realistic edges and analytic calculations of edge structure, we propose an alternative resolution of this puzzle involving an “edge reconstruction” solely involving the neutral Majorana sector of the theory. Such a Majorana edge reconstruction can “screen” a Pfaffian or AntiPfaffian bulk, so that transport signatures become indistinguishable from those of the PH-Pfaffian. We argue that this physically natural scenario is consistent with experiment.",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "published": "2026-11-10",
+      "url": "https://doi.org/10.1073/pnas.2608514123",
+      "doi": "10.1073/pnas.2608514123",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that pioneering thermal transport measurements on two-dimensional electron gases in high magnetic fields have demonstrated that the quantized Hall state at filling factor ν = 5/2 has a thermal Hall conductance κ quantized in half-integer multiples of κ 0 = π 2 k B 2 T / 3 h . Building on density-matrix-renormalization group studies of physically realistic edges and analytic calculations of edge structure, we propose an alternative resolution of this puzzle involving an “edge reconstruction” solely involving the neutral Majorana sector of the theory. Half-integer κ / κ 0 is a signature of neutral Majorana edge modes,...",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1103/l6sm-yzbn",
