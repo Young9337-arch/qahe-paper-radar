@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T08:02:51.656262+00:00",
+  "updated_at": "2026-11-10T08:27:29.604511+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -48,6 +48,171 @@
       "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that pioneering thermal transport measurements on two-dimensional electron gases in high magnetic fields have demonstrated that the quantized Hall state at filling factor ν = 5/2 has a thermal Hall conductance κ quantized in half-integer multiples of κ 0 = π 2 k B 2 T / 3 h . Building on density-matrix-renormalization group studies of physically realistic edges and analytic calculations of edge structure, we propose an alternative resolution of this puzzle involving an “edge reconstruction” solely involving the neutral Majorana sector of the theory. Half-integer κ / κ 0 is a signature of neutral Majorana edge modes,...",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/zf45-1gvb",
+      "title": "Band mixing and particle-hole asymmetry in moiré fractional Chern insulators",
+      "authors": [
+        "Nicolás Morales-Durán",
+        "Jingtian Shi",
+        "Cristian Voinea",
+        "Paweł Potasz",
+        "Jennifer Cano"
+      ],
+      "abstract": "We investigate the effect of remote band mixing on the stability of fractional Chern insulators in a family of models that approximate continuum descriptions of moiré materials. Our results suggest that the experimentally observed asymmetry between filling fractions ν = 1 / 3 and ν = 2 / 3 in twisted MoTe 2 originates from a competition between a fractional Chern insulator, an electron Wigner crystal, and a hole Wigner crystal. In the absence of band mixing, the leading instability at ν = 1 / 3 is the electron crystal, whereas at ν = 2 / 3 the main competing phase is the hole crystal. Remote band mixing substantially lowers the energy of the electron crystal but has only a weak effect on the hole crystal. Consequently, it brings competing crystalline states much closer in energy to the fractional Chern insulator at ν = 1 / 3 than at ν = 2 / 3 , leading to a stronger suppression of the many-body gap. This mechanism also provides an explanation for the emergence of reentrant integer quantum anomalous Hall states in moiré MoTe 2 for fillings ν > 1 / 2 .",
+      "journal": "Physical Review Research",
+      "published": "2026-11-09",
+      "url": "https://doi.org/10.1103/zf45-1gvb",
+      "doi": "10.1103/zf45-1gvb",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Moire Superlattice, this paper argues that we investigate the effect of remote band mixing on the stability of fractional Chern insulators in a family of models that approximate continuum descriptions of moiré materials. Our results suggest that the experimentally observed asymmetry between filling fractions ν = 1 / 3 and ν = 2 / 3 in twisted MoTe 2 originates from a competition between a fractional Chern insulator, an electron Wigner crystal, and a hole Wigner crystal.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2611.12546",
+      "title": "Topological states in fractals through a self-similar tensor network encoding",
+      "authors": [
+        "Zebedeus F. Osseweijer",
+        "Jagoda Malag",
+        "Jose L. Lado",
+        "Tiago V. C. Antão",
+        "Anouar Moustaj"
+      ],
+      "abstract": "Tensor network methods have been instrumental in addressing exponentially large many-body problems. Most recently, these techniques have also been applied to single-particle tight-binding Hamiltonians, allowing observables to be evaluated on exponentially large lattices. Here, we show that the scale-separated nature of these methods allows for a natural encoding of self-similar structures, such as the Sierpiński gasket, a scale-invariant fractal with Hausdorff dimension $\\log 3/\\log 2 \\approx 1.58$, yielding an exact and compact representation of Hamiltonians on such lattices. Using this encoding, we study a Chern insulator, the flux kagome model, confined to this fractal geometry, and develop methods to investigate its topological states within a tensor network framework. This allows us to reach much higher fractal generations than would otherwise be possible with dense-matrix methods, resolving the density of states of a deep fractal with over 100 million sites. Furthermore, the larger structures allow us to resolve topology in smaller gaps, suggesting that these methods could be instrumental in understanding the interplay between topology and non-integer dimensionality.",
+      "journal": "arXiv",
+      "published": "2026-11-09",
+      "url": "https://arxiv.org/abs/2611.12546",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Kagome_Lattice",
+      "image_url": "/data/figures/arxiv-2611.12546-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.12546-fig01.png",
+        "/data/figures/arxiv-2611.12546-fig02.png",
+        "/data/figures/arxiv-2611.12546-fig03.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Using scale-invariance to separate the Hamiltonian into different length scales. (a) The flux kagome model of Eq. (1) on the g = 3 SG, with its 27 sites and nearest-neighbor bonds. A hop along an arrow carries the amplitude t eiϕ, so every smallest triangle encloses the flux 3ϕ (pink) and every hole the flux −6ϕ (blue), both counted clockwise. (b) The scale-separated encoding of a site. A site is selected by a sequence of choices, one per length scale, represented by an index sequence. (c) In this scale-separated formalism, the Hamiltonian of the gth generation SG is exactly representable as an MPO, with g−1 repeated geometry (green) tensor cores and one final model-specific (brown) tensor core. (d) All geometry tensor cores are identical and can be represented as an automaton. Here, each circle represents a virtual state, and the arrows indicate what transition occurs for a...",
+        "FIG. 2. The real-space Chern number (RSCN) adapted to MPOs. (a) The subsets A (red), B (green) and C (blue) and the construction of the corresponding subset projectors. (b) The MPO contraction resulting in the RSCN of Eq. (3). product over the cores: a projector onto the fixed index on each of the first p + 1 cores and the identity on the remaining l cores, drawn as the Kronecker-delta tensors and lines in Fig. 2(a). The contraction above is therefore Eq. (3) written with MPOs. While the RSCN provides a global measure of topology, the local Chern marker resolves the spatial distribution of the topological response. It has been studied in aperiodic systems [15, 80] and applied to fractal geometries [81, 82]. Ref. [15] demonstrates how a quenched local Chern marker represented as an MPO can be used to spatially resolve topological phases in two-dimensional systems. It is defined as Ci =...",
+        "FIG. 3. Density of states (DOS) of the Sierpi´ nski kagome model, computed for a 17th-generation gasket. (a) Zero flux, ϕ = 0. (b) Finite flux, ϕ = π/6. (c) The momentum-resolved spectral function A(k, E) of the Sierpi´ nski kagome model on a 10th- generation gasket, obtained by projecting the spectral function, computed with the kernel polynomial method (KPM), onto plane-wave states along the high-symmetry path Γ −K −M −Γ of the periodic kagome lattice. The spectral weight reveals band-like features despite the absence of translational invariance. (d) RSCN of the same 10th-generation gasket, evaluated for the Fermi projector ˆ P(E) as a function of the Fermi energy E. The inset shows a zoom of the RSCN obtained using a hybrid method combining MPO-based purification with sparse exact diagonalization on a larger region. in Fig. 3(b) correspond to true gaps with no spectral weight along..."
+      ],
+      "ai_summary": "In Kagome Lattice, this paper argues that tensor network methods have been instrumental in addressing exponentially large many-body problems. Here, we show that the scale-separated nature of these methods allows for a natural encoding of self-similar structures, such as the Sierpiński gasket, a scale-invariant fractal with Hausdorff dimension $\\log 3/\\log 2 \\approx 1.58$, yielding an exact and compact representation of Hamiltonians on such lattices.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.12195",
+      "title": "Lattice Commensurability and Majorana sectors of Pfaffian--Anti-Pfaffian interfaces",
+      "authors": [
+        "Feng Liu",
+        "Xue-Yang Song"
+      ],
+      "abstract": "We study Pfaffian and anti-Pfaffian non-Abelian fractional quantum anomalous Hall states in half-filled moiré lattice systems. Owing to crystal-momentum conservation modulo a reciprocal lattice vector, these lattice systems admit coupled-wire constructions of the two phases without requiring spatially varying magnetic-field-induced momentum shifts. For the resulting Pfaffian--anti-Pfaffian interface, a Umklapp process can gap the counter-propagating charge sector, while the remaining four co-propagating Majorana modes naturally group into two sectors organized by translation symmetries. Our results show that lattice commensurability qualitatively changes the coupled-wire accessibility of non-Abelian states while providing a microscopic momentum structure that directly constrains their edge and interface dynamics.",
+      "journal": "arXiv",
+      "published": "2026-11-09",
+      "url": "https://arxiv.org/abs/2611.12195",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic illustration of variables transformation. 3 As illustrated in Fig. 1, we group the microscopic wires into three-wire unit cells. The auxiliary wire is intro- duced to dress one of the original microscopic channels so as to modify its crystal momentum assignment while preserving its chiral algebra. Within each unit cell, we perform the local transformation ˜ ϕR 3l = φ3l + θ3l −2θ3l+1 ˜ ϕL 3l = φ3l −θ3l −2θ3l+1 χR 3l+1 = φ3l+1 + θ3l+1 + 2θ3l χL 3l+1 = φ3l+1 −θ3l+1 + 2θ3l. (9) The fields ˜ ϕR/L 3l describe the first microscopic electron channel dressed by a neutral particle-hole composite of the auxiliary wire, while χR/L 3l+1 forms the complementary chiral channel. We then apply the same 331 transformation used in Ref. [19] to the dressed wire ˜ ϕR/L 3l and the third micro- scopic wire 3l + 2. This yields ϕR l,1 = φ3l + 3θ3l + 2θ3l+2 −2θ3l+1 ϕR l,2 = φ3l+2 + 3θ3l+2 ϕL...",
+        "Fig. 2. As shown there, the low energy in- terface theory contains two counter-propagating charged chiral bosons, ϕs and ϕ¯ s, a neutral chiral boson ϕ¯ n from the aPf edge, and two neutral chiral Majorana fermions, ξ1 and ξ2, originating from the Pf and aPf sectors, respec- tively. The interface fields are related to the microscopic 4 coupled-wire variables using the conventional quasipar- ticle normalization [19], as detailed in the Supplemental Material [41]. ξ1 ϕs ϕ¯ s ϕ¯ n ξ2 Pfaffian anti-Pfaffian ξ1 ξ3 ξ4 ξ2 Pfaffian anti-Pfaffian",
+        "FIG. 2. Edge modes on the domain wall between Pf state and aPf state. In this lattice coupled-wire construction, the counter- propagating charge modes can be fully gapped by a lo- cal, charge conserving interaction. A suitable interaction Hamiltonian is [28, 29] Hint = Z dxg exp(4i(ϕs + ϕ¯ s)) + H.c. (16) where g is corresponding coupling constant. In terms of the microscopic wire degrees of freedom, this operator is a local product of electron operators and carries momentum 16kF . The operator is there- fore momentum conserving modulo a reciprocal lattice vector at ν = 1/2. Its scaling dimension depends on the forward scattering interactions in the charge sector and can be made relevant in an appropriate interaction regime [29]. When this term flows to strong coupling, the non-chiral charge modes ϕs, ϕ¯ s are gapped and the inter- face becomes purely neutral at low energies. The..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that we study Pfaffian and anti-Pfaffian non-Abelian fractional quantum anomalous Hall states in half-filled moiré lattice systems. Our results show that lattice commensurability qualitatively changes the coupled-wire accessibility of non-Abelian states while providing a microscopic momentum structure that directly constrains their edge and interface dynamics.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1063/5.0357318",
+      "title": "Multiple electronic phase transitions in room-temperature second-order topological insulator",
+      "authors": [
+        "Chaosheng Hao",
+        "Fei Wang",
+        "Li Deng",
+        "Hanghui Li",
+        "Xianmin Zhang"
+      ],
+      "abstract": "Two-dimensional magnetic materials with coupled valley and topological properties provide an attractive platform for next-generation spintronic and valleytronic applications. Here, using first-principles calculations, the novel monolayer SeVPH is predicted as a dynamically, thermally, and mechanically stable magnetic semiconductor. Its Berezinskii–Kosterlitz–Thouless transition temperature is 382 K. Spin–orbit coupling generates a valley splitting of 68 meV in the valence band with magnetization oriented along the +z direction, resulting in the anomalous valley Hall effect. Moreover, the monolayer SeVPH is identified as a second-order topological insulator (SOTI) hosting robust corner states. Biaxial tensile strain modulates the valley degree of freedom to induce successive topological phase transitions, driving the system from the SOTI to valley-polarized quantum anomalous Hall phase and then to a trivial normal insulator. These findings demonstrate that monolayer SeVPH is a promising multifunctional quantum material for tunable ferrovalley, spintronic, and topological devices.",
+      "journal": "Applied Physics Letters",
+      "published": "2026-11-09",
+      "url": "https://doi.org/10.1063/5.0357318",
+      "doi": "10.1063/5.0357318",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that two-dimensional magnetic materials with coupled valley and topological properties provide an attractive platform for next-generation spintronic and valleytronic applications. These findings demonstrate that monolayer SeVPH is a promising multifunctional quantum material for tunable ferrovalley, spintronic, and topological devices.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.10905",
+      "title": "2D coherent spectroscopy of topological insulators",
+      "authors": [
+        "Thaís V. Trevisan",
+        "Michał Papaj"
+      ],
+      "abstract": "Multidimensional coherent spectroscopy probes the response of a system to a sequence of time-separated light pulses, and has attracted significant interest in recent years. In the frequency space, it generates multidimensional spectra, in which information about different degrees of freedom of the system is generically disentangled. In this work, we develop a quantum geometric formulation of multidimensional optical susceptibilities in insulating systems. Focusing on a two-pulse setup and working in the velocity gauge, we derive analytical expressions for second-order and third-order two-dimensional coherent spectra (2DCS). We focus on the third-order ABB response, which remains finite in centrosymmetric systems where the second-order susceptibility vanishes by inversion symmetry. Its paramagnetic contribution supports an echo signal that probes products of four interband Berry-connection matrix elements, which reduce in two-band systems to bilinear combinations of the quantum geometric tensor of the occupied band. Using continuum and square-lattice models of two-dimensional Chern insulators, we show how the echo resolves the momentum-space sign structure of these geometric quantities. For the $xxyx$ response of the models considered, the number of nodes in the echo signal is related to the band topology. Our results extend the quantum-geometric interpretation of multidimensional spectroscopy to higher-order responses, showing that third-order 2DCS provides access to geometric structures beyond those probed at lower orders.",
+      "journal": "arXiv",
+      "published": "2026-11-07",
+      "url": "https://arxiv.org/abs/2611.10905",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Illustration of the simplest light pulse setup for mul- tidimensional spectroscopy. Two sharp pulses with vector po- tential A1 and A2 interact with a system at times separated by the interval τ1. A coherent electromagnetic signal is gen- erated by the system which is measured at a time τ1 + τ2 and related to the current density induced by the incoming pulses. Such outgoing signal carries information on the microscopic degrees of freedom of the system. zone characterizes the topology of the space of the Bloch states. For instance, in a two-dimensional insulator, the integral of the Berry curvature over the first Brillouin zone (BZ) is quantized in units of 2π, defining the Chern number C [5, 13, 14]. Insulating states with finite C host chiral metallic states localized at the boundaries of the crystal, resulting in a quantized anomalous linear Hall response in these systems [15,...",
+        "Fig. 1. The sys- tem interacts first with pulse 1, and, after a time interval τ1, with pulse 2. As a result, a time-dependent polariza- tion is induced in the system that generates an outgoing signal measured after a time τ2 has passed since the in- teraction with pulse 2. The light-induced polarization can be further connected to other observables [28], such as the current density, which we focus on in this work. For concreteness, we denote by J12(t) the time-dependent current density induced by the pulse sequence. Treating the light-matter interaction within perturbation theory, J12(t) can be expanded in powers of the vector potential of the light field A(t) = A1(t) + A2(t), where Ai(t) de- notes the vector potential of pulse i (with i = 1, 2). The expansion is as follows [28, 48] J12,µ(t) = ∞ Z −∞ ds χ(1) µν (s)Aν(t −s) + ∞ Z −∞ ds1 ∞ Z −∞ ds2 χ(2) µνγ(s1, s2)Aν(t −s1)Aγ(t −s2) +...",
+        "FIG. 2. Illustration of the structure of the n-th order optical susceptibility tensors with (a) n = 1 (linear response), (b) n = 2 and (c) n = 3. The green stars represent the interac- tion with the light field at the corresponding time instances. The red stars represent the measurement. The Greek letters associated to the stars are the Cartesian components of the current operator involved in the Kubo formula. emphasize the frequency-dependent resonant features in the results shown in Sec.III, we subtract this constant contact contribution from the displayed linear-response spectra. For stronger incoming fields (but not strong enough to modify the equilibrium energy levels of the system and break the validity of perturbation theory), higher-order terms in the right-hand side of Eq.(1) become important. The function χ(n)(s1, · · · , sn), with n > 1, is a multi-time (n+1)-rank tensor that...",
+        "FIG. 3. Illustration of the pulse setups for the third-order multidimensional responses. The three-pulse setup in (a) yields the 3DCS χ(3)(t3, t2 + t3, t1 + t2 + t3). The two-pulse setups in (b) and (c) give the third-order 2DCS called (b) AAB and (c) ABB. In the AAB response, the system inter- acts quadratically with pulse 1 and linearly with pulse 2 and the corresponding susceptibility tensor is obtained from (a) by setting t1 = 0, t2 = τ1 and t3 = τ2. In the ABB response, the system interacts linearly with pulse 1 and quadratically with pulse 2 and the corresponding susceptibility tensor is ob- tained from (a) by setting t2 = 0, t1 = τ1 and t3 = τ2. focus on the second case, as we consider sequences with two pulses, relevant for 2D spectra. This scenario allows two possibilities for the third order contribution to the 2DCS. First, the system can interact quadratically with the pulse..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that multidimensional coherent spectroscopy probes the response of a system to a sequence of time-separated light pulses, and has attracted significant interest in recent years. Using continuum and square-lattice models of two-dimensional Chern insulators, we show how the echo resolves the momentum-space sign structure of these geometric quantities. Its paramagnetic contribution supports an echo signal that probes products of four interband Berry-connection matrix elements, which reduce in two-band systems to bilinear combinations of the quantum geometric tensor of the occupied band.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.10706",
+      "title": "Probing Chern Topology through Hall-Sensitive Photonic Spin Hall Shifts in a d-wave Altermagnet",
+      "authors": [
+        "Mahnoor Sajid",
+        "Maha Siddiqui",
+        "Muzamil Shah"
+      ],
+      "abstract": "In this paper, we investigate the photonic spin Hall effect in a two-dimensional Rashba-coupled $d$-wave altermagnetic Chern system subjected to a uniform out-of-plane exchange field. We first analyze the energy-band structure and the Dirac mass distribution at the high-symmetry points, where $m_Γ=m_M=Δ_x, m_X=Δ_x-4 t_J$, and $m_Y=Δ_x+4 t_J$. Band inversions at high-symmetry points generate both a topologically trivial regime $(C=0)$ and Chern-insulating phases $(C= \\pm 1)$. Employing the Kubo formalism for the optical conductivity together with the reflection matrix for a substrate-supported conducting sheet, we compute helicity-dependent finite-waist displacements of a reflected Gaussian beam. The resulting optical response exhibits a minimum interband absorption threshold, a Van Hove-type spectral feature, and distinct transitions at the $X$ and $Y$ points arising from the momentum dependence of the exchange field. Under the specified Hall-tensor and polarization sign conventions, the longitudinal helicity half-separation is odd upon reversal of the optical Hall conductivity and correspondingly changes sign between opposite-Chern phases, whereas the transverse half-separation is even in the Hall response. The maximal spin-dependent splitting occur in the vicinity of the pseudo-Brewster reflectance minimum. The longitudinal spin splitting reverses sign between opposite Chern phases, reflecting the exchange-controlled optical Hall response, while its pronounced spectral variations reveal the influence of inequivalent interband transitions induced by the $d$-wave altermagnetic exchange. These findings establish polarization-resolved photonic beam shifts as a sensitive probe of Hall-active topological phases and their characteristic optical spectra.",
+      "journal": "arXiv",
+      "published": "2026-11-07",
+      "url": "https://arxiv.org/abs/2611.10706",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.10706-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.10706-fig01.png",
+        "/data/figures/arxiv-2611.10706-fig02.png",
+        "/data/figures/arxiv-2611.10706-fig03.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic illustration of light reflection at the sur- face of a d-wave altermagnet in a Cartesian coordinate sys- tem. The altermagnetic layer, characterized by two oppositely aligned magnetic sublattices, is placed on a homogeneous and isotropic substrate. Upon reflection, the photonic spin Hall effect (PSHE) produces spin-dependent spatial splitting of the reflected beam, giving rise to both in-plane (longitudinal) and transverse spin Hall shifts. Here, α, β ∈{x, y} denotes Cartesian components, and ∂α ≡∂/∂kα represents differentiation with respect to the corresponding crystal momentum. The states |m⟩ and |n⟩are eigenstates of the Hamiltonian ˆ H(k), with eigenenergies εmk and εnk, respectively. Furthermore, −e denotes the electron charge, EF is the Fermi energy, η > 0 is the phenomenological broadening parameter, and Θ(x) represents the Heaviside step function. The summa-...",
+        "FIG. 2. Chern phase diagram in the (tJ, ∆z) plane for t = 1 eV, obtained by independently scanning the altermagnetic exchange tJ and uniform exchange ∆z. The markers identify the band-structure points at tJ = 0.6 eV and the separate tJ = 0 optical control. The gap closes at ∆z = 0, ±4tJ; the Chern number is undefined on the gap-closing boundaries. band-gap closures at ∆z = 0 and ∆z = ±4tJ, consistent with Eq. (8). For tJ = 0.6 eV, numerical evaluation of Eq. (11) yields C = +1.000000 at ∆z = −0.5 eV, C = −1.000000 at ∆z = +0.5 eV, and C = 0.000000 at ∆z = −2.8 eV, in agreement with the analytic phase boundaries. Figure 3(a)–3(c) subsequently compares the electronic band structures along M–X–Γ–Y–M for representative C = +1, C = −1, and C = 0 insulating phases, respec- tively. The corresponding exchange fields are ∆z = −0.5, +0.5, and +3.0 eV at fixed tJ = 0.6 eV. For ∆z = 0, the gap...",
+        "FIG. 3. Band structures of the d-wave altermagnetic model along the M–X–Γ–Y–M high-symmetry path for three distinct topological phases: (a) the Chern-insulating phase with C = +1 at ∆z = −0.5 eV, (b) the Chern-insulating phase with C = −1 at ∆z = +0.5 eV, and (c) the topologically trivial phase with C = 0 at ∆z = +3.0 eV. The altermagnetic exchange parameter is fixed at tJ = 0.6 eV in all three panels. The color scale represents the spin polarization ⟨sz⟩of the corresponding electronic bands. transition occurs at ℏω0 = 2|∆z| = 1.00 eV. The energy associated with an off-axis saddle point of the reference dispersion is ℏωV = 2|t| s 2 + ∆2 z t2 −8t2 J ≃2.733 eV, (40) provided the stationary-point solution exists in the Bril- louin zone. The inequivalent high-symmetry-point gaps 8 0 1 2 3 4 5 6 Reσxx (e2/h) (a) ω0 ωV ωY ωX C=+1 C=−1 tJ =0 −3 −2 −1 0 1 2 3 Imσxx (e2/h) (b) ω0 ωV ωY ωX 0 1 2..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that in this paper, we investigate the photonic spin Hall effect in a two-dimensional Rashba-coupled $d$-wave altermagnetic Chern system subjected to a uniform out-of-plane exchange field. The longitudinal spin splitting reverses sign between opposite Chern phases, reflecting the exchange-controlled optical Hall response, while its pronounced spectral variations reveal the influence of inequivalent interband transitions induced by the $d$-wave altermagnetic exchange.",
       "abstract_status": "original"
     },
     {
@@ -441,7 +606,7 @@
       "authors": [
         "Ya-Hui Zhang"
       ],
-      "abstract": "The ground state of an ideal gas of anyons with statistical angle $θ\\in(0,π)$ is a long-standing open problem, with renewed interest from the recent observations of fractional Chern insulators. In this work we construct variational wavefunctions that build in the exact anyon statistics and combine theory-guided composite-boson, composite-fermion and parton wavefunctions with neural-network correlations on the sphere. For spinless and SU(2) semions we confirm the paired anyon superfluid, well below the best crystal states. At $θ=π/3$ liquids and crystals are closer in energy for the spinless case. For $θ=π/3$ anyons with SU(3) flavor, we find two candidates. One is a skyrmion Hall crystal, in which the anyons form an integer quantum Hall state in the effective magnetic field from the spin texture. The other is a chiral color superconductor of six-anyon clusters, the color-flavor-locked pairing descendant of a holon metal with SU(3) color gauge symmetry and SU(3) flavor symmetry; its wavefunction is a hyperdeterminant rather than a product of parton determinants. Within our variational ansatz the color superconductor has better energy than both crystals and the color-flavor locked phases with U(1)$^2$ and Z$_3$ gauge groups. For twisted MoTe$_2$ this suggests that the reentrant integer quantum anomalous Hall phase is the skyrmion Hall crystal of the doped anyons, and that the observed superconductivity may be the color superconductor, which can undergo a transition to an $f+if$ BCS superconductor with a jump of the chiral central charge by 3.",
+      "abstract": "The ground state of an ideal gas of anyons with statistical angle $θ\\in(0,π)$ is a long-standing open problem that has gained renewed relevance with the observation of fractional Chern insulators. We construct variational wavefunctions on the sphere that incorporate the exact anyon statistics, using composite-boson, composite-fermion and parton states as starting points for neural-network optimization. For both spinless and SU(2) semions, independent constructions support a paired anyon superfluid whose energy lies well below that of the best crystal states. Liquids and crystals compete more closely for spinless anyons at $θ=π/3$. For $θ=π/3$ anyons with SU(3) flavor, we identify two competing candidates: a skyrmion Hall crystal, whose pinned flavor texture gives an integer Hall response of the anyons, and a chiral color superconductor of six-anyon clusters. This competition offers a possible explanation for the adjacent reentrant integer quantum anomalous Hall and superconducting phases in twisted MoTe$_2$. In this setting, the color superconductor has $f+if$ symmetry but differs from its BCS counterpart by 3 in chiral central charge. We also provide parameter-free analytical wavefunctions for the color-superconductor ansatz, which reach energies comparable to, or even lower than, those of the best optimized states for SU(3) anyons at $θ=π/3$ and for SU(2) semions.",
       "journal": "arXiv",
       "published": "2026-10-29",
       "url": "https://arxiv.org/abs/2610.40657",
@@ -462,7 +627,7 @@
         "FIG. 1. Semions on the sphere, spinless (a,c) and SU(2) (b,d). (a,b) E/N in units of πℏ2n/m; dashed lines are linear fits for N ≥8, and statistical errors are smaller than the symbols. (c,d) Pair correlator |C2| (SM) against the distance by which a pair is moved; dotted lines in (d) are same-spin pairs. TABLE I. Best liquid and best crystal of each system on the sphere: E/N in units of πℏ2n/m in the sector (qbg, N) given, and the extrapolation e∞within the same sector, E/N = e∞+ b/N over the sizes N ≥8 [N = 6–18 for the color superconductor]. Semions: the lowest liquid at N = 24 and the e∞of the CF ν∗= 2 state; spinless θ = π/3: the CF liquid of the CFL sector. ∗Two sizes (N = 9, 24), no error estimate. E/N e∞ system liquid crystal (qbg, N) liquid crystal liquid crystal spinless semions paired superfluid (CF ν∗= 2) vortex crystal (CB network) (−3/2, 24) 0.7803 0.9033 0.7837(4) 0.909(6)...",
         "FIG. 2. SU(3) anyons at θ = π/3 in the sector qbg = −1/3 se- lected by the Chern–Simons term; E/N in units of πℏ2n/m. The color superconductor, the SU(3) holon metal and the Type I triplet Z3 metal are color sums [Eq. (2)]; the U(1)2 states and the singlet Z3 metal are color-flavor locked prod- ucts; the arrow marks the singlet Z3 metal at N = 12, above the frame. Dashed: linear fits (N ≥12 for the crystal, N = 6– 18 for the color superconductor) and their e∞. liquid: they end in non-uniform states at higher energy (SM). θ = π 3 anyons with SU(3) flavor: color superconductor. The charge-e/3 anyons of a doped C = 1/3 FCI carry a three-valued flavor, enforced by the projected translation symmetry, and their π/3 statistics is flavor blind [21, 24, 37–39]. We then study the θ = π/3 anyon gas with SU(3) flavor, for which the color states with Nc = 3 [39] reach the lowest energy. Starting..."
       ],
-      "ai_summary": "In Other New Materials, this paper argues that the ground state of an ideal gas of anyons with statistical angle $θ\\in(0,π)$ is a long-standing open problem, with renewed interest from the recent observations of fractional Chern insulators. In this work we construct variational wavefunctions that build in the exact anyon statistics and combine theory-guided composite-boson, composite-fermion and parton wavefunctions with neural-network correlations on the sphere. For twisted MoTe$_2$ this suggests that the reentrant integer quantum anomalous Hall phase is the skyrmion Hall crystal of the doped anyons, and that the observed superconductivity may be the color...",
+      "ai_summary": "In Other New Materials, this paper argues that the ground state of an ideal gas of anyons with statistical angle $θ\\in(0,π)$ is a long-standing open problem that has gained renewed relevance with the observation of fractional Chern insulators. We construct variational wavefunctions on the sphere that incorporate the exact anyon statistics, using composite-boson, composite-fermion and parton states as starting points for neural-network optimization. For both spinless and SU(2) semions, independent constructions support a paired anyon superfluid whose energy lies well below that of the best crystal states.",
       "abstract_status": "original"
     },
     {
@@ -842,29 +1007,6 @@
       "doi": "10.1103/f735-gr9z",
       "source": "Crossref",
       "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
-    },
-    {
-      "id": "doi:10.1103/zf45-1gvb",
-      "title": "Band mixing and particle-hole asymmetry in moire fractional Chern insulators",
-      "authors": [
-        "Nicolás Morales-Durán",
-        "Jingtian Shi",
-        "Cristian Voinea",
-        "Paweł Potasz",
-        "Jennifer Cano"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Band mixing and particle-hole asymmetry in moire fractional Chern insulators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review Research",
-      "published": "2026-10-27",
-      "url": "https://doi.org/10.1103/zf45-1gvb",
-      "doi": "10.1103/zf45-1gvb",
-      "source": "Crossref",
-      "material_system": "Moire_Superlattice",
       "image_url": null,
       "figure_urls": [],
       "figure_captions": [],
