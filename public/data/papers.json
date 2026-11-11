@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T08:27:29.604511+00:00",
+  "updated_at": "2026-11-11T07:47:17.246321+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -48,6 +48,82 @@
       "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that pioneering thermal transport measurements on two-dimensional electron gases in high magnetic fields have demonstrated that the quantized Hall state at filling factor ν = 5/2 has a thermal Hall conductance κ quantized in half-integer multiples of κ 0 = π 2 k B 2 T / 3 h . Building on density-matrix-renormalization group studies of physically realistic edges and analytic calculations of edge structure, we propose an alternative resolution of this puzzle involving an “edge reconstruction” solely involving the neutral Majorana sector of the theory. Half-integer κ / κ 0 is a signature of neutral Majorana edge modes,...",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.14067",
+      "title": "Evidence of anomalous Hall crystals in moiré rhombohedral graphene",
+      "authors": [
+        "Hongyuan Li",
+        "Zuhan Geng",
+        "Annika Weber",
+        "Chenxi Xu",
+        "Yifan Jiang",
+        "Jiabin Xie",
+        "Lujin Min",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Kenji Yasuda",
+        "Xiaomeng Liu",
+        "Jie Shan",
+        "Kin Fai Mak"
+      ],
+      "abstract": "An anomalous Hall crystal (AHC) is a quantum state of matter, in which spontaneous electron crystallization leads to a quantized Hall effect without a magnetic field. The state can emerge in materials with strong Coulomb interaction and large Berry curvatures, such as few-layer rhombohedral graphene. Although the idea of AHCs has been invoked to explain some of the observed Chern insulators in moiré rhombohedral graphene (mRG), direct experimental evidence of AHCs has been missing so far. Here, we report experimental evidence of AHCs in hole-doped mRG through combined electrical transport and noise measurements. We identify a series of distinct Chern insulators spanning a broad and continuous range of doping densities incommensurate with the underlying moiré lattice; the states exhibit current-induced broadband noise and memory effects as well as pronounced gate hysteresis. Systematic magnetic field, temperature and gate dependence studies further support the emergence of a spontaneously charge-ordered state that acts as a parental state for the observed Chern insulators. The absence of Chern insulators at nearby integer fillings also distinguishes the observed state from the reported reentrant or extended quantum (anomalous) Hall states. Altogether, our results establish experimental evidence of AHCs in mRG and open the door for further exploration of the collective dynamics in this new state of matter.",
+      "journal": "arXiv",
+      "published": "2026-11-10",
+      "url": "https://arxiv.org/abs/2611.14067",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [
+        "Fig. 1H. Unlike many of the reported Chern insulating states in mRG(19, 21-25), the Chern insulators here show no commensurability with the underlying moiré lattice and span a continuous filling range. From now on, we will mainly focus on the most pronounced state with 𝐶= 2 near 𝜈= −2.5 and 𝐷= 50mV/nm (the default values for 𝜈 and 𝐷 unless otherwise specified). Fig. 1I shows a robust QAH effect for this state (measured with the bias-annealed protocol). A coercive field around 70mT is observed. See Fig. S6 for the 𝐶= −1 QAH effect. Electrical noise for the 𝑪= 𝟐 Chern insulator Next, we investigate the 𝐼−𝑉 characteristic of the 𝐶= 2 Chern state. Fig. 2A shows the bias current dependence of the differential longitudinal ( ௗ௏ ೣೣ ௗூ, top panel) and transverse ( ௗ௏ ೣ೤ ௗூ, bottom panel) resistance measured at 𝐵= −50mT (the default magnetic field from now on unless 5 otherwise specified; it is...",
+        "Fig. 2B. Each curve is vertically displaced for clarity. Random telegraph noise is observed for 𝐼≳16nA. The characteristic time scale of the noise decreases with increasing bias and eventually becomes too short to be resolved directly in the time domain plot. We quantify the fluctuation dynamics by Fourier transforming the time domain signals and plot the noise power spectral density (PSD) of 𝑉 ௫௫ (𝑆௩) as a function of frequency 𝑓 and 𝐼 in Fig. 2C (The narrow vertical features originate from instrumental noise). Broadband noise appears above the threshold current 𝐼≈16nA. The PSD progressively extends towards higher frequencies with increasing bias. Its zero-frequency amplitude reaches a maximum near 𝐼= 21nA. Representative PSD spectra (with scaled amplitude for clarity) are shown in Fig. 2D in log-scale. The spectra are well described by a Lorentzian function on top of a white noise...",
+        "Fig. 2E. The monotonic increase in the corner frequency corresponds to the progressively faster fluctuation dynamics with increasing bias current shown in",
+        "Fig. 2B. Origin of electrical noise and memory effects The observed electrical noise implies current-induced random fluctuations in the charge flow; the slow dynamics (in the Hz range) suggests that the fluctuations are likely caused by current- induced de-pinning of some forms of mesoscopic domains. (Note that current-induced heating is unlikely to produce the observed telegraph noise, see more discussions later.) In this section, we investigate the dependence of the low-frequency noise on various experimental tuning knobs to shed light on its origin. We first study the magnetic field dependence of the integrated noise PSD (between 3Hz and 30Hz) for the 𝐶= 2 Chern insulator in"
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that an anomalous Hall crystal (AHC) is a quantum state of matter, in which spontaneous electron crystallization leads to a quantized Hall effect without a magnetic field. We identify a series of distinct Chern insulators spanning a broad and continuous range of doping densities incommensurate with the underlying moiré lattice; the states exhibit current-induced broadband noise and memory effects as well as pronounced gate hysteresis. Systematic magnetic field, temperature and gate dependence studies further support the emergence of a spontaneously charge-ordered state that acts as a parental state for the observed...",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.13508",
+      "title": "Magnetization-free quantum anomalous Hall effect in altermagnetic weak topological insulators",
+      "authors": [
+        "Yanmiao Han",
+        "Yu-Hao Wan",
+        "Peng-Yi Liu",
+        "Rundong Zhao",
+        "Qing-Feng Sun"
+      ],
+      "abstract": "The quantum anomalous Hall (QAH) effect is usually realized through ferromagnetism or magnetic dop ing, which limits material choices and often results in low mobility, disorder sensitivity, and low operating temperatures. Here, we propose a mechanism to achieve the QAH phase without net magnetization, using altermagnetic exchange on a weak topological insulator (WTI). The altermagnetic order selectively gaps the Dirac cone at the Z point, while hybridization between the top and bottom surfaces of the WTI thin film opens a trivial gap at the point, generating a Chern number C = 1 phase with a single chiral edge channel. We verify the topological transition through both a minimal thin-film model and a slab geometry, and compute the associated Hall response. As altermagnets and layered WTIs already exist experimentally, this mechanism offers a promising and experimentally accessible route to realizing QAH phases without magnetic doping or global magnetization. The results indicate that altermagnetic surface engineering may provide a clean and controllable pathway for realizing dissipationless edge transport in layered quantum materials.",
+      "journal": "arXiv",
+      "published": "2026-11-10",
+      "url": "https://arxiv.org/abs/2611.13508",
+      "doi": "10.1103/5378-2fcs",
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.13508-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.13508-fig01.png",
+        "/data/figures/arxiv-2611.13508-fig02.png",
+        "/data/figures/arxiv-2611.13508-fig03.png",
+        "/data/figures/arxiv-2611.13508-fig04.png",
+        "/data/figures/arxiv-2611.13508-fig05.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic illustration of an altermagnetic (AM) WTI. (a) A 3D WTI with Z4 index (0, 001): the (001) side is a dark surface without gapless Dirac cones, while the top and bottom AM surfaces host two Dirac cones at Γ and Z, with surface altermagnetism gap- ping out one cone at point Z and leaving a single gapless Dirac cone at point Γ. (b) A 3D WTI thin-film: hybridization between the top and bottom surfaces opens an additional trivial gap at Γ, while the gap generated by altermagnetic remains nontrivial and gives rise to chiral edge modes propagating along the side surface. face of a square lattice (with lattice constant = 1), where A is the Fermi velocity and throughout this work we set A = 1 for convenience. Haniso W = 2Bx(1 −cos kx)σz is an anisotropic Wilson mass that ensures that the (010) sur- face hosts only two Dirac cones located at the Γ and Z points. The anisotropic...",
+        "FIG. 2. Band structures, Berry curvature, and Chern-number evolu- tion of the altermagnetic WTI thin film. (a-c) Band structures with- out altermagnetism and without inter-surface hybridization (J = 0, mk = 0) in (a), with altermagnetism (J = −0.5) but with- out inter-surface hybridization in (b), and with both altermagnetism (J = −0.5) and finite inter-surface hybridization (m0 = 0.5, B ′ x = B ′ z = 0.1) in (c). (d) Hall conductivity for the parameters in (c), showing a quantized plateau when EF lies inside the gap (in units of e2 h ). (e) Occupied-band Berry curvature Ωocc zx (kx, kz) for the pa- rameters in (c). (f) Minimum direct gap ∆min and Chern number C versus J. Based on the thin-film model introduced above, we now calculate the band structure of a 3D WTI. Fig.2(a) shows the spectrum in the absence of altermagnetism (J = 0) and without hybridization between the top and bottom...",
+        "FIG. 3. (a) Schematic of a four-layer WTI slab with altermagnetic order on the top and bottom layers. (b) (010) surface band spec- trum of an eight-layer slab showing a gapless Dirac cone at Γ point and a gapped cone at Z point. (c) Corresponding spectrum for the four-layer slab, where surface hybridization opens a gap at Γ. (d) Layer-resolved Hall conductance σh(l) at EF = 0: the outer lay- ers exhibit nearly half-quantized values, while the inner layers have almost zero Hall conductance, yielding a total Hall conductance of σH = 1(e2/h). All results were obtained for an altermagnetic strength J = −0.3. In Figs.3(b)-3(c), we present the band spectrum on the (010) surface obtained from the slab model. To highlight the role of surface-surface hybridization, Fig.3(b) shows an eight- layer slab whose top and bottom layers carry altermagnetic order; apart from the increased thickness, all...",
+        "FIG. 4. Quasi-1D spectra of the four-layer altermagnetic WTI slab. (a) Spectrum for a slab of size Lx = 25 and thickness Ly = 4; the color scale indicates localization on the (100) and (¯ 100) side surfaces. A nontrivial gap near kz ≃π hosts chiral edge modes, while the gap at kz = 0 is trivial. (b) Spectrum as a function of kx with Lz = 25, Ly = 4; the color encodes localization on the (001) and (00¯ 1) surfaces, where a chiral edge mode appears at kx = 0. All results were obtained for J = −0.5. We now consider a geometry that preserves translational symmetry only along one direction, which enables us to di- rectly probe the behavior of the edge states. In Fig.4(a), we show the quasi-1D band spectrum with kz as a good quantum number (see Supplemental Material [61], Sec. S8). Around kz ≃π, a band gap opens and a pair of chiral edge modes appear, localized on the (100) and (¯ 100) side...",
+        "FIG. 5. (a) Schematic of the six-terminal Hall-bar geometry based on the altermagnetic WTI slab, where leads I and IV serve as cur- rent terminals and leads II, III, V, and VI are voltage probes. (b) Hall conductance σh(blue) and longitudinal conductance σl (red) as func- tions of the Fermi energy EF with J = −0.5. (c) Two-terminal bar geometry used to study the effect of Anderson-type potential disor- der. (d) Total transmission for different disorder strengths W with J = −0.5 scattering between opposite edges, leading to nonquantized σh and finite σl. To probe disorder robustness, we consider Anderson-type potential disorder in a two-terminal geometry to avoid multi- terminal complications. We add a scalar term V (r)s0 ⊗σ0 in the center region (the gray region in Fig. 5(c)), with V (r) in- dependently and uniformly distributed in [−W/2, W/2] (dis- order strength W). The device in Fig...."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that the quantum anomalous Hall (QAH) effect is usually realized through ferromagnetism or magnetic dop ing, which limits material choices and often results in low mobility, disorder sensitivity, and low operating temperatures. Here, we propose a mechanism to achieve the QAH phase without net magnetization, using altermagnetic exchange on a weak topological insulator (WTI). As altermagnets and layered WTIs already exist experimentally, this mechanism offers a promising and experimentally accessible route to realizing QAH phases without magnetic doping or global magnetization.",
       "abstract_status": "original"
     },
     {
@@ -624,8 +700,8 @@
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
       ],
       "figure_captions": [
-        "FIG. 1. Semions on the sphere, spinless (a,c) and SU(2) (b,d). (a,b) E/N in units of πℏ2n/m; dashed lines are linear fits for N ≥8, and statistical errors are smaller than the symbols. (c,d) Pair correlator |C2| (SM) against the distance by which a pair is moved; dotted lines in (d) are same-spin pairs. TABLE I. Best liquid and best crystal of each system on the sphere: E/N in units of πℏ2n/m in the sector (qbg, N) given, and the extrapolation e∞within the same sector, E/N = e∞+ b/N over the sizes N ≥8 [N = 6–18 for the color superconductor]. Semions: the lowest liquid at N = 24 and the e∞of the CF ν∗= 2 state; spinless θ = π/3: the CF liquid of the CFL sector. ∗Two sizes (N = 9, 24), no error estimate. E/N e∞ system liquid crystal (qbg, N) liquid crystal liquid crystal spinless semions paired superfluid (CF ν∗= 2) vortex crystal (CB network) (−3/2, 24) 0.7803 0.9033 0.7837(4) 0.909(6)...",
-        "FIG. 2. SU(3) anyons at θ = π/3 in the sector qbg = −1/3 se- lected by the Chern–Simons term; E/N in units of πℏ2n/m. The color superconductor, the SU(3) holon metal and the Type I triplet Z3 metal are color sums [Eq. (2)]; the U(1)2 states and the singlet Z3 metal are color-flavor locked prod- ucts; the arrow marks the singlet Z3 metal at N = 12, above the frame. Dashed: linear fits (N ≥12 for the crystal, N = 6– 18 for the color superconductor) and their e∞. liquid: they end in non-uniform states at higher energy (SM). θ = π 3 anyons with SU(3) flavor: color superconductor. The charge-e/3 anyons of a doped C = 1/3 FCI carry a three-valued flavor, enforced by the projected translation symmetry, and their π/3 statistics is flavor blind [21, 24, 37–39]. We then study the θ = π/3 anyon gas with SU(3) flavor, for which the color states with Nc = 3 [39] reach the lowest energy. Starting..."
+        "FIG. 1. We compare spinless (a,c) and SU(2) (b,d) semions on the sphere. Panels (a,b) show E/N in units of πℏ2n/m, with dashed lines indicating linear fits for N ≥8 and statistical errors smaller than the symbols. Panels (c,d) show the pair correlator |C2| as a function of the pair displacement; the dotted curves in (d) correspond to same-spin pairs. Semions: paired superfluid. For semions, the CF state fills two LLs in the spinless case, ΦF = det[zk i | ¯ zizk i ] with k = 0, . . . , N/2 −1, or one LL per spin in the SU(2) case, ΦF = ∆(z↑)∆(z↓) with ∆(z) = Q i<j(zi−zj) over a single spin species. These wavefunctions follow the orig- inal theory of anyon superconductivity [7, 9, 43] and de- scribe a superfluid of semion pairs (SM). The same su- perfluid arises from color-singlet pairing of the holons in the Nc = 2 color states, Eqs. (3) and (4). The optimized Nc = 2 color superconductor...",
+        "FIG. 2. We compare the energies of SU(3) anyons at θ = π/3 in the qbg = −1/3 sector selected by the Chern–Simons term, with E/N in units of πℏ2n/m. The color superconductor, SU(3) holon metal and Type I triplet Z3 metal retain the color sum in Eq. (2), whereas the U(1)2 states and singlet Z3 metal are color-flavor-locked products. The singlet Z3 energies use the CF ansatz of Eq. (S26). The arrow marks the N = 12 value above the plotted range. Dashed lines show linear fits and their extrapolated e∞, using N ≥12 for the crystal and N = 6–18 for the color superconductor. Open circles and the dotted line show the analytical wavefunction of Eq. (5), which has no variational parameter, and its linear fit over N = 6–24. General CF networks initialized with random orbitals do not converge to this liquid, but instead settle into non- uniform states of higher energy (SM). θ = π 3 anyons with..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that the ground state of an ideal gas of anyons with statistical angle $θ\\in(0,π)$ is a long-standing open problem that has gained renewed relevance with the observation of fractional Chern insulators. We construct variational wavefunctions on the sphere that incorporate the exact anyon statistics, using composite-boson, composite-fermion and parton states as starting points for neural-network optimization. For both spinless and SU(2) semions, independent constructions support a paired anyon superfluid whose energy lies well below that of the best crystal states.",
       "abstract_status": "original"
