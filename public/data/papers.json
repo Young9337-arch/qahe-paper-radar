@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T08:23:35.819149+00:00",
+  "updated_at": "2026-11-13T08:04:12.978151+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -23,6 +23,27 @@
       "figure_urls": [
         "https://files.sciengine.com/template/platform/img/SciEngine-logo.png"
       ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/t9yg-8xcy",
+      "title": "Chiral magnetism and quantum anomalous Hall effect in a low-energy Kondo model on the triangular lattice",
+      "authors": [
+        "Kai Vylet",
+        "Xingkai Huang",
+        "Leon Balents"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Chiral magnetism and quantum anomalous Hall effect in a low-energy Kondo model on the triangular lattice in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-11-12",
+      "url": "https://doi.org/10.1103/t9yg-8xcy",
+      "doi": "10.1103/t9yg-8xcy",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
@@ -884,27 +905,6 @@
       "figure_captions": [],
       "ai_summary": "In Moire Superlattice, this paper argues that a Chern metal is a two-dimensional metallic state of matter carrying chiral edge states. We demonstrate the presence of a chiral edge state by nonlocal transport measurements and current-induced quantum anomalous Hall breakdown.",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/t9yg-8xcy",
-      "title": "Chiral magnetism and quantum anomalous Hall effect in a low-energy Kondo model on the triangular lattice",
-      "authors": [
-        "Kai Vylet",
-        "Xingkai Huang",
-        "Leon Balents"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Chiral magnetism and quantum anomalous Hall effect in a low-energy Kondo model on the triangular lattice in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review B",
-      "published": "2026-10-29",
-      "url": "https://doi.org/10.1103/t9yg-8xcy",
-      "doi": "10.1103/t9yg-8xcy",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "arxiv:2610.41017",
