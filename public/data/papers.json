@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:04:12.978151+00:00",
+  "updated_at": "2026-11-14T07:38:59.785815+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -28,6 +28,79 @@
       "abstract_status": "ai_assisted"
     },
     {
+      "id": "doi:10.1103/szcj-44xj",
+      "title": "Emergence of a Symmetry-Broken Chern Insulator near a Moiré Kondo Breakdown",
+      "authors": [
+        "Wanghao Tian",
+        "Bowen Shen",
+        "Lizhong Li",
+        "Mingjie Zhang",
+        "Feng Liu",
+        "Chushan Li",
+        "Yaotian Liu",
+        "Fan Xu",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Peiling Li",
+        "Li Lu",
+        "Yang Xu",
+        "Shengwei Jiang",
+        "Tingxin Li",
+        "Jie Shan",
+        "Kin Fai Mak"
+      ],
+      "abstract": "Moiré semiconductors built on angle-aligned transition metal dichalcogenide (TMD) heterobilayers provide a physical realization of the Kondo lattice model, in which one TMD layer is prepared in a Mott insulating state supporting a lattice of local magnetic moments and the other layer in a metallic state supporting itinerant carriers. The artificial Kondo lattice enables the exploration of exotic states of matter near a continuously tunable Kondo breakdown. Here we report the emergence of a symmetry-broken Chern insulator at a moiré hole filling factor 4 / 3 in angle-aligned MoTe 2 / WSe 2 moiré bilayers, which realize a chiral Kondo lattice. The symmetry-broken Chern insulator, which exhibits integer quantized Hall conductance at a fractional moiré filling, breaks the translational symmetry of the lattice spontaneously; it also appears only near a magnetic-field-induced Kondo breakdown in the mixed-valence regime of the material. We further demonstrate that the magnetic field required to induce the Kondo breakdown and to stabilize the symmetry-broken Chern insulator is twist angle dependent. The results present new opportunities for exploring the subtle interplay between topology and Kondo interactions in moiré semiconductors.",
+      "journal": "Physical Review Letters",
+      "published": "2026-11-13",
+      "url": "https://doi.org/10.1103/szcj-44xj",
+      "doi": "10.1103/szcj-44xj",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/szcj-44xj.png",
+      "figure_urls": [
+        "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/szcj-44xj.png",
+        "https://doi.org/images/aps-logo.svg?1794353053",
+        "https://doi.org/images/tailwind/icons/rss.svg",
+        "https://doi.org/prl/article/10.1103/szcj-44xj/deliverable/5ad0dd69-bf7e-4c9b-9b9f-b3b1137cddc3",
+        "https://doi.org/prl/article/10.1103/szcj-44xj/deliverable/82d1ed0d-bb2e-405c-b534-3501fe4f1671",
+        "https://doi.org/prl/article/10.1103/szcj-44xj/deliverable/14540794-f572-4f0d-8f23-c1437acda214",
+        "https://doi.org/prl/article/10.1103/szcj-44xj/deliverable/8c57a962-851c-41cf-803c-8cd2cf679fb5",
+        "https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg",
+        "https://cdn.journals.aps.org/files/icons/creativecommons.png",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/plp-logo.png",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/footer-logo.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Moire Superlattice, this paper argues that moiré semiconductors built on angle-aligned transition metal dichalcogenide (TMD) heterobilayers provide a physical realization of the Kondo lattice model, in which one TMD layer is prepared in a Mott insulating state supporting a lattice of local magnetic moments and the other layer in a metallic state supporting itinerant carriers. We further demonstrate that the magnetic field required to induce the Kondo breakdown and to stabilize the symmetry-broken Chern insulator is twist angle dependent.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/pvpy-fv2w",
+      "title": "Half-integer quantum anomalous Hall effect in MnBi 2 Te 4 via nonmagnetic extension",
+      "authors": [
+        "Igor P. Rusinov",
+        "Tatiana V. Menshchikova",
+        "Evgueni V. Chulkov"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Half-integer quantum anomalous Hall effect in MnBi 2 Te 4 via nonmagnetic extension in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-11-13",
+      "url": "https://doi.org/10.1103/pvpy-fv2w",
+      "doi": "10.1103/pvpy-fv2w",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://doi.org/images/aps-logo.svg?1794353053",
+      "figure_urls": [
+        "https://doi.org/images/aps-logo.svg?1794353053",
+        "https://doi.org/images/tailwind/icons/rss.svg",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/plp-logo.png",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/footer-logo.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
       "id": "doi:10.1103/t9yg-8xcy",
       "title": "Chiral magnetism and quantum anomalous Hall effect in a low-energy Kondo model on the triangular lattice",
       "authors": [
@@ -42,11 +115,168 @@
       "doi": "10.1103/t9yg-8xcy",
       "source": "Crossref",
       "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
+      "image_url": "https://doi.org/images/aps-logo.svg?1794353053",
+      "figure_urls": [
+        "https://doi.org/images/aps-logo.svg?1794353053",
+        "https://doi.org/images/tailwind/icons/rss.svg",
+        "https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/plp-logo.png",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/footer-logo.png"
+      ],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2611.17217",
+      "title": "Integer and Fractional Chern Plateaus Shaped by Layer-Dependent Disorder",
+      "authors": [
+        "Ziyue Qi",
+        "Zhan Wang",
+        "Hongming Weng",
+        "Kun Jiang"
+      ],
+      "abstract": "The realization of integer and fractional Chern insulators in moiré systems provides a lattice setting for exploring how the structure of Bloch wave functions influences the interplay between topology and disorder. Here we investigate how layer-dependent disorder shapes Hall plateau widths and transitions. Using a realistic three-orbital model of twisted bilayer MoTe$_2$, we compare Hall and bulk transport under onsite-potential, displacement-field, and twist-angle disorder. At equal bare disorder strength, onsite-potential disorder produces broad integer plateaus with nearly direct transitions, whereas displacement-field disorder yields narrow plateaus separated by conducting regions with pronounced Hall-resistance dips. These contrasting behaviors arise from the layer composition of the Bloch states: contributions from different layer under displacement-field disorder partially cancel, weakening the bulk localization. Composite-fermion mean-field theory further yields fractional plateaus at $ν_h=2/3$ and $3/5$ with the same disorder dependence of plateau widths. These findings identify layer-dependent disorder as an important mechanism shaping Chern plateau stability in moiré systems beyond bare disorder strength alone.",
+      "journal": "arXiv",
+      "published": "2026-11-12",
+      "url": "https://arxiv.org/abs/2611.17217",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2611.17217-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.17217-fig01.png",
+        "/data/figures/arxiv-2611.17217-fig02.png",
+        "/data/figures/arxiv-2611.17217-fig03.png",
+        "/data/figures/arxiv-2611.17217-fig04.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Hall-plateau transitions and moir´ e model. (a),(b) Schematic Hall resistance Rxy versus hole filling νh: broad plateaus separated by a narrow, direct transition in (a), and narrow plateaus separated by a broad transition with a Hall dip toward zero in (b). Yellow and blue shading highlights plateau and transition regions, re- spectively. (c) Moir´ e lattice of tMoTe2 with MM (black), MX (blue), and XM (red) stacking regions, primitive vectors a1 and a2, and the C2y rotation axis. Insets illustrate local potential VR, perpendicular displacement field DR, and twist-angle θR disorder. (d) The three topmost K-valley valence bands at θ = 2.45◦from the continuum model (red solid), Wannier TB model (black dashed), and TB model with hoppings retained through the sixth neighbor shell (blue dash- dotted). Band Chern numbers are labeled. sensitivity as a common mechanism in shaping the...",
+        "FIG. 2. Hall transport under orbital-selective disorder. (a) Six-terminal geometry with open boundary conditions (OBC). (b)–(d) Disorder- averaged Hall resistance −⟨Rxy⟩versus hole filling νh for VR, DR, and θR disorder, respectively. Curve colors indicate the system sizes listed in (b). Horizontal dashed lines mark h/e2 and h/(2e2) and vertical lines mark νh = 1, 2, repectively. Here Nx and Ny count lattice repeats of length √ 3aM along x and aM along y, respectively, where aM is the moir´ e lattice constant. Parameters: θ = 2.45◦, λ = 2, and γa = 3 meV, corresponding to Wθ ≃1.0◦for twist-angle disorder (see SM. II). Throughout this work, each transport data point is averaged over 500 disorder realizations. −⟨Rxy⟩= h/e2 and h/(2e2) over νh ≃0.85–1.35 and 1.85–2.1, corresponding to widths ∆νh ≃0.50 and 0.25, respectively, as shown in Fig. 2(b). These quantized values correspond to cu-...",
+        "FIG. 3. Orbital projections, charge response, and bulk trans- port. (a) Wannier orbital structure Ma for VR, DR, and θR disorder (left to right), with black, blue, and red dots denote MM, MX, and XM orbitals, respectively. (b) The two top valence bands colored by the coupling magnitude |F(n) a (k, 0)| = |⟨unk|Ma|unk⟩| for the cor- responding disorder channels. (c) Charge response amplitudes per unit disorder strength, ∆na,n(µ)/γa, versus hole filling νh for the top (0 < νh < 1) and second (1 < νh < 2) valence bands. Red, blue, and green curves correspond to VR, DR, and θR disorder, respectively. (d) ⟨G2t⟩under VR (filled squares) and DR (open circles) disorder. The parameters are θ = 2.45◦in (a-d), and λ = 2, γa = 3 meV in (c,d). To examine the corresponding bulk transport behavior, we calculate the two-terminal conductance under VR and DR dis- order. We retain leads 1 and 2 of the...",
+        "FIG. 4. CF spectrum and fractional plateau transport. (a) Schematic of the CF construction and its uniform mean-field repre- sentation, with 2Φ0 attached to each electron and a flux Φcell = 2νeΦ0 uniformly distributed within the moir´ e cell. (b) Upper panel: Clean CF Hofstadter spectrum (blue) and chemical potential µCF (red) ver- sus hole filling νh. Lower panel: The corresponding spectral gap ∆CF at µCF. (c),(d) Disorder-averaged physical Hall resistance −⟨Rxy⟩of disordered CF model with VR and DR disorder, respectively. Colored curves correspond to different system sizes. Black curves show ex- perimental data obtained from Ref. [21]. The calculations in (c,d) use θ = 3.89◦, with γa = 3 meV and λ = 2. We first examine the clean CF spectrum. Varying νh changes both the hole density and the statistical flux, produc- ing the Hofstadter spectrum shown in Fig. 4(b). The chemical potential..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that the realization of integer and fractional Chern insulators in moiré systems provides a lattice setting for exploring how the structure of Bloch wave functions influences the interplay between topology and disorder. These findings identify layer-dependent disorder as an important mechanism shaping Chern plateau stability in moiré systems beyond bare disorder strength alone.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.17188",
+      "title": "Optimizing Chern Bands for Moore-Read States: A Parent Hamiltonian Approach",
+      "authors": [
+        "Bishoy M. Kousa",
+        "Yung-Chun Chao",
+        "Jung-Jung Su",
+        "Allan H. MacDonald"
+      ],
+      "abstract": "The recent realization of fractional quantum anomalous Hall states in moiré materials motivates efforts to stabilize non-Abelian topological order in the absence of a magnetic field. Here, we propose a framework for optimizing interactions to favor the non-Abelian Moore-Read state. Our approach compares band-projected three-particle spectra to that of the Moore-Read parent Hamiltonian, which is defined by a three-body interaction, and quantifies the comparison by defining a cost function that estimates proximity to the ideal Moore-Read limit. We apply our approach to Landau levels and to the Chern bands of twisted MoTe$_2$.",
+      "journal": "arXiv",
+      "published": "2026-11-12",
+      "url": "https://arxiv.org/abs/2611.17188",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2611.17188-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.17188-fig01.png",
+        "/data/figures/arxiv-2611.17188-fig02.png",
+        "/data/figures/arxiv-2611.17188-fig03.png",
+        "/data/figures/arxiv-2611.17188-fig04.png",
+        "/data/figures/arxiv-2611.17188-fig05.png",
+        "/data/figures/arxiv-2611.17188-fig06.png",
+        "/data/figures/arxiv-2611.17188-fig07.png",
+        "/data/figures/arxiv-2611.17188-fig08.png",
+        "/data/figures/arxiv-2611.17188-fig09.png",
+        "/data/figures/arxiv-2611.17188-fig10.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Schematic showing the ideal three-particle spectrum of the Moore-Read parent Hamiltonian. The lowest relative angular momen- tum channel, 𝐿= 3 is separated from the higher 𝐿channels, which contribute only an overall energy shift when their pseudopotentials have equal value. (b) Three-particle spectrum, 𝑈𝐿, of the Coulomb interaction projected to different Landau levels. The legend shows the corresponding values of the Moore-Read cost function, L defined in the main text. The 𝑛= 1 Landau level has the lowest cost, consistent with its established association with non-Abelian FQH physics. with variations of 𝑣1 and 𝑣3 relative to 𝑛= 1 Coulomb values. We find a ridge of low-cost that is qualitatively consistent with the line of enhanced Moore–Read overlap found in previous many-body ED studies [48, 49]. Given a Hamiltonian 𝐻[𝑝] parameterized by physical parameters 𝑝, the cost...",
+        "FIG. 2. (a) Two-body Haldane pseudopotentials, 𝑣𝑚of the engineered interaction obtained by optimizing the pair interaction using the parameterization of Eq. (10). (b) The corresponding three-particle spectrum. The cost function separates the 𝐿= 3 channel while penalizing variations among the higher 𝐿channels. Combining Eq. (10) with (7) gives 𝐻𝜇′,𝜈′;𝜇,𝜈= 𝛿𝐿,𝐿′ ∑︁ 𝛼 𝑇(𝑛) 𝛼 (𝜇, 𝜈, 𝜇′, 𝜈′)𝑐𝛼, 𝑇(𝑛) 𝛼 (𝜇, 𝜈, 𝜇′, 𝜈′) = ∑︁ 𝑚 𝐼(𝑛) 𝑚,𝛼𝑃𝑚(𝜇, 𝜈, 𝜇′, 𝜈′), 𝐼(𝑛) 𝑚,𝛼= 1 2𝜋 ∫ 𝑑𝑞𝑞2𝛼+1[𝐿𝑛(𝑞2/2)]2𝐿𝑚(𝑞2)𝑒−(1+ 1 2𝜎2 )𝑞2. (11) The three-particle matrix elements in Eq. 11 are linear in the coefficients 𝑐𝛼. We determine these coefficients by minimizing weighted squared deviations of the three-particle spectrum from the target 𝑈3 = 1 and 𝑈𝐿>3,𝑖= 0 (see SM [47]). Figure 2(a) shows the resulting Haldane pseudopotentials, while Fig. 2(b) shows the corresponding three-particle spectrum. As intended, 𝑈3 remains well...",
+        "FIG. 3. Many-body exact diagonalization spectra for the optimized interaction (a-b) and the Coulomb interaction projected to the 𝑛= 1 LL (c-d) for an odd electron number (𝑁𝑒= 9) (a,c) and an even electron number 𝑁𝑒= 12 (b,d). The labels indicate the multiplicities of nearly degenerate states. The Moore-Read optimized interaction exhibits the expected ground state quasi-degeneracy pattern: twofold degeneracy for an odd number of electrons, and sixfold degeneracy for an even number of electrons. The low-energy states appear in the same momentum sectors as for the 𝑛= 1 Coulomb interaction. cost: L𝐶= 1 N ∑︁ 𝐾 𝐿𝑚𝑎𝑥 ∑︁ 𝐿>3 3 ∑︁ 𝑖=1 𝑤𝐿 𝑈𝑖 𝐿(𝐾) −¯ 𝑈 𝑈𝑖 3(𝐾) −¯ 𝑈 !2 . (12) Here, 𝐾labels the momentum sector and 𝑖= 1, 2, 3 labels the three members of each triplet in descending order, ¯ 𝑈is the weighted average over higher 𝐿levels 𝑈𝑖 𝐿(𝐾), and the normalization N = 3𝑁𝐾 ∑︁𝐿max 𝐿>3 𝑤𝐿with 𝑁𝐾the...",
+        "FIG. 4. (a) Generalized Moore–Read cost L𝐶as a function of twist angle 𝜃and moir´ e potential strength 𝑉at 𝑉𝑔= 0. (b) Three-particle spectrum as a function of total momentum sector at 𝜃= 5◦, 𝑉= 50 meV, and 𝑉𝑔= 0, corresponding to the lowest-cost point in (a). 𝜓= 120◦, and screening gate distance 𝑑𝑔= 20 nm. Figure 4 shows the cost evaluated from the three-particle spectrum as a function of twist-angle 𝜃and the continuum-model [14] potential-strength parameter 𝑉at gate potential 𝑉𝑔= 0. The low-cost region forms a line in the (𝜃, 𝑉) plane qualitatively consistent with the magic-line behavior associated with nearly ideal LL-like bands [36, 52, 53]. Figure 4(b) shows the three- particle spectrum at the lowest-cost point in the 𝑉𝑔= 0 scan, 𝜃= 5◦, 𝑉= 50 meV. Unlike in LLs, the three-particle levels exhibit splitting in the triplet structure and center-of-mass- momentum dependence [54]. The...",
+        "Fig. 5. We find that the 𝑛= 1 LL has the lowest cost over a range of cutoffs for all weighting schemes considered, although the extent of this range depends on the choice of weights. We also examine the dependence of the cost function on variations of the two-body pseudopotentials 𝑣1 and 𝑣3 about their 𝑛= 1 Coulomb values, keeping the remaining pseudopotentials fixed. The resulting cost landscape, shown in Fig. 6, exhibits an extended low-cost region whose orientation is qualitatively consistent with the ridge of enhanced Moore–Read overlap and excitation gap found in previous many-body exact-diagonalization studies [48, 49]. Inverse-design optimization The ground state of any 3-body interaction projected to a single Landau level is independently invariant under rigid shifts and under positive rescaling of the three particle spectrum. In the main text, we therefore compare interactions...",
+        "FIG. 5. Cutoff and weight dependence of the cost function for Coulomb interactions projected to different LLs",
+        "FIG. 6. Moore–Read cost L as a function of variations 𝛿𝑣1 and 𝛿𝑣3 from their 𝑛= 1 Coulomb values, with higher pseudopotentials held fixed. The cost is evaluated using 𝑤𝐿= 𝑒−(𝐿−3) and 𝐿max = 8. where the normalization factor N = ∑︁𝐿max 𝐿>3 𝑤𝐿𝑑𝐿, 𝑖labels eigenenergies within a degenerate 𝐿sector, 𝑤𝐿is the weight assigned to angular momentum channel 𝐿, and ¯ 𝑈is the normalized weighted average of 𝑈𝐿,𝑖over 𝐿> 3. To estimate optimal pair-wise interactions it is convenient to instead use the surrogate quadratic objective, Lsur = 𝑤3(𝑈3 −1)2 + ∑︁ 𝐿>3,𝑖 𝑤𝐿(𝑈(𝐿) 𝑖 )2, (39) with a large value of 𝑤3 to impose the scale 𝑈3 ≈1. Since the three-particle matrix elements are linear in the coefficients 𝑐𝛼, Lsur is quadratic giving a weighted linear least-squares problem in 𝑐𝛼. 11 In Eq. (39) we first note that within each 𝐿sector, ∑︁ 𝑖 𝑈2 𝐿,𝑖= Tr \u0002 (𝑈(𝐿))2\u0003 = ∑︁ 𝑎,𝑏 𝑈(𝐿) 𝑎,𝑏𝑈(𝐿) 𝑏,𝑎= ∑︁ 𝑎,𝑏 (𝑈(𝐿) 𝑎,𝑏)2 =...",
+        "FIG. 7. Comparison of the analytical three body spectrum for angular momentum up to 𝐿𝑚𝑎𝑥= 21 obtained from the mapping in Eq. (34) to the numerical 3-body ED spectrum for the same interaction in a finite toriodal system with 64 states per Landau level. These results show that finite-size corrections are small up to 𝐿𝑚𝑎𝑥. The degeneracy with respect to the momentum label 𝑘𝑖originates from the center-of-mass degree-of-freedom. The ED spectra include some states with relative angular momentum larger than 𝐿𝑚𝑎𝑥. which again is a matrix inverse problem. This surrogate cost can be understood as trying to target the spectrum 𝑈3 = 1 and 𝑈𝐿>3,𝑖= 0 as closely as possible in a least squares sense. To see this explicitly, we define 𝐴using the independent matrix elements 𝑎≤𝑏, 𝐴(𝐿,𝑎,𝑏),𝛼≡𝑇𝛼(𝜇𝑎, 𝜈𝑎, 𝜇𝑏, 𝜈𝑏), (51) the target vector, 𝑏(𝐿,𝑎,𝑏) = ( 1, 𝐿= 3, 0, 𝐿> 3. (52) and the diagonal weight matrix..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that the recent realization of fractional quantum anomalous Hall states in moiré materials motivates efforts to stabilize non-Abelian topological order in the absence of a magnetic field. Here, we propose a framework for optimizing interactions to favor the non-Abelian Moore-Read state.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.17144",
+      "title": "A neural quantum state variational Monte Carlo study of Aharonov-Casher bands",
+      "authors": [
+        "Conor Smith",
+        "Nicolás Morales-Durán",
+        "Jingtian Shi",
+        "Andrew J. Millis",
+        "Miguel A. Morales",
+        "Shiwei Zhang"
+      ],
+      "abstract": "We use neural-network-based variational Monte Carlo to investigate the competition between fractional Chern insulators and generalized Wigner crystals in the Aharonov-Casher Hamiltonian, a continuum model for moiré materials. We introduce a variational wave function inspired by flux attachment that captures fractionalized phases and, by comparing its energy with that of a Slater--Jastrow ansatz that captures crystalline phases, we determine the phase diagram at fractional fillings in regimes of strong band mixing and for system sizes beyond the reach of other methods. We find that discrete translation symmetry, encoded in a nonuniform quantum geometry, affects fractionalized states at filling fractions $ν=1/3$ and $ν=2/3$ differently, and that band mixing can stabilize incommensurate crystalline ground states. Our results further reveal the delicate competition between topological and non-topological crystalline phases.",
+      "journal": "arXiv",
+      "published": "2026-11-12",
+      "url": "https://arxiv.org/abs/2611.17144",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2611.17144-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.17144-fig01.png",
+        "/data/figures/arxiv-2611.17144-fig02.png",
+        "/data/figures/arxiv-2611.17144-fig03.png",
+        "/data/figures/arxiv-2611.17144-fig04.png",
+        "/data/figures/arxiv-2611.17144-fig05.png",
+        "/data/figures/arxiv-2611.17144-fig06.png",
+        "/data/figures/arxiv-2611.17144-fig07.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Band structure of the Aharonov-Casher Hamiltonian, Eq. (2), for parameters (a) B1 = −1.0 and (b) B1 = +1.0. The lowest band (indicated in red) is flat and its wave functions are connected to those of the lowest Landau level. The magnetic field B(r) giving rise to each band structure and the Berry curvature Ω(k) of the flat band are also shown. The unit cell and the Brillouin zone are indicated. (c) Band gap between the first two AC bands as a function of B1. The inset indicates the high-symmetry points within the unit cell of the magnetic field, which we label AA and AB/BA. All energies are measured in units of the cyclotron gap in the uniform field limit, B1 = 0. A. Generalized orbitals Both variational wave functions used in this work con- tain a Slater determinant of generalized orbitals of the form ϕa(ri; {r}) = ηa(ri; {r}) X km nmax X n=0 cnkm a ψ (N ′ ϕ) nkm (ri), (6)...",
+        "FIG. 2. (a) Comparison between multiband ED and NQSVMC energies per particle as a function of B1, for a system with Ne = 4 electrons on N = 12 unit cells (ν = 1/3). (b) Ground state energies per particle as a function of B1, obtained from our two variational wave functions on a system with Ne = 36 electrons on N = 108 unit cells. For both plots we have used rs = 9.8. Figure 3 shows the phase diagram of the AC Hamilto- nian at ν = 1/3, as a function of B1 and interaction strength rs. We identify an FCI and two crystalline phases, which are consistent with those found in a previ- ous study of the AC model at ν = 1/3 [54]. We character- ize each phase by computing its charge density, structure factor, pair-correlation function and Chern number. The insets in Fig. 3 show the ground state charge density at a representative state within each phase. Results for the remaining observables are...",
+        "FIG. 3. Schematic phase diagram of the AC Hamiltonian at ν = 1/3 as a function of B1 and rs. We identify a topologically ordered state with the Laughlin correlations and two electron generalized Wigner crystals. Representative charge densities for each phase are shown in the insets, the symbols indicate the parameters used to compute them. The FCI inherits the periodicity of the magnetic field, while the crystals break it to form a commensurate √ 3 × √ 3 order. The two crystals differ by the symmetry and location of their orbitals: The C6-crystal has orbitals centered at AA and the C3-crystal has orbitals centered at AB or BA. All the calculations were done for a system with Ne = 36 electrons on N = 108 unit cells. At B1 = 0 the Laughlin state transitions into a crystal at rs ≈56.3. normalized spread σ/ac, where ac is the crystal lattice constant, decreases with increasing |B1| and rs,...",
+        "Fig. 3. A recent study with Ne = 12 electrons has reported the transition value to be between κ = 15 and κ = 20 [30]. The discrepancy between the results is likely due to finite size effects and the use of a slightly different variational ansatz. B. Results at ν = 2/3 filling In the limit B1 = rs = 0 the Hamiltonian in Eq. (1) re- duces to the Coulomb interaction projected to the LLL,",
+        "FIG. 4. (a) Evolution of the normalized orbital spread σ/ac for the C6-crystal (B1 = −0.5) and the C3-crystal (B1 = +0.5) as a function of rs. (b) Orbital spread of the electron GWC with the lowest-energy, as a function of B1. The C6- crystal has lower energy for B1 < 0 and the C3-crystal has lower energy for B1 > 0. whose particle-hole symmetry relates the ground states at fillings ν and 1 −ν. Away from this limit, this equiv- alence is lost [63, 64] and the phase diagram at ν = 2/3 can differ substantially from that at ν = 1/3. Crystalline states are still expected to dominate at ν = 2/3 for large rs and large |B1|, but the phase competition at inter- mediate values of band mixing and quantum geometry nonuniformity has not been previously studied. In Fig. 5(a) we compare ED and NQSVMC ground state energies as a function of B1, for a system with Ne = 8 electrons on N = 12 unit cells....",
+        "FIG. 5. (a) Comparison between multiband ED and NQSVMC energies per particle as a function of B1, for a system with Ne = 8 electrons on N = 12 unit cells (ν = 2/3). (b) Ground state energies per particle as a function of B1, obtained from our two variational wave functions on a system with Ne = 24 electrons on N = 36 unit cells. For both plots we have used rs = 6.9. corrections of order B2 1 [54], while the energy of the Jain- like FCI at ν = 2/3 varies more strongly with B1. This indicates that these two fractionalized states respond dif- ferently to the breaking of continuous translational sym- metry induced by the periodic magnetic field. For large negative B1, we find a commensurate hon- eycomb electron GWC with C6-symmetric orbitals lo- calized at the AA sites. For large positive B1, the ground state is a triangular electron GWC with period- icity ac = p 3/2 a [48], which is...",
+        "FIG. 6. (a) Schematic phase diagram of the AC Hamilto- nian at ν = 2/3 as a function of B1 and rs. We find a topologically ordered state with Jain correlations and three crystalline phases: a honeycomb electron GWC, a triangu- lar (incommensurate) electron GWC, and a triangular hole GWC. Insets show representative charge densities for the two electron crystals and the Jain FCI, computed for the parame- ters indicated by the symbols. The triangular hGWC is shown separately in panels (b) and (c). (b) Charge density of the hole GWC at B1 = +0.75 and rs = 3.46. (c) Charge pump- ing from threading flux through the torus, confirming that the hole GWC has Chern number C = +1. The inset shows the phase winding. All the calculations were done for a system with Ne = 24 electrons N = 36 unit cells. At B1 = 0 the Jain state transitions into a crystal at rs ≈44.5. this region. At B1 = 0, the ground..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that we use neural-network-based variational Monte Carlo to investigate the competition between fractional Chern insulators and generalized Wigner crystals in the Aharonov-Casher Hamiltonian, a continuum model for moiré materials. We find that discrete translation symmetry, encoded in a nonuniform quantum geometry, affects fractionalized states at filling fractions $ν=1/3$ and $ν=2/3$ differently, and that band mixing can stabilize incommensurate crystalline ground states.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/5yrq-qjkh",
+      "title": "Beyond the lowest Landau level: Unlocking more robust fractional states using flat Chern bands with higher vortexability",
+      "authors": [
+        "Yitong Zhang",
+        "Siddhartha Sarkar",
+        "Xiaohan Wan",
+        "Daniel E. Parker",
+        "Shi-Zeng Lin",
+        "Kai Sun"
+      ],
+      "abstract": "Enhancing the many-body gap of a fractional state is crucial for realizing robust fractional excitations. For fractional Chern insulators, existing studies suggest that making flat Chern bands closely resemble the lowest Landau level (LLL) seems to maximize the excitation gap, providing an apparently optimal platform. In this work, we demonstrate that from the LLL limit can, in fact, produce substantially larger fractional quantum Hall gaps. Using moiré flat bands with strongly non-Landau-level wave functions, we show that the gap can exceed that of the LLL by more than two orders of magnitude for short-range interactions and by factors of two to three for long-range interactions. This enhancement is generic across Abelian fractional Chern insulator states and follows a universal enhancement factor within each hierarchy. In the Landau-level framework, we identify the amplification of pseudopotentials as the microscopic origin of the observed enhancement. More generally, in a Chern band system where the pseudopotential decomposition is not well defined, we find a sharp scaling distinction: in the strongly screened regime, the ν = 1 / 3 gap scales cubically with gate distance d s in the LLL and vortexable Chern bands, but linearly in higher-vortexable Chern bands. The activation of this leading O ( d s ) term by deviating from ideal quantum geometry is the key origin of the gap enhancement, and this criterion remains meaningful even without rotational symmetry. We further examined non-Abelian states and found that within finite-size resolution, this wave-function construction method can also be used to manipulate and enhance the gap for certain interaction parameters. We further discuss experimental implications of our findings in twisted bilayer MoTe 2 .",
+      "journal": "Physical Review B",
+      "published": "2026-11-12",
+      "url": "https://doi.org/10.1103/5yrq-qjkh",
+      "doi": "10.1103/5yrq-qjkh",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": "https://doi.org/images/aps-logo.svg?1794353053",
+      "figure_urls": [
+        "https://doi.org/images/aps-logo.svg?1794353053",
+        "https://doi.org/images/tailwind/icons/rss.svg",
+        "https://doi.org/prb/article/10.1103/5yrq-qjkh/deliverable/310fc7cb-8e8f-400c-9a29-59f336332b9d",
+        "https://doi.org/prb/article/10.1103/5yrq-qjkh/deliverable/225456b6-2ab0-4ebd-a84b-bbfdf8cf9cf6",
+        "https://doi.org/prb/article/10.1103/5yrq-qjkh/deliverable/0cd56726-7bc0-47c2-b211-1d13ed9fde17",
+        "https://doi.org/prb/article/10.1103/5yrq-qjkh/deliverable/c172f7f0-3be6-4d2d-aa5d-f06012552d4c",
+        "https://doi.org/prb/article/10.1103/5yrq-qjkh/deliverable/eb52d8d4-a692-4691-9bf8-230eb905d3b5",
+        "https://doi.org/prb/article/10.1103/5yrq-qjkh/deliverable/ac3170c5-af11-4e7c-8a08-bdc224a025f2",
+        "https://doi.org/prb/article/10.1103/5yrq-qjkh/deliverable/417113ed-3311-4356-8edd-a7400625222c",
+        "https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg",
+        "https://cdn.journals.aps.org/files/icons/creativecommons.png",
+        "https://cdn.journals.aps.org/development/journals/images/tailwind/plp-logo.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Moire Superlattice, this paper argues that enhancing the many-body gap of a fractional state is crucial for realizing robust fractional excitations. In this work, we demonstrate that from the LLL limit can, in fact, produce substantially larger fractional quantum Hall gaps. For fractional Chern insulators, existing studies suggest that making flat Chern bands closely resemble the lowest Landau level (LLL) seems to maximize the excitation gap, providing an apparently optimal platform.",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1073/pnas.2608514123",
@@ -148,6 +378,39 @@
       "abstract_status": "original"
     },
     {
+      "id": "arxiv:2611.14658",
+      "title": "Emergent Anyons in a Weakly Interacting Gauged Chern Insulator",
+      "authors": [
+        "Sven Bachmann",
+        "Leonardo Goller",
+        "Marcello Porta"
+      ],
+      "abstract": "We derive a microscopic relation between the many-body Chern number $C$ of the fermionic ground state and the braiding of fluxes in $\\mathbb{Z}_{2}$ gauge theory coupled to matter: under a spectral gap condition, dressed flux loops obey $W_2W_1=e^{i\\fracπ{2}C}W_1W_2$ on the ground-state sector. We realize $C=1$ by gauging charge parity in a weakly interacting Qi-Wu-Zhang insulator. Reflection positivity and chessboard estimates show that flux defects are massive, which yields a gapped, topologically ordered phase with four locally indistinguishable ground states.",
+      "journal": "arXiv",
+      "published": "2026-11-10",
+      "url": "https://arxiv.org/abs/2611.14658",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic energy spectrum in the gapped phase. The four low-energy states |Ωa,b⟩, labelled by the holonomies a, b = ±1, have energy spread ϵL = O(L−∞). They are sepa- rated from the rest of the spectrum by a gap gphys. under weak interactions. Chessboard estimates then reduce the comparison with nonflat backgrounds to a periodic-cell calculation, yielding a positive energy cost for the vison excitations. Together, these estimates isolate the four physical ground states, and show that charge and magnetic excitations are massive, see Fig- ure 1. Gap and topology of the magnetic vacuum. The four flat gauge classes are labeled by two holonomies a, b = ±1, corresponding to periodic or antiperiodic boundary con- ditions for the fermions. Allowed momenta k = (k1, k2) in Λ∗ L,(a,b) satisfy eiLk1 = a and eiLk2 = b. At λ = 0, the Bloch Hamiltonian reads h(k) = ⃗ v(k) · ⃗ τ, (4) where ⃗...",
+        "FIG. 2. Free phase diagram in the zero-flux sector. The three boundary rays are gapless. Weak interactions preserve the Chern number on compact subsets of the open phases; the interacting transition curves are not determined here. and the Chern number of the occupied band is: κ = 1 2π Z T2 Ω(k) d2k = 1 2 \u0002 sgn(m −2t) −2 sgn m + sgn(m + 2t) \u0003 , (9) which yields the free phase diagram of",
+        "Figure 2. In order to describe flux insertion, we extend the mat- ter Hamiltonian to continuous boundary twists φ ∈T2. These insert flux through the noncontractible cycles while leaving the plaquette fluxes unchanged. In the free model, these fluxes can be introduced via a shift of the momentum grid by φj/L, preserving the lower bound M∞(0) for the Fock-space gap. By [17], the gap remains open for sufficiently small |λ|. In fact, the gap is bounded below by a twist- independent, volume independent constant M∞(λ) ≥ M∞(0) −c|λ|1/3 > 0. At periodic or antiperiodic bound- ary conditions, particle-number conservation, uniqueness of the ground state, and particle–hole symmetry imply N = L2 [30]. Since the ground state remains unique and gapped across the boundary-condition torus, its particle number cannot change as the twists vary. Consequently, the ground state is half-filled for every φ...",
+        "Figure 3. Let A± be the CAR algebras generated by the fermionic fields supported on Λ± L, respectively. The reflection Θ is a parity-preserving, antilinear ∗- automorphism of A such that Θ2 = id and Θ(A±) = A∓. For homogeneous A, B ∈A+, define Θ(A) ◦B = ip(A)p(B)Θ(A)B, where p(A) = 0, 1 is the fermion parity of A, extended by linearity. This twisted product ac- counts for the graded commutation of operators on op- posite halves. Suppose that the Hamiltonian H has the form: H = H+ + Θ(H−) − X j Θ(Cj) ◦Dj (16) where H± ∈A+ are even and self-adjoint and Cj, Dj ∈ A+ are odd. Then with H(−) = H−+ Θ(H−) − 4 Λ+ L Λ− L Λ− L Λ− L Λ+ L (a) (b) (c)",
+        "FIG. 3. Reflection geometry on the torus (a), its periodic lat- tice representation (b), and the chessboard flux configuration (c). The reflection exchanges Λ+ L and Λ− L. Shaded plaquettes carry a π-flux. P j Θ(Cj)◦Cj and H(+) = H++Θ(H+)−P j Θ(Dj)◦Dj, reflection positivity means that for every β > 0, \u0000Tr e−βH\u00012 ≤ \u0000Tr e−βH(−)\u0001\u0000Tr e−βH(+)\u0001 . (17) For the QWZ Hamiltonian, a bond reflection ϑν per- pendicular to an edge eν (ν = 1, 2) is implemented by Θν(c+ x,α) = X β (τ ν)αβc− ϑν(x),β. (18) Observe that, compared to [14, 20, 28], the geometric reflection and particle-hole transformation have to be combined with a transformation acting on the internal degrees of freedom. Then, for an arbitrary bond back- ground, we choose a gauge in which the bonds normal to the left boundary of Λ+ L have sign −1, whereas those normal to its right boundary have sign +1. The bound- ary coupling matrices are..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we derive a microscopic relation between the many-body Chern number $C$ of the fermionic ground state and the braiding of fluxes in $\\mathbb{Z}_{2}$ gauge theory coupled to matter: under a spectral gap condition, dressed flux loops obey $W_2W_1=e^{i\\fracπ{2}C}W_1W_2$ on the ground-state sector. Reflection positivity and chessboard estimates show that flux defects are massive, which yields a gapped, topologically ordered phase with four locally indistinguishable ground states.",
+      "abstract_status": "original"
+    },
+    {
       "id": "doi:10.1103/zf45-1gvb",
       "title": "Band mixing and particle-hole asymmetry in moiré fractional Chern insulators",
       "authors": [
@@ -164,8 +427,21 @@
       "doi": "10.1103/zf45-1gvb",
       "source": "Crossref",
       "material_system": "Moire_Superlattice",
-      "image_url": null,
-      "figure_urls": [],
+      "image_url": "https://doi.org/images/aps-logo.svg?1794353053",
+      "figure_urls": [
+        "https://doi.org/images/aps-logo.svg?1794353053",
+        "https://doi.org/images/tailwind/icons/rss.svg",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/b22153ba-1db5-49ef-9d96-cf0c42454ebf",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/a6e1ff02-f41a-43ed-95ae-0e20ae71e077",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/1648c835-e405-429f-ad88-bfe216a43893",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/0a8ed906-d779-43e6-a4fb-0087757cd170",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/f74a1065-1760-4503-afdd-7ae580280ffa",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/2dbba17e-0f86-4a8c-931f-b064dbdad169",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/80afaebe-5ea3-407d-9e06-2f9a57c2d71a",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/b90597b9-7211-4d31-9cd6-0f8ec7c5f19c",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/f82ac818-eacc-40ce-a10a-8bb6d9f85f35",
+        "https://doi.org/prresearch/article/10.1103/zf45-1gvb/deliverable/51670bfe-bbd1-4098-95aa-1139de92a26e"
+      ],
       "figure_captions": [],
       "ai_summary": "In Moire Superlattice, this paper argues that we investigate the effect of remote band mixing on the stability of fractional Chern insulators in a family of models that approximate continuum descriptions of moiré materials. Our results suggest that the experimentally observed asymmetry between filling fractions ν = 1 / 3 and ν = 2 / 3 in twisted MoTe 2 originates from a competition between a fractional Chern insulator, an electron Wigner crystal, and a hole Wigner crystal.",
       "abstract_status": "ai_assisted"
@@ -1950,41 +2226,6 @@
       ],
       "ai_summary": "In Oxide Heterostructure, this paper argues that chern insulators have optical properties that are strikingly different than ordinary chiral media. For bulk Chern insulators, we derive the normal-incidence transmission and reflection coefficients of multilayer structures, identify the associated Faraday and Kerr angles, and show that these optical rotations provide a direct optical signature of topology at low frequencies.",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/szcj-44xj",
-      "title": "Emergence of a symmetry-broken Chern insulator near a moire Kondo breakdown",
-      "authors": [
-        "Wanghao Tian",
-        "Bowen Shen",
-        "Lizhong Li",
-        "Mingjie Zhang",
-        "Feng Liu",
-        "Chushan Li",
-        "Yaotian Liu",
-        "Fan Xu",
-        "Kenji Watanabe",
-        "Takashi Taniguchi",
-        "Peiling Li",
-        "Li Lu",
-        "Yang Xu",
-        "Shengwei Jiang",
-        "Tingxin Li",
-        "Jie Shan",
-        "Kin Fai Mak"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Emergence of a symmetry-broken Chern insulator near a moire Kondo breakdown in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review Letters",
-      "published": "2026-10-13",
-      "url": "https://doi.org/10.1103/szcj-44xj",
-      "doi": "10.1103/szcj-44xj",
-      "source": "Crossref",
-      "material_system": "Moire_Superlattice",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "doi:10.1103/63ng-lf5t",
