@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T07:54:38.608186+00:00",
+  "updated_at": "2026-11-16T08:03:06.762029+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -99,6 +99,161 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2611.18525",
+      "title": "Pressure and Magnetic Field Control of Topology in Antiferromagnetic Bilayers",
+      "authors": [
+        "Narsimha Rao Elaprolu",
+        "Marco Gibertini"
+      ],
+      "abstract": "Controlling band topology in magnetic semiconductors requires strategies that couple electronic structure to experimentally accessible degrees of freedom. Here we propose a cooperative approach based on pressure and magnetic reorientation in A-type antiferromagnetic bilayers. Antiparallel layer magnetizations suppress hybridization between exchange-polarized band-edge states, limiting their response to interlayer compression. A magnetic field that aligns the layer moments removes this spin mismatch, enabling pressure-enhanced hybridization to drive a band inversion. The magnetization direction then controls the symmetries of the inverted bands and whether spin--orbit coupling produces a Chern-insulating gap or symmetry-protected nodal crossings. First-principles calculations for bilayer CrSBr illustrate this mechanism within a compressed orthorhombic structural model. Out-of-plane magnetization yields a Chern insulator with a chiral edge state, whereas in-plane magnetization supports a two-dimensional Weyl semimetal with node-connecting edge states. Continuous spin canting further demonstrates how magnetic reorientation can drive the transition and stabilize the Chern phase before full magnetic saturation. Although material-specific transition conditions depend on electronic correlations and structural stability under compression, the underlying strategy identifies interlayer hybridization as a link between magnetic order and band topology. These results provide a design principle for externally tunable topological phases in layered antiferromagnetic semiconductors.",
+      "journal": "arXiv",
+      "published": "2026-11-13",
+      "url": "https://arxiv.org/abs/2611.18525",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.18525-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.18525-fig01.png",
+        "/data/figures/arxiv-2611.18525-fig02.png",
+        "/data/figures/arxiv-2611.18525-fig03.png",
+        "/data/figures/arxiv-2611.18525-fig04.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Schematic illustration of pressure- and magnetic field-induced Chern phase evolution in antiferromagnetic bilayers. An applied magnetic field favours a parallel alignment of spins in the two layers, driving a transition from the AFM ground state to a FM configuration. Pressure reduces the interlayer separation, thus enhancing hybridization and tunnelling between the layers, especially in the FM state. The combined effect can give rise to a band inversion and thus to a topological transition from a trivial phase to a Chern insulator. and stacked along c. Bulk CrSBr has space group Pmmn and develops A-type antiferromagnetic order near 132 K.[14, 17] We identify x, y, and z with the crystal- lographic a, b, and c directions, the latter being nor- mal to the layers. The ambient-pressure magnetic easy axis lies along b, and applied fields can reorient the layer magnetizations.[15,...",
+        "FIG. 2. Top panels: Lateral views of the crystal structure of bilayer CrSBr where red and blue arrows highlight the dif- ferent configurations of chromium magnetic moments in the AFM (left) and FM (right) states. Bottom panels: corre- sponding electronic band structures calculated using a vdW- compliant functional (vdW-DF3-opt2 [19]) without spin–orbit coupling effects along a high-symmetry path in the Brillouin zone. Red solid and blue dashed lines represent spin-up and spin-down states, respectively. The zero of energy is set at the top of the valence bands, highlighted with a horizontal dashed line. The AFM spin mismatch limits the corresponding band- edge shifts, although intralayer distortions and residual coupling still change the gap. Magnetic alignment there- fore converts the same structural compression into sub- stantially different electronic responses. The inverted states at...",
+        "FIG. 3. Effect of pressure on the structural and electronic properties of CrSBr. Top left panel: computed bulk CrSBr lattice parameters (a, b, and c, in Å) as a function of applied pressure (in GPa) for the FM (red circles) and AFM (blue diamonds) state. Experimental results[20] are also reported with empty circles. Top right panel: direct band separation at Γ (in eV) of FM and AFM bilayer CrSBr as a function of pressure computed including spin–orbit coupling effects assuming a magnetization direction out of plane. Central and bottom panels: electronic band structure of FM and AFM bilayer CrSBr along the Γ-X direction in reciprocal space for different values of pressure. The dashed line marks the top of the valence bands and the gray shaded region highlights the overall band gap. energy analysis.[31, 32] As the spins cant toward a common direction, the band-edge spinors overlap more...",
+        "FIG. 4. Electronic structure and topological classification of FM-CrSBr bilayer at 10 GPa for three different magnetization directions (M ∥ˆ x, M ∥ˆ y and M ∥ˆ z, corresponding to the left, central, and right columns). Top panels: electronic band structure along the Y -Γ-X high-symmetry path with corresponding Berry curvature projection. Red (blue) circles denote positive (negative) Berry curvature contributions, respectively, while the circle size is proportional to the magnitude of Berry curvature. Central panels: evolution of the occupied-band Zak phase computed along the y (i.e. b) direction as a function of crystal momentum along the x (i.e. a) direction, represented in terms of sum of Wannier charge centres (WCC). Bottom panels: momentum-resolved edge spectral function of a semi-infinite FM-CrSBr bilayer showing the appearance of topological edge states. II. CONCLUSIONS Pressure..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that controlling band topology in magnetic semiconductors requires strategies that couple electronic structure to experimentally accessible degrees of freedom. Here we propose a cooperative approach based on pressure and magnetic reorientation in A-type antiferromagnetic bilayers. Out-of-plane magnetization yields a Chern insulator with a chiral edge state, whereas in-plane magnetization supports a two-dimensional Weyl semimetal with node-connecting edge states.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.18400",
+      "title": "Topological Hybridization Gaps from Molecular Orbitals Coupled to Dirac Fermions",
+      "authors": [
+        "Julián Castro",
+        "Jorge I. Facio",
+        "Verónica Vildosola"
+      ],
+      "abstract": "A magnetically gapped topological-insulator surface carries a half-quantized Hall response. We show that hybridizing the surface Dirac fermions with a flat band of chiral orbitals adds an integer to it: spin-momentum locking forces the hybridization to wind around the band-crossing ring, opening a topological gap. For orbitals with total angular momentum $j$, rotational symmetry fixes the surface Hall conductivity to $je^2/h$, with the sign set by the Dirac branch crossed and independent of the sign of the Dirac mass. The result survives crystal-field quenching of the orbital moment, with the winding then set by interference between hybridization pathways. First-principles calculations for a monolayer of nitric oxide adsorbed on Bi$_2$Se$_3$ predict a $\\sim 20$ meV hybridization gap and an intrinsic surface Hall conductivity of $\\frac{3}{2}e^2/h$, identifying molecular orbital angular momentum as a handle on surface topology.",
+      "journal": "arXiv",
+      "published": "2026-11-13",
+      "url": "https://arxiv.org/abs/2611.18400",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Oxide_Heterostructure",
+      "image_url": "/data/figures/arxiv-2611.18400-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.18400-fig01.png",
+        "/data/figures/arxiv-2611.18400-fig02.png",
+        "/data/figures/arxiv-2611.18400-fig03.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Basic mechanism. (a) Bands of a gapped Dirac cone (teal) crossed by a flat band of chiral orbitals with j = 3 2 (orange). (b) Phase of the hybridization g for different values of j. (c) Chern number below the hybridization gap when the chiral band crosses the upper Dirac branch (circles) or the lower one (squares). (d) Phase diagram of the four-band model in the space of ε+ −ε−and ∆xy. In the red (blue) region, Chyb = 3 2 (−1 2 ) for β± = 0. The dashed (dotted) lines show the boundary for a constant β−interfering destructively (constructively) with α−. tion therefore winds n times around the ring, regard- less of the microscopic couplings, as long as λ(kr) ̸= 0 [Fig. 1(b)]. Near the ring, the lower Dirac branch is off resonance by ≃2ϵ and can be eliminated perturbatively [18]. This leaves Heff = \u0012E(k) g(k) g∗(k) ϵ \u0013 (4) in the basis {|u+⟩, |χ⟩}, where ϵ now includes a small real...",
+        "FIG. 2. Crystal structure of a Bi2Se3 slab with one NO ad- sorbed overlayer: (a) side and (b) top view. Only the top quintuple layer is shown. Green, magenta, grey and red spheres represent Se, Bi, N and O atoms, respectively. (c) DFT band structure, with maroon and turquoise denoting the molecular and substrate projections, respectively. (d) Wannier-interpolated band structure near the hybridization gap, projected onto the top surface. (e) Magnitude of the hybridization gap in reciprocal space. comparable size, which the spinor phase brings into the same e−iφ harmonic, ˜ α−in Eq. (15), while the mℓ= +1 channel has essentially one. Whether the two routes in- terfere constructively or destructively is set by the gauge- invariant phase Φ = arg(vβ−α∗ −), which depends on the helicity of the Dirac cone, and by the branch crossed: the |ψ−1 2 ⟩components of the two branches have oppo- site...",
+        "FIG. 3. (a) Berry curvature in momentum space integrated in energy up to the hybridization gap. (b) Phase of the molecule–cone coupling hDM on loops of radius k0 around ¯ Γ. (c) Layer-resolved Chern number Cl, showing the distri- bution of the Berry curvature over the quintuple layers of the slab. The NO molecule lies on the right side. face. The remaining 2π∗states are pushed ≈1 eV higher [Fig. 2(c)]. The SOMO breaks C3, and together with a small distortion (N displaced by 0.07 ˚ A from the C3 axis, N–O axis tilted by 2.5◦), it leaves the system with no point symmetry besides the identity. The main uncertainty of the calculation is the align- ment of the SOMO with the Dirac cone, which depends on the functional. For the SCAN functional, the SOMO remains close to εF and generates an anti-crossing on a ring with the top-surface Dirac cone, whose Dirac point lies ∼0.2 eV below εF [Fig...."
+      ],
+      "ai_summary": "In Oxide Heterostructure, this paper argues that a magnetically gapped topological-insulator surface carries a half-quantized Hall response. We show that hybridizing the surface Dirac fermions with a flat band of chiral orbitals adds an integer to it: spin-momentum locking forces the hybridization to wind around the band-crossing ring, opening a topological gap.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.18342",
+      "title": "Symmetry induced spin splitting of topological surface states at equal carrier density",
+      "authors": [
+        "Wouter Beugeling",
+        "Shyam Sundar Yadav",
+        "Maximilian Hofer",
+        "Valentin L. Müller",
+        "Moritz Siebert",
+        "Tobias Kießling",
+        "Ewelina M. Hankiewicz",
+        "Hartmut Buhmann",
+        "Laurens W. Molenkamp"
+      ],
+      "abstract": "Surface states are among the most striking consequences of band inversion in topological materials. In magnetotransport of three-dimensional topological insulators, the typical signature of surface state transport is a quantized Hall conductance with nontrivial sequences of integer filling factors, varying with the total carrier density. For two independent Dirac carriers, one expects Hall plateaus only at odd-integer filling factors. In this work, we report the observation of symmetry induced spin splitting in magnetotransport experiments on a dual-gate three-dimensional topological insulator device based on HgTe. In the topological surface state regime, we observe Hall plateaus at both odd and even integers when we gate the device symmetrically, i.e., with equal density at the top and bottom. This phenomenon originates in structural inversion symmetry, which remarkably induces a spin splitting and forces the eigenstates to be symmetric and antisymmetric linear combinations of the top and bottom surface states. This is in contrast with two-dimensional systems, where spin splitting is caused by absence of inversion symmetry. We interpret the experimental observations with a perturbative model using isoparity eigenstates, the conserved quantum number associated with structural inversion. The result demonstrates that the picture where the top and bottom states are treated as independent Dirac carriers is not valid when the carrier density is symmetric.",
+      "journal": "arXiv",
+      "published": "2026-11-13",
+      "url": "https://arxiv.org/abs/2611.18342",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [
+        "Fig. 2. If we take a cut through the data at structural symmetry (i.e., where the carrier density profile is symmetric) in the regime where surface-state transport dominates, the Hall conductance goes through a sequence of plateaus at integer multiples of e2/h, contradicting the naive picture of two indepen- dent Dirac fermions at the surfaces (cf. Ref. [4]). In order to theoretically interpret these features, we perform in-depth analysis of the Landau levels by means of k · p theory [21–23]. Based on these results, we pro- pose a perturbative effective model involving one pair of Landau levels, in a basis of isoparity ±1 eigenstates, act- ing as two pseudospin states. (Total angular momentum Jz and proper spin Sz are not suitable for this purpose, because they are not conserved.) The model involves two perturbative terms that lift the degeneracy, one sym- metric and one antisymmetric...",
+        "FIG. 1. Magnetotransport measurement in a HgTe heterostructure. (a) Schematic of the device structure and measurement configuration (dimensions not to scale). The device is a dual gated Hall bar, with a 70 nm thick HgTe layer as the topological insulator. The GaAs substrate acts as the bottom gate and the Ti/Au layer as the top gate. The HfOx insulating dielectric separates the topological insulator structure from the top gate. (b) Top gate dependence of longitudinal resistance Rxx and (c) Hall resistance Rxy for several bottom gate voltages (shown for Vbg = 3.0, 4.4, and 5.6 V) under constant perpendicular magnetic field B = 0.75 T and temperature T = 150 mK. The total filling factors ν are determined from Rxy = h/νe2. distorted grid-like pattern, with a remarkable symmetry with respect to the diagonal axis P–Q, which we will later identify as the line where the densities at the top...",
+        "FIG. 2. Dual-gate scan of the Hall conductance. (a) The quantum Hall plateau structure as function of top and bottom gate voltage, Vtg and Vbg. The axes have been scaled such that a horizontal and vertical distances correspond to the same change in total carrier density. The color scale represents the weighted gradient |∇nσxy|, i.e., the magnitude of the derivative in the plotted coordinates. The dark areas, where this derivative is zero, correspond to the Hall plateaus. The integer values ν indicate the filling factors, where Rxy = h/νe2. Region II is the regime of surface-state dominated transport, whereas elsewhere parallel conduction of bulk electrons or holes occurs. The plateau structure is symmetric with respect to the line P–Q, which corresponds to equal density at top and bottom. The line labeled ‘CN’ indicates overall charge neutrality and separates p- and n-type transport....",
+        "FIG. 3. Calculated Landau levels for 70 nm thick HgTe. (a) The Landau levels (LLs) versus total carrier density, as a function of perpendicular magnetic field in the equal-density configuration. The two stars mark a pair of LLs with identical LL index and with opposite isoparity expectation values ⟨˜ Pz⟩= ±1. The Hall filling factor in between these LLs is ν = 12. The orange colored region highlights the topological surface-state regime. (b), (c) Wave functions for the LLs marked in (a), expanded into individual orbital components |Γi, jz⟩(jz = ± 1 2, ± 3 2) at a magnetic field of B = 0.75 T. Solid curves indicate the real, dashed lines the imaginary parts. The small contributions from the |Γ7, ± 1 2⟩orbitals are not shown. (d) LLs in presence of an asymmetric electrostatic potential, modeled by a linear potential drop of ∆V = 5 meV across the HgTe layer. The LLs marked by stars also..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that surface states are among the most striking consequences of band inversion in topological materials. The result demonstrates that the picture where the top and bottom states are treated as independent Dirac carriers is not valid when the carrier density is symmetric. In magnetotransport of three-dimensional topological insulators, the typical signature of surface state transport is a quantized Hall conductance with nontrivial sequences of integer filling factors, varying with the total carrier density.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.18318",
+      "title": "Quantized resistance limitations for graphene p-n junction devices",
+      "authors": [
+        "Tamar M. Padwa",
+        "DaVonne Henry",
+        "Dominick S. Scaletta",
+        "Heather M. Hill",
+        "Antonio L. Levy",
+        "Dean G. Jarrett",
+        "David B. Newell",
+        "Albert F. Rigosi"
+      ],
+      "abstract": "Developing high-resistance quantized Hall resistance standards requires accessing values beyond the robust value seen in epitaxial graphene (R_{\\mathrm{H}}=\\ \\frac{1}{2}\\frac{h}{e^{2}}). This study evaluates the available parameter space of the coefficient of effective resistance across various epitaxial graphene p-n junction topologies, including rectangular, Corbino, and triangular layouts. Because mapping desired resistances to device configurations is mathematically degenerate, an automated Landauer-Büttiker Python solver was developed for all three topologies and was validated by cryogenic multi-terminal transport measurements and LTspice simulations. By analyzing the Shannon entropy of available states, it is found that rectangular checkerboards maximize topological complexity and tunable outputs, whereas Corbino geometries exhibit highly constrained resistance availabilities.",
+      "journal": "arXiv",
+      "published": "2026-11-13",
+      "url": "https://arxiv.org/abs/2611.18318",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.18318-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.18318-fig01.png",
+        "/data/figures/arxiv-2611.18318-fig02.png",
+        "/data/figures/arxiv-2611.18318-fig03.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Optical image of the fabricated linear device, showcasing the alternating p-type and n-type regions. Electrical contacts are labeled along the top (V+) and bottom (V–) edges. (b) An LTspice schematic of the device shown in (a), modeling the Landauer-Büttiker chiral edge state network. The schematic shows an example N = 4 terminal configuration used to measure CER (q). (c) Standard four- terminal magnetoresistances were measured at 1.6 K and 1 µA as a function of magnetic flux density, verifying the integer quantum Hall plateaus across the n-type or p-type regions. (d) Experimental fractional quantized resistance plateaus achieved by configuring different multi-terminal sources and drains. The measured plateaus closely match the theoretically predicted fractions 20/9, 32/23, and 18/35 (indicated by the dashed horizontal lines). Color-coded insets show the exact configuration...",
+        "FIG. 2. (a) Optical image of the fabricated 𝟐𝟐× 𝟐𝟐 checkerboard matrix showing alternating n-type and p-type EG regions, with a circular cutout region to avoid disordered edge state propagation at the central vertex. (b) Schematic mapping the external perimeter contacts (labeled 0 through 7), serving as the topological basis for the Landauer-Büttiker matrix solver written in Python. (c) Magnetoresistance validation sweeps for isolated n-type and p-type regions measured at 1.6 K and 1 µA as a function of magnetic flux density. (d - g) Multi- terminal quantized resistance sweeps exhibiting stable fractional plateaus. The solid experimental curves are plotted against horizontal 7 dashed lines representing the CERs (including 𝟒𝟒 𝟗𝟗𝐑𝐑H, 𝟑𝟑 𝟕𝟕𝐑𝐑H, and 𝟒𝟒 𝟑𝟑𝐑𝐑H) generated by the Python simulation code (matching the LTspice simulation results). This model was implemented with Python code to...",
+        "FIG. 3. Graphs and CERs for three distinct pnJ topologies. Number labels correspond to metallic contacts situated on the boundaries, with red and blue regions representing n-type and p-type regions, respectively. (a) Rectangular topology shown with three example calculations and color-coded terminal placements including 𝟏𝟏𝟏𝟏𝟏𝟏𝟏𝟏 𝟖𝟖𝟖𝟖𝟖𝟖 RH (black), 𝟏𝟏𝟏𝟏𝟏𝟏𝟏𝟏 𝟖𝟖𝟖𝟖𝟖𝟖 RH (cyan), and 𝟏𝟏𝟏𝟏𝟏𝟏𝟏𝟏 𝟖𝟖𝟖𝟖𝟖𝟖 RH (green). (b) Corbino topology shown with two examples calculated analytically from the Landauer-Büttiker matrix solving Python code: 𝟏𝟏𝟏𝟏𝟏𝟏𝟏𝟏 𝟏𝟏𝟏𝟏𝟏𝟏 RH (black) and 𝟐𝟐𝟐𝟐𝟐𝟐𝟐𝟐 𝟕𝟕𝟕𝟕𝟕𝟕 RH (cyan). (c) Triangular topology shown with two examples similarly calculated with modified Python code: 𝟓𝟓𝟓𝟓𝟓𝟓 𝟐𝟐𝟐𝟐𝟐𝟐 RH (black) and 𝟏𝟏𝟏𝟏𝟏𝟏𝟏𝟏 𝟕𝟕𝟕𝟕𝟕𝟕 RH (cyan). These example calculations demonstrate the extensive tunable parameter space made accessible by switching topologies. To successfully calculate predicted..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that developing high-resistance quantized Hall resistance standards requires accessing values beyond the robust value seen in epitaxial graphene (R_{\\mathrm{H}}=\\ \\frac{1}{2}\\frac{h}{e^{2}}).",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.17871",
+      "title": "Evaluate Laughlin spectral gap lower bound in vortexable bands",
+      "authors": [
+        "Yuchen Liu",
+        "Zheng Zhu"
+      ],
+      "abstract": "Vortexable Chern bands admit exact Laughlin-type zero modes of local parent interactions, but their existence alone does not guarantee a finite excitation gap. Here, we derive a computable, particle-number-independent lower bound on the spectral gap of Laughlin parent Hamiltonians in a class of vortexable bands obtained by multiplying lowest-Landau-level wavefunctions by a spatially varying envelope. The bound depends only on two quantities: the spread of projected orbital normalizations and a lower bound on the weighted local pair repulsion, both determined by one- and two-particle operators. The proof employs an auxiliary fermion-loss construction to control orbital orthogonalization, with an error bounded relative to the interaction energy uniformly in particle number. We demonstrate that Landau-level averaging permits strictly positive gap bounds even under substantial spatial modulation, including envelopes with nodal lines. Beyond the scalar-envelope construction, we extend the analysis to multicomponent orbital textures and deformations of the vortex coordinate. These results establish rigorous gap criteria for Laughlin parent Hamiltonians, providing a foundation for understanding the stability of fractional Chern insulators in vortexable bands.",
+      "journal": "arXiv",
+      "published": "2026-11-13",
+      "url": "https://arxiv.org/abs/2611.17871",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+      "figure_urls": [
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that vortexable Chern bands admit exact Laughlin-type zero modes of local parent interactions, but their existence alone does not guarantee a finite excitation gap. We demonstrate that Landau-level averaging permits strictly positive gap bounds even under substantial spatial modulation, including envelopes with nodal lines.",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1103/t9yg-8xcy",
@@ -276,6 +431,31 @@
       ],
       "figure_captions": [],
       "ai_summary": "In Moire Superlattice, this paper argues that enhancing the many-body gap of a fractional state is crucial for realizing robust fractional excitations. In this work, we demonstrate that from the LLL limit can, in fact, produce substantially larger fractional quantum Hall gaps. For fractional Chern insulators, existing studies suggest that making flat Chern bands closely resemble the lowest Landau level (LLL) seems to maximize the excitation gap, providing an apparently optimal platform.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.17441",
+      "title": "Chiral or unidirectional? Multiterminal current partition in the quantum Hall regime from self-consistent screening theory",
+      "authors": [
+        "Afif Siddiki"
+      ],
+      "abstract": "Multiterminal current measurements on a six-terminal Hall bar were recently used to argue that the current flow is chiral on the quantized Hall plateaus and non-chiral between them, and, in a companion analysis, that the imposed current flows along one edge only. We examine these conclusions with the self-consistent screening theory of the quantum Hall effect. The plateau values of the current partition follow from a vanishing longitudinal conductivity and a quantized Hall conductivity alone: every two-dimensional conductor with $σ_\\ell=0$ and $σ_{\\rm H}=νe^2/h$ has the conductance matrix of the \"coherent and chiral\" model, whatever the spatial distribution of the current. Terminal currents fix the current density only up to circulating currents, made explicit here with a stream function, and the chirality of the current density is a property of exactly this part. A two-dimensional local transport calculation for the measured device, including its two interior contacts, reproduces the plateau partition for all contact configurations and the ordering of the suppression between the plateaus without edge channels. The self-consistent current density separates into a chiral equilibrium (magnetization) current, which carries no net current, and a transport current that flows in the same direction in both edge strips; the \"one-edge\" imposed current is a bookkeeping choice of the reference chemical potential. The floating potentials of the two interior contacts are predicted to be equal when the bulk around them is quantized and to differ by up to half the Hall voltage when the current flows in edge strips. Multiterminal current partition measures the sign of the Hall conductivity and the absence of dissipation, not the location or the chirality of the transport current; the edge channels are the premise of the interpretation, not a result of the measurement.",
+      "journal": "arXiv",
+      "published": "2026-11-12",
+      "url": "https://arxiv.org/abs/2611.17441",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.17441-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.17441-fig01.png",
+        "/data/figures/arxiv-2611.17441-fig02.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Four current densities across the bar of Ref. [35] (x = 20 µm, between the arms, 3T configuration, ν = 2); (a)–(c) produce the same terminal currents, and (d) approaches them as σℓ→0. (a) The current confined to the high-potential edge, the “imposed current” of Ref. [36]. (b) Counter-flowing edge currents, the Landauer–B¨ uttiker picture including the equilibrium currents, drawn with the complete equilibrium current per edge of Sec. IV B (Mbulk = 110 nA at 2.3 T); any pair Ih, −Il with Ih −Il = I1 gives the same terminal currents. (c) The transport current of the self-consistent screening theory, two-dimensional solution of Sec. IV C at 2.3 T: two strips, same direction. (d) A homogeneous conductor with σH = 2e2/h and σℓ= 0.01 e2/h, the Drude model of Ref. [35] with µB = 200: the current is spread over the whole width. The boxes give the partition into the grounded contacts 3...",
+        "FIG. 2. The six-terminal device of Ref. [35] as modelled: bar of width 10 µm and length 40 µm, four arms of width 3 µm and length 6 µm at x = 10 and 30 µm, end contacts 1 and 4, arm contacts 2, 3 (lower) and 6, 5 (upper), and the two interior contacts 7 and 8 (2.5 µm squares, 10 µm apart on the axis), all contacts behind the series resistances Rk of Table I of Ref. [35]. The box lists the measured configurations. B. Two-dimensional six-terminal device To compute the current partition we solve the two- dimensional local transport problem ∇· (ˆ σ∇µ⋆) = 0 on the device of Fig. 5 of Ref. [35]: a bar of width 10 µm and length 40 µm with 3 µm wide, 6 µm long arms at x = 10 and 30 µm, numbered 1 (left end), 2 and 3 (lower arms), 4 (right end), 5 and 6 (upper arms). The sam- ple also carries two interior contacts, 2.5 µm squares on the axis of the bar 10 µm apart, which were used in the..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that multiterminal current measurements on a six-terminal Hall bar were recently used to argue that the current flow is chiral on the quantized Hall plateaus and non-chiral between them, and, in a companion analysis, that the imposed current flows along one edge only.",
       "abstract_status": "original"
     },
     {
