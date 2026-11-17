@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T08:03:06.762029+00:00",
+  "updated_at": "2026-11-17T09:16:23.373414+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -26,6 +26,99 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/8xc4-977z",
+      "title": "Linear response of the Chern insulator MnBi 2 Te 4 : Wannier function approach",
+      "authors": [
+        "Matthew Albert",
+        "Javier Sivianes",
+        "Jason G. Kattan",
+        "Julen Ibañez-Azpiroz",
+        "J. E. Sipe"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Linear response of the Chern insulator MnBi 2 Te 4 : Wannier function approach in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-11-16",
+      "url": "https://doi.org/10.1103/8xc4-977z",
+      "doi": "10.1103/8xc4-977z",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2611.21217",
+      "title": "Torsional Hall Viscosity of Massive Chern Insulators: Finite Temperature and Chemical Potential",
+      "authors": [
+        "Weizhen Jia",
+        "Ioannis Matthaiakakis",
+        "David Rodríguez Fernández",
+        "Zhuo-Yu Xian",
+        "Johanna Erdmenger",
+        "Ewelina M. Hankiewicz",
+        "René Meyer"
+      ],
+      "abstract": "We study the torsional Hall viscosity $ζ_{\\rm H}$ of Chern insulators at finite temperature and chemical potential. Our analysis considers the massive Dirac fermion and two deformations: a constant out-of-plane magnetic field and a momentum-dependent mass described by the single-block Bernevig-Hughes-Zhang (BHZ) Hamiltonian. For the massive Dirac theory, we show that temperature and chemical potential lead to UV-finite corrections and that a chemical potential outside the bulk gap modifies $ζ_{\\rm H}$ even at zero temperature. In a constant magnetic field, the response of massive Dirac fermions is dictated by the relativistic Landau-level spectrum, leading to a plateau structure at zero temperature that is smoothed at finite temperature. The jumps are proportional to the Dirac mass and inversely proportional to the squared magnetic length and the newly occupied Landau-level energy. Finally, we present a detailed study of the correction to $ζ_{\\rm H}$ in the single-block BHZ continuum model due to temperature and chemical potential. For parameters relevant to (Hg,Mn)Te quantum wells, the magnitude of the jump across a mass domain wall retains its vacuum enhancement due to the BHZ deformation as long as the chemical potential lies sufficiently deep inside the gap compared with the thermal energy. Our results extend the theory of torsional Hall viscosity to experimentally relevant conditions and may facilitate its future detection.",
+      "journal": "arXiv",
+      "published": "2026-11-16",
+      "url": "https://arxiv.org/abs/2611.21217",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. The ﬁnite-temperature and chemical-potential cor- rection δζB H as a function of µlB for mlB = 1 and eB > 0, for which the magnetic length lB and the inverse gap scale 1/|m| are comparable. The orange curve illustrates how ﬁnite tem- perature rounds the steps as the chemical potential crosses successive Landau levels. steps occur at |µ| = En = p m2 + 2n/l2 B for n ⩾1, while the threshold of the zeroth Landau level has magnitude |µ| = |m|. Since the zeroth Landau level has signed en- ergy ε0 = −msign(eB), this threshold occurs only on the corresponding side of the spectrum. In particular, for m > 0 and eB > 0, the zeroth Landau level lies at negative energy, whereas the ﬁrst step at positive chem- ical potential occurs at µ = E1. Whenever |µ| crosses a paired Landau level En with n ⩾1, the response devel- ops a new step. At the threshold of the zeroth Landau level E0 = |m|, the...",
+        "Fig. 1. For |µ| < |m| and T ≪|m| −|µ|, all occupation fac- tors are exponentially suppressed. Hence, δζB H (β, µ) van- ishes exponentially, and the full response approaches the renormalized vacuum magnetic ﬁeld result. By contrast, for |µ| ≫max(|m|, T, l−1 B ), many Landau levels are oc- cupied and the sum approaches its continuum limit, giv- ing δζB H ∼−m|µ|/(4π). This unbounded linear behavior is a formal property of the continuum Dirac model and should only be interpreted within the energy range where the low-energy Dirac description remains valid. V. BHZ DEFORMATION We now consider the BHZ deformation for a massive Dirac fermion in thermal equilibrium. The purpose of 11 this section is to determine how the zero-temperature BHZ result is modiﬁed by ﬁnite temperature and chemi- cal potential. As in the vacuum calculation, we set a = 1 below. Physical units can be restored by replacing...",
+        "Fig. 2. 10 20 30 40 50μ (meV) -0.1 0.0 0.1 0.2 0.3 \u0002 \u0000H (eV·s/ m2 )",
+        "FIG. 2. The zero-temperature chemical-potential correction δζH as a function of µ. The correction vanishes inside the bulk gap and develops a kink when µ crosses the band edge. B. Low temperature expansion above the band edge We next consider the regime in which the chemical po- tential lies above the band edge, i.e., µ > |m|. At zero temperature this produces a Fermi surface, and the cor- rection due to chemical potential is given by Eq. (92). At small but ﬁnite temperature, the natural analytic ap- proximation is the Sommerfeld expansion. As we will see below, this expansion accurately describes the numerical result when µ is suﬃciently far above the band edge, but it breaks down when µ approaches |m|. 5 At b < 0 and bm = 1/4, the continuous limit gives δζH = ln(µ/|m|)/(16πb2) + (µ −|m|)/(8πb). In the single-minimum regime bm < 1/2, the disper- sion Ek is monotonic for k⊥> 0. We may...",
+        "Fig. 3: the Sommerfeld approx- imation agrees well when µ is suﬃciently above the band edge, but fails as µ →|m|, where the lower endpoint begins to aﬀect the ﬁnite T crossover. For a ﬁxed chemical potential above the band edge, the same criterion also gives a useful estimate of the temperature range where the Sommerfeld result should remain accurate. The endpoint correction omitted by the Sommerfeld expansion is controlled by exp[−(µ − |m|)/(kBT )]. Thus, the validity scale TS for the Som- merfeld expansion is given by kBTS = (µ −|m|)/ ln(1/ǫ), with ǫ a chosen error tolerance. For example, taking |m| = 25 meV and µ = 45 meV, a 5% criterion gives TS ≃77 K, while a 1% criterion gives TS ≃50 K (see Appendix C for details). Equivalently, at T = 40 K the endpoint factor is already only exp[−20 meV/(kBT )] ≃ 3 × 10−3. This explains why the Sommerfeld approxi- mation is expected to be very..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that we study the torsional Hall viscosity $ζ_{\\rm H}$ of Chern insulators at finite temperature and chemical potential. For the massive Dirac theory, we show that temperature and chemical potential lead to UV-finite corrections and that a chemical potential outside the bulk gap modifies $ζ_{\\rm H}$ even at zero temperature.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.20632",
+      "title": "Molecular-orbital origin of weak orbital ferromagnetism and anomalous Hall effect in a trimerized kagome antiferromagnet",
+      "authors": [
+        "I. V. Solovyev"
+      ],
+      "abstract": "We reveal the molecular-orbital origin of weak orbital ferromagnetism and the anomalous Hall effect (AHE) induced by noncollinear spin order in a trimerized kagome lattice. By transforming to the molecular-orbital basis of an isolated trimer in the double-exchange regime, we derive an effective low-energy model for the states with opposite orbital angular momenta $m= \\pm 1$ subject to an effective Zeeman field arising from spin chirality and spin-orbit (SO) coupling. In this representation, the kagome-lattice problem maps onto a triangular lattice of trimers, while the nearest- and next-nearest-neighbor hoppings of the original lattice generate complex hopping amplitudes between neighboring trimers. This formulation provides a transparent picture of how spin chirality and SO coupling can be recast as an effective Zeeman field that lifts the degeneracy of the $m= \\pm 1$ states, breaks time-reversal symmetry, and thereby gives rise to weak orbital ferromagnetism and the AHE. The resulting phase diagram includes metallic phases, topologically trivial insulating phases, as well as several topological phases characterized by nonzero Chern numbers and the quantum anomalous Hall effect. We further identify an alternative route to time-reversal-symmetry breaking and orbital magnetization, driven by an emergent gauge field arising solely from complex inter-trimer hoppings and requiring no effective Zeeman field.",
+      "journal": "arXiv",
+      "published": "2026-11-16",
+      "url": "https://arxiv.org/abs/2611.20632",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Kagome_Lattice",
+      "image_url": "/data/figures/arxiv-2611.20632-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.20632-fig01.png",
+        "/data/figures/arxiv-2611.20632-fig02.png",
+        "/data/figures/arxiv-2611.20632-fig03.png",
+        "/data/figures/arxiv-2611.20632-fig04.png",
+        "/data/figures/arxiv-2611.20632-fig05.png",
+        "/data/figures/arxiv-2611.20632-fig06.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. With this convention, S+ and S−correspond to positive and negative scalar chirality, respectively. Throughout this work, R denotes rotations of the spin magnetic moments, whereas C refers to rotations of the lattice. Since time reversal (T ) ﬂips all spin direc- tions, T en = −en, the two chiral states are related by R2yT S+ = S−, where R2y represents a 180◦rotation of the spin vector about the y axis. Furthermore, both S+ and S−are invariant under the combined threefold ro- tation R3zC3z, which simultaneously rotates the lattice x y a 1 a 2 a 3 S S 1 2 3 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 0 1 2 3 4 5 6 t t 2 t",
+        "FIG. 1. Two possible spin conﬁgurations on the kagome plane, S+ and S−. Red arrows indicate the projections of the spins onto the xy plane. Green arrows show the triangular-lattice translation vectors for the S−conﬁguration, while the hopping parameters are labeled for the S+ conﬁguration. Thick solid bonds denote the intra-trimer hopping t, whereas black and blue dashed bonds represent the nearest-neighbor and next- nearest-neighbor inter-trimer hoppings t′ and t2, respectively. Large olive symbols label the trimers, and small black symbols label the three sites within each trimer. 3 and the spins about the z axis. The special case ϑ = π 2 corresponds to a coplanar mag- netic structure with vanishing scalar chirality. In this limit, the spins form the conventional 120◦kagome tex- ture. The conﬁgurations S+ and S−diﬀer only by the sense of spin rotation around an elementary triangle,...",
+        "Fig. 1. The nnn hopping t2 is essential for realizing time-reversal-symmetry breaking in the absence of an explicit Zeeman ﬁeld. Double exchange regime The anomalous Hall eﬀect in kagome-lattice sys- tems is often discussed in the double-exchange (DE) regime [21], where the exchange splitting between majority- and minority-spin states is suﬃciently large that the minority-spin sector can be projected out. This projection is performed in a local coordinate frame whose quantization z axis is aligned with en. As a result, the problem can be formulated entirely in the basis of majority-spin states [35]. More speciﬁcally, let ˆ Un denote the SU(2) rotation ma- trix that aligns the local spin quantization axis with en. In the DE limit, an operator ˆ Onn′ is transformed to the local spin frame according to ˆ Onn′ →ˆ Un ˆ Onn′ ˆ U † n′, after which only the majority-spin component,...",
+        "FIG. 2. Possible alignments of the spin-orbit interaction vec- tors allowed by C3z symmetry: (a) within the trimers and (b) perpendicular to the trimers. Bond directions are indicated by grey arrows. 4 and Φ∥ so = ± arctan \u0012 3 + cos ϑ √ 3(1 −cos ϑ) \u0013 . (7) The AFM exchange coupling tends to stabilize the coplanar conﬁguration, while the DM interactions lift the degeneracy between the S+ and S−states. Which state is realized as the ground state depends on the sign of λ⊥ or λ∥(Supplementary, Sec. A). In Mn3Ge, the symmetry allowed intra-trimer SO vec- tors are λnn′ = (0, 0, λ∥), i.e., perpendicular to the kagome plane. Eﬀective in-plane components arise only through inter-trimer processes that combine inter-plane hopping with SO coupling (Supplementary, Sec. B). This naturally explains why the Hall conductivity σzx, which directly depends on the inter-plane SO coupling, is considerably...",
+        "Fig. 3. For the coplanar spin conﬁguration at ϑ = π 2 , correspond- ing to Φ = π 3 , the states with k = 0 and k = 2 become degenerate. These states are separated from the k = 1 state by an energy gap of 3|t| 2 . Therefore, in the limit of strong trimerization, where |t| greatly exceeds the inter- trimer hoppings t′ and t2, the high-energy k = 1 state can be projected out. The low-energy sector is then de- scribed by a 2 × 2 Hamiltonian in the subspace spanned by the k = 0 and k = 2 states with opposite orbital magnetic momenta ⟨k| ˆ Lz|k⟩= ∓ √ 3 2 µ, and can thus be identiﬁed with molecular-orbital states carrying angular momenta m = ±1. Mn3Ge appears to lie in the strong-trimerization regime. Indeed, let dS(L) Mn−Mn denote the short (long) Mn- Mn bond length within (between) the trimers. Then,",
+        "FIG. 3. Properties of a single trimer as a function of the polar angle ϑ for the S+ state: (a) energy spectrum with (dotted line) and without (solid line) in-plane spin-orbit cou- pling, λ⊥= 0.1t; (b) expectation values of the orbital angular- momentum. The states corresponding to the coplanar spin conﬁguration at ϑ = π 2 are highlighted by circles. 5 the experimental distortion corresponds to dL Mn−Mn dS Mn−Mn = 1.208 [37]. Using Harrison’s scaling t(d) ∼d−5 for hop- ping amplitudes between Mn 3d orbitals [38], one obtains estimates |t′| |t| ∼0.39. This estimate places Mn3Ge on the trimerized side of the crossover and supports the use of the strong-trimerization framework as a starting point. Trimerization of the kagome lattice is known to quali- tatively alter its low-energy electronic structure and can promote the formation of molecular-orbital states local- ized on triangular..."
+      ],
+      "ai_summary": "In Kagome Lattice, this paper argues that we reveal the molecular-orbital origin of weak orbital ferromagnetism and the anomalous Hall effect (AHE) induced by noncollinear spin order in a trimerized kagome lattice. This formulation provides a transparent picture of how spin chirality and SO coupling can be recast as an effective Zeeman field that lifts the degeneracy of the $m= \\pm 1$ states, breaks time-reversal symmetry, and thereby gives rise to weak orbital ferromagnetism and the AHE.",
+      "abstract_status": "original"
     },
     {
       "id": "doi:10.1103/szcj-44xj",
@@ -1407,29 +1500,6 @@
       "abstract_status": "original"
     },
     {
-      "id": "doi:10.1103/8xc4-977z",
-      "title": "Linear response of the Chern insulator MnBi 2 Te 4 : Wannier function approach",
-      "authors": [
-        "Matthew Albert",
-        "Javier Sivianes",
-        "Jason G. Kattan",
-        "Julen Ibañez-Azpiroz",
-        "J. E. Sipe"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Linear response of the Chern insulator MnBi 2 Te 4 : Wannier function approach in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review B",
-      "published": "2026-10-28",
-      "url": "https://doi.org/10.1103/8xc4-977z",
-      "doi": "10.1103/8xc4-977z",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
-    },
-    {
       "id": "arxiv:2610.38626",
       "title": "Topology of Wannierizable Insulators",
       "authors": [
@@ -1908,14 +1978,18 @@
         "https://ar5iv.labs.arxiv.org/assets/ar5iv.png",
         "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
         "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
-        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png",
+        "https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png"
       ],
       "figure_captions": [
         "Fig. 1. Consequently: A uniform bound on the x-averaged quantum metric is equivalent to a uniform bound on the physical x-position variance of the hybrid Wannier eigenstates of projected position: gxx(ky) ≤ℓ2 for all ky ⇔ VarWn(ky)(ˆ x) ≤ℓ2 for all ky, n. (5) Imposing the same bound throughout the allowed Hamiltonian deformations ensures that these eigenstates retain a root-mean-square width along x of at most ℓ.",
         "Figure 1: The Brillouin zone of an effectively two-dimensional crystalline system is a torus T 2, depicted here by a fundamental domain with op- posite edges identified. The momentum coordinates kx and ky have reciprocal periods 2π/ax and 2π/ay, respectively; the displayed aspect ratio is schematic. Below, in § 3, we constrain the kx-averaged quan- tum metric gxx(ky) (2) uniformly in ky, selecting the horizontal cycle as the “small” momentum direction. The associated momentum 1-cycles are Wa for this bounded direction and Wb for the unrestricted vertical direction, cf.",
         "Fig. 3. T 2 kx ky | 0 | 2π ax 0− 2π ay − Wa Wb Cyclic QH Layers of FCI states. A striking insight of Qi and Barkeshli–Qi is that the hybrid Wannier states |Wn(ky)⟩(3) of a single Chern band exhibit an effective multilayer quantum Hall structure [Qi11; BQ12] in that: (i) the integer index n in (3) labels successive lattice translates: xn(ky) := ⟨Wn(ky) | ˆ x | Wn(ky)⟩= n ax + x(ky), (6) where x(ky) is a common offset determined by the Berry phase around the kx-cycle; (ii) for a band of Chern number C ̸= 0, traversing the transverse Brillouin-zone cycle shifts each center by C lattice cells, so that [Qi11, Eqs. (2)–(3)] |Wn(ky + 2π/ay)⟩= |Wn+C(ky)⟩. (7) Continuation in ky therefore joins the orbitals into |C| families, distinguished by the residue n mod C ∈Z/C . (8) These are the effective layers, cyclically permuted upon translation Tx by one lattice cell (cf. Fig. 2): Tx|Wn(ky)⟩=...",
         "Figure 2: The eigenstates of projected x-position operators in an FCI at Chern number C ̸= 0 exhibit an orbital representa- tion consisting of |C| Quantum Hall layers that are cyclically permuted under lattice translation in the x-direction (9). ... (iii) With this, one finds [Qi11, below (5)] that these Wannier states in a layer n = i + Cq, i ∈{0, . . . , |C| −1}, q ∈Z, correspond to Quantum Hall Landau orbitals at transverse momentum K := ky + q 2π ay . (10) Multilayer FQH wavefunctions can then be transferred to the Chern band by re- placing their Landau-level orbitals with these Wannier orbitals while retaining their occupation-number coefficients. This layered organization is encoded in the spectral flow of projected position; the metric bound in (4) controls the physical widths of the orbitals that realize it. (We will see this structure reappear from novel topological...",
-        "Figure 3: The relations (18) and (20) say that an adiabatic parameter loop of Bloch Hopfions around a basis of Brillouin torus cycles (cf. Fig. 1) induces transformation of the topolog- ical states by multiplication with the square of a complex phase ζ, a root of unity, to be identi- fied [SS25a, Prop. 3.21] with an anyon braiding phase. T 2 b ζ2|ψ⟩ 7→ |ψ⟩ c W −1 b c W −1 a c Wb c Wa General Covariance and Modular Data. In more detail, topological states, subject to the laws of topological field theory, are generally covariant [Wit88], in that they must see diffeomorphisms of space as gauge equivalences. Here this means [SS25b, §II.C; SS25a, §2.2] that the actual parameter space for crystalline topological phases is not quite the space Pcrs of Bloch Hamiltonians (13) itself, but its homotopy quotient (–) (–) (Borel construction) by the precomposition action with the..."
+        "Figure 3: The relations (18) and (20) say that an adiabatic parameter loop of Bloch Hopfions around a basis of Brillouin torus cycles (cf. Fig. 1) induces transformation of the topolog- ical states by multiplication with the square of a complex phase ζ, a root of unity, to be identi- fied [SS25a, Prop. 3.21] with an anyon braiding phase. T 2 b ζ2|ψ⟩ 7→ |ψ⟩ c W −1 b c W −1 a c Wb c Wa General Covariance and Modular Data. In more detail, topological states, subject to the laws of topological field theory, are generally covariant [Wit88], in that they must see diffeomorphisms of space as gauge equivalences. Here this means [SS25b, §II.C; SS25a, §2.2] that the actual parameter space for crystalline topological phases is not quite the space Pcrs of Bloch Hamiltonians (13) itself, but its homotopy quotient (–) (–) (Borel construction) by the precomposition action with the...",
+        "Figure 4: The space L1S2 ⊂LS2 (31) of small loops in the (Bloch) sphere is homotopy equivalent (by Lem. 3.4) to its further subspace of loops that trace out round circles on S2, once at a constant rate. These in turn are equivalently determined by their base point b ∈S2 and by the oriented rotation axis p ∈S2 ⊂R3 that they are encircling clockwise. Here constant loops are included, regarded as circles of van- ishing radius that as such may be regarded as oriented either by the axis p = b or p = −b. Lemma 3.4. The space L1S2 (31) of “small loops” in S2: (i) is homotopy equivalent more specifically to the space of loops that traverse (once, at a constant rate) round circles embedded in S2, including degenerate circles corresponding to constant loops, (ii) as such may be coordinatized by pairs of points (b, p) ∈S2 × S2 indicating the loop’s basepoint b and the oriented axis p encircled..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that two-band 2D fractional Chern insulators (FCIs) have recently been shown, in principle, to admit unusual anyonic order, associated with Bloch Hopfions localized in momentum space. Here we show that bounding the integrated quantum metric along one primitive Brillouin-zone cycle may refine this topological order to $|C|$ distinct braiding observables, cyclically permuted by lattice translations, for Chern numbers $|C| > 1$.",
       "abstract_status": "original"
