@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T09:16:23.373414+00:00",
+  "updated_at": "2026-11-18T08:36:09.928150+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -23,6 +23,88 @@
       "figure_urls": [
         "https://files.sciengine.com/template/platform/img/SciEngine-logo.png"
       ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c04819",
+      "title": "Floquet Quantum Anomalous Hall States with Tunable Chern Numbers and Thermal Signatures in Altermagnets",
+      "authors": [
+        "Xiaohan Xie",
+        "Zequn Zhang",
+        "Baibiao Huang",
+        "Ying Dai",
+        "Chengwang Niu"
+      ],
+      "abstract": "Abstract The quantum anomalous Hall effect (QAHE) offers unique opportunities for low-dissipation spin transport, yet realizing a tunable QAHE without a net magnetization remains challenging. Here, Floquet engineering provides a versatile route to the QAHE in two-dimensional (2D) altermagnets. In the equilibrium Weyl semimetal CrO monolayer, high-frequency circularly polarized light (CPL) opens a band gap and drives the system into a Floquet QAHE state with a Chern number |C| = 2. By further tuning the driving amplitude and polarization, elliptically polarized light (EPL) enables controlled transitions between QAHE phases with |C| values of 2 and 1. The intrinsic anomalous Nernst conductivity vanishes within the gap and develops pronounced peaks near the band edges, whereas the anomalous thermal Hall conductivity follows the evolution of anomalous Hall conductivity. Our results establish an optically tunable high-Chern-number QAHE in 2D altermagnets and demonstrate the potential of thermoelectric and thermal Hall responses as probes of Floquet topological phases.",
+      "journal": "Nano Letters",
+      "published": "2026-11-18",
+      "url": "https://doi.org/10.1021/acs.nanolett.6c04819",
+      "doi": "10.1021/acs.nanolett.6c04819",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that abstract The quantum anomalous Hall effect (QAHE) offers unique opportunities for low-dissipation spin transport, yet realizing a tunable QAHE without a net magnetization remains challenging. Our results establish an optically tunable high-Chern-number QAHE in 2D altermagnets and demonstrate the potential of thermoelectric and thermal Hall responses as probes of Floquet topological phases. Here, Floquet engineering provides a versatile route to the QAHE in two-dimensional (2D) altermagnets.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.22500",
+      "title": "Landscape index and its boundary correspondence in inhomogeneous chiral systems",
+      "authors": [
+        "Guo-Jian Qiao",
+        "Zhi-Lei Zhang",
+        "C. P. Sun"
+      ],
+      "abstract": "We define a real-space topological index from the geometry of a quadratic landscape associated with the spatial dynamics, which is governed by the zero-energy eigenvalue equation of chiral systems. The landscape index remains invariant under continuous deformations preserving the uniform exponential separation between decaying and growing spatial solutions and equals the continuum winding number in the homogeneous limit. Across an inhomogeneous interface, the difference between the indices on the two sides equals the protected net chiral zero-mode count, without requiring asymptotically homogeneous bulk regions. Explicit landscape constructions yield analytical bounds on Hamiltonian parameters and their spatial gradients that determine the indices for all profiles satisfying these bounds, without specifying their detailed spatial form. Dimensional reduction extends the landscape index and its boundary correspondence to higher-dimensional systems. The resulting bounds guarantee protected radial zero modes in effective Kitaev-type systems of arbitrary transverse codimension and identify parameter and momentum regions supporting chiral edge states in periodically modulated quantum anomalous Hall systems. For the quasiperiodic interface considered, the index difference guarantees a single protected chiral branch despite persistent modulation on both sides, as confirmed by numerical calculations. Landscape geometry thus connects real-space topology to the protected net chirality of boundary states.",
+      "journal": "arXiv",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22500",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Oxide_Heterostructure",
+      "image_url": "/data/figures/arxiv-2611.22500-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.22500-fig01.png",
+        "/data/figures/arxiv-2611.22500-fig02.png",
+        "/data/figures/arxiv-2611.22500-fig03.png",
+        "/data/figures/arxiv-2611.22500-fig04.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Landscape indices and boundary states in a spatially mod- ulated QAH system. (a) Largest spatial Floquet exponent λmax = T −1 maxj ln |ρj| for m(x) = m0 + sin(x/0.8) at ky = 0, where T = 1.6π and ρj are the eigenvalues of the one-period evolution matrix. The dotted lines mark m0 = ±C; the shaded regions have νL = 1 (left) and 0 (right). (b) Interface schematic; the two tails have channel indices νL L = 0 and νR L = 1. The arrow shows the direction in which the chiral state propagates along the interface. (c) Mass profile of Eq. (31) (blue) and normalized interface-state den- sity ρ(x) at ky = 0 (orange). The shaded tails satisfy the analytical bounds for the indicated indices. (d) Low-energy spectrum obtained by diagonalizing the full Hamiltonian for the profile in (c). Color in- dicates the interface weight Wint = R 4 −4 ∥Ψ(x)∥2 dx. The interface branch has ⟨σy⟩≃−1 and follows..."
+      ],
+      "ai_summary": "In Oxide Heterostructure, this paper argues that we define a real-space topological index from the geometry of a quadratic landscape associated with the spatial dynamics, which is governed by the zero-energy eigenvalue equation of chiral systems. The resulting bounds guarantee protected radial zero modes in effective Kitaev-type systems of arbitrary transverse codimension and identify parameter and momentum regions supporting chiral edge states in periodically modulated quantum anomalous Hall systems.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/w4jq-ncsl",
+      "title": "Valley-polarized quantum anomalous hall effect in alkali metal-doped VI 3 monolayers",
+      "authors": [
+        "Wenlu Zhang",
+        "Xiaoxiao Man",
+        "Yajie Zheng",
+        "Yaling Zhang",
+        "Jie Xu",
+        "Liang Gu",
+        "Yongli Xie",
+        "Xiaoqing Gao",
+        "Xiaoyu Cheng",
+        "Junhua Hou",
+        "Meize Li",
+        "Huisheng Zhang",
+        "Xiaohong Xu"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Valley-polarized quantum anomalous hall effect in alkali metal-doped VI 3 monolayers in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-11-17",
+      "url": "https://doi.org/10.1103/w4jq-ncsl",
+      "doi": "10.1103/w4jq-ncsl",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
@@ -118,6 +200,52 @@
         "FIG. 3. Properties of a single trimer as a function of the polar angle ϑ for the S+ state: (a) energy spectrum with (dotted line) and without (solid line) in-plane spin-orbit cou- pling, λ⊥= 0.1t; (b) expectation values of the orbital angular- momentum. The states corresponding to the coplanar spin conﬁguration at ϑ = π 2 are highlighted by circles. 5 the experimental distortion corresponds to dL Mn−Mn dS Mn−Mn = 1.208 [37]. Using Harrison’s scaling t(d) ∼d−5 for hop- ping amplitudes between Mn 3d orbitals [38], one obtains estimates |t′| |t| ∼0.39. This estimate places Mn3Ge on the trimerized side of the crossover and supports the use of the strong-trimerization framework as a starting point. Trimerization of the kagome lattice is known to quali- tatively alter its low-energy electronic structure and can promote the formation of molecular-orbital states local- ized on triangular..."
       ],
       "ai_summary": "In Kagome Lattice, this paper argues that we reveal the molecular-orbital origin of weak orbital ferromagnetism and the anomalous Hall effect (AHE) induced by noncollinear spin order in a trimerized kagome lattice. This formulation provides a transparent picture of how spin chirality and SO coupling can be recast as an effective Zeeman field that lifts the degeneracy of the $m= \\pm 1$ states, breaks time-reversal symmetry, and thereby gives rise to weak orbital ferromagnetism and the AHE.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.21745",
+      "title": "Tunable Topological Charge Order in Magnetic Moiré Systems",
+      "authors": [
+        "Conor Smith",
+        "Yubo Yang",
+        "Shiwei Zhang",
+        "Miguel A. Morales"
+      ],
+      "abstract": "Two-dimensional electrons in a strong magnetic field exhibit two seemingly incompatible ground states: incompressible quantum Hall liquids with a quantized Hall conductance, and electron crystals in which interactions drive the charge into ordered patterns. Moiré superlattices in transition-metal-dichalcogenide bilayers offer a tunable arena for this competition. Using neural quantum states (NQS) together with several methodological advances, we show how this competition unfolds. In particular, we demonstrate that the two end points are separated by an extended regime in which molecular charge order coexists with a quantized Hall response. We map the ground-state phase diagram of electrons at Landau-level filling $ν_B=1$ in the presence of a moiré superlattice potential, with three electrons per moiré cell. In the deep triangular potential limit, the electrons form the topologically trivial \"Wigner molecular crystal'' of three-electron artificial atoms, a state recently imaged at zero magnetic field in moiré bilayers. As the potential depth is lowered, molecular charge order remains while quantized Hall response emerges. At the honeycomb point, where each cell contains three electrons and two degenerate moiré minima, wells are either singly or doubly occupied and the doublons provide an emergent Ising degree of freedom. Starting from modest interaction strength, we find short-range doublon correlations within the Chern insulator which grow with interaction strength and eventually break sublattice symmetry, forming a Néel CDW with long-range order between doublons. The topological molecular regime lies at twist angles and magnetic fields directly accessible to current experiments. The methodological advances presented provide a scalable framework for exploring a broad range of questions in correlated quantum matter in the presence of magnetic fields.",
+      "journal": "arXiv",
+      "published": "2026-11-16",
+      "url": "https://arxiv.org/abs/2611.21745",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2611.21745-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.21745-fig01.png",
+        "/data/figures/arxiv-2611.21745-fig02.png",
+        "/data/figures/arxiv-2611.21745-fig03.png",
+        "/data/figures/arxiv-2611.21745-fig04.png",
+        "/data/figures/arxiv-2611.21745-fig05.png",
+        "/data/figures/arxiv-2611.21745-fig06.png",
+        "/data/figures/arxiv-2611.21745-fig07.png",
+        "/data/figures/arxiv-2611.21745-fig08.png",
+        "/data/figures/arxiv-2611.21745-fig09.png",
+        "/data/figures/arxiv-2611.21745-fig10.png",
+        "/data/figures/arxiv-2611.21745-fig11.png",
+        "/data/figures/arxiv-2611.21745-fig12.png"
+      ],
+      "figure_captions": [
+        "Fig. 1. The parameter regime we study was chosen to be within current exper- imental reach. The moir´ e shapes highlighted correspond to real materials—twisted bilayer WS2 realizes a strongly triangular potential (ϕ ≈20◦) [34], MoSe2/WSe2 a weakly triangular one (ϕ ≈26◦) [41], and WSe2/WS2 an intermediate shape (ϕ ≈45◦) [29, 31, 44]—and the required fields, B ≈12–47 T at twist angles of 0.5◦–1.1◦, overlap with DC magnet capabilities for the larger moir´ e periods. The topological analog of the molecular Wigner crystal we predict (the (2:1) and (3:0) “Chern insula- tors” with C = 1) would appear as a quantized Hall plateau coexisting with the molecular charge patterns already imaged in zero field experimental devices [34], while the honeycomb state offers a complementary tar- get. Its doublon correlations are invisible in the aver- age density and appear only in density-density correla-...",
+        "Fig. 2. As we detail below in Sec. III, this is made possible by three methodological elements: (i) an ansatz in which a fully periodic multiplicative orbital backflow acts on a Landau-level basis, encoding corre- lations directly at the many-body level while satisfying magnetic periodic boundary conditions by construction; (ii) direct measurement of the many-body Chern number via flux insertion [53, 54], evaluated as the winding of the Resta polarization [55] under twisted boundary con- ditions; and (iii) a foundation model [56] in which the Hamiltonian parameters (Vm, ϕ) and the boundary twist enter as inputs to the network, so that a single trained model represents ground states across the entire phase diagram and renders affordable the many ground-state evaluations required for topological characterization. Be- yond the specific phase diagram established here, this combination turns...",
+        "FIG. 1: Summary of main physics results: schematic ground-state phase diagram for the moir´ e system in a magnetic field at magnetic filling νB = 1, moir´ e filling νm = 3 and interaction strength rs = 15, as a function of lattice geometry and moir´ e potential depth. Three systems already realized experimentally are indicated by arrows. Panels on the right illustrate the different states represented by the different symbols in the phase diagram, distinguished by their many-body Chern number, sublattice occupation and density profiles. The grey and purple circles represent the locations of the moir´ e potential minima, with their relative size indicating the depths of the potential of the two sublattices. Green circles indicate the location (and spread) of the electrons. where the canonical momentum of particle i is Πi = pi −eA(ri) with Landau gauge chosen for the vector potential A(x,...",
+        "FIG. 2: Summary of computational approach: ansatz and architecture of the foundation neural quantum state. Electron coordinates and the Hamiltonian parameters conditioning vector P enter a message-passing attention block, whose output is the periodic multiplicative orbital backflow (MOB) prefactor ϑm multiplying the Landau-level basis in Eq. (4), which satisfies MPBC. for simplicity. In this gauge, the Hamiltonian is invariant under translations along x, but translations along y must be accompanied by a gauge transformation. The mag- netic periodic boundary condition (MPBC) on a cell of dimension Lx×Ly that is threaded by an integer number of flux quanta, Nϕ = LxLy/(2πℓ2 B) with the characteris- tic magnetic length, ℓB = p ℏ/(eB), is given by: ψ(x + Lx, y) = ψ(x, y), ψ(x, y + Ly) = e−iLyx/ℓ2 B ψ(x, y). (2) The noninteracting eigenstates satisfying this condition are, up to...",
+        "Fig. 2. Orbital m in our Slater determinant is given by: ϕm(rj) = ϑm(rj,⃗ r |P) nLL−1 X n=0 Wmn φn,km(rj) (4) where there is one orbital per guiding center km, the mul- tiplicative orbital backflow (MOB) ϑm(rj,⃗ r |P) is a fully periodic neural-network function of all particle positions, conditioned on a vector of external parameters P, and the sum over n mixes the lowest nLL Landau levels at that guiding center with learnable coefficients Wmn. The conditioning vector, P, is what makes the ansatz a foundation model: rather than representing the ground state of a single Hamiltonian, one set of network weights defines a continuous family of variational states. For the phase-diagram scans we condition on the Hamiltonian parameters, P = (Vm, ϕ), at fixed boundary twist; for flux-insertion calculations we instead fix the Hamiltonian and condition on the twist, P = θx (Sec. III B). In both...",
+        "Fig. 4. The static structure factor is defined as, S(k) = 1 N ⟨ρk ρ−k⟩, ρk = N X j=1 e−ik·rj, (11) where N is the number of electrons. Its largest value over nonzero wavevectors, max S(k), grows with the moir´ e- scale charge modulation and serves as a measure of the strength of correlation and charge ordering. IV. RESULTS Our central results are summarized in Fig. 1, which shows the interplay of topological and charge orders in magnetic moir´ e systems with one magnetic flux quantum per electron (νB = 1) and three electrons per moir´ e unit cell (νm = 3). When the moir´ e potential is sufficiently weak, the 2D electron system remains in an integer quan- tum Hall (IQH) liquid state, as expected. As the moir´ e potential deepens, charge ordering emerges. However, the type of charge order and its topological character de- pend strongly on the shape of the moir´ e potential (ϕ) and its...",
+        "Fig. 1. CI denotes Chern insulator. Regime Condition Real-space character C IQH liquid vanishing moir´ e nearly uniform density, weak moir´ e modulation 1 Trivial Wigner molecules deep moir´ e not at the honeycomb limit (2 : 1) or (3 : 0) “molecules” pinned by the moir´ e potential 0 Ordered CI (3 : 0) triangular moir´ e three-electron molecule on a single sublattice 1 Ordered CI (2 : 1) between tri- angular and honeycomb moir´ e two electrons on one sublat- tice, one on the other 1 Correlated Doublon CI honeycomb moir´ e symmetric density; doublons alternate locally (ϕ = 60◦) 1 Coulomb repulsion (Fig. 1c). At the honeycomb limit (ϕ = 60◦), the charge density distributes evenly across the energetically degenerate A and B sublattices. As we move from the triangular to the honeycomb geometry, the topological character is retained over a wider window of Vm values, deeper into the...",
+        "FIG. 3: Quantifying charge order and topology as a function of moir´ e potential depth in select lattice geometries. The peak of the static structure factor, max S(k), is a measure of the degree of charge order. Topology is characterized by the many-body Chern number C. At each moir´ e potential shape (ϕ), the topological sector is connected by solid lines, the trivial sector is connected by dashed lines. For ϕ = 45◦we indicate, as an example, the slope with the dotted line. neighboring sublattice sites are correlated by interaction. Because the Coulomb energy heavily penalizes triple oc- cupancy, the electrons distribute in a (2 : 1) pattern over the two minima in each unit cell. Since the electrons are polarized, the doubly occupied site must host electrons in distinct orbitals in a correlated two-electron doublon. The state is then a mixture of single electrons and dou- blons. The...",
+        "FIG. 4: Doublon correlations and their ordering at νB = 1 and νm = 3 filling of the honeycomb moir´ e lattice (ϕ = 60◦) with a potential depth of Vm = 10 meV. (a) Charge density at rs = 15, with red and black points marking the A and B sublattices. No sublattice symmetry breaking is seen. (b) Sublattice resolved pair correlation functions at rs = 15 gAA(r) and gAB(r) with the reference electron at the origin; the purple markers correspond to the same (in gAA) and opposite (in gAB) sublattice minima. The correlation shows clear sublattice ordering. (c) Probability that a site hosts a doublon, conditioned on its nearest neighbor being singly occupied (left) or doubly occupied (right), for interaction strengths 15 ≤rs ≤55. (d) Same sublattice doublon correlation function ⟨τiτj⟩versus separation R in units of the moir´ e period aM, for the same range of interaction strengths as in (c)....",
+        "FIG. 5: Charge density and pair correlation across representative transitions from C = 1 to C = 0. The top row shows the model for WSe2/WS2 (ϕ = 45◦). The bottom row shows the bilayer WS2 (ϕ = 20◦) ground states. Each density panel is divided in two, with the left half showing the Chern number C = 1 state and the right half showing the C = 0 state. The third panel in each row shows linecuts of the density plots for six values of Vm in meV (values shown in the legend box on the right), through the high-density locations of all three electrons in the moir´ e unit cell, as indicated by the motifs on the right. These clearly distinguish the charge-ordered states at ϕ = 45◦and ϕ = 20◦: the former has substantial occupation on the honeycomb B-sublattice, whereas the latter has almost none. Note that in each sub-panel, the line for Vm = 0.1 meV (IQH phase) is essentially indistinguishable from..."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that two-dimensional electrons in a strong magnetic field exhibit two seemingly incompatible ground states: incompressible quantum Hall liquids with a quantized Hall conductance, and electron crystals in which interactions drive the charge into ordered patterns. Using neural quantum states (NQS) together with several methodological advances, we show how this competition unfolds. At the honeycomb point, where each cell contains three electrons and two degenerate moiré minima, wells are either singly or doubly occupied and the doublons provide an emergent Ising degree of freedom.",
       "abstract_status": "original"
     },
     {
