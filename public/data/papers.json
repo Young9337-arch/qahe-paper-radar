@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T08:52:06.901207+00:00",
+  "updated_at": "2026-11-20T08:37:49.744103+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -28,6 +28,89 @@
       "abstract_status": "ai_assisted"
     },
     {
+      "id": "doi:10.1103/4v66-y755",
+      "title": "Interaction-Induced Sign Reversal of the Orbital Magnetic Susceptibility in Chern Insulators",
+      "authors": [
+        "Ke Huang",
+        "Xiao Li"
+      ],
+      "abstract": "It has been well established that the orbital magnetization of interacting electrons can be simply evaluated by applying the single-particle formula to self-consistent Hartree-Fock (HF) bands. However, we show that such a procedure fails qualitatively for orbital magnetic susceptibility, especially in topological systems: in a Chern-insulating phase of twisted MoTe 2 , the interaction-induced correction reverses the sign of the susceptibility. This result follows from an algebraic framework that solves the HF problem at finite magnetic field, where noncommuting canonical momenta obstruct a direct calculation: a maps every magnetic-translation-invariant operator to a unique bivariate function, converting the finite-field self-consistency into a function equation that can be expanded systematically in B . At first order, this yields a linear equation for the field-induced change δ X of the Fock potential, leading to an intrinsically interaction-induced susceptibility in addition to a single-particle-like one. The framework reproduces the Středa formula for insulators, and an auxiliary-Hilbert-space construction carries it to periodic and moiré systems. Finite-field HF calculations in a gapped Dirac model and in the twisted MoTe 2 Chern insulator confirm the theory quantitatively.",
+      "journal": "Physical Review Letters",
+      "published": "2026-11-19",
+      "url": "https://doi.org/10.1103/4v66-y755",
+      "doi": "10.1103/4v66-y755",
+      "source": "Crossref",
+      "material_system": "Moire_Superlattice",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "In Moire Superlattice, this paper argues that it has been well established that the orbital magnetization of interacting electrons can be simply evaluated by applying the single-particle formula to self-consistent Hartree-Fock (HF) bands. However, we show that such a procedure fails qualitatively for orbital magnetic susceptibility, especially in topological systems: in a Chern-insulating phase of twisted MoTe 2 , the interaction-induced correction reverses the sign of the susceptibility.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2611.26016",
+      "title": "Topology-Enabled Self-Verification of Quantum Hall Resistance Standards",
+      "authors": [
+        "DaVonne Henry",
+        "Dominick S. Scaletta",
+        "Tamar M. Padwa",
+        "Heather M. Hill",
+        "Gretchen B. Ferguson",
+        "Evelyn E. Hopkins",
+        "Mattias Kruskopf",
+        "Dean G. Jarrett",
+        "David B. Newell",
+        "Albert F. Rigosi"
+      ],
+      "abstract": "The scaling of multi-element quantized Hall array resistance standards necessitates rigorous validation that internal quantization has not broken down without relying on the verification of dissipationless edge state transport. One proposed solution is to use a Symmetric Precision Quantization Reliability criterion, a mathematical framework that statistically assures such validation strictly through outer terminal measurements of Cn-symmetric designs. This criterion essentially bounds the likelihood of hidden localized defects arising from quantum Hall breakdown and has potential uses in quantum computing and semiconductor testing but is presented in the context of its application toward quantum electrical standards.",
+      "journal": "arXiv",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.26016",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.26016-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.26016-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (Color online) Schematics of 5 QHARS designs. (a) Approximately 100 Ω 𝐶𝐶3-symmetric array featuring highly parallelized active arms. (b) Approximately 1 MΩ 𝐶𝐶3-symmetric network, with two different approaches. The first approach uses series-only arrangements and the second utilizes star-mesh configurations. (c) Approximately 1 GΩ 𝐶𝐶4-symmetric design that balances 44-element series arms with a 40-element parallel central grounded subarray (shunt). (d) Approximately 1 TΩ 𝐶𝐶5-symmetric dual-stage star-mesh network. Each active arm contains a localized parallel shunt isolating two distinct series strings before connecting to the central secondary shunt going to ground. (e) Lithographic layout of a simpler 𝐶𝐶3 ( 2 3 𝑅𝑅H output, with three possible 𝑅𝑅H-valued cyclic measurements) design for validating SPQR criterion framework. The diagram labels the set of three cyclic two-terminal..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that the scaling of multi-element quantized Hall array resistance standards necessitates rigorous validation that internal quantization has not broken down without relying on the verification of dissipationless edge state transport.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.25633",
+      "title": "Interaction-driven phase transition between bosonic Moore-Read and Laughlin states in a multiple flat-band model",
+      "authors": [
+        "Licheng Wang",
+        "Jia-Yuan Wu",
+        "Dong-Hao Guan",
+        "Ai-Lei He",
+        "Yuan Zhou"
+      ],
+      "abstract": "Lattice models with multiple nearly flat bands provide additional degrees of freedom for realizing fractional Chern insulators and studying competition between distinct topological orders. Here we report numerical evidence for the interaction-driven phase transition between the non-Abelian and Abelian topologically ordered states at fixed filling factor in a multiple flat-band lattice model. We construct a six-site Kekulé lattice model with two low-energy nearly flat bands whose Chern numbers are $1$ and $0$, respectively. At one boson per unit cell (a site filling of $\\frac{1}{6}$), the weak two-body repulsion favors a Moore-Read state predominantly occupying the lowest band, whereas stronger repulsion favors a Laughlin-like state with substantial occupations of both lower bands. We identify the two states by the low-energy spectra, particle entanglement spectra, and many-body Chern numbers, using the real-space and band-projected exact diagonalization, supplemented by infinite density-matrix renormalization group calculations. Our results provide alternative platform to study the quantum phase transition of distinct topological orders beyond the conventional multilayer systems.",
+      "journal": "arXiv",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.25633",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.25633-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.25633-fig01.png",
+        "/data/figures/arxiv-2611.25633-fig02.png",
+        "/data/figures/arxiv-2611.25633-fig03.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Kekulé lattice model and directed hopping terms. The ⃗ a1 and ⃗ a2 denote lattice vectors. Colors distinguish hop- ping terms, and arrows indicate staggered phases. (b) The energy spectrum with Chern number C1 = 1 and C2 = 0 on the cylinder geometry. Bulk and edge states are illustrated by blue solid lines and red dashed lines, respectively. The original model is a six-band model. For numerical convenience, we construct the many-body basis from the lowest M Bloch bands of H0, with M = 1, 2. Retaining both bands allows FCI states with appreciable multiband occupation [38, 39]. The projected annihilation operator is e cRα = 1 √ N X k M X m=1 eik·Ruαm(k)γmk. (4) Here N = Nx × Ny is the number of unit cells, α labels the six orbitals within a unit cell, uαm(k) is the Bloch eigenvector of H0, and γmk annihilates a boson in band m. The projected Hamiltonian is Hproj = X k M X m=1...",
+        "FIG. 2. MR limit diagnostics. (a) and (b) Results in pro- jected single-band subspace with parameters M = 1, U2 = 0, and U3 = 600. (a) Low-energy spectra for lattice size of Nx×Ny. Each spectrum are measured relative to their lowest energy. (b) PES for 4 × 3 with Nb = 12 and NA = 6. The dashed line lies in the entanglement gap and separates the 3430 levels. (c) and (d) Results in unprojected Hamiltonian with U = 0. (c) Charge pumping after two flux quanta inser- tion on a infinite-cylinder with Ly = 3 and bond dimension χ = 1200. (d) Entanglement spectrum flow as a function of flux, five charge sectors ∆N are marked by distinct colors. MR state limit–The first flat band with C = 1 has relatively smooth curvature and a small trace-condition deviation [Fig.S1 in SM], making it possible to realize the correlated topological states. We first consider inter- acting bosons at integer filling...",
+        "FIG. 3. Laughlin-like limit diagnostics. (a)-(c) Results in projected two-band subspace with parameters M = 2, U2 = 50, and U3 = 0. (a) Two-band projected spectra for size of Nx × Ny, measured relative to the lowest energy. (b) PES for size of 3 × 3, NB = 9 and NA = 4. There are 1287 levels lie below the gap. (c) Total Berry curvature of the two ground states on a 10 × 10 twist mesh, yielding a total Chern number C12 = −1. (d) Results in unprojected Hamiltonian with U = 12. Charge pumping after 2π flux insertion with Ly = 3 and χ = 1200. We also examine the results on an infinite cylinder for more evidence of the topological order in unprojected Hamiltonian (Eq. 1). We obtain the charge polarization ⟨QL(Φy)⟩of the left half cylinder [Fig. 2(c)]. During the insertion of 2π flux, the ground state wave func- tion pumps one charge, corresponding to Hall conduc- tivity σH ≈e2/h. The charge..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that lattice models with multiple nearly flat bands provide additional degrees of freedom for realizing fractional Chern insulators and studying competition between distinct topological orders. We construct a six-site Kekulé lattice model with two low-energy nearly flat bands whose Chern numbers are $1$ and $0$, respectively.",
+      "abstract_status": "original"
+    },
+    {
       "id": "doi:10.1021/acs.nanolett.6c04819",
       "title": "Floquet Quantum Anomalous Hall States with Tunable Chern Numbers and Thermal Signatures in Altermagnets",
       "authors": [
@@ -48,6 +131,71 @@
       "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that abstract The quantum anomalous Hall effect (QAHE) offers unique opportunities for low-dissipation spin transport, yet realizing a tunable QAHE without a net magnetization remains challenging. Our results establish an optically tunable high-Chern-number QAHE in 2D altermagnets and demonstrate the potential of thermoelectric and thermal Hall responses as probes of Floquet topological phases. Here, Floquet engineering provides a versatile route to the QAHE in two-dimensional (2D) altermagnets.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.25034",
+      "title": "Anyon Coherent States in Fractional Chern Insulators",
+      "authors": [
+        "Pedro Fittipaldi de Castro",
+        "Haylen Gerhard",
+        "Wladimir A. Benalcazar"
+      ],
+      "abstract": "In fractional quantum Hall (FQH) systems, coherent anyonic excitations are the natural entities for describing anyon dynamics, their interactions, and braiding, yet no general expression for their wavefunctions is known beyond Laughlin's quasiholes. We introduce a systematic, operator-based construction of maximally-localized wavefunctions of anyons of either charge in FQH states and fractional Chern insulators, including those in non-ideal, non-vortexable bands. We find that these wavefunctions describe coherent quasiparticles: zero modes of local annihilation operators that saturate projected-density uncertainty bounds. These coherent states owe their existence to a nontrivial topology of the anyon band, with the winding of their Bloch coefficients encoding an anyon band's Chern number. As such, their guiding centers exist anywhere within the lattice, and their mutual overlaps decay as Gaussians determined by the effective magnetic length of the anyon band.",
+      "journal": "arXiv",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.25034",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.25034-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.25034-fig01.png",
+        "/data/figures/arxiv-2611.25034-fig02.png",
+        "/data/figures/arxiv-2611.25034-fig03.png",
+        "/data/figures/arxiv-2611.25034-fig04.png",
+        "/data/figures/arxiv-2611.25034-fig05.png",
+        "/data/figures/arxiv-2611.25034-fig06.png",
+        "/data/figures/arxiv-2611.25034-fig07.png",
+        "/data/figures/arxiv-2611.25034-fig08.png",
+        "/data/figures/arxiv-2611.25034-fig09.png",
+        "/data/figures/arxiv-2611.25034-fig10.png",
+        "/data/figures/arxiv-2611.25034-fig11.png",
+        "/data/figures/arxiv-2611.25034-fig12.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Anyon coherent states in the FQHE. (a) Low-energy spectrum of the 𝑉1 pseudopotential (E1) in the one-quasihole sector, 𝑁𝜙= 3𝑁𝑒+ 1 = 25, with the degenerate ground-state manifold highlighted in blue. Inset: Spatial Localizer indicator function (LIF). (b) Electron-density deviation from the uniform 𝜈= 1/3 background for the quasihole localizer state |𝜓(0)⟩. (c) Integrated charge 𝑄(𝑅) within radius 𝑅for |𝜓(0)⟩(solid blue line), compared with Monte Carlo results for a Laughlin quasihole at 𝜈= 1/3. (d) Uncertainty ratio 𝜂𝒓of (6) at 𝒓= 0 versus the many-body Hilbert-space dimension dim H = \u0000𝑁𝜙 𝑁𝑒 \u0001, for quasiholes (blue) and quasielectrons (red). Numbers beside the markers indicate 𝑁𝑒; the dotted line marks uncertainty saturation, 𝜂= 1. (e) Low-energy spectrum of the Coulomb interaction (E3) in the one quasi-electron sector, 𝑁𝜙= 3𝑁𝑒−1 = 23. (f,g) Same as (b,c), but for the...",
+        "FIG. 2. Quasihole coherent states in the kagome FCI (a) Deviation 𝛿(𝒌) = (tr𝑔(𝒌) −|Ω(𝑘)|)/(tr𝑔(𝒌) +|Ω(𝑘)|) of the single-particle kagome band with 𝐶= 1 from the ideal “trace” condition over the BZ. (b) Spectrum of the interacting kagome Hamiltonian at 𝑁𝜙= 3𝑁𝑒+ 1 = 25 with the low-energy quasihole band highlighted in black. Inset: schematic of the kagome lattice, where the arrows indicate the direction of +i (as opposed to −i) in the NN hoppings. (c-e) Charge density relative to 𝜈= 1/3 filling of Spatial Localizer quasiholes centered at different points on the unit cell. (f) Berry curvature Ω(𝒌) over the BZ. (g) Spatial Localizer indicator function on the Wigner-Seitz unit cell, with sites shown as white circles and 𝐶3-symmetric points as colored crosses. (h-j) Integrated charge 𝑄(𝑅) as a function of distance 𝑅to the core of the Spatial Localizer quasiholes in (c-e). The charge...",
+        "FIG. 3. Overcompleteness, maximal localization, and topology of FCI anyon coherent states. (a) Overlaps of coherent states at fixed 𝒓0 and varying 𝒓, measured by the subspace fidelity 𝐹(𝒓, 𝒓0) = 1 3 Í 𝑠,𝑡|⟨𝜓𝑠(𝒓)|𝜓𝑡(𝒓)⟩|2. (b) Subspace fidelity averaged over points 𝒓, 𝒓′ at fixed distances from one another, plotted as a function of that distance squared. (c) Convergence of the density variance under iterative minimization from random initial states to that of the FCI Spatial Localizer quasihole. (d) Squared magnitudes |𝑎𝒓(𝑲)|2 of the Bloch coefficients (10) for the coherent state in Fig. 2(d). The highlighted oriented region encloses a net vorticity 𝑛loop = 3. as 𝐹∝exp[−|𝒓−𝒓′|2/(2ℓ2 fit)], with ℓfit = 0.644 𝑎. This overlap length agrees with the effective magnetic length ℓ= √︁ Δ ˜ 𝑋2 𝒓+ Δ ˜ 𝑌2 𝒓 = 0.643 𝑎obtained from the spread of each individual state, the same relation that holds for...",
+        "FIG. 4. Periodic density operator. (a) Spectrum of the periodic density operator (B3) acting on the two-particle sector of a one-dimensional fermionic system with periodic boundary conditions. The phase of each eigenvalue determines the center of mass ⟨ˆ 𝑋⟩, while its modulus encodes the spatial spread of the corresponding eigenstate. (b)–(d) Charge distributions of the eigenstates associated with the blue, red, and green eigenvalues highlighted in panel (a), respectively. Black squares denote lattice sites. Black arrows represent the single-particle phasors, while the colored arrow denotes their vector sum. The direction of this sum specifies the center of mass, whereas its magnitude encodes the spatial spread of the corresponding configuration. Here, 𝐿= 8 and 𝑁𝑒= 2. where 𝑛𝑹,𝑠is the particle number operator at unit cell 𝑹and orbital position 𝒓𝑠and |𝑛⟩∈C𝑁𝜙with ⟨𝑚|𝑛⟩= 𝛿𝑚𝑛. Notice that ˜..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that in fractional quantum Hall (FQH) systems, coherent anyonic excitations are the natural entities for describing anyon dynamics, their interactions, and braiding, yet no general expression for their wavefunctions is known beyond Laughlin's quasiholes. We find that these wavefunctions describe coherent quasiparticles: zero modes of local annihilation operators that saturate projected-density uncertainty bounds.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.25010",
+      "title": "Exact Fractional Chern Insulators from Hubbard Interactions",
+      "authors": [
+        "Jonah Herzog-Arbeitman",
+        "Rui-Heng Liu",
+        "Jiangping Hu",
+        "Chen Fang"
+      ],
+      "abstract": "Laughlin's wavefunction and its parent interaction, Haldane's pseudopotential, underpin our analytic understanding of fractional quantum Hall effect. They are an exact pair in the sense that the wavefunction is the unique, zero-energy ground state of its frustration-free parent Hamiltonian. In this work, we propose exact pairs of many-body wavefunctions for fractional Chern insulators in tight binding models with onsite Hubbard interactions as their parents. The key to our construction is introduction of a Landau-dual Chern band, a multi-orbital Chern band obtained from directly sampling the spin-$s$ Dirac Landau level on a Bravais lattice. The exact many-body wavefunctions are given, analytically, in terms of the matrix coordinate $X+iY+J$, where $(X,Y)$ are the lattice coordinates and $J$ is a nilpotent matrix in spin space. The constructed exact pairs cover the fractional Chern states of the Laughlin, the Read-Rezayi, and the Halperin series. Our results prove that FCI ground states exist beyond ideal bands.",
+      "journal": "arXiv",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.25010",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.25010-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.25010-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Quantum Geometry of the Landau-dual Chern band. (a) shows the average 2-body interaction strength ∆2 = det ⟨P⟩BZ as a function of λ. ∆2 is maximized when the flat band is equally distributed between the 2 orbitals. (b) show the Chern number C = 2π ⟨f⟩BZ = 1 and integrated quantum metric G = 2π ⟨g⟩BZ in red and blue respectively. (c) shows their standard deviation, σF , σG, on the Brillouin zone (BZ). We see that the band is ideal as λ →∞, but that the fluctuation across the BZ is minimized at smaller λ. (d)-(g) show the distribution of the Berry curvature f, quantum metric g, and their ideality violations g −f and g −|f| as a function of k. We see that the Berry curvature is both positive and negative, and that there are strong violations of either ±f ideality at the X, Y and M points. At M, interestingly, the band is anti-ideal and obeys g = −f. Hence S is a second duality,..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that laughlin's wavefunction and its parent interaction, Haldane's pseudopotential, underpin our analytic understanding of fractional quantum Hall effect. In this work, we propose exact pairs of many-body wavefunctions for fractional Chern insulators in tight binding models with onsite Hubbard interactions as their parents.",
       "abstract_status": "original"
     },
     {
@@ -1764,26 +1912,6 @@
       "published": "2026-10-27",
       "url": "https://doi.org/10.1103/f735-gr9z",
       "doi": "10.1103/f735-gr9z",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
-    },
-    {
-      "id": "doi:10.1103/4v66-y755",
-      "title": "Interaction-induced sign reversal of the orbital magnetic susceptibility in Chern insulators",
-      "authors": [
-        "Ke Huang",
-        "Xiao Li"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Interaction-induced sign reversal of the orbital magnetic susceptibility in Chern insulators in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review Letters",
-      "published": "2026-10-27",
-      "url": "https://doi.org/10.1103/4v66-y755",
-      "doi": "10.1103/4v66-y755",
       "source": "Crossref",
       "material_system": "Other_New_Materials",
       "image_url": null,
