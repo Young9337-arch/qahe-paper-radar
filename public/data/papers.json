@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T11:01:43.943402+00:00",
+  "updated_at": "2026-11-25T09:54:21.604624+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -23,6 +23,102 @@
       "figure_urls": [
         "https://files.sciengine.com/template/platform/img/SciEngine-logo.png"
       ],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1088/0256-307x/44/1/010703",
+      "title": "Mirror Chern Insulators in Two-Dimensional Altermagnets",
+      "authors": [
+        "Rong Wang",
+        "Ruo-Yu Ning",
+        "Zhi-Hua Yan",
+        "Si Li"
+      ],
+      "abstract": "Abstract The interplay between altermagnetism and crystalline band topology provides a promising avenue for realizing unconventional topological phases. Here, based on first-principles calculations and theoretical analysis, we identify monolayer Tc 2 Cl 2 O and Tc 2 Br 2 O as a new family of two-dimensional altermagnetic mirror Chern insulators. In the absence of spin-orbit coupling (SOC), both monolayers exhibit robust altermagnetism with mirror-spin coupling and host symmetry-protected Weyl points near the Fermi level, with the two spin channels carrying distinct mirror eigenvalues. Upon inclusion of SOC, these Weyl points are gapped, while the two mirror sectors acquire opposite Chern numbers, giving rise to a nonzero mirror Chern number. The resulting topological phases support helical edge states within the bulk gap and exhibit a nearly quantized spin Hall conductivity. Our results expand the landscape of mirror Chern insulators and establish two-dimensional altermagnets as a promising platform for exploring unconventional spin-dependent topological phenomena, potentially stimulating future experimental investigations.",
+      "journal": "Chinese Physics Letters",
+      "published": "2026-11-25",
+      "url": "https://doi.org/10.1088/0256-307x/44/1/010703",
+      "doi": "10.1088/0256-307x/44/1/010703",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE4LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAyMDYuNSAzMS44IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyMDYuNSAzMS44IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8Zz4KCQk8Zz4KCQkJPHBhdGggZmlsbD0iI0NDMDAwMCIgZD0iTTAsMzAuOVY0LjJoOC4ydjI2LjdIMHoiLz4KCQkJPHBhdGggZmlsbD0iI0NDMDAwMCIgZD0iTTI0LjQsMzEuM2MtOCwwLTEyLjctNi0xMi43LTEzLjdjMC03LjgsNC42LTEzLjgsMTIuOC0xMy44YzgsMCwxMi42LDUuOCwxMi42LDEzLjUKCQkJCUMzNy4xLDI1LDMyLjYsMzEuMywyNC40LDMxLjN6IE0yNC41LDkuOGMtMy43LDAtNCw1LjMtNCw3LjljMCwyLjYsMC4zLDcuNCwzLjksNy40YzMuOCwwLDMuOS00LjksMy45LTcuNnYtMC4zCgkJCQlDMjguMywxNC43LDI4LjIsOS44LDI0LjUsOS44eiIvPgoJCTwvZz4KCQk8Zz4KCQkJPHBhdGggZmlsbD0iI0NDMDAwMCIgZD0iTTUzLjUsMjEuMmgtNC42djkuN2gtOC4zVjQuMmgxMS40YzIuOSwwLDYsMC4yLDguMywyLjFjMiwxLjYsMywzLjksMyw2LjRDNjMuMiwxOC4zLDU4LjcsMjEuMiw1My41LDIxLjIKCQkJCXogTTUxLjcsMTAuM2gtM3Y1LjJoMi44YzEuOSwwLDMuNi0wLjQsMy42LTIuNkM1NS4xLDEwLjgsNTMuNSwxMC4zLDUxLjcsMTAuM3oiLz4KCQk8L2c+CgkJPGc+CgkJCTxwYXRoIGZpbGw9IiMwMDZFQjIiIGQ9Ik03NC43LDMxLjZjLTUuMSwwLTguMi0yLjMtOS4yLTcuM2wzLjUtMC44YzAuNywzLjMsMi41LDQuOSw1LjksNC45YzIuNSwwLDUuMS0xLjQsNS4xLTQuMgoJCQkJYzAtNC42LTguMi00LjMtMTEuNS03LjJjLTEuNC0xLjItMi4yLTMtMi4yLTQuOGMwLTQuNiw0LTcuNyw4LjQtNy43YzIuMywwLDQuNiwwLjgsNi4yLDIuNWMxLjEsMS4yLDEuNSwyLjQsMS45LDRsLTMuMywwLjgKCQkJCWMtMC44LTIuNC0yLjItNC4yLTUtNC4yYy0yLjMsMC00LjQsMS40LTQuNCwzLjljMCwyLjEsMS41LDMuMSwzLjMsMy42YzQuNCwxLjQsMTAuNSwyLjUsMTAuNSw4LjRDODQsMjguOSw3OS41LDMxLjYsNzQuNywzMS42eiIKCQkJCS8+CgkJCTxwYXRoIGZpbGw9IiMwMDZFQjIiIGQ9Ik0xMDMsMjguOWMtMS42LDItNC4yLDIuNy02LjYsMi43Yy03LjYsMC05LjMtNy4yLTkuMy0xMy40YzAtNi40LDEuOC0xMy43LDkuNi0xMy43YzIuMywwLDQuNCwwLjcsNiwyLjQKCQkJCWMxLjYsMS44LDIsNCwyLjUsNi4ybC0zLjgsMC44Yy0wLjUtMy4xLTAuOS02LjItNC44LTYuMmMtMy42LDAtNC41LDMtNC45LDZjLTAuMywxLjctMC4zLDMuNC0wLjMsNS4xYzAsMy43LDAuNCw5LjUsNS40LDkuNQoJCQkJYzMuNywwLDQuMy0zLjIsNC42LTYuMmwzLjgsMC41QzEwNC44LDI1LDEwNC41LDI3LDEwMywyOC45eiIvPgoJCQk8cGF0aCBmaWxsPSIjMDA2RUIyIiBkPSJNMTA5LjcsMzAuOVY1LjJoMy44djI1LjZIMTA5Ljd6Ii8+CgkJCTxwYXRoIGZpbGw9IiMwMDZFQjIiIGQ9Ik0xMjMsMTguNXYwLjJjMCw0LjEsMC43LDkuNyw1LjksOS43YzMuMywwLDQuNC0yLjMsNS4zLTUuMWwzLjUsMC44Yy0xLjIsNC42LTQsNy41LTguOSw3LjUKCQkJCWMtNy41LDAtOS44LTYuNy05LjgtMTMuMmMwLTYuMywyLjQtMTMuOSwxMC0xMy45YzMuMiwwLDUuOCwxLjUsNy4zLDQuM2MxLjgsMy4zLDEuOCw2LDEuOSw5LjdIMTIzeiBNMTI4LjUsNy43CgkJCQljLTQsMC01LDQuNC01LjQsNy42aDEwLjdDMTMzLjgsMTEuOSwxMzIuOCw3LjcsMTI4LjUsNy43eiIvPgoJCQk8cGF0aCBmaWxsPSIjMDA2RUIyIiBkPSJNMTU2LjYsMzAuOVYxNS4xYzAtMy4yLDAuNC03LjMtNC03LjNjLTUsMC01LjUsNS42LTUuNSw5LjN2MTMuOGgtMy44VjUuMmgzLjV2NGMxLjQtMy4xLDMuMS00LjcsNi42LTQuNwoJCQkJYzIsMCw0LjEsMC43LDUuNCwyLjJjMS43LDIuMSwxLjYsNS4zLDEuNiw3Ljh2MTYuM0gxNTYuNnoiLz4KCQkJPHBhdGggZmlsbD0iIzAwNkVCMiIgZD0iTTE4MS44LDI4LjljLTEuNiwyLTQuMiwyLjctNi42LDIuN2MtNy42LDAtOS4zLTcuMi05LjMtMTMuNGMwLTYuNCwxLjgtMTMuNyw5LjYtMTMuNwoJCQkJYzIuMywwLDQuNCwwLjcsNiwyLjRjMS42LDEuOCwyLDQsMi41LDYuMmwtMy44LDAuOGMtMC41LTMuMS0wLjktNi4yLTQuOC02LjJjLTMuNiwwLTQuNSwzLTQuOSw2Yy0wLjMsMS43LTAuMywzLjQtMC4zLDUuMQoJCQkJYzAsMy43LDAuNCw5LjUsNS40LDkuNWMzLjcsMCw0LjMtMy4yLDQuNi02LjJsMy44LDAuNUMxODMuNywyNSwxODMuMywyNywxODEuOCwyOC45eiIvPgoJCQk8cGF0aCBmaWxsPSIjMDA2RUIyIiBkPSJNMTkxLjMsMTguNXYwLjJjMCw0LjEsMC43LDkuNyw1LjksOS43YzMuMywwLDQuNC0yLjMsNS4zLTUuMWwzLjUsMC44Yy0xLjIsNC42LTQsNy41LTguOSw3LjUKCQkJCWMtNy41LDAtOS44LTYuNy05LjgtMTMuMmMwLTYuMywyLjQtMTMuOSwxMC0xMy45YzMuMiwwLDUuOCwxLjUsNy4zLDQuM2MxLjgsMy4zLDEuOCw2LDEuOSw5LjdIMTkxLjN6IE0xOTYuOCw3LjcKCQkJCWMtNCwwLTUsNC40LTUuNCw3LjZoMTAuN0MyMDIuMSwxMS45LDIwMSw3LjcsMTk2LjgsNy43eiIvPgoJCTwvZz4KCTwvZz4KCTxyZWN0IHg9IjEwOS43IiB5PSIwLjIiIGZpbGw9IiMwMDZFQjIiIHdpZHRoPSIzLjgiIGhlaWdodD0iMy40Ii8+CjwvZz4KPC9zdmc+Cg==",
+      "figure_urls": [
+        "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE4LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAyMDYuNSAzMS44IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyMDYuNSAzMS44IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8Zz4KCQk8Zz4KCQkJPHBhdGggZmlsbD0iI0NDMDAwMCIgZD0iTTAsMzAuOVY0LjJoOC4ydjI2LjdIMHoiLz4KCQkJPHBhdGggZmlsbD0iI0NDMDAwMCIgZD0iTTI0LjQsMzEuM2MtOCwwLTEyLjctNi0xMi43LTEzLjdjMC03LjgsNC42LTEzLjgsMTIuOC0xMy44YzgsMCwxMi42LDUuOCwxMi42LDEzLjUKCQkJCUMzNy4xLDI1LDMyLjYsMzEuMywyNC40LDMxLjN6IE0yNC41LDkuOGMtMy43LDAtNCw1LjMtNCw3LjljMCwyLjYsMC4zLDcuNCwzLjksNy40YzMuOCwwLDMuOS00LjksMy45LTcuNnYtMC4zCgkJCQlDMjguMywxNC43LDI4LjIsOS44LDI0LjUsOS44eiIvPgoJCTwvZz4KCQk8Zz4KCQkJPHBhdGggZmlsbD0iI0NDMDAwMCIgZD0iTTUzLjUsMjEuMmgtNC42djkuN2gtOC4zVjQuMmgxMS40YzIuOSwwLDYsMC4yLDguMywyLjFjMiwxLjYsMywzLjksMyw2LjRDNjMuMiwxOC4zLDU4LjcsMjEuMiw1My41LDIxLjIKCQkJCXogTTUxLjcsMTAuM2gtM3Y1LjJoMi44YzEuOSwwLDMuNi0wLjQsMy42LTIuNkM1NS4xLDEwLjgsNTMuNSwxMC4zLDUxLjcsMTAuM3oiLz4KCQk8L2c+CgkJPGc+CgkJCTxwYXRoIGZpbGw9IiMwMDZFQjIiIGQ9Ik03NC43LDMxLjZjLTUuMSwwLTguMi0yLjMtOS4yLTcuM2wzLjUtMC44YzAuNywzLjMsMi41LDQuOSw1LjksNC45YzIuNSwwLDUuMS0xLjQsNS4xLTQuMgoJCQkJYzAtNC42LTguMi00LjMtMTEuNS03LjJjLTEuNC0xLjItMi4yLTMtMi4yLTQuOGMwLTQuNiw0LTcuNyw4LjQtNy43YzIuMywwLDQuNiwwLjgsNi4yLDIuNWMxLjEsMS4yLDEuNSwyLjQsMS45LDRsLTMuMywwLjgKCQkJCWMtMC44LTIuNC0yLjItNC4yLTUtNC4yYy0yLjMsMC00LjQsMS40LTQuNCwzLjljMCwyLjEsMS41LDMuMSwzLjMsMy42YzQuNCwxLjQsMTAuNSwyLjUsMTAuNSw4LjRDODQsMjguOSw3OS41LDMxLjYsNzQuNywzMS42eiIKCQkJCS8+CgkJCTxwYXRoIGZpbGw9IiMwMDZFQjIiIGQ9Ik0xMDMsMjguOWMtMS42LDItNC4yLDIuNy02LjYsMi43Yy03LjYsMC05LjMtNy4yLTkuMy0xMy40YzAtNi40LDEuOC0xMy43LDkuNi0xMy43YzIuMywwLDQuNCwwLjcsNiwyLjQKCQkJCWMxLjYsMS44LDIsNCwyLjUsNi4ybC0zLjgsMC44Yy0wLjUtMy4xLTAuOS02LjItNC44LTYuMmMtMy42LDAtNC41LDMtNC45LDZjLTAuMywxLjctMC4zLDMuNC0wLjMsNS4xYzAsMy43LDAuNCw5LjUsNS40LDkuNQoJCQkJYzMuNywwLDQuMy0zLjIsNC42LTYuMmwzLjgsMC41QzEwNC44LDI1LDEwNC41LDI3LDEwMywyOC45eiIvPgoJCQk8cGF0aCBmaWxsPSIjMDA2RUIyIiBkPSJNMTA5LjcsMzAuOVY1LjJoMy44djI1LjZIMTA5Ljd6Ii8+CgkJCTxwYXRoIGZpbGw9IiMwMDZFQjIiIGQ9Ik0xMjMsMTguNXYwLjJjMCw0LjEsMC43LDkuNyw1LjksOS43YzMuMywwLDQuNC0yLjMsNS4zLTUuMWwzLjUsMC44Yy0xLjIsNC42LTQsNy41LTguOSw3LjUKCQkJCWMtNy41LDAtOS44LTYuNy05LjgtMTMuMmMwLTYuMywyLjQtMTMuOSwxMC0xMy45YzMuMiwwLDUuOCwxLjUsNy4zLDQuM2MxLjgsMy4zLDEuOCw2LDEuOSw5LjdIMTIzeiBNMTI4LjUsNy43CgkJCQljLTQsMC01LDQuNC01LjQsNy42aDEwLjdDMTMzLjgsMTEuOSwxMzIuOCw3LjcsMTI4LjUsNy43eiIvPgoJCQk8cGF0aCBmaWxsPSIjMDA2RUIyIiBkPSJNMTU2LjYsMzAuOVYxNS4xYzAtMy4yLDAuNC03LjMtNC03LjNjLTUsMC01LjUsNS42LTUuNSw5LjN2MTMuOGgtMy44VjUuMmgzLjV2NGMxLjQtMy4xLDMuMS00LjcsNi42LTQuNwoJCQkJYzIsMCw0LjEsMC43LDUuNCwyLjJjMS43LDIuMSwxLjYsNS4zLDEuNiw3Ljh2MTYuM0gxNTYuNnoiLz4KCQkJPHBhdGggZmlsbD0iIzAwNkVCMiIgZD0iTTE4MS44LDI4LjljLTEuNiwyLTQuMiwyLjctNi42LDIuN2MtNy42LDAtOS4zLTcuMi05LjMtMTMuNGMwLTYuNCwxLjgtMTMuNyw5LjYtMTMuNwoJCQkJYzIuMywwLDQuNCwwLjcsNiwyLjRjMS42LDEuOCwyLDQsMi41LDYuMmwtMy44LDAuOGMtMC41LTMuMS0wLjktNi4yLTQuOC02LjJjLTMuNiwwLTQuNSwzLTQuOSw2Yy0wLjMsMS43LTAuMywzLjQtMC4zLDUuMQoJCQkJYzAsMy43LDAuNCw5LjUsNS40LDkuNWMzLjcsMCw0LjMtMy4yLDQuNi02LjJsMy44LDAuNUMxODMuNywyNSwxODMuMywyNywxODEuOCwyOC45eiIvPgoJCQk8cGF0aCBmaWxsPSIjMDA2RUIyIiBkPSJNMTkxLjMsMTguNXYwLjJjMCw0LjEsMC43LDkuNyw1LjksOS43YzMuMywwLDQuNC0yLjMsNS4zLTUuMWwzLjUsMC44Yy0xLjIsNC42LTQsNy41LTguOSw3LjUKCQkJCWMtNy41LDAtOS44LTYuNy05LjgtMTMuMmMwLTYuMywyLjQtMTMuOSwxMC0xMy45YzMuMiwwLDUuOCwxLjUsNy4zLDQuM2MxLjgsMy4zLDEuOCw2LDEuOSw5LjdIMTkxLjN6IE0xOTYuOCw3LjcKCQkJCWMtNCwwLTUsNC40LTUuNCw3LjZoMTAuN0MyMDIuMSwxMS45LDIwMSw3LjcsMTk2LjgsNy43eiIvPgoJCTwvZz4KCTwvZz4KCTxyZWN0IHg9IjEwOS43IiB5PSIwLjIiIGZpbGw9IiMwMDZFQjIiIHdpZHRoPSIzLjgiIGhlaWdodD0iMy40Ii8+CjwvZz4KPC9zdmc+Cg==",
+        "https://cms.iopscience.org/b05cc8f9-eec5-11ea-aa81-8d68c3b408dd/CPL_partner_logo?guest=true",
+        "https://static.iopscience.com/4.45.0/img/cc-by-nc-nd.png",
+        "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE4LjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxOTAuNyAyOS44IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxOTAuNyAyOS44IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZmlsbD0iI2ViMWIyNCIgZD0iTTAsMjMuM1YwLjNoNy4xdjIyLjlIMHoiLz4KPHBhdGggZmlsbD0iI2ViMWIyNCIgZD0iTTIwLjUsMjMuNmMtNi45LDAtMTAuOS01LjItMTAuOS0xMS44YzAtNi43LDQtMTEuOCwxMS0xMS44YzYuOSwwLDEwLjgsNSwxMC44LDExLjYKCUMzMS40LDE4LjIsMjcuNSwyMy42LDIwLjUsMjMuNnogTTIwLjYsNS4yYy0zLjIsMC0zLjUsNC41LTMuNSw2LjhjMCwyLjMsMC4yLDYuNCwzLjQsNi40YzMuMywwLDMuMy00LjIsMy4zLTYuNXYtMC4yCglDMjMuOCw5LjQsMjMuOCw1LjIsMjAuNiw1LjJ6Ii8+CjxwYXRoIGZpbGw9IiNlYjFiMjQiIGQ9Ik00NSwxNWgtNHY4LjNoLTcuMVYwLjNoOS44YzIuNSwwLDUuMiwwLjIsNy4yLDEuOGMxLjcsMS40LDIuNSwzLjMsMi41LDUuNUM1My40LDEyLjUsNDkuNSwxNSw0NSwxNXoKCSBNNDMuNSw1LjZoLTIuNlYxMGgyLjRjMS42LDAsMy4xLTAuMywzLjEtMi4zQzQ2LjMsNiw0NSw1LjYsNDMuNSw1LjZ6Ii8+CjxnPgoJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTcyLjUsMTMuNGMtMiwwLjctNC4zLDAuNS02LjQsMC41djkuM2gtMi44VjAuM2g0LjljMi40LDAsNC44LDAuMiw2LjYsMmMxLjIsMS4zLDEuOCwzLjEsMS44LDQuOAoJCUM3Ni42LDEwLjEsNzUuMywxMi41LDcyLjUsMTMuNHogTTY5LjcsMi42aC0zLjZ2OWgyLjFjMy4zLDAsNS40LTAuNiw1LjQtNC40QzczLjcsNC43LDcyLjQsMi42LDY5LjcsMi42eiIvPgoJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTg4LjUsMjMuM3YtMi41Yy0xLDItMi4xLDMtNC40LDNjLTEuMiwwLTIuNS0wLjMtMy4zLTEuM2MtMS4zLTEuNC0xLjItMy43LTEuMi01LjVWNi4zaDIuNXYxMS4zCgkJYzAsMiwwLDQsMi42LDRjMS44LDAsMi44LTEuMywzLjMtMi45YzAuNS0xLjUsMC40LTMuMSwwLjQtNC43VjYuM2gyLjV2MTYuOUg4OC41eiIvPgoJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEwMS43LDIzLjZjLTIuMywwLTMuMy0wLjctNC4zLTIuN2MtMC4yLDAuOC0wLjQsMS42LTAuNywyLjRoLTEuM1YwLjNoMi41djguMkM5OSw2LjksMTAwLjIsNiwxMDIuMiw2CgkJYzQuNywwLDUuOSw0LjksNS45LDguN0MxMDguMSwxOSwxMDYuNywyMy42LDEwMS43LDIzLjZ6IE0xMDEuNyw4LjFjLTIuOCwwLTMuOCwzLTMuOCw1LjRWMTZjMCwyLjYsMC42LDUuNSwzLjcsNS41CgkJYzMuNSwwLDMuNy00LjMsMy43LTYuOUMxMDUuMywxMiwxMDUuMiw4LjEsMTAxLjcsOC4xeiIvPgoJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTExMS44LDIzLjNWMC4zaDIuNXYyMi45SDExMS44eiIvPgoJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTExOC43LDMuM3YtM2gyLjh2M0gxMTguN3ogTTExOC44LDIzLjNWNi4zaDIuNXYxNi45SDExOC44eiIvPgoJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEzMC4yLDIzLjdjLTMuNCwwLTUuNC0xLjUtNi4xLTQuOGwyLjMtMC41YzAuNCwyLjIsMS43LDMuMiwzLjksMy4yYzEuNywwLDMuNC0wLjksMy40LTIuOAoJCWMwLTMuMS01LjQtMi44LTcuNi00LjdjLTAuOS0wLjgtMS40LTItMS40LTMuMmMwLTMuMSwyLjYtNS4xLDUuNS01LjFjMS41LDAsMywwLjUsNC4xLDEuN2MwLjcsMC44LDEsMS42LDEuMywyLjZsLTIuMiwwLjYKCQlDMTMyLjksOS4xLDEzMiw4LDEzMC4yLDhjLTEuNSwwLTIuOSwwLjktMi45LDIuNmMwLDEuNCwxLDIsMi4yLDIuNGMyLjksMC45LDYuOSwxLjcsNi45LDUuNkMxMzYuNCwyMS45LDEzMy40LDIzLjcsMTMwLjIsMjMuN3oiLz4KCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xNDguMSwyMy4zVjEyLjdjMC0yLDAuMS00LjgtMi43LTQuOGMtMy4yLDAtMy41LDQuMi0zLjUsNi41djguOGgtMi41VjAuM2gyLjV2OC42YzAuOC0yLDIuMS0zLjEsNC4yLTMuMQoJCWMxLjIsMCwyLjUsMC40LDMuNCwxLjNjMS4zLDEuNCwxLjIsMy43LDEuMiw1LjZ2MTAuNUgxNDguMXoiLz4KCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xNTUsMy4zdi0zaDIuOHYzSDE1NXogTTE1NS4xLDIzLjNWNi4zaDIuNXYxNi45SDE1NS4xeiIvPgoJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTE3MC45LDIzLjNWMTIuOGMwLTIuMSwwLjItNC44LTIuNi00LjhjLTMuMywwLTMuNiwzLjctMy42LDYuMnY5LjFoLTIuNVY2LjNoMi4zVjkKCQljMC45LTIuMSwyLjEtMy4xLDQuNC0zLjFjMS4zLDAsMi43LDAuNCwzLjUsMS41YzEuMSwxLjQsMSwzLjUsMSw1LjJ2MTAuOEgxNzAuOXoiLz4KCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xODMuNSwyOS44Yy0yLjksMC02LjgtMC44LTYuOC00LjVjMC0xLjcsMC43LTIuOCwyLjMtMy40Yy0xLTAuNy0xLjYtMS4zLTEuNi0yLjZjMC0xLjUsMC44LTIuNSwyLjItMy4xCgkJYy0xLjMtMS4zLTEuOS0yLjUtMS45LTQuNWMwLTMuMiwyLjQtNS45LDUuNy01LjljMS4yLDAsMS44LDAuMiwyLjgsMC44YzAuNC0yLjMsMS4zLTIuOSwzLjYtMi45aDAuNHYyLjJjLTAuMiwwLTAuNC0wLjEtMC43LTAuMQoJCWMtMS4zLDAtMS43LDEtMS44LDIuMWMwLjksMS4yLDEuMywyLjMsMS4zLDMuOGMwLDMuMy0yLjQsNS44LTUuNyw1LjhjLTAuNywwLTEuNC0wLjEtMi4xLTAuM2MtMC44LDAuMy0xLjQsMC42LTEuNCwxLjUKCQljMCwxLjUsMS41LDEuNiwyLjYsMS43YzAuNiwwLDEuMiwwLDEuOCwwLjFjMy4yLDAuMiw2LjUsMC4zLDYuNSw0LjNDMTkwLjcsMjguOCwxODYuNywyOS44LDE4My41LDI5Ljh6IE0xODQuMiwyMi42CgkJYy0xLjIsMC0yLjMsMC0zLjUtMC4xYy0wLjksMC41LTEuNCwxLjItMS40LDIuM2MwLDIuNSwyLjMsMi45LDQuNCwyLjljMS45LDAsNC40LTAuNCw0LjQtMi44QzE4OC4xLDIyLjcsMTg1LjgsMjIuNywxODQuMiwyMi42egoJCSBNMTgzLjIsOGMtMi4yLDAtMywxLjktMywzLjhjMCwxLjksMC45LDMuNywzLDMuN2MyLjEsMCwzLjEtMS45LDMuMS0zLjdDMTg2LjQsOS43LDE4NS41LDgsMTgzLjIsOHoiLz4KPC9nPgo8L3N2Zz4K"
+      ],
+      "figure_captions": [],
+      "ai_summary": "In Other New Materials, this paper argues that abstract The interplay between altermagnetism and crystalline band topology provides a promising avenue for realizing unconventional topological phases. Here, based on first-principles calculations and theoretical analysis, we identify monolayer Tc 2 Cl 2 O and Tc 2 Br 2 O as a new family of two-dimensional altermagnetic mirror Chern insulators.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/f735-gr9z",
+      "title": "Luttinger's theorem and Green's function topological invariants in a fractional Chern insulator",
+      "authors": [
+        "Anton A. Markov",
+        "Andrey M. Nikishin",
+        "Nigel R. Cooper",
+        "Nathan Goldman",
+        "Lucila Peralta Gavensky"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Luttinger’s theorem and Green’s function topological invariants in a fractional Chern insulator in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-11-24",
+      "url": "https://doi.org/10.1103/f735-gr9z",
+      "doi": "10.1103/f735-gr9z",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/4vsw-pcsm",
+      "title": "Alternative ν + ν picture of bosonic fractional Chern insulators at high filling factors in multiple flat-band systems",
+      "authors": [
+        "Licheng Wang",
+        "Dong-Hao Guan",
+        "Ai-Lei He",
+        "Shun-Li Yu",
+        "Yuan Zhou"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Alternative ν + ν picture of bosonic fractional Chern insulators at high filling factors in multiple flat-band systems in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review B",
+      "published": "2026-11-24",
+      "url": "https://doi.org/10.1103/4vsw-pcsm",
+      "doi": "10.1103/4vsw-pcsm",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "doi:10.1103/s94v-jrg3",
+      "title": "Photonic antiferromagnetic quantum anomalous Hall effect with switchable chirality of edge states",
+      "authors": [
+        "Yan-Chen Zhou",
+        "Hua-Shan Lai",
+        "Ya Yu",
+        "Yan-Feng Chen",
+        "Cheng He"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Photonic antiferromagnetic quantum anomalous Hall effect with switchable chirality of edge states in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-11-24",
+      "url": "https://doi.org/10.1103/s94v-jrg3",
+      "doi": "10.1103/s94v-jrg3",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
@@ -56,6 +152,29 @@
         "FIG. 3. Half-cylinder entanglement spectrum at L2 = 7. (a) Levels at ϕ2 = π and Qe = 3. Energies are measured from the tower bot- tom, whose momentum is Ky,0 = 5/2. The horizontal axis shows m = (Ky,0 −Ky) mod L2. Numbers give the highlighted level counts. (b) Lowest level in each fitted charge sector, measured from the minimum at each twist. Points show data and curves are quadratic fits. At ϕ2 = π/3 and 5π/3 (top), both fits give K = 3.075, with charge centers shifted by −0.330 and +0.330, respectively, from the center at ϕ2 = π (bottom, K = 3.057). placing the theory on the side expected to flow to the SU(3)1 WZW fixed point [62, 66]. Thus, proximity to ideal quantum geometry places the bare theory close to this fixed point. Entanglement spectrum. Having established charged topo- logical order and bulk criticality, we probe edge properties through the entanglement spectrum. The..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that unlike fractional quantum Hall states in uniform Landau levels, fractional Chern insulators can host dispersive anyon bands, raising the question of what happens when the anyon gap closes. We construct an exact finite-bond-dimension tensor-network state for a fractional Chern semimetal by Gutzwiller projecting a critical parton state. Favorable geometry enables precise agreement with CFT predictions even on narrow cylinders.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.31366",
+      "title": "Locality from Nonlocality: Symmetry Relocalization and Gauging of Lattice Dirac Fermions",
+      "authors": [
+        "Lei Su"
+      ],
+      "abstract": "Spatially nonlocal symmetries need not imply nonlocal gauge dynamics. Nonlocal canonical transformations make certain exact nonlocal compact symmetries of free lattice Dirac fermions onsite while retaining sufficient Hamiltonian locality for gauging. Symmetry relocalization yields exact or emergent gauge locality in 1D, 2D, and 3D, subject to lattice structure, topology, and anomalies. In 1D, a Hamiltonian-preserving transformation exchanges onsite vector and nonlocal spectral axial charges of a half-filled chain, enabling local gauging of each and exposing their mixed anomaly. Bosonization identifies momentum-winding T-duality, with a parity-projected operator flowing to a noninvertible topological defect. A nonperturbative norm-resolvent bound proves emergent dynamical gauge locality at finite chemical potential, while a doubled Chern-insulator parent reveals the duality's bulk origin and superconducting extensions reveal hidden compact symmetries. In 2D, the square $π$-flux Majorana model shares the Kitaev honeycomb model's single Dirac fermion and odd Pfaffian parity but supports sharp and exponentially local compact charges, the latter with nontrivial Chern topology. Relocalization retains Schwartz locality for asymptotically local gauging, while AIII/AII parents clarify bulk charge origin and parity-anomaly inflow. Two flavors yield compact $U(2)$, a quaternionic invariant, and asymptotically local non-Abelian gauging. In 3D, an exact mixed vector-axial flux response is derived, while a distinct model supports an exponentially local vector $U(1)$ charge with strong quaternionic topology. A nonlocal map makes the charge and Kramers symmetry onsite while preserving exponential Hamiltonian locality. For a compact $SU(2)$ Weyl doublet, a no-go theorem forbids translation-preserving Gaussian onsite relocalization retaining Weyl content and Hamiltonian locality.",
+      "journal": "arXiv",
+      "published": "2026-11-23",
+      "url": "https://arxiv.org/abs/2611.31366",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.31366-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.31366-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1: Distinct UV completions of a single gapless Dirac fermion in 2D. A local complex-fermion lattice Hamil- tonian can realize U(1)Dirac as onsite particle number, while a local Majorana lattice Hamiltonian can realize the same IR symmetry through an exact non-onsite com- pact charge. Common IR matter and symmetry need not imply identical UV topology or gauge locality. the original microscopic coordinate. 1 This contrasts with the Wilson–Dirac model, which realizes the same single-Dirac IR theory with an onsite particle-number U(1) symmetry, as illustrated in"
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that spatially nonlocal symmetries need not imply nonlocal gauge dynamics. Bosonization identifies momentum-winding T-duality, with a parity-projected operator flowing to a noninvertible topological defect. In 2D, the square $π$-flux Majorana model shares the Kitaev honeycomb model's single Dirac fermion and odd Pfaffian parity but supports sharp and exponentially local compact charges, the latter with nontrivial Chern topology.",
       "abstract_status": "original"
     },
     {
@@ -323,7 +442,7 @@
         "/data/figures/arxiv-2611.25010-fig01.png"
       ],
       "figure_captions": [
-        "FIG. 1. Quantum Geometry of the Landau-dual Chern band. (a) shows the average 2-body interaction strength ∆2 = det ⟨P⟩BZ as a function of λ. ∆2 is maximized when the flat band is equally distributed between the 2 orbitals. (b) show the Chern number C = 2π ⟨f⟩BZ = 1 and integrated quantum metric G = 2π ⟨g⟩BZ in red and blue respectively. (c) shows their standard deviation, σF , σG, on the Brillouin zone (BZ). We see that the band is ideal as λ →∞, but that the fluctuation across the BZ is minimized at smaller λ. (d)-(g) show the distribution of the Berry curvature f, quantum metric g, and their ideality violations g −f and g −|f| as a function of k. We see that the Berry curvature is both positive and negative, and that there are strong violations of either ±f ideality at the X, Y and M points. At M, interestingly, the band is anti-ideal and obeys g = −f. Hence S is a second duality,..."
+        "FIG. 1. Quantum Geometry of the Landau-dual Chern band. (a) shows the average 2-body interaction strength ∆2 = det ⟨P⟩BZ as a function of λ. ∆2 is maximized when the flat band is equally distributed between the 2 orbitals. (b) show the Chern number C = 2π ⟨f⟩BZ = 1 and integrated quantum metric G = 2π ⟨g⟩BZ in red and blue respectively. (c) shows their standard deviation, σF , σG, on the Brillouin zone (BZ). We see that the band is ideal as λ →∞, but that the fluctuation across the BZ is minimized at smaller λ. (d)-(g) show the distribution of the Berry curvature f, quantum metric g, and their ideality violations g −f and g −|f| as a function of k. We see that the Berry curvature is both positive and negative, and that there are strong violations of either ±f ideality at the X, Y and M points. At M, interestingly, the band is anti-ideal and obeys g = −f. We directly compute ⟨Sϕk|Sϕk′⟩=..."
       ],
       "ai_summary": "In Other New Materials, this paper argues that laughlin's wavefunction and its parent interaction, Haldane's pseudopotential, underpin our analytic understanding of fractional quantum Hall effect. In this work, we propose exact pairs of many-body wavefunctions for fractional Chern insulators in tight binding models with onsite Hubbard interactions as their parents.",
       "abstract_status": "original"
@@ -2021,29 +2140,6 @@
       ],
       "ai_summary": "In Other New Materials, this paper argues that boundary dissipation can reshape the spatial profiles and decay properties of topological edge modes in Chern insulators. By retaining the lossy outer orbitals and a normalized edge state of the Hermitian inner system, we identify a directly coupled bright boundary channel, while incorporating the remaining inner states through a Feshbach self-energy. These results provide a unified microscopic description of boundary-state reconstruction and its decay mechanisms, offering testable predictions to guide experiments in photonic crystals, phononic crystals, and topolectrical circuits.",
       "abstract_status": "original"
-    },
-    {
-      "id": "doi:10.1103/f735-gr9z",
-      "title": "Luttinger’s theorem and Green’s function topological invariants in a fractional Chern insulator",
-      "authors": [
-        "Anton A. Markov",
-        "Andrey M. Nikishin",
-        "Nigel R. Cooper",
-        "Nathan Goldman",
-        "Lucila Peralta Gavensky"
-      ],
-      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Luttinger’s theorem and Green’s function topological invariants in a fractional Chern insulator in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
-      "journal": "Physical Review B",
-      "published": "2026-10-27",
-      "url": "https://doi.org/10.1103/f735-gr9z",
-      "doi": "10.1103/f735-gr9z",
-      "source": "Crossref",
-      "material_system": "Other_New_Materials",
-      "image_url": null,
-      "figure_urls": [],
-      "figure_captions": [],
-      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
-      "abstract_status": "ai_assisted"
     },
     {
       "id": "doi:10.1088/1361-648x/aeb217",
