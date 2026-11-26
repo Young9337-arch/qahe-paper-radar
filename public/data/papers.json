@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T09:54:21.604624+00:00",
+  "updated_at": "2026-11-26T09:37:05.075594+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -52,6 +52,116 @@
       ],
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that abstract The interplay between altermagnetism and crystalline band topology provides a promising avenue for realizing unconventional topological phases. Here, based on first-principles calculations and theoretical analysis, we identify monolayer Tc 2 Cl 2 O and Tc 2 Br 2 O as a new family of two-dimensional altermagnetic mirror Chern insulators.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.34937",
+      "title": "A microscopic continuum model for moiré transition metal dichalcogenides",
+      "authors": [
+        "Julian Ingham",
+        "Harshitra Mahalingam",
+        "Raquel Queiroz"
+      ],
+      "abstract": "Twisted transition metal dichalcogenides (tTMDs) have emerged as a fascinating platform for many-body phases --- displaying fractional Chern insulators and superconductivity as a function of doping. Here, we give a microscopic derivation of a continuum model which accurately describes their bandstructure across a range of twist angles with angle-independent parameters. This angle-independent description rests on retaining both the monolayer valence and conduction bands, which introduce tunnelling paths through AB-stacked regions; upon downfolding to the valence band, these paths supply a substantial twist-tunable contribution to the interlayer coupling. We show that the model is a perturbation of a chiral model with a magic angle, explaining the near-ideal quantum geometry of the moiré bands. The model further produces a strongly different orbital magnetic moment to the single-orbital theory --- predicting an anomalous Landau level slope --- and a redistribution of charge between the layers, modifying the moiré ferroelectric potential.",
+      "journal": "arXiv",
+      "published": "2026-11-25",
+      "url": "https://arxiv.org/abs/2611.34937",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2611.34937-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.34937-fig01.png",
+        "/data/figures/arxiv-2611.34937-fig02.png",
+        "/data/figures/arxiv-2611.34937-fig03.png",
+        "/data/figures/arxiv-2611.34937-fig04.png",
+        "/data/figures/arxiv-2611.34937-fig05.png",
+        "/data/figures/arxiv-2611.34937-fig06.png"
+      ],
+      "figure_captions": [
+        "Figure 1. MoTe2 monolayer bands and orbital couplings. (a) MoTe2 bands, neglecting spin–orbit coupling [100]. The bandstructure arises from the interference between three or- bitals d0, d+, and d−, also denoted |ξ⟩such that C3z|ξ⟩= ξ|ξ⟩, with ξ = 1, ω, ω2. Coral, blue, and green markers encode their respective orbital weights. (b,c) Arrows identify the couplings between the orbitals near K. Each orbital is depicted as a superposition of three directional sp2 hybrids, with amber, violet and turquoise lobes denoting the relative phases 1, ω and ω2. Solid blue and red arrows indicate positive and negative real coupling coefficients, respectively; black dashed arrows identify the weak but finite va channel. B. Three-orbital bilayer description We begin by describing the form of the three-orbital untwisted bilayer Hamiltonian for different stacking con- figurations. For AA stacking, the two...",
+        "Figure 2. AA and AB bilayers and their interlayer orbital couplings. (a,d) AA and AB H-MoTe2 geometries; distances are between the adjacent Te planes. (b,e) Wannier bands with coral and blue indicating the dz2 and combined (d+, d−) weights, respectively. Spin–orbit coupling is neglected. (c,f) Split valence bands near K. (g–i) The three allowed nearest-neighbour AB channels at K, black arrows connecting the bottom layer to the top layer. Lobe colours encode relative phases according to the key. (j) Schematic layer-resolved levels and the same channels: solid levels with filled dots are occupied; dashed levels are empty. Blue and red arrows in (j) denote positive and negative couplings; the thicker c arrow marks the strongest coupling, while a and b are shown with equal thinner widths. dx2−y2– idxy orbital to couple to — thereby producing a so-called “layer skyrmion” [99], in which the...",
+        "Fig. 3. The intralayer terms involve a virtual process in which an electron tunnels between layers and changes orbital via tj, then tunnels back and returns to its original orbital. The resulting terms take the form: δU ∼|tj|2 ∆j . (15) The interlayer terms derive from first tunnelling between the layers and changing orbital via tj, and then changing back to the original orbital via the kinetic energy vjq±. This process generates an effective interlayer coupling δTj ∼|vjqθ| tj ∆j ≈|vjK|tj ∆j θ. (16) Therefore, the local intralayer correction is angle in- dependent at leading order, whereas the strength of the AB-induced tunnelling compared to the direct AA tun- nelling is angle dependent, |δTj| |sω| ∼|vjqθ| ∆j |tj| |sω|. (17) 5 Crucially, one may have expected these band-mixing corrections to be small as the expansion parameter |vjqθ|/∆j contains an energy denominator ∆j ∼eV which is a...",
+        "Figure 3. Virtual processes contributing to the effective valence band continuum theory. Corrections to the ki- netic energy, intra- and interlayer potential from AB tunnelling upon integrating out the remote orbitals |1⟩(left column) and |ω2⟩(right column). Solid blue and red arrows denote positive and negative real coupling amplitudes, respectively. Occu- pied/empty orbitals are marked as filled/outlined; lobe colours indicate phases as in",
+        "Fig. 1. (a) Two intralayer processes generate the kinetic correction. (b) Tunnelling between layers and changing to an unoccupied orbital, then tunnelling back and returning to the occupied state, generates an intralayer potential. (c) Tunnelling between layers and changing to an unoccupied orbital, then changing back to the occupied orbital via the kinetic energy, generates an interlayer potential. the monolayer Landau levels in Ref. [126]. In Sec. IV, we show that this effect produces twist-dependent anomalous Landau levels in the moir´ e bands. II. ANGLE-DEPENDENT BANDSTRUCTURE AND QUANTUM GEOMETRY Fig. 4 compares the three-orbital continuum bands with large-scale DFT across twist angles, taken from Refs. [123– 125]. We determine the continuum model parameters from DFT on untwisted AA- and AB-stacked bilayers using the local stacking approximation, then refine the parameters against...",
+        "Fig. 4. The valleys are exchanged by time-reversal symmetry Θ. Since the line mκγ is C2y-invariant up to a reciprocal lattice vector, C2y leaves quasimomentum invariant while exchanging the valleys, and thereby results in the twofold degeneracy of the valleys along mκγ. Along γm, there is no such symmetry, yet the splitting between the valleys 6 0 −10 −20 −30 −40 E (meV) 3.15◦ MoTe2 0 −15 −30 −45 3.48◦ MoTe2 γ m κ γ 0 −15 −30 −45 E (meV) 3.89◦ MoTe2 γ m κ γ 0 −25 −50 −75 5.09◦ MoTe2 0 −20 −40 −60 3.15◦ WSe2 0 −25 −50 −75 3.48◦ WSe2 γ m κ γ 0 −25 −50 −75 −100 3.89◦ WSe2 γ m κ γ 0 −40 −80 −120 −160 5.08◦ WSe2 (a) CK = (−1, 1, 0) (b) CK = (−1, 1, 0) (c) CK = (−1, 1, 0) (d) CK = (−1, −1, 2) (e) CK = (−1, −1, 1) (f) CK = (−1, −1, 1) (g) CK = (−1, −1, 1) (h) CK = (−1, −1, 1) K K′ DFT 1"
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that twisted transition metal dichalcogenides (tTMDs) have emerged as a fascinating platform for many-body phases --- displaying fractional Chern insulators and superconductivity as a function of doping. We show that the model is a perturbation of a chiral model with a magic angle, explaining the near-ideal quantum geometry of the moiré bands.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.34255",
+      "title": "Fractional Chern Insulator in a Finite-Range One-Band Model",
+      "authors": [
+        "Tong Liu",
+        "Hoi Chun Po"
+      ],
+      "abstract": "A common route for realizing fractional Chern insulators (FCIs) is to engineer bands that mimic the physics of Landau levels, which serve as the single-particle topological background for the emergence of strongly correlated fractional quantum Hall states. Here we show that FCIs can also arise in a one-band model devoid of any single-particle quantum geometry. Through a systematic trivialization of the single-particle quantum geometry in FCI models that go beyond the Landau-level paradigm, we construct a single-band, interaction-only model on the square lattice, with all terms confined to individual plaquettes. At one-third filling, exact diagonalization and density-matrix renormalization-group calculations reveal a three-state low-energy manifold, a Hall conductance of $-2e^2/(3h)$, and fractional charge pumping without translation-symmetry breaking. We trace this behavior to nontrivial topology in the repulsive two-particle sector, offering a microscopic perspective on the strongly correlated origin of fractional quantum Hall order.",
+      "journal": "arXiv",
+      "published": "2026-11-25",
+      "url": "https://arxiv.org/abs/2611.34255",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "https://arxiv.org/icons/licenses/by-4.0.png",
+      "figure_urls": [
+        "https://arxiv.org/icons/licenses/by-4.0.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "https://ar5iv.labs.arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png",
+        "http://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. Three-band construction of an isolated trivial flat band. (a) Orbital arrangement inherited from the critical model of Ref. [47]: p1, p2, and s are blue, orange, and green. Lines indicate the under- lying critical model’s hopping geometry. (b),(c) Berry curvature and trace of the quantum metric, respectively, calculated from the Bloch state in Eq. (1) at δ = 1. Γ = (0, 0), X = (π, 0), and M = (π, π). isolated flat band at δ = 1. At one-third filling, ED on a 6×6 torus gives three nearly degenerate ground states at K = (0, 0), separated from higher levels by a sizable many-body gap [Fig. 2(a)]. To determine the Hall response, we impose boundary twists θ = (θx, θy) on the torus. For an Ng-state ground-state manifold, σxy = (e2/h)Cmean, where Cmean = CMB/Ng and CMB is the total many-body Chern number [49], which can be extracted by computing C(Θy) = 1 2π Z Θy 0 dθy Z 2π 0 dθx F(θ),...",
+        "FIG. 2. ED of the projected three-band model at one-third filling on a 6×6 torus (Ne = 12), with δ = 1. (a) Four lowest energy levels in each momentum sector, measured relative to the ground-state energy and in units of the repulsion V . The red box encloses the three low- energy states at K = (0, 0). (b) Accumulated many-body Berry curvature C(θy) of this three-state manifold on a 10 × 10 twist grid, yielding C(2π) = CMB = −2. (c) Connected physical-density structure factor S(q), averaged over the three states and shown over one Brillouin zone. (a) D1 (b) D2 (c) C1 n (d) C2 n (e) F1",
+        "FIG. 3. Five classes of local interactions in the plaquette model. (a),(b) Nearest-neighbor and diagonal density interactions. (c),(d) Representative density-assisted diagonal and edge transfers; purple sites mark the density operator, and arrows point from annihilation to creation sites. (e) Pair hopping between the two plaquette diag- onals. Section S3 specifies the full Hamiltonian, including transla- tions, Hermitian conjugates, and coefficients. The absence of sharp peaks in Fig. 2(c) rules out charge or- der. These results establish an FCI in the isolated C = 0 band. Section S2 supplements these results with particle- entanglement spectra and the modular S matrix. In contrast, at two-thirds filling an integer Hall response coexists with charge order, forming a quantum Hall crystal, as detailed in Sec. S7. III. INTERACTION-ONLY PLAQUETTE MODEL The emergence of an FCI in a C = 0...",
+        "FIG. 4. DMRG for the plaquette model on a 24 × 8 cylinder at fill- ing 1/3 (Ne = 64, D = 2000). (a) Cumulative charge leaving the left half of the cylinder. The dotted line indicates a transfer of 2/3 of an electron per flux quantum. (b) Charge-resolved entanglement spectrum, cut after column twelve (site 96), with ∆NA = NA −32. Each dash is one level (ξ ≤6). Both panels use the same continuous 0–6π trajectory, with θy = Φ and no fixed-flux reoptimization. Ver- tical dotted lines separate cycles. to a one-band model, with exponentially decaying interac- tion terms, which is equivalent to the original band-projected model. To obtain a finite-range model, we truncate the interaction terms within a plaquette. This leads to five interaction terms, labeled as D1, D2, C1, C2, F1 in",
+        "Fig. 3. Each term acts within one elementary plaquette, with maximum separation √ 2. The two density terms D1,2 act on nearest-neighbor and diagonal bonds; the other three describe density-assisted diagonal and edge transfers, and pair hopping between the diagonals. To stabilize the FCI state in the plaquette model, we optimize the finite-size many-body gap by tuning the relative strengths of the five interaction terms while preserving their phase patterns in the truncated interaction parameters. Summing the same plaquette processes over all cells preserves all spatial symme- tries, giving HP = X R X (pq;rs)∈L Tpq;rsf † pf † q fsfr, (6) where L is the set of index tuples (pq; rs) for the retained plaquette processes in these five classes, including their off- diagonal Hermitian conjugates. We use fa as shorthand for fR+a, suppressing the common origin R of each translated plaquette. The..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that a common route for realizing fractional Chern insulators (FCIs) is to engineer bands that mimic the physics of Landau levels, which serve as the single-particle topological background for the emergence of strongly correlated fractional quantum Hall states. Here we show that FCIs can also arise in a one-band model devoid of any single-particle quantum geometry.",
+      "abstract_status": "original"
+    },
+    {
+      "id": "arxiv:2611.34225",
+      "title": "Hidden f-wave TIVC and Quantum Phase Transitions in Metallic States of Twisted Bilayer Graphene",
+      "authors": [
+        "Arindam Pramanik",
+        "Unmesh Ghorai",
+        "Rajdeep Sensarma"
+      ],
+      "abstract": "We study the ground state phase diagram of twisted bilayer graphene at magic angle as function of carrier density and the Coulomb interaction. The carrier density is varied between the fillings $ν=-2$ and $ν=-3$ and the Coulomb interaction is tuned by changing the gate distance. Our results reveal that the well established Kramers intervalley coherent (KIVC) phase near $ν=-2$, contains a hidden $f$-wave time-reversal symmetric intervalley coherent (TIVC) order, whose strength gradually increases within the metallic regime of the intervalley coherent (IVC) phase away from $ν=-2$. This finding is interesting in the light of a recent experimental work [26], where the signatures of the TIVC phase has been reported in ultra-clean samples. We further show that the system goes through multiple phase transitions as the carrier density is tuned. Near the $ν=-2$, the IVC phase is the ground state, which gives way to valley polarized phase through a second-order-like phase transition as the carrier density is lowered. Further tuning of density pushes the system into the quantum anomalous Hall phase through gradual development of the sublattice polarization. These phase transitions are accompanied by major reconstructions of the Fermi contours.",
+      "journal": "arXiv",
+      "published": "2026-11-25",
+      "url": "https://arxiv.org/abs/2611.34225",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Moire_Superlattice",
+      "image_url": "/data/figures/arxiv-2611.34225-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.34225-fig01.png",
+        "/data/figures/arxiv-2611.34225-fig02.png",
+        "/data/figures/arxiv-2611.34225-fig03.png",
+        "/data/figures/arxiv-2611.34225-fig04.png",
+        "/data/figures/arxiv-2611.34225-fig05.png",
+        "/data/figures/arxiv-2611.34225-fig06.png",
+        "/data/figures/arxiv-2611.34225-fig07.png",
+        "/data/figures/arxiv-2611.34225-fig08.png",
+        "/data/figures/arxiv-2611.34225-fig09.png",
+        "/data/figures/arxiv-2611.34225-fig10.png",
+        "/data/figures/arxiv-2611.34225-fig11.png",
+        "/data/figures/arxiv-2611.34225-fig12.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Red and blue hexagons are the Brillouin zones of the two graphene monolayers. The green hexagon denotes the mBZ. G1 and G2 are the moir´ e reciprocal lattice vectors. (b) The band structure of twisted bilayer graphene at θ = 1.9◦. (c) The schematic of the KIVC phase. The + (-) sign represents the clockwise (anticlockwise) current around the graphene unit cell. The 0 represents net zero current. The dashed lines represents the √ 3 × √ 3 order due to the tripling of the unit cell. (d) The schematic of the TIVC phase. The different color shades of the graphene bonds represent different values of the bond coherence. The dashed lines represent the √ 3 × √ 3 order due to the tripling of the unit cell. (e) The current pattern of the VP phase within a moir´ e unit cell. (f) The current pattern of the QAH phase within a moir´ e unit cell. involve intervalley scattering, as it...",
+        "FIG. 2. Order parameters of the ground state in the mBZ at ν = −2.0 at d = 100 nm. (a)–(c) Show the TIVC-τyσx order for band 1, band 2, and the two bands combined, respectively. See the main text for the definitions of the bands. (d)–(f) Show the TIVC-τyσ0 order for band 1, band 2, and the two bands combined, respectively. (g)–(i) Show the VP order for band 1, band 2, and the two bands combined, respectively. The colorbar above each column applies to all the figures in the column. breaks the T ′ symmetry while preserving the T symme- try in the system. In the non-interacting band basis, the TIVC order mixes the valence (or conduction) bands of different valleys amongst themselves, leading to a stan- dard density wave picture. Instead of the IVC phases, we can also consider the valley-polarized (VP) phase, where electrons preferen- tially occupy states in either the K or the K′ valley,...",
+        "Fig. 3. Let us first focus on the TIVC order represented by τyσ0. In the insulating phase, the contributions of the two HF bands were large, but equal and opposite, leading to a vanishing value for this order when the band contribu- tions were summed. As we dope the system, this balance 8 () kx ky 1 0 1 0.3 0.0 0.3 Band 1 Band 2 1 0 1 Total kx ky ky kx (a) (b) (b) (e) (d) (h) (g) TIVC- y x TIVC- y 0 VP (i) (e) (f) (c)",
+        "FIG. 3. Order parameters of the ground state in the mBZ at ν = −2.40 at d = 100 nm. (a)–(c) Show the TIVC-τyσx order for band 1, band 2, and the two bands combined, respectively. See the main text for the definitions of the bands. The green line in (a) and the red line in (b) denote the Fermi contours of the respective bands. (d)–(f) Show the TIVC-τyσ0 order for band 1, band 2, and the two bands combined, respectively. The green line in (d) and the red line in (e) denote the Fermi contours of the respective bands. (g)–(i) Show the VP order for band 1, band 2, and the two bands combined, respectively. The green line in (g) and the red line in (h) denote the Fermi contours of the respective bands. The colorbar above each column applies to all the figures in the column. is violated in the region between the two Fermi surfaces, leading to an increase in this f-wave order. The order...",
+        "FIG. 4. Order parameters of the ground state near ν = −2. (a) Plot of s−wave KIVC (τyσy), fy−wave VP, fx−wave TIVC-τyσx, and fx−wave TIVC-τyσ0 order parameters as function of ν. (b) Magnified plot of VP, TIVC-τyσx, and TIVC-τyσ0 order parameters from (a). given by 1 Ne P k ˜ ϕk⟨ψ† kτyσxψk⟩, where ˜ ϕk is the nor- malized form factor ˜ ϕk = ϕk/ q N −1 k (P k′ |ϕk′|2) and ϕk = sin(kxa)−2 sin( kxa 2 ) cos( √ 3kya 2 ) is the fx-wave form factor. The corresponding f-wave VP order is given by 1 Ne P k ˜ ζk⟨ψ† kτzσ0ψk⟩, where ˜ ζk = ζk/ q N −1 k (P k′ |ζk′|2) and ζk = sin( √ 3kya) −2 sin( √ 3kya 2 ) cos( 3kxa 2 ) is the fy- wave form factor. These order parameters are plotted in Figs. 4(a) and (b) as a function of the doping. We thus see that the insulating KIVC state maintains its character on hole doping from ν = −2. However, a f-wave TIVC order keeps increasing in the system with hole...",
+        "FIG. 5. (a) Plot of s−wave component of various order parameters as a function of ν at d = 100 nm. (b) Same as (a) at d = 20 nm. (c) The phase diagram as function of ν and d. Here we show only the dominant phase at a given ν and d. (d) Phase-space of C3 symmetry. The solid line separates the two regions where C3 is satisfied and where it breaks down. (e) The Fermi contours at d = 100 nm at ν = −2.72 (QAH phase). (f) The Fermi contours at d = 100 nm at ν = −2.74 (QAH phase). try breaking occurs in the QAH phase. Note that the small Fermi surface in the other HF band maintains C3 symmetry across the transition. Finally we would like to note that there are three degenerate solutions in the C3 broken phase, with the Fermi contours rotated by 120◦. We have explicitly checked this in our calculations. De- pending on the details of the convergence process of the equations, one of these...",
+        "FIG. 6. The bandstructure and bandwidth at d = 100 nm. (a)-(c) The bandstructure along the highsymmetry directions in the mBZ at ν = -2.00, -2.52, and -2.64, respectively. These fillings correspond to the IVC, VP, and QAH phase, respec- tively. The two filled bands are shown in green and red. (d) The bandwidths of the two filled bands in(a)-(c) as function of ν. is tuned further. We note that at low values d < 50 nm, the C3 symmetry is already broken in the VP phase and the degeneracy of the KM and K ′ M are lifted, before the system develops the QAH order. It is interesting to observe the evolution of the band- widths through these transitions. As seen in Fig. 6(d), the band width of one of the bands starts to undergo a steady decline beyond the transition to the QAH phase, as the K degeneracies are lifted and the band gets pulled into the manifold of high energy bands. The additional...",
+        "FIG. 7. Lifshitz transition (LT): (a)-(h) Fermi surfaces of the lowest (green) and second-lowest (red) HF modified valence bands around the four prominent LT densities at d=100 nm. The sudden reconstruction of the HF Fermi surfaces can be seen across the LTs. The largest eigenvalue of the effective inverse mass tensor is line-integrated along the Fermi surface and has been plotted in (i) and (j) for the two bands labeled band 1 and band 2, respectively. In (i), the measure (λmax) for the lowest band shows one clear discontinuity at ν = −2.49 and one kink at ν = −2.59. In (j), the measure for the second-lowest band shows four discontinuous jumps at the marked densities, tracking the LTs quantitatively. The backgrounds of (i) and (j) are shaded according to the corresponding symmetry-broken HF phases, highlighting that two of the four LTs coincide exactly with the phase-transition points...."
+      ],
+      "ai_summary": "In Moire Superlattice, this paper argues that we study the ground state phase diagram of twisted bilayer graphene at magic angle as function of carrier density and the Coulomb interaction. Our results reveal that the well established Kramers intervalley coherent (KIVC) phase near $ν=-2$, contains a hidden $f$-wave time-reversal symmetric intervalley coherent (TIVC) order, whose strength gradually increases within the metallic regime of the intervalley coherent (IVC) phase away from $ν=-2$.",
       "abstract_status": "original"
     },
     {
@@ -122,6 +232,31 @@
       "figure_captions": [],
       "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
       "abstract_status": "ai_assisted"
+    },
+    {
+      "id": "arxiv:2611.33328",
+      "title": "Chiral Domain-Wall Modes in Topological Adaptive Quantum Dynamics",
+      "authors": [
+        "Asadullah Bhuiyan",
+        "Haining Pan",
+        "Chao-Ming Jian"
+      ],
+      "abstract": "Quantum dynamical systems driven by both unitary evolution and measurements open a new landscape of nonequilibrium phases of matter. The role of topology in enriching this landscape remains less understood than that of entanglement and symmetry. A particularly interesting question concerns protected dynamical modes localized on spacetime domain walls between topologically distinct dynamical phases. These dynamical topological domain-wall modes (DTDMs) are well understood only for $0+1$D walls in $1+1$D fermionic dynamics. In this work, we study $1+1$D topological domain walls in $2+1$D charge-conserving free-fermion dynamics, modeled by topological adaptive circuits that steer the two sides of each wall toward a Chern insulator and a trivial insulator through measurements and feedforward corrections. Although the circuits target no particular wall state, each wall hosts $1+1$D chiral DTDMs. At long times in each quantum trajectory, they exhibit logarithmic scaling of entanglement and charge variance and algebraically decaying density correlations, surprisingly consistent with the ground state of a $1+1$D chiral free-fermion conformal field theory. This contrasts with purely $1+1$D charge-conserving free-fermion dynamics, which exhibits only area-law entanglement at finite measurement rates. We also show that the chiral DTDMs exhibit slow purification dynamics. When the system starts from a maximally mixed state, the DTDMs' entropy decays algebraically, accompanied by a vanishing Lyapunov gap, whereas each domain purifies on an $\\mathcal{O}(1)$ timescale. Finally, we propose a physical picture for the long-time behavior of the DTDMs by treating the adaptive circuit model as a quantum cooling algorithm. Our results show that topological phases of adaptive dynamics can protect chiral modes on spacetime domain walls against repeated wavefunction collapse and Born-rule randomness.",
+      "journal": "arXiv",
+      "published": "2026-11-24",
+      "url": "https://arxiv.org/abs/2611.33328",
+      "doi": null,
+      "source": "arXiv",
+      "material_system": "Other_New_Materials",
+      "image_url": "/data/figures/arxiv-2611.33328-fig01.png",
+      "figure_urls": [
+        "/data/figures/arxiv-2611.33328-fig01.png"
+      ],
+      "figure_captions": [
+        "FIG. 1. (a) Schematic of the domain-wall adaptive circuit and Wannier-mode truncation. Four time slices illustrate mea- surement updates of OW modes in the periodic geometry, with αr = α1 in the center slab and αr = α2 in the trivial exterior. Dashed lines mark the interfaces, and matching marks identify opposite periodic edges. From the earliest to the latest slice, the highlighted support of the (truncated) OW mode moves from the exterior bulk, across the left interface, into the slab bulk. Red and blue windows show exterior and slab OW supports, respectively, and are clipped at the interface and renormalized. (b) Diagram of a single elementary measurement-feedforward step of the adaptive protocol. An OW-mode occupation measurement ˆ Nr,ν,σ returns the outcome m = 0 or 1. If m equals the target occupation sσ = (1 −σ)/2, no correction is applied. Otherwise, an fSWAP with a fresh..."
+      ],
+      "ai_summary": "In Other New Materials, this paper argues that quantum dynamical systems driven by both unitary evolution and measurements open a new landscape of nonequilibrium phases of matter. We also show that the chiral DTDMs exhibit slow purification dynamics.",
+      "abstract_status": "original"
     },
     {
       "id": "arxiv:2611.31234",
